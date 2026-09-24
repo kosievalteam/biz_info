@@ -554,7 +554,7 @@ function docIcon(r){
 }
 
 function tagCell(v, cls){ return v ? "<span class='tag" + (cls?" "+cls:"") + "'>" + esc(v) + "</span>" : ""; }
-function linesCell(v){ return esc(v || "").split("\n").map(esc).join("<br>"); }
+function linesCell(v){ return String(v || "").split("\n").map(esc).join("<br>"); }
 const GONGGO_URL = id => (id && /^PBLN_/.test(id))
   ? "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=" + encodeURIComponent(id) : "";
 
