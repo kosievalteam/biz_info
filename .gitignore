@@ -1,0 +1,11 @@
+#  이 저장소에는 화면 파일만 둡니다. 자료·키는 올라가지 않습니다.
+*.db
+*.sqlite
+*.xlsx
+*.xls
+*.csv
+*.bak
+_password.txt
+_uploaded.txt
+__pycache__/
+~$*

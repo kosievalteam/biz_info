@@ -1,0 +1,1231 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>중소기업 지원사업 정보조회</title>
+<!--
+  Supabase 에서 읽어오는 웹앱. 오프라인 앱(template.html)과 같은 화면 구성(헤더·왼쪽 탭·필터·
+  항목 추가 칩·KPI·검색·정렬·페이지네이션)을 4개 탭(세부사업·내역사업·공고정보·전부처 재정사업)
+  모두에 맞췄습니다. 아직 없는 것 — 사업구조(예산서 계층) 모달, CSV 내보내기, 예산서·공고문
+  원문 다운로드(용량이 커 서버에 없음, 기업마당 공고 링크만 예외) — 은 README 의 "아직 없는 것"에
+  적어 둔 대로 의도적 보류입니다.
+  · 외부 라이브러리를 쓰지 않습니다. 로그인도 조회도 fetch 로 REST 를 직접 부릅니다.
+  · 거르기·정렬·쪽 넘김을 **서버에서** 합니다(setup.sql 의 탭별 검색 함수).
+-->
+<style>
+  :root{
+    /* KOSI CI (DESIGN.md) */
+    --teal:#00646e; --teal-d:#004a52; --green:#00a56e; --navy:#173a6d; --gray:#8a8d8f;
+    --panel:#fff; --ink:#1f2a37; --muted:#63707e; --line:#e3e8ee;
+    --soft:#eef5f5; --chip:#e2f0f0; --chipink:#004a52; --ok:#00a56e; --warn:#b45309;
+    --gubun:#00646e;
+    --dim-bg:#f6f7f9; --dim-ink:#b6bcc6;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    font-family:'KoPubWorldDotum','Pretendard','Malgun Gothic','맑은 고딕',system-ui,-apple-system,sans-serif;
+    color:var(--ink); background:#f4f7f9; font-size:14px; line-height:1.5;
+  }
+  button,input,select{font-family:inherit}
+
+  /* 화면 가장자리 — 두 CI 색 그라데이션 테두리 (DESIGN.md) */
+  body::after{
+    content:""; position:fixed; inset:0; pointer-events:none; z-index:50;
+    border:8px solid transparent;
+    border-image:linear-gradient(135deg,var(--teal) 0%,var(--teal) 22%,var(--green) 100%) 1;
+  }
+
+  /* ---- 로그인 ---- */
+  .login{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px}
+  .loginbox{
+    width:min(360px,100%);background:#fff;border:1px solid var(--line);border-radius:12px;
+    padding:26px 24px;box-shadow:0 1px 2px rgba(15,23,42,.04);
+  }
+  .loginbox h1{margin:0 0 4px;font-size:19px;font-weight:800;color:var(--teal-d)}
+  .loginbox .sub{font-size:11.5px;color:var(--muted);font-weight:700;margin-bottom:18px}
+  .loginbox label{display:block;font-size:11.5px;font-weight:700;color:var(--muted);margin:10px 0 5px}
+  .loginbox input{
+    width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:9px;
+    font-size:14px;background:#fff;color:var(--ink);outline:none;
+  }
+  .loginbox input:focus{border-color:var(--teal);box-shadow:0 0 0 3px rgba(0,100,110,.14)}
+  .loginbox button{
+    width:100%;margin-top:16px;padding:10px;border:none;border-radius:9px;
+    background:var(--teal);color:#fff;font-size:14px;font-weight:800;cursor:pointer;
+  }
+  .loginbox button:hover{background:var(--teal-d)}
+  .loginbox button[disabled]{opacity:.55;cursor:default}
+  .err{margin-top:12px;font-size:12px;color:var(--warn);font-weight:700;line-height:1.55}
+  .msg{margin-top:12px;font-size:12px;color:var(--teal-d);font-weight:700;line-height:1.55}
+  .loginbox .switch{margin-top:16px;font-size:11.5px;color:var(--muted);text-align:center}
+  .loginbox .switch a{color:var(--teal-d);font-weight:700;text-decoration:none;cursor:pointer}
+  .loginbox .switch a:hover{text-decoration:underline}
+
+  /* ---- 헤더 — 오프라인 앱과 같은 로고 헤더 ---- */
+  .app{display:none}
+  .app.on{display:block}
+  .who{font-size:11.5px;color:var(--muted);font-weight:700;display:flex;align-items:center;gap:10px}
+  .who button{
+    border:1px solid var(--line);background:#fff;color:var(--muted);
+    border-radius:9px;padding:5px 11px;font-size:11.5px;font-weight:700;cursor:pointer;
+  }
+  .who button:hover{border-color:var(--teal);color:var(--teal-d)}
+  .hero{
+    /* 옅은 점 무늬를 그라데이션 위에 한 겹 깝니다 — 넓은 띠가 밋밋해 보이지 않게 */
+    background:
+      radial-gradient(rgba(0,100,110,.075) 1.1px, transparent 1.6px) 0 0/18px 18px,
+      linear-gradient(120deg,#dcebf7 0%,#eaf3fa 50%,#e2f0ee 100%);
+    border-bottom:3px solid var(--teal);
+    padding:26px 0 24px;
+    position:relative; overflow:hidden;
+  }
+  /* 기관 CI의 원(돋보기 렌즈와 같은 모양)을 양 끝에 크게, 아주 옅게 걸칩니다 */
+  .hero::before,.hero::after{content:"";position:absolute;border-radius:50%;pointer-events:none}
+  .hero::before{width:360px;height:360px;left:-110px;top:-190px;border:44px solid rgba(0,100,110,.07)}
+  .hero::after{width:300px;height:300px;right:-80px;bottom:-190px;border:38px solid rgba(0,165,110,.09)}
+  .hero .htitle{position:relative;z-index:1;flex-direction:column}
+  @media(max-width:640px){.hero::before,.hero::after{display:none}}
+  /* 로고만 남겨 가운데에 둡니다(검색바는 요약카드 아래로 내렸습니다). */
+  .hero .htitle{
+    max-width:1720px; margin:0 auto; padding:0 22px;
+    display:flex; align-items:center; justify-content:center; gap:16px;
+  }
+  .hero .htitle svg.brandlogo{display:block;flex:none}
+  .hero h1{
+    margin:0; font-size:40px; font-weight:900; letter-spacing:-.5px; line-height:1.1;
+    font-family:'KoPubWorldDotum','Pretendard','Malgun Gothic','맑은 고딕',system-ui,sans-serif;
+    background:linear-gradient(92deg,#00646e 0%,#00646e 30%,#00a56e 100%);
+    -webkit-background-clip:text; background-clip:text;
+    color:transparent; -webkit-text-fill-color:transparent;
+  }
+  /* 서비스 로고(사업돋보기) — 글자가 패스로 들어 있어 폰트가 없어도 같은 모양으로 보입니다.
+     원본과 그 밖의 버전(가로형·반전·심볼·파비콘)은 '로고' 폴더에 있습니다. */
+  .hero .htitle svg.brandlogo{height:72px;width:auto;filter:none}
+  /* 화면에는 로고로 보이고, 화면낭독기·검색에는 제목 글자가 그대로 읽히도록 둡니다 */
+  .sronly{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;
+          clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+  .hero .htitle{flex-wrap:wrap;row-gap:14px}
+  /* 키워드 검색 — 요약카드 아래, 결과 목록 바로 위에 둡니다.
+     검색바와 '검색 대상' 칩은 한 줄로 붙여 둡니다(자리가 모자라면 칩이 아래로 내려갑니다). */
+  @media(max-width:640px){.hero h1{font-size:26px}
+    .hero .htitle svg.brandlogo{height:48px;width:auto}}
+  .hero{position:relative}
+  .hero .who{position:absolute;right:22px;top:14px;z-index:2}
+  @media(max-width:640px){.hero .who{position:static;display:flex;justify-content:flex-end;margin:0 22px 10px}}
+
+  .wrap{max-width:1400px;margin:0 auto;padding:18px 22px 40px;display:flex;gap:18px;align-items:flex-start}
+  .main{flex:1;min-width:0}
+
+  /* ---- 왼쪽 탭 (오프라인 앱 .rail 이식) ---- */
+  .rail{flex:none;width:164px;display:flex;flex-direction:column;gap:16px;position:sticky;top:14px}
+  .railgrp{display:flex;flex-direction:column;gap:4px}
+  .rail .ghead{
+    width:100%;text-align:left;font-size:14.5px;font-weight:800;padding:12px 14px;
+    border-radius:11px;background:#fff;border:1px solid var(--line);cursor:pointer;transition:.12s;
+    margin-bottom:2px;
+  }
+  .rail .ghead[data-g="전부처"]{color:var(--muted);font-size:13.5px}
+  .rail .ghead[data-g="전부처"]:hover{background:#f1f5f7;color:var(--ink)}
+  .rail .ghead.on[data-g="전부처"]{background:var(--navy);border-color:var(--navy);color:#fff}
+  .rail .ghead[data-g="중앙부처"]{color:#00646e;border-color:#bfdada}
+  .rail .ghead[data-g="지자체"]{color:#00a56e;border-color:#bfe6d5}
+  .rail .ghead[data-g="중앙부처"]:hover{background:#eef5f5}
+  .rail .ghead[data-g="지자체"]:hover{background:#eaf7f1}
+  .rail .ghead.on[data-g="중앙부처"]{background:#00646e;border-color:#00646e;color:#fff;box-shadow:0 1px 3px rgba(0,74,82,.22)}
+  .rail .ghead.on[data-g="지자체"]{background:#00a56e;border-color:#00a56e;color:#fff;box-shadow:0 1px 3px rgba(0,110,74,.22)}
+  .rail .sub{
+    width:100%;text-align:left;font-size:13.5px;font-weight:700;color:var(--muted);
+    padding:9px 12px 9px 22px;border-radius:9px;background:transparent;
+    border:1px solid transparent;cursor:pointer;transition:.12s;position:relative;
+  }
+  .rail .sub::before{content:"";position:absolute;left:10px;top:6px;bottom:6px;width:2px;background:var(--soft)}
+  .rail .sub:hover{background:#f1f5f7;color:var(--ink)}
+  .rail .sub.on[data-g="중앙부처"]{background:#e9f2f2;border-color:#bfdada;color:#00646e}
+  .rail .sub.on[data-g="지자체"]{background:#e8f7f0;border-color:#bfe6d5;color:#00805a}
+  .rail .sub.on::before{background:currentColor}
+  @media(max-width:900px){
+    .wrap{flex-direction:column;gap:12px}
+    .rail{flex-direction:row;width:auto;align-self:stretch;position:static;gap:12px;flex-wrap:wrap}
+    .railgrp{flex:1 1 220px}
+  }
+
+  /* ---- 필터 패널 ---- */
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:0 1px 2px rgba(15,23,42,.04)}
+  .filters{display:grid;grid-template-columns:repeat(12,1fr);gap:12px;align-items:end}
+  .f{display:flex;flex-direction:column;gap:5px}
+  .f label{font-size:11.5px;font-weight:700;color:var(--muted)}
+  .f.big{grid-column:span 12}
+  .col2{grid-column:span 2} .col3{grid-column:span 3} .col4{grid-column:span 4}
+  .col6{grid-column:span 6} .col8{grid-column:span 8}
+  @media(max-width:860px){.col2,.col3,.col4{grid-column:span 6}.col6,.col8{grid-column:span 12}}
+
+  .pickwrap{position:relative}
+  .pickbtn{
+    width:100%;display:flex;align-items:center;gap:8px;
+    padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:#fff;
+    font:inherit;font-size:13.5px;color:var(--ink);cursor:pointer;text-align:left;
+  }
+  .pickbtn:hover{border-color:var(--teal)}
+  .pickbtn .val{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .pickbtn .val.sel{color:var(--teal-d);font-weight:700}
+  .pickbtn .car{flex:none;color:var(--muted);font-size:11px;transition:transform .12s}
+  .pickbtn[aria-expanded="true"] .car{transform:rotate(180deg)}
+  .pickbtn[aria-expanded="true"]{border-color:var(--teal)}
+  .picker{
+    border:1px solid var(--line);border-radius:9px;background:#fff;padding:6px 8px;
+    max-height:180px;overflow-y:auto;
+    display:grid;grid-template-columns:repeat(auto-fill,minmax(132px,1fr));gap:2px 10px;
+  }
+  .picker.fold{
+    position:absolute;left:0;right:0;top:calc(100% + 6px);z-index:40;max-height:240px;
+    box-shadow:0 8px 22px rgba(15,23,42,.14);
+  }
+  .picker[hidden]{display:none}
+  .picker label{
+    display:flex;align-items:center;gap:6px;padding:3px 4px;border-radius:2px;
+    font-size:12.5px;color:var(--ink);cursor:pointer;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  }
+  .picker label:hover{background:var(--soft)}
+  .picker input{accent-color:var(--teal);width:14px;height:14px;flex:none;cursor:pointer}
+  .picker label.all{font-weight:800;color:var(--teal);grid-column:1/-1;border-bottom:1px solid var(--line);margin-bottom:2px;padding-bottom:5px}
+
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{
+    padding:6px 12px;border:1px solid var(--line);border-radius:999px;background:#fff;
+    font-size:12.5px;cursor:pointer;user-select:none;color:var(--muted);font-weight:600;transition:.12s;
+  }
+  .chip:hover{border-color:var(--teal)}
+  .chip.on{background:var(--teal);border-color:var(--teal);color:#fff}
+
+  /* ---- KPI ---- */
+  .kpis{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+  .kpi{background:#fff;border:1px solid var(--line);border-radius:12px;padding:11px 14px;flex:1 1 150px;min-width:140px}
+  .kpi .l{font-size:11.5px;color:var(--muted);font-weight:700}
+  .kpi .v{font-size:19px;font-weight:800;margin-top:2px;color:var(--navy);white-space:nowrap;font-variant-numeric:tabular-nums}
+  .kpi .v small{font-size:11.5px;color:var(--muted);font-weight:600}
+
+  /* ---- 검색창 ---- */
+  /* 예산서 📄 — 오프라인 앱과 같은 자리(세부사업명 옆) */
+  a.doc{margin-left:6px;text-decoration:none;cursor:pointer}
+  a.doc .ico{font-size:15px;line-height:1;opacity:.75}
+  a.doc:hover .ico{opacity:1}
+  .toolbar .primary{
+    border:1px solid var(--teal);background:var(--teal);color:#fff;
+    border-radius:9px;padding:6px 12px;font-size:12px;font-weight:700;cursor:pointer;
+  }
+  .toolbar .primary:hover{background:var(--teal-d);border-color:var(--teal-d)}
+  .toolbar .primary[disabled]{opacity:.5;cursor:default}
+  .quota{font-size:11.5px;color:var(--muted);font-weight:700;white-space:nowrap}
+  .herosearch{display:flex;align-items:center;gap:12px;flex-wrap:wrap;min-width:0;margin:0 0 14px}
+  .qbox{position:relative;flex:1 1 380px;max-width:630px;min-width:0}
+  .qbox input[type=text]{
+    width:100%;padding:13px 46px 13px 16px;font-size:15px;font-weight:600;
+    border:2px solid var(--teal);border-radius:10px;background:#fff;box-shadow:0 1px 3px rgba(0,74,82,.10);
+  }
+  .qbox input[type=text]::placeholder{font-weight:500;color:#9aa5b1}
+  .qbox input[type=text]:focus{outline:none;box-shadow:0 0 0 3px rgba(0,165,110,.22)}
+  .qico{position:absolute;right:13px;top:50%;transform:translateY(-50%);width:21px;height:21px;color:var(--teal);pointer-events:none}
+  .qfields{display:flex;align-items:center;gap:8px;flex-wrap:wrap;flex:none}
+  .qflabel{font-size:11.5px;font-weight:800;color:var(--teal-d);flex:none}
+
+  /* ---- 툴바 ---- */
+  .toolbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:14px 0 10px}
+  .count{font-size:14px;font-weight:700}
+  .count b{color:var(--teal)}
+  .grow{flex:1}
+  .toolbar select{padding:5px 8px;border:1px solid var(--line);border-radius:9px;background:#fff;font-size:12px;color:var(--ink)}
+  .toolbar .ghost{
+    border:1px solid var(--line);background:#fff;color:var(--muted);
+    border-radius:9px;padding:6px 12px;font-size:12px;font-weight:700;cursor:pointer;
+  }
+  .toolbar .ghost:hover{border-color:var(--teal);color:var(--teal-d)}
+
+  /* ---- 표 ---- */
+  .tablewrap{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:auto}
+  table{border-collapse:collapse;width:100%}
+  thead th{
+    position:sticky;top:0;background:var(--dim-bg);border-bottom:2px solid var(--line);
+    font-size:12px;font-weight:700;color:var(--muted);text-align:left;
+    padding:9px 12px;white-space:nowrap;cursor:pointer;user-select:none;
+  }
+  thead th.num{text-align:right}
+  thead th:hover{color:var(--teal-d)}
+  tbody td{border-bottom:1px solid var(--line);padding:9px 12px;font-size:13px;white-space:nowrap}
+  tbody td.name{white-space:normal;font-weight:700}
+  tbody td.num{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
+  tbody td.sub{color:var(--muted);font-size:12.5px;white-space:normal}
+  tbody tr:hover{background:var(--soft)}
+  .tag{background:var(--chip);color:var(--chipink);border-radius:999px;padding:2px 8px;font-size:11.5px;font-weight:700}
+  .tag.g{background:#e8f7ee;color:#1e7d3c}
+  .doc{color:var(--teal);text-decoration:none;border-bottom:1px dotted var(--teal)}
+  .doc:hover{color:var(--teal-d);border-bottom-style:solid}
+  .empty{padding:28px;text-align:center;color:var(--muted);font-size:13px}
+
+  .pager{display:flex;gap:6px;justify-content:center;align-items:center;margin-top:14px}
+  .pager button{
+    border:1px solid var(--line);background:#fff;color:var(--ink);
+    border-radius:9px;padding:6px 11px;font-size:12px;font-weight:700;cursor:pointer;
+  }
+  .pager button:hover:not([disabled]){border-color:var(--teal);color:var(--teal-d)}
+  .pager button[disabled]{opacity:.45;cursor:default}
+  .pager .now{font-size:12px;color:var(--muted);font-weight:700;padding:0 8px}
+  .foot{color:var(--muted);font-size:11.5px;margin-top:20px;line-height:1.7}
+  .loading{opacity:.5}
+</style>
+</head>
+<body>
+
+<!-- ---------------- 로그인 ---------------- -->
+<div class="login" id="login">
+  <form class="loginbox" id="loginForm">
+    <h1>중소기업 지원사업 정보조회</h1>
+    <div class="sub">중소벤처기업연구원 정책평가팀</div>
+    <label for="email">이메일</label>
+    <input type="email" id="email" autocomplete="username" required>
+    <label for="pw">비밀번호</label>
+    <input type="password" id="pw" autocomplete="current-password" required>
+    <button type="submit" id="loginBtn">로그인</button>
+    <div class="err" id="loginErr"></div>
+    <div class="switch">계정이 없으신가요? <a id="toSignup">회원가입</a></div>
+  </form>
+
+  <form class="loginbox" id="signupForm" style="display:none">
+    <h1>회원가입</h1>
+    <div class="sub">@kosi.re.kr 이메일만 가입할 수 있습니다</div>
+    <label for="suEmail">이메일</label>
+    <input type="email" id="suEmail" autocomplete="username" placeholder="이름@kosi.re.kr" required>
+    <label for="suPw">비밀번호</label>
+    <input type="password" id="suPw" autocomplete="new-password" minlength="6" required>
+    <label for="suPw2">비밀번호 확인</label>
+    <input type="password" id="suPw2" autocomplete="new-password" minlength="6" required>
+    <button type="submit" id="signupBtn">가입하기</button>
+    <div class="err" id="signupErr"></div>
+    <div class="msg" id="signupMsg"></div>
+    <div class="switch">이미 계정이 있으신가요? <a id="toLogin">로그인</a></div>
+  </form>
+</div>
+
+<!-- ---------------- 본문 ---------------- -->
+<div class="app" id="app">
+<div class="hero" id="hero">
+  <div class="htitle">
+<svg class="brandlogo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335.5 111.2" role="img" aria-label="사업돋보기 - 중소기업 지원사업 정보조회서비스">
+<path d="M23.787000000000003 16.899H16.311V18.747Q19.209000000000003 18.936 20.6475 19.881Q22.086000000000002 20.826 22.086000000000002 22.338Q22.086000000000002 23.997 20.343000000000004 24.984Q18.6 25.971 15.114 25.971Q11.607 25.971 9.8745 24.984Q8.142 23.997 8.142 22.338Q8.142 20.826 9.5595 19.881Q10.977 18.936 13.833 18.747V16.899H6.462V14.925H23.787000000000003ZM18.243000000000002 23.682000000000002Q19.419 23.262 19.419 22.317Q19.419 21.435000000000002 18.253500000000003 20.973Q17.088 20.511 15.114 20.511Q13.077000000000002 20.511 11.943000000000001 20.973Q10.809000000000001 21.435000000000002 10.809000000000001 22.317Q10.809000000000001 23.262 11.943000000000001 23.692500000000003Q13.077000000000002 24.123 15.114 24.123Q17.067 24.123 18.243000000000002 23.682000000000002ZM21.519 14.001Q20.574 13.854000000000001 19.639499999999998 13.644Q18.705 13.434 17.823 13.098Q16.941000000000003 12.783 16.227 12.3315Q15.513 11.88 15.072000000000001 11.271Q14.568000000000001 11.88 13.875 12.321000000000002Q13.182 12.762 12.3 13.098Q11.46 13.434 10.536000000000001 13.654499999999999Q9.612 13.875 8.667 14.001L7.218 12.3Q8.478 12.09 9.57 11.838000000000001Q10.661999999999999 11.586 11.544 11.25Q12.384 10.893 12.951 10.4205Q13.518 9.948 13.707 9.297H8.457V7.302H21.771V9.297H16.5Q16.71 10.032 17.34 10.536Q17.97 11.04 18.873 11.376Q19.755000000000003 11.733 20.8155 11.943000000000001Q21.876 12.153 22.947000000000003 12.279Z M41.515 17.907Q40.444 17.571 39.478 17.0355Q38.512 16.5 37.63 15.849Q36.790000000000006 15.177 36.1075 14.410499999999999Q35.425000000000004 13.644 35.026 12.825Q34.123000000000005 14.61 32.464000000000006 15.849Q30.805000000000003 17.088 28.579000000000004 17.928L26.92 16.164Q28.390000000000004 15.722999999999999 29.629000000000005 15.0195Q30.868000000000002 14.316 31.813000000000002 13.371Q32.716 12.468 33.230500000000006 11.3655Q33.745000000000005 10.263 33.745000000000005 9.066V7.449H36.307V9.066Q36.286 10.221 36.81100000000001 11.3445Q37.336000000000006 12.468 38.281000000000006 13.413Q39.226 14.379 40.444 15.1035Q41.662000000000006 15.828 43.048 16.185000000000002ZM43.72 23.493000000000002H26.353V21.498H33.80800000000001V17.424H36.244V21.498H43.72Z M46.790000000000006 20.532Q53.59400000000001 16.857 54.056000000000004 9.906H47.819V7.890000000000001H56.114000000000004Q56.702000000000005 7.890000000000001 56.702000000000005 8.478Q56.45 12.846 54.539 16.269Q52.62800000000001 19.692 48.785000000000004 22.107ZM62.28800000000001 25.614H59.915000000000006V6.818999999999999H62.28800000000001Z M82.03200000000001 16.836H79.68V12.741H76.467Q76.299 13.539 75.8895 14.190000000000001Q75.48 14.841000000000001 74.8605 15.324000000000002Q74.241 15.807 73.44300000000001 16.0695Q72.64500000000001 16.332 71.7 16.332Q70.608 16.332 69.70500000000001 15.975000000000001Q68.802 15.618 68.172 14.988Q67.521 14.358 67.1745 13.5075Q66.828 12.657 66.828 11.649Q66.828 10.683 67.1745 9.8325Q67.521 8.982 68.172 8.352Q68.802 7.7219999999999995 69.70500000000001 7.343999999999999Q70.608 6.965999999999999 71.7 6.965999999999999Q73.69500000000001 6.965999999999999 74.91300000000001 8.058Q76.194 9.129 76.509 10.725H79.68V6.818999999999999H82.03200000000001ZM72.75 14.148Q73.464 13.791 73.8315 13.14Q74.19900000000001 12.489 74.19900000000001 11.649Q74.19900000000001 11.082 74.031 10.599Q73.863 10.116 73.548 9.7485Q73.233 9.381 72.76050000000001 9.171Q72.28800000000001 8.961 71.7 8.961Q70.482 8.961 69.8415 9.738Q69.20100000000001 10.515 69.20100000000001 11.649Q69.20100000000001 12.195 69.369 12.688500000000001Q69.537 13.182 69.852 13.5495Q70.167 13.917 70.629 14.1375Q71.09100000000001 14.358 71.7 14.358Q72.351 14.358 72.75 14.148ZM79.68 23.514V21.456H71.763V23.514ZM82.01100000000001 24.837Q82.01100000000001 25.173000000000002 81.87450000000001 25.299Q81.738 25.425 81.423 25.425H70.02000000000001Q69.684 25.425 69.55799999999999 25.299Q69.432 25.173000000000002 69.432 24.837V17.55H71.763V19.545H79.68V17.55H82.01100000000001Z M104.489 21.645Q102.977 20.679000000000002 101.80100000000002 19.408500000000004Q100.62500000000001 18.138 100.10000000000001 16.752000000000002Q99.554 18.243000000000002 98.29400000000001 19.671Q97.64300000000001 20.406 96.98150000000001 21.015Q96.32000000000001 21.624000000000002 95.64800000000001 22.107L93.69500000000001 20.532Q94.85000000000001 19.839 95.80550000000001 18.936Q96.76100000000001 18.033 97.42250000000001 16.899Q98.084 15.765 98.45150000000001 14.4Q98.819 13.035 98.819 11.418V9.885H95.039V7.911H105.18200000000002V9.885H101.36000000000001V11.523Q101.36000000000001 14.316 102.50450000000001 16.458000000000002Q103.649 18.6 106.16900000000001 20.028ZM110.012 25.614H107.63900000000001V6.818999999999999H110.012Z M129.924 21.225H127.55100000000002V19.356H123.43500000000002V17.529H127.55100000000002V6.818999999999999H129.924ZM126.98400000000001 16.08Q125.76600000000002 16.311 124.10700000000001 16.416Q122.44800000000001 16.521 120.60000000000001 16.563000000000002V19.566000000000003H118.22700000000002V16.605H114.27900000000001V14.673H119.71800000000002Q120.24300000000001 14.673 121.17750000000001 14.6415Q122.11200000000001 14.61 123.18300000000002 14.547Q124.25400000000002 14.463000000000001 125.27250000000001 14.368500000000001Q126.29100000000001 14.274000000000001 126.98400000000001 14.148ZM130.281 25.257H117.70200000000001Q117.36600000000001 25.257 117.25050000000002 25.131Q117.13500000000002 25.005000000000003 117.13500000000002 24.669V20.217H119.57100000000001V23.241H130.281ZM125.01000000000002 10.179Q125.01000000000002 11.754 123.75000000000001 12.699Q122.49000000000001 13.644 120.28500000000001 13.644Q119.21400000000001 13.644 118.35300000000001 13.392Q117.49200000000002 13.14 116.88300000000001 12.688500000000001Q116.27400000000002 12.237 115.94850000000002 11.596499999999999Q115.62300000000002 10.956 115.62300000000002 10.179Q115.62300000000002 8.667 116.88300000000001 7.658999999999999Q118.14300000000001 6.651 120.28500000000001 6.651Q122.49000000000001 6.651 123.75000000000001 7.658999999999999Q125.01000000000002 8.667 125.01000000000002 10.179ZM122.09100000000001 11.376Q122.65800000000002 10.977 122.65800000000002 10.179Q122.65800000000002 9.423 122.10150000000002 9.003Q121.54500000000002 8.583 120.28500000000001 8.583Q119.08800000000001 8.583 118.542 9.003Q117.99600000000001 9.423 117.99600000000001 10.179Q117.99600000000001 10.977 118.542 11.376000000000001Q119.08800000000001 11.775 120.28500000000001 11.775Q121.56600000000002 11.775 122.09100000000001 11.376Z M143.51500000000001 21.708000000000002Q142.12900000000002 20.763 140.98450000000003 19.4715Q139.84 18.18 139.21 16.794Q138.979 17.487000000000002 138.538 18.2115Q138.097 18.936 137.50900000000001 19.629Q136.921 20.322 136.2385 20.973Q135.556 21.624000000000002 134.842 22.128L132.91 20.574Q135.514 18.936 136.7215 16.636499999999998Q137.929 14.337 137.95000000000002 11.544V7.5120000000000005H140.428V11.67Q140.428 14.463000000000001 141.61450000000002 16.5315Q142.80100000000002 18.6 145.279 20.112000000000002ZM148.681 25.614H146.329V6.818999999999999H148.681V13.896H151.264V16.017H148.681Z M169.37 16.836H167.018V12.741H163.805Q163.637 13.539 163.22750000000002 14.190000000000001Q162.818 14.841000000000001 162.19850000000002 15.324000000000002Q161.579 15.807 160.781 16.0695Q159.983 16.332 159.038 16.332Q157.94600000000003 16.332 157.043 15.975000000000001Q156.14000000000001 15.618 155.51000000000002 14.988Q154.859 14.358 154.51250000000002 13.5075Q154.16600000000003 12.657 154.16600000000003 11.649Q154.16600000000003 10.683 154.51250000000002 9.8325Q154.859 8.982 155.51000000000002 8.352Q156.14000000000001 7.7219999999999995 157.043 7.343999999999999Q157.94600000000003 6.965999999999999 159.038 6.965999999999999Q161.03300000000002 6.965999999999999 162.251 8.058Q163.532 9.129 163.847 10.725H167.018V6.818999999999999H169.37ZM160.08800000000002 14.148Q160.80200000000002 13.791 161.16950000000003 13.14Q161.537 12.489 161.537 11.649Q161.537 11.082 161.36900000000003 10.599Q161.20100000000002 10.116 160.88600000000002 9.7485Q160.57100000000003 9.381 160.0985 9.171Q159.626 8.961 159.038 8.961Q157.82000000000002 8.961 157.17950000000002 9.738Q156.53900000000002 10.515 156.53900000000002 11.649Q156.53900000000002 12.195 156.707 12.688500000000001Q156.875 13.182 157.19 13.5495Q157.50500000000002 13.917 157.967 14.1375Q158.429 14.358 159.038 14.358Q159.68900000000002 14.358 160.08800000000002 14.148ZM167.018 23.514V21.456H159.101V23.514ZM169.34900000000002 24.837Q169.34900000000002 25.173000000000002 169.21250000000003 25.299Q169.07600000000002 25.425 168.76100000000002 25.425H157.358Q157.02200000000002 25.425 156.89600000000002 25.299Q156.77 25.173000000000002 156.77 24.837V17.55H159.101V19.545H167.018V17.55H169.34900000000002Z M197.26600000000002 23.703Q196.72000000000003 24.438000000000002 195.88000000000002 24.942Q194.977 25.446 193.7485 25.698Q192.52 25.950000000000003 191.07100000000003 25.950000000000003Q189.622 25.950000000000003 188.404 25.698Q187.186 25.446 186.30400000000003 24.942Q185.401 24.438000000000002 184.90750000000003 23.703000000000003Q184.41400000000002 22.968 184.41400000000002 22.002000000000002Q184.41400000000002 21.057000000000002 184.9285 20.332500000000003Q185.443 19.608 186.346 19.083000000000002Q187.24900000000002 18.579 188.467 18.306Q189.685 18.033 191.092 18.033Q192.54100000000003 18.033 193.75900000000001 18.306Q194.977 18.579 195.88000000000002 19.083000000000002Q196.76200000000003 19.587 197.27650000000003 20.322000000000003Q197.79100000000003 21.057000000000002 197.79100000000003 22.002000000000002Q197.79100000000003 22.989 197.26600000000002 23.703ZM194.074 23.493000000000002Q194.62 23.220000000000002 194.92450000000002 22.831500000000002Q195.229 22.443 195.229 21.96Q195.229 20.952 194.116 20.427Q193.00300000000001 19.902 191.092 19.902Q190.168 19.902 189.412 20.0385Q188.656 20.175 188.11 20.448Q187.56400000000002 20.721 187.2595 21.099Q186.955 21.477 186.955 21.96Q186.955 22.947 188.11 23.514Q189.26500000000001 24.102 191.092 24.102Q192.961 24.102 194.074 23.493000000000002ZM191.407 17.361Q190.02100000000002 16.71 188.87650000000002 15.8385Q187.73200000000003 14.967 187.16500000000002 13.959Q186.745 14.967 185.50600000000003 16.017Q184.26700000000002 17.067 182.79700000000003 17.844L181.03300000000002 16.269Q183.38500000000002 15.366 184.6345 13.8645Q185.88400000000001 12.363 185.88400000000001 10.452V9.591H182.50300000000001V7.616999999999999H191.848V9.591H188.425V10.473Q188.425 11.397 188.74 12.195Q189.055 12.993 189.64300000000003 13.6545Q190.23100000000002 14.316 191.05 14.82Q191.86900000000003 15.324 192.877 15.639ZM197.39200000000002 18.201H195.04000000000002V12.888H191.55400000000003V10.914H195.04000000000002V6.797999999999998H197.39200000000002Z M213.79700000000003 15.722999999999999V12.426H205.62800000000001V15.722999999999999ZM218.39600000000002 23.535H201.02900000000002V21.519000000000002H208.46300000000002V17.739H203.80100000000002Q203.46500000000003 17.739 203.34950000000003 17.613Q203.234 17.487000000000002 203.234 17.151V7.365H205.62800000000001V10.431H213.79700000000003V7.365H216.17000000000002V17.151Q216.17000000000002 17.487000000000002 216.0335 17.613Q215.89700000000002 17.739 215.58200000000002 17.739H210.92000000000002V21.519000000000002H218.39600000000002Z M236.18700000000004 17.802Q235.17900000000003 17.55 234.1605 17.0775Q233.14200000000002 16.605 232.23900000000003 16.017Q231.33600000000004 15.429 230.64300000000003 14.757000000000001Q229.95000000000002 14.085 229.61400000000003 13.392Q229.23600000000002 14.127 228.56400000000002 14.788499999999999Q227.89200000000002 15.45 227.01000000000002 16.017Q226.10700000000003 16.605 225.12000000000003 17.046Q224.13300000000004 17.487000000000002 223.04100000000003 17.823L221.40300000000002 16.038Q222.85200000000003 15.681000000000001 224.08050000000003 15.135000000000002Q225.30900000000003 14.589 226.25400000000002 13.854000000000001Q227.19900000000004 13.119 227.73450000000003 12.195Q228.27000000000004 11.271 228.27000000000004 10.137V9.675H222.89400000000003V7.68H236.33400000000003V9.675H230.95800000000003V10.137Q230.95800000000003 11.229 231.51450000000003 12.174Q232.07100000000003 13.119 233.01600000000002 13.875Q233.96100000000004 14.631 235.18950000000004 15.1875Q236.41800000000003 15.744 237.76200000000003 16.038ZM238.30800000000002 23.493000000000002H220.94100000000003V21.498H228.39600000000002V17.34H230.83200000000002V21.498H238.30800000000002Z M253.03300000000004 11.943H242.40700000000004V10.074H253.03300000000004ZM250.66000000000003 8.919H244.75900000000004V7.0920000000000005H250.66000000000003ZM254.29300000000003 21.729Q252.31900000000005 21.981 249.62050000000005 22.0965Q246.92200000000003 22.212 243.73000000000005 22.212H241.56700000000004V20.175L246.54400000000004 20.154V18.6Q244.96900000000002 18.39 244.03450000000004 17.613Q243.10000000000002 16.836 243.10000000000002 15.681000000000001Q243.10000000000002 15.009 243.42550000000003 14.463000000000001Q243.75100000000003 13.917 244.36 13.518Q244.96900000000002 13.119 245.83000000000004 12.908999999999999Q246.69100000000003 12.699 247.76200000000003 12.699Q248.81200000000004 12.699 249.67300000000006 12.908999999999999Q250.53400000000005 13.119 251.14300000000003 13.518Q251.75200000000004 13.917 252.08800000000002 14.463000000000001Q252.42400000000004 15.009 252.42400000000004 15.681000000000001Q252.42400000000004 16.815 251.50000000000003 17.5815Q250.57600000000002 18.348 249.06400000000002 18.579V20.112000000000002Q249.65200000000004 20.091 250.34500000000003 20.0595Q251.03800000000004 20.028 251.73100000000002 19.986Q252.44500000000005 19.923000000000002 253.09600000000006 19.8705Q253.74700000000004 19.818 254.29300000000003 19.734ZM249.44200000000004 16.605Q250.00900000000004 16.269 250.00900000000004 15.681000000000001Q250.00900000000004 15.135000000000002 249.45250000000004 14.767500000000002Q248.89600000000004 14.4 247.76200000000003 14.4Q246.60700000000003 14.4 246.06100000000004 14.767500000000002Q245.51500000000004 15.135000000000002 245.51500000000004 15.681000000000001Q245.51500000000004 16.248 246.07150000000004 16.605Q246.62800000000004 16.962 247.76200000000003 16.962Q248.89600000000004 16.962 249.44200000000004 16.605ZM257.14900000000006 25.614H254.77600000000004V6.818999999999999H257.14900000000006Z M270.971 21.708000000000002Q270.32 21.267 269.67949999999996 20.721Q269.039 20.175 268.472 19.545Q267.90500000000003 18.915 267.4325 18.2325Q266.96000000000004 17.55 266.64500000000004 16.815Q266.47700000000003 17.382 266.057 18.085500000000003Q265.637 18.789 265.028 19.503Q264.44 20.238 263.7155 20.9205Q262.991 21.603 262.277 22.128L260.303 20.574Q262.949 18.957 264.15650000000005 16.6365Q265.36400000000003 14.316 265.36400000000003 11.544V7.5120000000000005H267.863V11.67Q267.842 14.337 269.039 16.5Q270.236 18.663 272.714 20.112000000000002ZM276.767 25.614H274.394V14.484H270.635V12.342H274.394V6.818999999999999H276.767Z M288.741 19.104V14.274000000000001H284.52V19.104ZM291.093 20.511Q291.093 20.847 290.9565 20.973Q290.82 21.099 290.505 21.099H282.756Q282.42 21.099 282.30449999999996 20.973Q282.18899999999996 20.847 282.18899999999996 20.511V7.743H284.52V12.237H288.741V7.743H291.093ZM296.574 25.614H294.20099999999996V6.818999999999999H296.574Z M315.751 18.012Q314.743 17.697 313.735 17.1405Q312.727 16.584 311.84499999999997 15.891Q310.96299999999997 15.198 310.28049999999996 14.421Q309.59799999999996 13.644 309.241 12.888Q308.359 14.589 306.763 15.901499999999999Q305.167 17.214 302.81499999999994 18.033L301.15599999999995 16.248Q302.60499999999996 15.828 303.8545 15.1245Q305.104 14.421 306.00699999999995 13.518Q306.95199999999994 12.573 307.4665 11.4915Q307.981 10.41 307.981 9.192V7.449H310.54299999999995V9.192Q310.522 10.41 311.0995 11.5335Q311.67699999999996 12.657 312.62199999999996 13.602Q313.56699999999995 14.547 314.78499999999997 15.2505Q316.003 15.954 317.284 16.29ZM317.95599999999996 23.304000000000002H300.58899999999994V21.288H317.95599999999996Z" fill="#00646e"/>
+<path d="M36.566 85.896Q32.474000000000004 83.10600000000001 29.095000000000002 79.293Q25.716 75.48 23.856 71.388Q23.174 73.434 21.872 75.57300000000001Q20.57 77.712 18.834 79.75800000000001Q17.098 81.804 15.082999999999998 83.726Q13.068 85.64800000000001 10.96 87.13600000000001L5.256 82.548Q12.943999999999999 77.712 16.509 70.923Q20.073999999999998 64.134 20.136 55.888000000000005V43.984H27.451999999999998V56.260000000000005Q27.451999999999998 64.506 30.955 70.613Q34.458 76.72 41.774 81.184ZM51.818 97.428H44.874V41.938H51.818V62.83200000000001H59.444V69.09400000000001H51.818Z M106.676 71.512H99.732V59.422000000000004H90.246Q89.75 61.778000000000006 88.541 63.7Q87.332 65.622 85.503 67.048Q83.674 68.474 81.31800000000001 69.249Q78.962 70.024 76.172 70.024Q72.94800000000001 70.024 70.28200000000001 68.97Q67.616 67.916 65.756 66.05600000000001Q63.834 64.196 62.811 61.685Q61.788 59.17400000000001 61.788 56.19800000000001Q61.788 53.346000000000004 62.811 50.83500000000001Q63.834 48.324000000000005 65.756 46.464000000000006Q67.616 44.604000000000006 70.28200000000001 43.48800000000001Q72.94800000000001 42.37200000000001 76.172 42.37200000000001Q82.062 42.37200000000001 85.658 45.596000000000004Q89.44 48.758 90.37 53.470000000000006H99.732V41.938H106.676ZM79.27199999999999 63.57600000000001Q81.38 62.522000000000006 82.465 60.60000000000001Q83.55 58.678000000000004 83.55 56.19800000000001Q83.55 54.52400000000001 83.054 53.098000000000006Q82.55799999999999 51.672000000000004 81.628 50.587Q80.69800000000001 49.502 79.303 48.882000000000005Q77.908 48.26200000000001 76.172 48.26200000000001Q72.576 48.26200000000001 70.685 50.556000000000004Q68.794 52.85 68.794 56.19800000000001Q68.794 57.81 69.28999999999999 59.267Q69.786 60.724000000000004 70.71600000000001 61.809000000000005Q71.646 62.894000000000005 73.00999999999999 63.545Q74.374 64.196 76.172 64.196Q78.094 64.196 79.27199999999999 63.57600000000001ZM99.732 91.22800000000001V85.152H76.358V91.22800000000001ZM106.614 95.134Q106.614 96.126 106.211 96.498Q105.80799999999999 96.87 104.878 96.87H71.212Q70.22 96.87 69.848 96.498Q69.476 96.126 69.476 95.134V73.62H76.358V79.51H99.732V73.62H106.614Z M163.642 73.06200000000001H112.492V67.172H134.378V61.592000000000006H120.55199999999999Q119.56 61.592000000000006 119.219 61.220000000000006Q118.878 60.848000000000006 118.878 59.85600000000001V45.038000000000004Q118.878 44.108000000000004 119.25 43.705000000000005Q119.622 43.30200000000001 120.614 43.30200000000001H157.31799999999998V49.19200000000001H126.008V55.764H157.876V61.592000000000006H141.632V67.172H163.642ZM158.868 96.74600000000001H120.614Q119.622 96.74600000000001 119.25 96.37400000000001Q118.878 96.00200000000001 118.878 95.01V79.572Q118.878 78.64200000000001 119.25 78.239Q119.622 77.836 120.614 77.836H157.752V83.664H126.256V90.85600000000001H158.868Z M202.69 68.226V58.492000000000004H178.572V68.226ZM216.268 91.29H164.994V85.33800000000001H186.942V74.178H173.178Q172.186 74.178 171.84500000000003 73.806Q171.50400000000002 73.434 171.50400000000002 72.44200000000001V43.550000000000004H178.572V52.602000000000004H202.69V43.550000000000004H209.696V72.44200000000001Q209.696 73.434 209.293 73.806Q208.89000000000001 74.178 207.96 74.178H194.196V85.33800000000001H216.268Z M219.108 82.424Q239.196 71.57400000000001 240.56 51.05200000000001H222.146V45.1H246.636Q248.372 45.1 248.372 46.836000000000006Q247.628 59.732000000000006 241.986 69.83800000000001Q236.344 79.944 224.998 87.074ZM264.864 97.428H257.858V41.938H264.864Z" fill="#00646e"/>
+<line x1="314.93" y1="84.13" x2="329.12" y2="99.89" stroke="#00646e" stroke-width="6.70" stroke-linecap="round"/><defs><clipPath id="sdbLens"><path fill-rule="evenodd" d="M100,6 A94,94 0 1,0 100,194 A94,94 0 1,0 100,6 Z M100,36 A64,64 0 1,1 100,164 A64,64 0 1,1 100,36 Z"/></clipPath></defs><g transform="translate(300.44 68.04) scale(0.23745) translate(-100 -100)"><g clip-path="url(#sdbLens)"><rect width="200" height="200" fill="#00646e"/><path d="M118,-6 C158,52 150,104 100,112 C52,120 58,168 84,206" fill="none" stroke="#00a56e" stroke-width="46"/></g></g><rect x="290.26" y="68.80" width="4.56" height="8.36" rx="1.37" fill="#00646e"/><rect x="298.16" y="63.48" width="4.56" height="13.68" rx="1.37" fill="#00646e"/><rect x="306.06" y="58.62" width="4.56" height="18.54" rx="1.37" fill="#00646e"/>
+</svg>
+    <h1 class="sronly">사업돋보기 - 중소기업 지원사업 정보조회</h1>
+  </div>
+  <div class="who"><span id="whoEmail"></span><button id="logout">로그아웃</button></div>
+</div>
+
+  <div class="wrap">
+    <nav class="rail" id="railItems" aria-label="검색 메뉴"></nav>
+
+    <div class="main">
+      <div class="panel">
+        <div class="filters" id="filtersGrid">
+          <div class="f col3">
+            <label>연도</label>
+            <div class="pickwrap">
+              <button type="button" class="pickbtn" id="yearBtn" aria-expanded="false"><span class="val">전체</span><span class="car">▼</span></button>
+              <div class="picker fold" id="yearPick" hidden></div>
+            </div>
+          </div>
+          <div class="f col3" id="somewonBoxWrap">
+            <label id="somewonLabel">소관</label>
+            <div class="pickwrap">
+              <button type="button" class="pickbtn" id="somewonBtn" aria-expanded="false"><span class="val">전체</span><span class="car">▼</span></button>
+              <div class="picker fold" id="somewonPick" hidden></div>
+            </div>
+          </div>
+          <div class="f col3" id="sectorBoxWrap">
+            <label id="sectorLabel">세부분야</label>
+            <div class="pickwrap">
+              <button type="button" class="pickbtn" id="sectorBtn" aria-expanded="false"><span class="val">전체</span><span class="car">▼</span></button>
+              <div class="picker fold" id="sectorPick" hidden></div>
+            </div>
+          </div>
+          <div class="f col3" id="naeSectorBoxWrap">
+            <label>내역분야</label>
+            <div class="pickwrap">
+              <button type="button" class="pickbtn" id="naeSectorBtn" aria-expanded="false"><span class="val">전체</span><span class="car">▼</span></button>
+              <div class="picker fold" id="naeSectorPick" hidden></div>
+            </div>
+          </div>
+
+          <div class="f big" id="colBox">
+            <label>정책디렉토리 항목 추가</label>
+            <div class="chips" id="colChips"></div>
+          </div>
+          <div class="f col4" id="budgetBox">
+            <label>예산 항목 추가</label>
+            <div class="chips" id="budgetChips"></div>
+          </div>
+          <div class="f col2" id="perfBox">
+            <label>성과평가 결과</label>
+            <div class="chips" id="perfChips"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="kpis" id="kpis"></div>
+
+      <div class="herosearch">
+        <div class="qbox">
+          <input type="text" id="q" placeholder="검색어를 입력하세요 (예: 소상공인 융자, 창업, 수출바우처)" autocomplete="off">
+          <svg class="qico" viewBox="0 0 24 24" aria-hidden="true">
+            <circle cx="10.5" cy="10.5" r="6.6" fill="none" stroke="currentColor" stroke-width="2.3"/>
+            <line x1="15.4" y1="15.4" x2="20.4" y2="20.4" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div class="qfields" id="searchFieldBox">
+          <span class="qflabel">검색 대상</span>
+          <div class="chips" id="searchFieldChips"></div>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <div class="count" id="count"></div>
+        <div class="grow"></div>
+        <label class="count">페이지당
+          <select id="pageSize">
+            <option>10</option><option selected>20</option><option>50</option><option>100</option>
+          </select>
+        </label>
+        <button class="ghost" id="reset">초기화</button>
+        <button class="primary" id="exportCsv">⬇ 엑셀(CSV) 내보내기</button>
+        <span class="quota" id="quota"></span>
+      </div>
+
+      <div class="tablewrap">
+        <table id="tbl">
+          <thead><tr id="thead"></tr></thead>
+          <tbody id="tbody"></tbody>
+        </table>
+        <div class="empty" id="empty" style="display:none">조건에 맞는 사업이 없습니다.</div>
+      </div>
+
+      <div class="pager" id="pager"></div>
+
+      <div class="foot">
+        · 본 자료의 사업정보는 <b>중소기업 지원사업 현황조사</b> 결과를 토대로 합니다.<br>
+        · 사업별 상세정보 및 예산서는 중앙부처는 <b>열린재정</b>의 재정사업별 상세설명자료,
+        지자체는 <b>지방재정365</b>의 지자체별 예산서 및 세부사업별 세출현황을 토대로 합니다.<br>
+        · 예산 단위는 <b>백만원</b>이며, 빈칸은 자료가 없다는 뜻입니다(0이 아닙니다).<br>
+        · 예산서·공고문 <b>원문 파일은 이 화면에서 제공하지 않습니다</b>(용량이 커 서버에 올리지 않았습니다).
+        공고명의 🔗 링크는 기업마당(인터넷)으로 바로 연결됩니다.
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="config.js"></script>
+<script>
+// ===================== Supabase REST =====================
+//  라이브러리 없이 REST 를 직접 부릅니다.
+//   · 로그인    POST /auth/v1/token?grant_type=password
+//   · 갱신      POST /auth/v1/token?grant_type=refresh_token
+//   · 함수 호출 POST /rest/v1/rpc/<함수이름>
+const CFG = window.SUPA || {};
+
+//  예산서 원문을 올려 둔 연도. **upload_storage.py 의 YEARS 와 같아야** 합니다 —
+//  올리지 않은 해에 📄 를 그리면 눌러도 열리지 않습니다(2023년은 올리지 않기로 했습니다).
+const STORAGE_YEARS = ["2024", "2025", "2026"];
+const STORAGE_BUCKET = "docs";
+//  한 번에 내보낼 수 있는 최대 행수. 이보다 많으면 앞에서부터 잘라 내보내고 알려 줍니다.
+const EXPORT_MAX = 20000;
+const EXPORT_PAGE = 1000;
+const SKEY = "kosi.sb.session";
+let SESSION = null;
+
+const $ = s => document.querySelector(s);
+const numFmt = n => (n == null || n === "") ? "" : Number(n).toLocaleString("ko-KR", {maximumFractionDigits:1});
+function esc(s){ return String(s == null ? "" : s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+function saveSession(s){
+  //  만료 시각을 함께 적어 둡니다 — expires_in(초) 만으로는 다음에 열었을 때 남은 시간을 알 수 없습니다.
+  s.expires_at = Date.now() + (s.expires_in || 3600) * 1000;
+  SESSION = s;
+  try{ localStorage.setItem(SKEY, JSON.stringify(s)); }catch(e){}
+}
+function loadSession(){
+  try{ SESSION = JSON.parse(localStorage.getItem(SKEY) || "null"); }catch(e){ SESSION = null; }
+  return SESSION;
+}
+function clearSession(){
+  SESSION = null;
+  try{ localStorage.removeItem(SKEY); }catch(e){}
+}
+
+async function authFetch(grant, body){
+  const r = await fetch(CFG.url + "/auth/v1/token?grant_type=" + grant, {
+    method: "POST",
+    headers: {"apikey": CFG.key, "Content-Type": "application/json"},
+    body: JSON.stringify(body),
+  });
+  const j = await r.json().catch(() => ({}));
+  if(!r.ok) throw new Error(j.error_description || j.msg || j.message || ("로그인 실패 (" + r.status + ")"));
+  return j;
+}
+
+//  토큰이 만료됐거나 1분 안에 만료되면 미리 갱신합니다.
+async function freshToken(){
+  if(!SESSION) throw new Error("로그인이 필요합니다.");
+  if(SESSION.expires_at && Date.now() < SESSION.expires_at - 60000) return SESSION.access_token;
+  const j = await authFetch("refresh_token", {refresh_token: SESSION.refresh_token});
+  saveSession(j);
+  return j.access_token;
+}
+
+//  Postgres 함수 호출. 401 이면 한 번만 갱신해 다시 시도합니다.
+async function rpc(fn, args, retry){
+  const token = await freshToken();
+  const r = await fetch(CFG.url + "/rest/v1/rpc/" + fn, {
+    method: "POST",
+    headers: {"apikey": CFG.key, "Authorization": "Bearer " + token, "Content-Type": "application/json"},
+    body: JSON.stringify(args || {}),
+  });
+  if(r.status === 401 && !retry){
+    SESSION.expires_at = 0;              // 만료로 표시해 갱신을 강제합니다
+    return rpc(fn, args, true);
+  }
+  const j = await r.json().catch(() => null);
+  if(!r.ok) throw new Error((j && (j.message || j.hint)) || ("조회 실패 (" + r.status + ")"));
+  return j;
+}
+
+// ===================== 열 정의 (탭별) =====================
+//  오프라인 앱(template.html) 의 COLS 를 이식하되, 문서·파일 다운로드 관련 열은 뺐습니다
+//  (예산서·공고문 원문이 이 화면에는 없습니다 — 기업마당 공고 링크만 예외).
+//  opt:true = '항목 추가' 칩으로 켜고 끕니다. grp 없음/"policy" → 정책디렉토리, "budget" → 예산,
+//  "perf" → 성과평가. local/central 은 그 구분(지자체/중앙부처)에서만 칩을 보여줍니다.
+//  private 버킷이라 링크를 미리 걸 수 없습니다. 누르는 순간 짧게 유효한 주소를 받아 내려받습니다.
+async function budgetDocUrl(key, filename){
+  const token = await freshToken();
+  //  키는 DB 의 '예산서키' 열에 있습니다(ASCII). Storage 는 한글 키를 받지 않아
+  //  파일명을 해시한 키로 올려 두고, 원래 이름은 아래 download 로 되살립니다.
+  const path = key.split("/").map(encodeURIComponent).join("/");
+  const r = await fetch(CFG.url + "/storage/v1/object/sign/" + STORAGE_BUCKET + "/" + path, {
+    method: "POST",
+    headers: {"apikey": CFG.key, "Authorization": "Bearer " + token, "Content-Type": "application/json"},
+    body: JSON.stringify({expiresIn: 60}),
+  });
+  const j = await r.json().catch(() => null);
+  if(!r.ok || !j || !j.signedURL) throw new Error((j && (j.message || j.error)) || "예산서 주소를 받지 못했습니다.");
+  //  받은 값은 /storage/v1 아래의 경로입니다. download 를 붙이면 원래 파일명으로 저장됩니다.
+  return CFG.url + "/storage/v1" + j.signedURL + "&download=" + encodeURIComponent(filename);
+}
+
+//  📄 한 번 = 하루 한도에서 1개. 한도는 DB 에서 셉니다(화면에서 세면 새로고침으로 넘어갑니다).
+async function onDocClick(ev, key, filename){
+  ev.preventDefault();
+  try{
+    const q = await rpc("dl_take", {p_kind: "doc", p_n: 1});
+    if(!q || !q.allowed){
+      alert("예산서 내려받기 한도에 걸렸습니다.\n" +
+            ((q && q.reason) || "") + (q && q.limit ? "\n오늘 한도 " + q.limit + "개" : ""));
+      refreshQuota();
+      return;
+    }
+    const url = await budgetDocUrl(key, filename);
+    const a = document.createElement("a");
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click(); a.remove();
+    refreshQuota();
+  }catch(e){
+    alert("예산서를 받지 못했습니다 — " + e.message);
+  }
+}
+
+//  세부사업명 옆 📄 — 중앙부처이고, 파일명이 있고, **올려 둔 연도**일 때만 그립니다.
+function docIcon(r){
+  const fn = r["예산서"], key = r["예산서키"];
+  if(!fn || !key || r.gubun !== "중앙부처" || STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
+  return " <a class='doc' href='#' title=\"예산서 내려받기: " + esc(fn) + "\"" +
+         " onclick=\"onDocClick(event,this.dataset.k,this.dataset.f)\"" +
+         " data-k=\"" + esc(key) + "\" data-f=\"" + esc(fn) + "\"" +
+         "><span class='ico'>\ud83d\udcc4</span></a>";
+}
+
+function tagCell(v, cls){ return v ? "<span class='tag" + (cls?" "+cls:"") + "'>" + esc(v) + "</span>" : ""; }
+function linesCell(v){ return esc(v || "").split("\n").map(esc).join("<br>"); }
+const GONGGO_URL = id => (id && /^PBLN_/.test(id))
+  ? "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=" + encodeURIComponent(id) : "";
+
+function gonggoNameCell(r){
+  const nm = r["공고명"] || "";
+  const id = r["링크ID"] || r["공고ID"] || "";
+  const url = GONGGO_URL(id);
+  const tip = (r["링크ID"] && r["링크종류"] !== "공고")
+    ? "기업마당에서 통합 공고 보기 (인터넷 필요)" : "기업마당에서 공고 보기 (인터넷 필요)";
+  const est = (r["매핑출처"] || "").startsWith("자동") ? " " + tagCell("추정") : "";
+  const label = esc(nm) + est;
+  return "<td class='name'>" + (url
+    ? "<a class='doc' href=\"" + esc(url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + tip + "\">🔗 " + label + "</a>"
+    : label) + "</td>";
+}
+
+const COLS = {
+  세부: [
+    {key:"year", label:"연도"},
+    {key:"gubun", label:"구분", cell:r=>"<td>"+tagCell(r.gubun, r.gubun==="지자체"?"g":"")+"</td>"},
+    {key:"소관", label:"소관"},
+    {key:"세부분야", label:"분야(세부)", opt:true, inline:true, cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
+    {key:"세부사업명", label:"세부사업명", cls:"name",
+     cell:r=>"<td class='name'>"+esc(r["세부사업명"])+docIcon(r)+"</td>"},
+    {key:"회계명", label:"회계", opt:true},
+    {key:"기능", label:"기능", opt:true, local:true},
+    {key:"프로그램", label:"정책사업", opt:true},
+    {key:"단위사업", label:"단위사업", opt:true},
+    {key:"근거법령", label:"추진근거", opt:true, cls:"sub", nosort:true},
+    {key:"세부기간", label:"사업기간", opt:true},
+    {key:"세부목적", label:"사업목적·내용", opt:true, nosort:true, cls:"sub",
+     val:r=>[r["세부목적"], r["세부내용"]].filter(Boolean).join(" "),
+     cell:r=>"<td class='sub'>"+linesCell([r["세부목적"], r["세부내용"]].filter(Boolean).join("\n"))+"</td>"},
+    {key:"세부지원", label:"지원형태", opt:true, local:true},
+    {key:"수혜대상", label:"지원조건", opt:true},
+    {key:"세부추진기관", label:"사업시행주체", opt:true},
+    {key:"비고", label:"비고", opt:true, nosort:true, cls:"sub",
+     cell:r=>"<td class='sub'>"+linesCell(r["비고"])+"</td>"},
+    {key:"평가등급", label:"평가등급", opt:true, grp:"perf", nosort:true, central:true},
+    {key:"전전년결산", label:"전전년 결산", opt:true, grp:"budget", num:true, central:true, chip:"전전년 결산"},
+    {key:"전년본예산", label:"전년 본예산", opt:true, grp:"budget", num:true, central:true, chip:"전년 본예산"},
+    {key:"전년추경", label:"전년 추경", opt:true, grp:"budget", num:true, central:true, chip:"전년 추경"},
+    {key:"예산증감액", label:"예산 증감액", opt:true, grp:"budget", num:true, central:true, chip:"예산 증감액"},
+    {key:"국비합", label:"국비(백만원)", opt:true, grp:"budget", num:true, local:true, chip:"국비"},
+    {key:"지방비합", label:"지방비(백만원)", opt:true, grp:"budget", num:true, local:true, chip:"지방비"},
+    {key:"세부예산", label:"예산(백만원)", num:true},
+  ],
+  내역: [
+    {key:"year", label:"연도"},
+    {key:"gubun", label:"구분", cell:r=>"<td>"+tagCell(r.gubun, r.gubun==="지자체"?"g":"")+"</td>"},
+    {key:"소관", label:"소관"},
+    {key:"세부분야", label:"분야(세부)", opt:true, inline:true, local:true, cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
+    {key:"내역분야", label:"분야(내역)", opt:true, inline:true, cell:r=>"<td>"+tagCell(r["내역분야"])+"</td>"},
+    {key:"세부사업명", label:"세부사업명", cls:"name"},
+    {key:"내역사업명", label:"내역사업명", cls:"name"},
+    {key:"세부목적", label:"사업목적·내용", opt:true, nosort:true, cls:"sub",
+     cell:r=>{
+       const v = (r["내역목적"] && r["내역목적"].trim()) || [r["세부목적"], r["세부내용"]].filter(Boolean).join(" ");
+       return "<td class='sub'>"+linesCell(v)+"</td>";
+     }},
+    {key:"공고지원내용", label:"지원내용(공고)", opt:true, nosort:true, cls:"sub", chip:"지원내용(공고)"},
+    {key:"수혜대상", label:"사업수혜대상", opt:true},
+    {key:"세부추진기관", label:"사업시행주체", opt:true},
+    {key:"비고", label:"비고", opt:true, nosort:true, cls:"sub",
+     cell:r=>"<td class='sub'>"+linesCell(r["비고"])+"</td>"},
+    {key:"지원분야중분류", label:"분야(중분류)", opt:true, grp:"policy"},
+    {key:"지원분야소분류", label:"지원대상", opt:true, grp:"policy"},
+    {key:"지원산업", label:"지원산업", opt:true, grp:"policy"},
+    {key:"내역산출근거", label:"예산 산출근거", opt:true, nosort:true, cls:"sub", central:true, chip:"예산 산출근거"},
+    {key:"평가등급", label:"평가등급", opt:true, grp:"perf", nosort:true, central:true},
+    {key:"국비", label:"국비(백만원)", opt:true, grp:"budget", num:true, local:true},
+    {key:"지방비", label:"지방비(백만원)", opt:true, grp:"budget", num:true, local:true},
+    {key:"내역예산", label:"예산(백만원)", num:true},
+  ],
+  공고: [
+    {key:"year", label:"연도"},
+    {key:"gubun", label:"구분", cell:r=>"<td>"+tagCell(r.gubun, r.gubun==="지자체"?"g":"")+"</td>"},
+    {key:"소관", label:"소관"},
+    {key:"세부분야", label:"분야(세부)", cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
+    {key:"내역분야", label:"분야(내역)", cell:r=>"<td>"+tagCell(r["내역분야"])+"</td>"},
+    {key:"세부사업명", label:"세부사업명", cls:"name",
+     cell:r=>"<td class='name'>"+(r["세부사업명"]?esc(r["세부사업명"]):"<span class='tag'>사업 미연결</span>")+"</td>"},
+    {key:"내역사업명", label:"내역사업명", cls:"name"},
+    {key:"공고명", label:"공고명", cls:"name", cell:gonggoNameCell},
+    {key:"관리사업", label:"관리사업", opt:true, inline:true},
+    {key:"지원내용", label:"지원내용", opt:true, nosort:true, cls:"sub"},
+    {key:"공고일", label:"공고일", opt:true},
+    {key:"신청기간", label:"신청기간", opt:true},
+    {key:"수행기관", label:"수행기관", opt:true},
+    {key:"매핑출처", label:"매핑출처", opt:true, nosort:true, cls:"sub"},
+  ],
+  전부처: [
+    {key:"year", label:"연도"},
+    {key:"소관", label:"소관"},
+    {key:"분야", label:"분야"},
+    {key:"회계", label:"회계", opt:true},
+    {key:"부문", label:"부문", opt:true},
+    {key:"프로그램", label:"프로그램", opt:true},
+    {key:"단위사업", label:"단위사업", opt:true},
+    {key:"세부사업명", label:"세부사업명", cls:"name"},
+    {key:"전전년결산", label:"전전년 결산", opt:true, grp:"budget", num:true, chip:"전전년 결산"},
+    {key:"전년본예산", label:"전년 본예산", opt:true, grp:"budget", num:true, chip:"전년 본예산"},
+    {key:"전년추경", label:"전년 추경", opt:true, grp:"budget", num:true, chip:"전년 추경"},
+    {key:"예산증감액", label:"예산 증감액", opt:true, grp:"budget", num:true, chip:"예산 증감액"},
+    {key:"예산", label:"예산(백만원)", num:true},
+  ],
+};
+
+const DEFAULT_SORT = {세부:"세부예산", 내역:"내역예산", 공고:"공고명", 전부처:"예산"};
+const DEFAULT_EXTRA = () => ({세부:new Set(["세부분야"]), 내역:new Set(["세부분야","내역분야"]), 공고:new Set(), 전부처:new Set()});
+const SEARCH_FIELDS = {
+  기본: [["name","사업명"], ["mokjeok","사업목적·내용"], ["suhye","사업수혜대상"]],
+  공고: [["name","사업명"], ["gonggomyeong","공고명"], ["suhaeng","수행기관"]],
+};
+
+// ===================== 상태 =====================
+const state = {
+  mode: "세부", gubun: "중앙부처",
+  years: new Set(),
+  somewonC: new Set(), somewonJ: new Set(),
+  sector: new Set(), naeSector: new Set(),
+  somewonA: new Set(), sectorA: new Set(),
+  q: "",
+  searchFields: {기본: new Set(["name"]), 공고: new Set(["name"])},
+  sort: "세부예산", desc: true,
+  page: 1, size: 20,
+  extraCols: DEFAULT_EXTRA(),
+};
+
+let META = {years:[], gubuns:[]};                 // rail 을 만드는 데만 씁니다(biz_filters 결과)
+const filterCache = {};                            // 탭군(세부/내역=biz, 공고, 전부처)별 필터 목록 캐시
+const FILTER_FN = {세부:"biz_filters", 내역:"biz_filters", 공고:"gonggo_filters", 전부처:"allbiz_filters"};
+async function ensureFilters(mode){
+  const fn = FILTER_FN[mode];
+  if(!filterCache[fn]) filterCache[fn] = await rpc(fn, {}) || {};
+  return filterCache[fn];
+}
+function curFilters(){ return filterCache[FILTER_FN[state.mode]] || {}; }
+function curSomewonSet(){ return state.mode==="전부처" ? state.somewonA : (state.gubun==="지자체" ? state.somewonJ : state.somewonC); }
+function curSectorSet(){ return state.mode==="전부처" ? state.sectorA : state.sector; }
+
+// ===================== 왼쪽 탭 =====================
+const GUBUN_COLOR = {"중앙부처":"#00646e", "지자체":"#00a56e"};
+const RAIL_MODES = [["세부","세부사업"], ["내역","내역사업"], ["공고","공고정보"]];
+
+function buildRail(){
+  const box = $("#railItems");
+  document.documentElement.style.setProperty("--gubun", GUBUN_COLOR[state.gubun] || "#00646e");
+  box.innerHTML = "";
+  (META.gubuns || []).forEach(g => {
+    const grp = document.createElement("div"); grp.className = "railgrp";
+    const h = document.createElement("button");
+    h.className = "ghead" + ((g===state.gubun && state.mode!=="전부처") ? " on" : "");
+    h.dataset.g = g; h.textContent = g;
+    h.onclick = () => { if(state.gubun!==g || state.mode==="전부처"){ state.gubun=g; setMode("세부", true); } };
+    grp.appendChild(h);
+    RAIL_MODES.forEach(([m,label]) => {
+      const s = document.createElement("button");
+      s.className = "sub" + ((g===state.gubun && state.mode===m) ? " on" : "");
+      s.dataset.g = g; s.dataset.mode = m; s.textContent = label;
+      s.onclick = () => {
+        const gch = state.gubun!==g, mch = state.mode!==m;
+        if(gch) state.gubun = g;
+        if(mch || gch) setMode(m, true);
+      };
+      grp.appendChild(s);
+    });
+    box.appendChild(grp);
+  });
+  const fg = document.createElement("div"); fg.className = "railgrp";
+  const fb = document.createElement("button");
+  fb.className = "ghead all" + (state.mode==="전부처" ? " on" : "");
+  fb.dataset.g = "전부처"; fb.textContent = "전부처 재정사업";
+  fb.title = "중소기업 지원사업에 해당하지 않는 중앙부처 재정사업의 예산서";
+  fb.onclick = () => setMode("전부처", true);
+  fg.appendChild(fb); box.appendChild(fg);
+}
+
+// ===================== 드롭다운 거르개(연도/소관/세부분야/내역분야) =====================
+//  CLAUDE.md 의 함정 메모: display:grid 가 [hidden] 을 이깁니다 — 그래서 .picker.fold 를 열 때는
+//  hidden 속성을 지우고 닫을 때는 다시 붙입니다(display 스타일을 직접 건드리지 않습니다).
+function closeAllPickers(){
+  document.querySelectorAll(".picker.fold").forEach(p => p.setAttribute("hidden",""));
+  document.querySelectorAll(".pickbtn").forEach(b => b.setAttribute("aria-expanded","false"));
+}
+document.addEventListener("click", e => { if(!e.target.closest(".pickwrap")) closeAllPickers(); });
+
+function mountPicker(btnId, pickId, items, set, onChange){
+  const btn = $("#"+btnId), pick = $("#"+pickId);
+  function summary(){
+    const v = btn.querySelector(".val");
+    v.textContent = set.size ? [...set].join(", ") : "전체";
+    v.classList.toggle("sel", set.size>0);
+  }
+  function renderList(){
+    pick.innerHTML = "";
+    if(!items || !items.length){
+      pick.innerHTML = "<span style='font-size:12px;color:var(--muted);grid-column:1/-1'>항목 없음</span>";
+      return;
+    }
+    const all = document.createElement("label");
+    all.className = "all";
+    all.innerHTML = "<input type='checkbox'" + (set.size?"":" checked") + "><span>전체</span>";
+    all.querySelector("input").onchange = () => { set.clear(); renderList(); summary(); onChange(); };
+    pick.appendChild(all);
+    items.forEach(v => {
+      const l = document.createElement("label");
+      l.innerHTML = "<input type='checkbox'" + (set.has(v)?" checked":"") + "><span></span>";
+      l.querySelector("span").textContent = v;
+      l.querySelector("input").onchange = e => {
+        e.target.checked ? set.add(v) : set.delete(v);
+        renderList(); summary(); onChange();
+      };
+      pick.appendChild(l);
+    });
+  }
+  btn.onclick = () => {
+    const willOpen = pick.hasAttribute("hidden");
+    closeAllPickers();
+    if(willOpen){ pick.removeAttribute("hidden"); btn.setAttribute("aria-expanded","true"); }
+  };
+  renderList(); summary();
+}
+
+function buildFilterPanel(){
+  const F = curFilters();
+  const isAll = state.mode==="전부처";
+  const isNae = state.mode==="내역" || state.mode==="공고";
+
+  $("#somewonBoxWrap").style.display = "";
+  $("#sectorBoxWrap").style.display = "";
+  $("#naeSectorBoxWrap").style.display = isNae ? "" : "none";
+
+  $("#somewonLabel").textContent = isAll ? "소관" : (state.gubun==="지자체" ? "소관 (광역)" : "소관 (부처)");
+  $("#sectorLabel").textContent = isAll ? "분야" : "세부분야";
+
+  mountPicker("yearBtn", "yearPick", F.years || [], state.years, () => search(true));
+
+  if(isAll){
+    mountPicker("somewonBtn", "somewonPick", F.somewon || [], state.somewonA, () => search(true));
+    mountPicker("sectorBtn", "sectorPick", F.sector || [], state.sectorA, () => search(true));
+  }else{
+    const somewonList = (F.somewon || {})[state.gubun] || [];
+    const sectorList  = (F.sector  || {})[state.gubun] || [];
+    mountPicker("somewonBtn", "somewonPick", somewonList, curSomewonSet(), () => search(true));
+    mountPicker("sectorBtn", "sectorPick", sectorList, state.sector, () => search(true));
+    if(isNae){
+      const naeList = (F.naesector || {})[state.gubun] || [];
+      mountPicker("naeSectorBtn", "naeSectorPick", naeList, state.naeSector, () => search(true));
+    }
+  }
+}
+
+// ===================== 항목 추가 / 검색 대상 칩 =====================
+function colDisabled(c){
+  if(c.local && state.gubun!=="지자체") return true;
+  if(c.central && state.gubun!=="중앙부처") return true;
+  return false;
+}
+function buildChipGroup(boxId, pred){
+  const box = $("#"+boxId); box.innerHTML = "";
+  const ex = state.extraCols[state.mode];
+  const opts = (COLS[state.mode]||[]).filter(c => c.opt && pred(c) && !colDisabled(c));
+  if(!opts.length){ box.innerHTML = "<span style='font-size:12px;color:var(--muted)'>추가 항목 없음</span>"; return; }
+  opts.forEach(c => {
+    const chip = document.createElement("div");
+    chip.className = "chip" + (ex.has(c.key)?" on":"");
+    chip.textContent = c.chip || c.label;
+    chip.onclick = () => {
+      ex.has(c.key) ? ex.delete(c.key) : ex.add(c.key);
+      chip.classList.toggle("on");
+      buildHead(); renderRows();
+    };
+    box.appendChild(chip);
+  });
+}
+function buildAllChipGroups(){
+  buildChipGroup("colChips", c => !c.grp || c.grp==="policy");
+  buildChipGroup("budgetChips", c => c.grp==="budget");
+  buildChipGroup("perfChips", c => c.grp==="perf");
+  const hasBudget = (COLS[state.mode]||[]).some(c=>c.opt && c.grp==="budget" && !colDisabled(c));
+  const hasPerf   = (COLS[state.mode]||[]).some(c=>c.opt && c.grp==="perf" && !colDisabled(c));
+  $("#budgetBox").style.display = hasBudget ? "" : "none";
+  $("#perfBox").style.display = hasPerf ? "" : "none";
+  $("#filtersGrid").classList.toggle("pairbox", hasBudget && hasPerf===false && state.mode==="전부처");
+}
+function curFieldGroup(){ return state.mode==="공고" ? "공고" : "기본"; }
+function buildSearchFieldChips(){
+  const wrap = $("#searchFieldBox");
+  if(state.mode==="전부처"){ wrap.style.display = "none"; return; }
+  wrap.style.display = "";
+  const grp = curFieldGroup();
+  const set = state.searchFields[grp];
+  const box = $("#searchFieldChips"); box.innerHTML = "";
+  SEARCH_FIELDS[grp].forEach(([k,label]) => {
+    const chip = document.createElement("div");
+    chip.className = "chip" + (set.has(k)?" on":"");
+    chip.textContent = label;
+    chip.onclick = () => {
+      if(set.has(k)){ if(set.size>1) set.delete(k); } else set.add(k);
+      buildSearchFieldChips(); search(true);
+    };
+    box.appendChild(chip);
+  });
+}
+
+// ===================== 열 목록 (core + 켜진 opt) =====================
+function curCols(){
+  const cols = COLS[state.mode] || [];
+  const ex = state.extraCols[state.mode];
+  const shown = [], appended = [];
+  cols.forEach(c => {
+    if(!c.opt){ shown.push(c); return; }
+    if(colDisabled(c) || !ex.has(c.key)) return;
+    (c.inline ? shown : appended).push(c);
+  });
+  return shown.concat(appended);
+}
+
+function buildHead(){
+  const tr = $("#thead"); tr.innerHTML = "";
+  curCols().forEach(c => {
+    const th = document.createElement("th");
+    if(c.num) th.className = "num";
+    th.textContent = c.label + (state.sort===c.key ? (state.desc?" ▼":" ▲") : "");
+    if(!c.nosort){
+      th.onclick = () => {
+        if(state.sort===c.key) state.desc = !state.desc;
+        else { state.sort = c.key; state.desc = !!c.num; }
+        search(true);
+      };
+    }else th.style.cursor = "default";
+    tr.appendChild(th);
+  });
+}
+
+// ===================== 하루 제한 · 내보내기 =====================
+//  남은 횟수는 DB 에서 받아 보여 줍니다(표시용일 뿐, 실제 판단도 DB 가 합니다).
+async function refreshQuota(){
+  try{
+    const q = await rpc("dl_status", {});
+    const csv = q && q.csv, doc = q && q.doc;
+    $("#quota").textContent =
+      (csv ? "오늘 내보내기 " + csv.left + "/" + csv.limit : "") +
+      (csv && doc ? " · " : "") +
+      (doc ? "예산서 " + doc.left + "/" + doc.limit : "");
+  }catch(e){ $("#quota").textContent = ""; }
+}
+
+function csvCell(v){
+  const t = v == null ? "" : String(v);
+  return /[",\n]/.test(t) ? '"' + t.replace(/"/g, '""') + '"' : t;
+}
+
+async function exportCsv(){
+  const btn = $("#exportCsv");
+  if(btn.disabled) return;
+  const total = Number(LAST.total || 0);
+  if(!total){ alert("내보낼 결과가 없습니다."); return; }
+
+  const q = await rpc("dl_take", {p_kind: "csv", p_n: 1}).catch(e => ({allowed:false, reason:e.message}));
+  if(!q || !q.allowed){
+    alert("내보내기 한도에 걸렸습니다.\n" + ((q && q.reason) || "") +
+          (q && q.limit ? "\n오늘 한도 " + q.limit + "회" : ""));
+    refreshQuota();
+    return;
+  }
+  refreshQuota();
+
+  const cols = curCols();
+  const want = Math.min(total, EXPORT_MAX);
+  const rows = [];
+  btn.disabled = true;
+  const label = btn.textContent;
+  try{
+    //  서버는 쪽 단위로만 주므로 나눠 받아 잇습니다. 한 번에 다 달라고 하면 응답이 너무 큽니다.
+    for(let off = 0; off < want; off += EXPORT_PAGE){
+      btn.textContent = "내보내는 중… " + Math.min(off + EXPORT_PAGE, want).toLocaleString("ko-KR") +
+                        "/" + want.toLocaleString("ko-KR");
+      const [fn, args] = buildQuery(Math.min(EXPORT_PAGE, want - off), off);
+      const res = await rpc(fn, args);
+      const got = (res && res.rows) || [];
+      rows.push(...got);
+      if(got.length < Math.min(EXPORT_PAGE, want - off)) break;
+    }
+    const head = cols.map(c => csvCell(c.label)).join(",");
+    const body = rows.map(r => cols.map(c => csvCell(c.val ? c.val(r) : r[c.key])).join(",")).join("\r\n");
+    //  엑셀이 한글을 깨뜨리지 않게 맨 앞에 BOM 을 넣습니다.
+    //  (Supabase 로 올리는 CSV 는 반대로 BOM 을 넣지 않습니다 — 목적이 다릅니다.)
+    const blob = new Blob(["\uFEFF" + head + "\r\n" + body], {type: "text/csv;charset=utf-8;"});
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = state.mode + "_검색결과.csv";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    if(total > EXPORT_MAX)
+      alert("결과가 " + total.toLocaleString("ko-KR") + "건이라 앞에서부터 " +
+            EXPORT_MAX.toLocaleString("ko-KR") + "건만 내보냈습니다.\n조건을 좁혀 나눠 받으십시오.");
+  }catch(e){
+    alert("내보내기에 실패했습니다 — " + e.message);
+  }finally{
+    btn.disabled = false;
+    btn.textContent = label;
+  }
+}
+
+// ===================== 조회 =====================
+let seq = 0;
+let LAST = {total:0, budget:null, rows:[]};
+
+function buildArgsBase(){
+  return {
+    p_years: state.years.size ? [...state.years] : null,
+    p_q: state.q.trim() || null,
+    p_sort: state.sort, p_desc: state.desc,
+    p_limit: state.size, p_offset: (state.page-1)*state.size,
+  };
+}
+
+//  탭별 검색 함수 이름과 인자를 한 곳에서 만듭니다 — 화면과 내보내기가 같은 조건을 쓰게 하려고.
+function buildQuery(limit, offset){
+  const base = Object.assign(buildArgsBase(), {p_limit: limit, p_offset: offset});
+  if(state.mode==="전부처"){
+    return ["allbiz_search", Object.assign(base, {
+      p_somewon: state.somewonA.size ? [...state.somewonA] : null,
+      p_sector:  state.sectorA.size  ? [...state.sectorA]  : null,
+    })];
+  }
+  const sw = curSomewonSet();
+  if(state.mode==="공고"){
+    const f = state.searchFields["공고"];
+    return ["gonggo_search", Object.assign(base, {
+      p_gubun: state.gubun,
+      p_somewon: sw.size ? [...sw] : null,
+      p_sector: state.sector.size ? [...state.sector] : null,
+      p_naesector: state.naeSector.size ? [...state.naeSector] : null,
+      p_f_name: f.has("name"), p_f_gonggomyeong: f.has("gonggomyeong"), p_f_suhaeng: f.has("suhaeng"),
+    })];
+  }
+  const f = state.searchFields["기본"];
+  const extra = {
+    p_gubun: state.gubun,
+    p_somewon: sw.size ? [...sw] : null,
+    p_sector: state.sector.size ? [...state.sector] : null,
+    p_f_name: f.has("name"), p_f_mokjeok: f.has("mokjeok"), p_f_suhye: f.has("suhye"),
+  };
+  if(state.mode==="내역"){
+    extra.p_naesector = state.naeSector.size ? [...state.naeSector] : null;
+    return ["naeyeok_search", Object.assign(base, extra)];
+  }
+  return ["sebu_search", Object.assign(base, extra)];
+}
+
+async function search(resetPage){
+  if(resetPage) state.page = 1;
+  const my = ++seq;
+  $("#tbody").classList.add("loading");
+  try{
+    const [fn, args] = buildQuery(state.size, (state.page-1)*state.size);
+    const res = await rpc(fn, args);
+    if(my!==seq) return;
+    LAST = res || {total:0, budget:null, rows:[]};
+    buildHead(); renderAll();
+  }catch(e){
+    if(my!==seq) return;
+    $("#tbody").innerHTML = "";
+    $("#empty").style.display = "block";
+    $("#empty").textContent = "조회 중 문제가 생겼습니다 — " + e.message;
+  }finally{
+    if(my===seq) $("#tbody").classList.remove("loading");
+  }
+}
+
+// ===================== 화면 그리기 =====================
+const UNIT_LABEL = {세부:"세부사업", 내역:"내역사업", 공고:"공고", 전부처:"재정사업"};
+function buildKpis(){
+  const total = Number(LAST.total || 0);
+  const unit = UNIT_LABEL[state.mode];
+  let html = "<div class='kpi'><div class='l'>" + unit + " 수</div><div class='v'>" +
+    total.toLocaleString("ko-KR") + " <small>건</small></div></div>";
+  if(LAST.budget != null){
+    html += "<div class='kpi'><div class='l'>" + unit + " 예산 합계</div><div class='v'>" +
+      numFmt(Math.round(LAST.budget)) + " <small>백만원</small></div></div>";
+  }
+  $("#kpis").innerHTML = html;
+}
+function renderRows(){
+  const cols = curCols();
+  const rows = LAST.rows || [];
+  const tb = $("#tbody");
+  tb.innerHTML = rows.map(r => "<tr>" + cols.map(c => c.cell ? c.cell(r)
+      : "<td class='" + (c.num ? "num" : (c.cls || "")) + "'>" +
+        (c.num ? numFmt(r[c.key]) : esc(c.val ? c.val(r) : r[c.key])) + "</td>").join("") + "</tr>").join("");
+  $("#empty").style.display = rows.length ? "none" : "block";
+}
+function renderPager(){
+  const total = Number(LAST.total || 0);
+  const from = total ? (state.page-1)*state.size + 1 : 0;
+  const to = Math.min(state.page*state.size, total);
+  $("#count").innerHTML = UNIT_LABEL[state.mode] + " 총 <b>" + total.toLocaleString("ko-KR") + "</b>건" +
+    (total ? " <span style='color:var(--muted)'>(" + from.toLocaleString("ko-KR") + "–" + to.toLocaleString("ko-KR") + ")</span>" : "");
+
+  const last = Math.max(1, Math.ceil(total / state.size));
+  const pg = $("#pager"); pg.innerHTML = "";
+  const mk = (t, to2, dis) => {
+    const b = document.createElement("button");
+    b.textContent = t; b.disabled = !!dis;
+    b.onclick = () => { state.page = to2; search(); };
+    pg.appendChild(b);
+  };
+  mk("« 처음", 1, state.page===1);
+  mk("‹ 이전", state.page-1, state.page===1);
+  const now = document.createElement("span");
+  now.className = "now";
+  now.textContent = state.page.toLocaleString("ko-KR") + " / " + last.toLocaleString("ko-KR");
+  pg.appendChild(now);
+  mk("다음 ›", state.page+1, state.page>=last);
+  mk("마지막 »", last, state.page>=last);
+}
+function renderAll(){ buildKpis(); renderRows(); renderPager(); }
+
+// ===================== 탭 전환 =====================
+async function setMode(mode, resetFilters){
+  state.mode = mode;
+  state.sort = DEFAULT_SORT[mode]; state.desc = true; state.page = 1;
+  if(resetFilters){
+    state.somewonC.clear(); state.somewonJ.clear();
+    state.sector.clear(); state.naeSector.clear();
+    state.somewonA.clear(); state.sectorA.clear();
+  }
+  buildRail();
+  try{ await ensureFilters(mode); }catch(e){ /* buildFilterPanel 이 빈 목록으로 처리합니다 */ }
+  buildFilterPanel();
+  buildAllChipGroups();
+  buildSearchFieldChips();
+  refreshQuota();          // 오늘 남은 내보내기·예산서 횟수
+  search(true);
+}
+
+$("#q").addEventListener("input", e => {
+  state.q = e.target.value;
+  clearTimeout(window.__qTimer);
+  window.__qTimer = setTimeout(() => search(true), 300);
+});
+$("#pageSize").addEventListener("change", e => { state.size = Number(e.target.value); search(true); });
+$("#exportCsv").addEventListener("click", exportCsv);
+$("#reset").addEventListener("click", () => {
+  const F = curFilters();
+  state.years = new Set(F.years && F.years.length ? [Math.max(...F.years)] : []);
+  state.somewonC.clear(); state.somewonJ.clear();
+  state.sector.clear(); state.naeSector.clear();
+  state.somewonA.clear(); state.sectorA.clear();
+  state.q = ""; $("#q").value = "";
+  state.extraCols = DEFAULT_EXTRA();
+  state.sort = DEFAULT_SORT[state.mode]; state.desc = true; state.page = 1;
+  buildFilterPanel(); buildAllChipGroups(); search(true);
+});
+
+// ===================== 로그인 이후 시작 =====================
+async function start(){
+  $("#login").style.display = "none";
+  $("#app").classList.add("on");
+  $("#whoEmail").textContent = (SESSION && SESSION.user && SESSION.user.email) || "";
+  try{
+    META = await rpc("biz_filters", {}) || META;
+    filterCache["biz_filters"] = META;
+  }catch(e){
+    $("#empty").style.display = "block";
+    $("#empty").textContent = "거르개 목록을 받지 못했습니다 — " + e.message;
+  }
+  if(META.gubuns && META.gubuns.indexOf(state.gubun) === -1 && META.gubuns.length) state.gubun = META.gubuns[0];
+  if(META.years && META.years.length) state.years = new Set([Math.max(...META.years)]);
+  buildRail();
+  buildFilterPanel();
+  buildAllChipGroups();
+  buildSearchFieldChips();
+  buildHead();
+  search(true);
+}
+
+$("#loginForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  const btn = $("#loginBtn");
+  btn.disabled = true;
+  $("#loginErr").textContent = "";
+  try{
+    if(!CFG.url || CFG.url.indexOf("<") >= 0)
+      throw new Error("config.js 에 Supabase 주소와 anon key 를 먼저 넣으십시오.");
+    const j = await authFetch("password", {email: $("#email").value.trim(), password: $("#pw").value});
+    saveSession(j);
+    start();
+  }catch(err){
+    $("#loginErr").textContent = err.message;
+  }finally{
+    btn.disabled = false;
+  }
+});
+
+// ===================== 회원가입 =====================
+//  @kosi.re.kr 만 가입할 수 있게 합니다. 여기서 거르는 건 사용자 경험용이고,
+//  실제 방어선은 setup.sql 의 restrict_signup_domain 트리거입니다(API 를 직접 두드리면 이 검사는 건너뜁니다).
+const KOSI_EMAIL_RE = /^[^@\s]+@kosi\.re\.kr$/i;
+
+$("#toSignup").addEventListener("click", () => {
+  $("#loginForm").style.display = "none";
+  $("#signupForm").style.display = "block";
+});
+$("#toLogin").addEventListener("click", () => {
+  $("#signupForm").style.display = "none";
+  $("#loginForm").style.display = "block";
+});
+
+$("#signupForm").addEventListener("submit", async e => {
+  e.preventDefault();
+  const btn = $("#signupBtn");
+  $("#signupErr").textContent = "";
+  $("#signupMsg").textContent = "";
+
+  const email = $("#suEmail").value.trim();
+  const pw = $("#suPw").value;
+  const pw2 = $("#suPw2").value;
+
+  if(!KOSI_EMAIL_RE.test(email)){
+    $("#signupErr").textContent = "@kosi.re.kr 이메일만 가입할 수 있습니다.";
+    return;
+  }
+  if(pw.length < 6){
+    $("#signupErr").textContent = "비밀번호는 6자 이상이어야 합니다.";
+    return;
+  }
+  if(pw !== pw2){
+    $("#signupErr").textContent = "비밀번호가 서로 다릅니다.";
+    return;
+  }
+
+  btn.disabled = true;
+  try{
+    if(!CFG.url || CFG.url.indexOf("<") >= 0)
+      throw new Error("config.js 에 Supabase 주소와 anon key 를 먼저 넣으십시오.");
+    const r = await fetch(CFG.url + "/auth/v1/signup", {
+      method: "POST",
+      headers: {"apikey": CFG.key, "Content-Type": "application/json"},
+      body: JSON.stringify({email, password: pw}),
+    });
+    const j = await r.json().catch(() => ({}));
+    if(!r.ok) throw new Error(j.msg || j.error_description || j.message || ("가입 실패 (" + r.status + ")"));
+
+    if(j.access_token){
+      //  이메일 확인(Confirm email)이 꺼져 있으면 가입과 동시에 로그인됩니다.
+      saveSession(j);
+      start();
+    }else{
+      $("#signupMsg").textContent = "가입 확인 이메일을 보냈습니다. 메일함을 확인한 뒤 로그인해 주세요.";
+      $("#suPw").value = ""; $("#suPw2").value = "";
+    }
+  }catch(err){
+    $("#signupErr").textContent = err.message;
+  }finally{
+    btn.disabled = false;
+  }
+});
+
+$("#logout").addEventListener("click", () => {
+  clearSession();
+  location.reload();
+});
+
+//  이미 로그인해 둔 세션이 있으면 바로 들어갑니다(만료됐으면 갱신을 시도하고, 실패하면 로그인 화면).
+(async function(){
+  if(!loadSession()) return;
+  try{ await freshToken(); start(); }
+  catch(e){ clearSession(); }
+})();
+</script>
+</body>
+</html>
