@@ -67,11 +67,12 @@
   .app{display:none}
   .app.on{display:block}
   .who{font-size:11.5px;color:var(--muted);font-weight:700;display:flex;align-items:center;gap:10px}
-  .who button{
+  .who button,.who a.guide{
     border:1px solid var(--line);background:#fff;color:var(--muted);
     border-radius:9px;padding:5px 11px;font-size:11.5px;font-weight:700;cursor:pointer;
   }
-  .who button:hover{border-color:var(--teal);color:var(--teal-d)}
+  .who a.guide{text-decoration:none;display:inline-block;line-height:1.5}
+  .who button:hover,.who a.guide:hover{border-color:var(--teal);color:var(--teal-d)}
   .hero{
     /* 옅은 점 무늬를 그라데이션 위에 한 겹 깝니다 — 넓은 띠가 밋밋해 보이지 않게 */
     background:
@@ -318,7 +319,7 @@
 </svg>
     <h1 class="sronly">사업돋보기 - 중소기업 지원사업 정보조회</h1>
   </div>
-  <div class="who"><span id="whoEmail"></span><button id="logout">로그아웃</button></div>
+  <div class="who"><span id="whoEmail"></span><a class="guide" href="사용안내서.html" target="_blank" rel="noopener">사용안내서</a><button id="logout">로그아웃</button></div>
 </div>
 
   <div class="wrap">
