@@ -1,0 +1,246 @@
+{
+  "시도": "서울특별시",
+  "지자체": "송파구",
+  "홈페이지": "https://www.songpa.go.kr",
+  "게시판": [
+    {
+      "이름": "연도별 사업예산서 (행정자료>사업예산서, 예산정보 페이지에서 링크)",
+      "URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&"
+    },
+    {
+      "이름": "송파구의회 의안정보",
+      "URL": "https://council.songpa.go.kr/kr/assembly/bill.do"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 송파구 사업예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19273897&key=3746",
+      "등록일": "2026-01-16",
+      "첨부파일": [
+        {
+          "파일명": "2026_estimate.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=159617&bbsNo=226&nttNo=19273897",
+          "크기": 12599898,
+          "저장경로": "files/2026/서울특별시_송파구/2026_estimate.pdf"
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; 기금운용계획 합본(PDF 목차 \"제2편 기금운용계획\" 확인)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 일반 및 특별회계 세입세출 추가경정예산안",
+      "게시판URL": "https://council.songpa.go.kr/kr/assembly/bill.do",
+      "게시물URL": "https://council.songpa.go.kr/kr/assembly/bill.do?reform=view&key=87171396a91797b128dddc286417ea7810cec84adae6c19803e1451954e381d04b391ad190b7a2eb&councilId=SONGPA",
+      "등록일": "2026-08-14",
+      "첨부파일": [
+        {
+          "파일명": "(2)2026년도 제1회 일반 및 특별회계 세입세출 추가경정예산안.hwpx",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=b79ee850fff639100d7444ca44f63ce8a5061db74ca1c15f44a019d7d9d2717fcd162344acb8b831",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(2)2026년도 제1회 일반 및 특별회계 세입세출 추가경정예산안.pdf",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=bb5cb8b2771b9fe28c6c13e93d28019860ef66590fe22afb1cbf4e729fc81fd06a7790f03f804f92",
+          "크기": 235571,
+          "저장경로": "files/2026/서울특별시_송파구/(2)2026년도 제1회 일반 및 특별회계 세입세출 추가경정예산안.pdf"
+        },
+        {
+          "파일명": "(2)-심사보고서-2026년도 제1회 일반 및 특별회계 세입·세출 추가경정예산안.hwpx",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=1f27c10d4f09a4360aac4c2dff6a17c0708dc6943b9178f15bd2ef65a1403bca806f760e2aaf93c5",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(2)-심사보고서-2026년도 제1회 일반 및 특별회계 세입·세출 추가경정예산안.pdf",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=4dd796d8870db2ecc5a0c7923686e141839a18233f4f9f1d9250eedafb6b3be0c2a266fd3290097d",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(2-1)-수정안-2026년도 제1회 일반 및 특별회계 세입·세출 추가경정예산안에 대한 수정안.hwpx",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=44e7b42397afe6edda353a033dff54d8cdf778bc9f9477c972867ea53b12548f68fb2bef87af649f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(2-1)-수정안-2026년도 제1회 일반 및 특별회계 세입·세출 추가경정예산안에 대한 수정안.pdf",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=c2c3572e4f3966400988892ce49a8fad98ed4707c70807a2144de3d9be1cad5afd0be901dbfff8a0",
+          "크기": 181341,
+          "저장경로": "files/2026/서울특별시_송파구/(2-1)-수정안-2026년도 제1회 일반 및 특별회계 세입·세출 추가경정예산안에 대한 수정안.pdf"
+        }
+      ],
+      "비고": "예산안. 출처: 송파구의회 의안정보(구 홈페이지 사업예산서 게시판에는 2026-10-05 현재 미게시). 등록일은 의안 제안일, 2026-09-03 원안가결. 첨부는 의안 본문(5쪽)·수정안 등으로 전체 예산서 아님. PDF만 다운로드(hwpx 중복본·심사보고서 제외)."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 기금운용계획 변경안",
+      "게시판URL": "https://council.songpa.go.kr/kr/assembly/bill.do",
+      "게시물URL": "https://council.songpa.go.kr/kr/assembly/bill.do?reform=view&key=6bcd285225cac70b22bd8310f7111b18e6441a38e7e79533289e6f6d6eaff714d78573caf008c518&councilId=SONGPA",
+      "등록일": "2026-08-14",
+      "첨부파일": [
+        {
+          "파일명": "(3)2026년도 기금운용계획 변경안.hwpx",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=dac7f6a2e3bdb73dc7752bf48fc41b56038134b2f03a51ebe6fcb3ecad81e9beeef39a1c8ac7fff9",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(3)2026년도 기금운용계획 변경안.pdf",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=9bb11ed58509129cbb2b712eed7e09233e4c5a14c3796b35186f5a04f1c2b0a8be3c1a9a6911b119",
+          "크기": 177267,
+          "저장경로": "files/2026/서울특별시_송파구/(3)2026년도 기금운용계획 변경안.pdf"
+        },
+        {
+          "파일명": "(3)-심사보고서-2026년도 기금운용계획변경안.hwpx",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=e597831325a778181b9462aa85bffef911a4aa603ce6c0aa14fe25133923e1cfe5907866758f7911",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(3)-심사보고서-2026년도 기금운용계획변경안.pdf",
+          "다운로드URL": "https://council.songpa.go.kr/common/billAttachDownload.do?key=2473f762338e93f352cbbc8ee1d63147748125c37f417a31ca7c9399c59980ad3916dcb4277cf95b",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경안(예산안). 출처: 송파구의회 의안정보. 등록일은 의안 제안일. 의안 본문 PDF만 다운로드(hwpx 중복본·심사보고서 제외)."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 송파구 사업예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19263458&key=3746",
+      "등록일": "2025-01-15",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년 송파구 사업예산서.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=149405&bbsNo=226&nttNo=19263458",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; 기금운용계획 별도 게시물 없음(합본 여부 미확인)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19266915&key=3746",
+      "등록일": "2025-06-19",
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 제1회 일반 및 특별회계 기금 추가경정예산서.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=153815&bbsNo=226&nttNo=19266915",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; "
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19269439&key=3746",
+      "등록일": "2025-09-02",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 제2회 추가경정예산서_（최종）.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=159573&bbsNo=226&nttNo=19269439",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; "
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19273896&key=3746",
+      "등록일": "2026-01-16",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년 제3회 세입세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=159576&bbsNo=226&nttNo=19273896",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; 등록일은 2026-01-16(2025 제3회 추경을 2026 본예산과 함께 게시)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 사업예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19257921&key=3746",
+      "등록일": "2024-05-22",
+      "첨부파일": [
+        {
+          "파일명": "2024estimate.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=140300&bbsNo=226&nttNo=19257921",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; 기금운용계획 별도 게시물 없음(합본 여부 미확인)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19262179&key=3746",
+      "등록일": "2024-11-28",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추가경정사업예산서.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=156020&bbsNo=226&nttNo=19262179",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; "
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정사업예산서",
+      "게시판URL": "https://www.songpa.go.kr/book/selectBbsNttList.do?bbsNo=226&key=3746&searchCtgry=%EC%82%AC%EC%97%85%EC%98%88%EC%82%B0%EC%84%9C&",
+      "게시물URL": "https://www.songpa.go.kr/book/selectBbsNttView.do?bbsNo=226&nttNo=19263457&key=3746",
+      "등록일": "2025-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정사업예산서.pdf",
+          "다운로드URL": "https://www.songpa.go.kr/book/downloadBbsFile.do?atchmnflNo=156021&bbsNo=226&nttNo=19263457",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "표지 이미지(jpg) 첨부는 제외; 등록일 2025-01-15"
+    }
+  ],
+  "비고": "홈페이지 사업예산서 게시판(e-book형)에 본예산·추경만 있고 기금운용계획 별도 게시물 없음. 2026 본예산 PDF에 기금운용계획 합본 확인. 2026 제1회 추경은 홈페이지 미게시라 구의회 의안 첨부(예산안)를 기록·다운로드. 게시물에 표지 jpg 첨부가 함께 있으나 제외."
+}

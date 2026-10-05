@@ -1,0 +1,444 @@
+{
+  "시도": "경기도",
+  "지자체": "오산시",
+  "홈페이지": "https://www.osan.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서 공개",
+      "URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100"
+    },
+    {
+      "이름": "기금운용계획 > 연도별자료",
+      "URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=175&mId=0202040200"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산 세입세출예산서(일반 및 특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=273401&ptIdx=173",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 오산시 세입세출예산서 ★_압축.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c13773cbc3d76e93a83691fff034d6554&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 17983821,
+          "저장경로": "files/2026/경기도_오산시/2026년도 오산시 세입세출예산서 ★_압축.pdf"
+        },
+        {
+          "파일명": "2026년도 세출예산사업명세서_검색가능.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c13773cbc3d76e93a83691fff034d6554&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 4841119,
+          "저장경로": "files/2026/경기도_오산시/2026년도 세출예산사업명세서_검색가능.pdf"
+        }
+      ],
+      "비고": "확정본. 기금운용계획은 별도 게시판(연도별자료)에 게시"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산 세입세출예산(안)(일반 및 기타특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=274980&ptIdx=173",
+      "등록일": "2026-03-25",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 세입세출예산(안)_압축.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c1693880f11cdc61da99c7d89145f5dc9&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 19800422,
+          "저장경로": "files/2026/경기도_오산시/2026년도 세입세출예산(안)_압축.pdf"
+        }
+      ],
+      "비고": "예산안 (확정본 게시 후 추가 게시됨)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=175&mId=0202040200",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202040200&bIdx=273442&ptIdx=175",
+      "등록일": "2026-01-05",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c577938cf12de8094f318377819a76d38&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 672049,
+          "저장경로": "files/2026/경기도_오산시/2026년도 기금운용계획서.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=275311&ptIdx=173",
+      "등록일": "2026-04-16",
+      "첨부파일": [
+        {
+          "파일명": "오산시_2026년도 제1회 일반회계 및 특별회계 추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32ce0e0d93771977ed56d69e78ffffa642b&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 83017521,
+          "저장경로": "files/2026/경기도_오산시/오산시_2026년도 제1회 일반회계 및 특별회계 추경 세입세출예산서.pdf"
+        }
+      ],
+      "비고": "확정본"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추경 세입세출예산(안)(일반 및 기타특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=275310&ptIdx=173",
+      "등록일": "2026-04-16",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 1회 추경 세입 세출예산(안).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c06b9407b24f9d2d6bb28126a1f69ef82&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 7044518,
+          "저장경로": "files/2026/경기도_오산시/2026년도 1회 추경 세입 세출예산(안).pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추경 일반 및 특별회계 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=276014&ptIdx=173",
+      "등록일": "2026-06-05",
+      "첨부파일": [
+        {
+          "파일명": "오산시_2026년도 제2회추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c8e4d4e9083d3e48110903a61bc026abe&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 30853044,
+          "저장경로": "files/2026/경기도_오산시/오산시_2026년도 제2회추경 세입세출예산서.pdf"
+        }
+      ],
+      "비고": "확정본"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추경 세입세출예산(안)(일반 및 기타특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=275653&ptIdx=173",
+      "등록일": "2026-05-12",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 2회 추경 세입 세출예산(안).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32ce3a1784f25393901eb53ec0afc0b7aa3&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 17943298,
+          "저장경로": "files/2026/경기도_오산시/2026년도 2회 추경 세입 세출예산(안).pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년도 제3회 추경 세입세출예산(안)(일반 및 기타특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=277496&ptIdx=173",
+      "등록일": "2026-09-10",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 3회 추경 세입 세출예산(안).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32cb061efb42c03c508a4c3f9bbf0f0d47f&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 23673333,
+          "저장경로": "files/2026/경기도_오산시/2026년도 3회 추경 세입 세출예산(안).pdf"
+        }
+      ],
+      "비고": "예산안 (확정본 미게시)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2026년도 제4회 추경 세입세출예산(안)(일반 및 기타특별회계)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=277498&ptIdx=173",
+      "등록일": "2026-09-10",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_제4회_추경_세입세출예산(안)(일반및기타특별회계).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32ce0b3a5290ddc005d1fe88c95bedc1661&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 5070525,
+          "저장경로": "files/2026/경기도_오산시/2026년도_제4회_추경_세입세출예산(안)(일반및기타특별회계).pdf"
+        }
+      ],
+      "비고": "예산안 (확정본 미게시)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=266480&ptIdx=173",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 예산서_홈페이지공고.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d3568aed5d28e2401835ebf8aea3c0804&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도 예산서_홈페이지공고.pdf 표시크기 9.0 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산 세입세출예산서(추가)",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=266643&ptIdx=173",
+      "등록일": "2025-01-08",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 세출예산사업명세서_검색가능.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d2129533bc96f3485b245d7d246039043&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 예산서(공기업 특별회계).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d2129533bc96f3485b245d7d246039043&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "추가 게시(세출예산사업명세서, 공기업 특별회계 예산서); 2025년도 세출예산사업명세서_검색가능.pdf 표시크기 4.7 MByte; 2025년도 예산서(공기업 특별회계).pdf 표시크기 18.9 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=175&mId=0202040200",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202040200&bIdx=266487&ptIdx=175",
+      "등록일": "2025-01-01",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d02220543195dc36071f68b1a37d742c7&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도 기금운용계획.pdf 표시크기 447.6 KByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=269035&ptIdx=173",
+      "등록일": "2025-04-21",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d03f47220226351b25e04e16fa1f37b36&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도 제1회 추경 세입세출예산서.pdf 표시크기 25.6 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=269926&ptIdx=173",
+      "등록일": "2025-06-04",
+      "첨부파일": [
+        {
+          "파일명": "오산시_2025년도 제2회 추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d23d1a306abb083352d65ea2bbd82ef9c&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "오산시_2025년도 제2회 추경 세입세출예산서.pdf 표시크기 83.9 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=272355&ptIdx=173",
+      "등록일": "2025-11-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년도3회추경 예산서-오산시.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d722cec411bc88dac0df89b6f52d29461&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도3회추경 예산서-오산시.pdf 표시크기 57.5 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=274673&ptIdx=173",
+      "등록일": "2026-03-12",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제4회 추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32cdfe5775f5f241e807e6268ec7ee9c11b&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도 제4회 추경 세입세출예산서.pdf 표시크기 3.2 MByte"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 추경 간주1차 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=274979&ptIdx=173",
+      "등록일": "2026-03-25",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 4회 추경 간주1차 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=20f80b78cd99d859ee53bc97a1cee32c09eb8aa576cda9006ef0db6213852f2e&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "간주처리(간주1차) 예산서; 2025년도 4회 추경 간주1차 세입세출예산서.pdf 표시크기 29.8 MByte"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 본예산 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=261021&ptIdx=173",
+      "등록일": "2023-12-29",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 세입세출예산서-내지.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=4be4ca8d2371e9be13c5aaa71f7c285b558c11d7589482e7ad84056064c65d1d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 세출예산사업명세서(일반 및 기타특별회계)_검색가능.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=4be4ca8d2371e9be13c5aaa71f7c285b558c11d7589482e7ad84056064c65d1d&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년도 세입세출예산서-내지.pdf 표시크기 3.5 MByte; 2024년도 세출예산사업명세서(일반 및 기타특별회계)_검색가능.pdf 표시크기 4.6 MByte"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=175&mId=0202040200",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202040200&bIdx=262890&ptIdx=175",
+      "등록일": "2024-05-22",
+      "첨부파일": [
+        {
+          "파일명": "★2024년도 기금운용계획(오산시).pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d65ca420f0e2681576f0314022c12e2b9&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "★2024년도 기금운용계획(오산시).pdf 표시크기 4.1 MByte"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=262822&ptIdx=173",
+      "등록일": "2024-05-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추경 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d1c1bfcf9910668dc3d7d17de2adab2f2&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 제1회 추경 세출예산(오산시 일반회계)_PDF검색가능.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d1c1bfcf9910668dc3d7d17de2adab2f2&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년도 제1회 추경 세입세출 예산서.pdf 표시크기 91.6 MByte; 2024년 제1회 추경 세출예산(오산시 일반회계)_PDF검색가능.pdf 표시크기 1.4 MByte"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=265660&ptIdx=173",
+      "등록일": "2024-11-19",
+      "첨부파일": [
+        {
+          "파일명": "세출예산사업명세서(일반회계)_PDF검색가능.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184dd04e087e446dc871bd053e5fcffe8ff9&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도+제2회추경+세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184dd04e087e446dc871bd053e5fcffe8ff9&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "세출예산사업명세서(일반회계)_PDF검색가능.pdf 표시크기 1.2 MByte; 2024년도+제2회추경+세입세출예산서.pdf 표시크기 84.0 KByte"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추경 세입세출예산서",
+      "게시판URL": "https://www.osan.go.kr/portal/bbs/list.do?ptIdx=173&mId=0202030100",
+      "게시물URL": "https://www.osan.go.kr/portal/bbs/view.do?mId=0202030100&bIdx=266941&ptIdx=173",
+      "등록일": "2025-01-20",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제3회추경 세입세출예산서.pdf",
+          "다운로드URL": "https://www.osan.go.kr/cmm/fms/FileDown.do?atchFileId=49b5ba710279911fc98cd40eb579184d7a3e009f0e1c96e61b1470542abb6687&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년도 제3회추경 세입세출예산서.pdf 표시크기 81.6 MByte"
+    }
+  ],
+  "비고": "정보공개 > 예산공개 > 예산서 공개 / 기금운용계획 > 연도별자료. 2024·2025 첨부 크기는 게시물 표시크기만 비고에 기록"
+}

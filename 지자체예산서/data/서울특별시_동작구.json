@@ -1,0 +1,230 @@
+{
+  "시도": "서울특별시",
+  "지자체": "동작구",
+  "홈페이지": "https://www.dongjak.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서 (행정정보>열린재정>예산서)",
+      "URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10731089&menuNo=200121",
+      "등록일": "2026-01-08",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 예산서(게시).pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=84f8a154bd30fb71c7ac578c37a85e68253ebf05b32c9c1e3c3b3e293e19f73a&fileSn=1",
+          "크기": 11815248,
+          "저장경로": "files/2026/서울특별시_동작구/2026년도 예산서(게시).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10731081&menuNo=200121",
+      "등록일": "2026-01-08",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=84f8a154bd30fb71c7ac578c37a85e68a6e2d2bd53eb0fd6645d040d307d7e62&fileSn=1",
+          "크기": 916844,
+          "저장경로": "files/2026/서울특별시_동작구/2026년도 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10751648&menuNo=200121",
+      "등록일": "2026-05-21",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제1회 추가경정예산서_게시.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=84f8a154bd30fb71c7ac578c37a85e684423241f8a56857eb0b36f4847187e29&fileSn=1",
+          "크기": 2551369,
+          "저장경로": "files/2026/서울특별시_동작구/2026년도 제1회 추가경정예산서_게시.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10692507&menuNo=200121",
+      "등록일": "2025-01-06",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=5a49f7ee2b27d9faaa87559737abc41a869d4c6f75868bbdd3c6c82cc77110c6&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10692506&menuNo=200121",
+      "등록일": "2025-01-06",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=5a49f7ee2b27d9faaa87559737abc41ae7d07609a92154480872f6ade89a9bc3&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10706377&menuNo=200121",
+      "등록일": "2025-07-01",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 추경 예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=5a49f7ee2b27d9faaa87559737abc41a070089ca648863d41edb25b9a3fb6b7d&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10712722&menuNo=200121",
+      "등록일": "2025-09-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회 추가 경정예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=84f8a154bd30fb71c7ac578c37a85e6844e8c17dccf7658e6fdb634afd5a73af&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10728523&menuNo=200121",
+      "등록일": "2025-12-25",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=84f8a154bd30fb71c7ac578c37a85e68616cae2dca3523c8e6ba9689d9db4987&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10673409&menuNo=200121",
+      "등록일": "2024-01-05",
+      "첨부파일": [
+        {
+          "파일명": "2024년 예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=ae3ec91af6ed6a31a8a0adaaca7a7cc9baee5dc741d22a1cf64b26d22ebd616c&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10673407&menuNo=200121",
+      "등록일": "2024-01-05",
+      "첨부파일": [
+        {
+          "파일명": "2024 기금운용계획.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=ae3ec91af6ed6a31a8a0adaaca7a7cc95c7fe6f04a3aca9e0c1d6cac832713ff&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10680829&menuNo=200121",
+      "등록일": "2024-07-05",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추경경정예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=b212dc23ec67e8a1d42456fb762c8a97603743a6cbfa541ed772e37822803c5d&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정예산서",
+      "게시판URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/list.do?menuNo=200121",
+      "게시물URL": "https://www.dongjak.go.kr/portal/bbs/B0000082/view.do?nttId=10691214&menuNo=200121",
+      "등록일": "2024-12-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.dongjak.go.kr/portal/cmmn/file/fileDown.do?atchFileId=b212dc23ec67e8a1d42456fb762c8a97f58b6c0c99f4e58b19ba7f9eafebe2c0&fileSn=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    }
+  ],
+  "비고": "동일 게시판에 본예산·기금운용계획·추경·성과계획서·성인지예산서·중기지방재정계획 게시. 2026년은 제1회 추경까지 게시(2026-10-05 기준). 다운로드URL은 fileDown.do 직접 링크."
+}

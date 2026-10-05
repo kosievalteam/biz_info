@@ -1,0 +1,521 @@
+{
+  "시도": "서울특별시",
+  "지자체": "도봉구",
+  "홈페이지": "https://www.dobong.go.kr",
+  "게시판": [
+    {
+      "이름": "열린행정 > 예산 > 사업예산서",
+      "URL": "https://www.dobong.go.kr/Contents.asp?code=10008831"
+    },
+    {
+      "이름": "열린행정 > 예산 > 기금운용계획",
+      "URL": "https://www.dobong.go.kr/Contents.asp?code=10008837"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 사업예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2026&csel=1",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년_도봉구_사업예산서.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026년_도봉구_사업예산서.pdf",
+          "크기": 14193104,
+          "저장경로": "files/2026/서울특별시_도봉구/2026년_도봉구_사업예산서.pdf"
+        },
+        {
+          "파일명": "2026_세입예산_일반회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세입예산_일반회계.pdf",
+          "크기": 838651,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세입예산_일반회계.pdf"
+        },
+        {
+          "파일명": "2026_세입예산_생활안정자금_특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세입예산_생활안정자금_특별회계.pdf",
+          "크기": 557801,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세입예산_생활안정자금_특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세입예산_의료급여기금_특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세입예산_의료급여기금_특별회계.pdf",
+          "크기": 551974,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세입예산_의료급여기금_특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세입예산_건축안전_특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세입예산_건축안전_특별회계.pdf",
+          "크기": 553109,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세입예산_건축안전_특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세입예산_주차장_특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세입예산_주차장_특별회계.pdf",
+          "크기": 572303,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세입예산_주차장_특별회계.pdf"
+        },
+        {
+          "파일명": "2026_의회사무국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_의회사무국_세출예산_일반.pdf",
+          "크기": 687116,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_의회사무국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_감사담당관_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_감사담당관_세출예산_일반.pdf",
+          "크기": 655167,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_감사담당관_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_행정안전국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_행정안전국_세출예산_일반.pdf",
+          "크기": 1364630,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_행정안전국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_기획재정국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_기획재정국_세출예산_일반.pdf",
+          "크기": 1068615,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_기획재정국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_미래환경국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_미래환경국_세출예산_일반.pdf",
+          "크기": 1475368,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_미래환경국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_복지가족국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_복지가족국_세출예산_일반.pdf",
+          "크기": 1533888,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_복지가족국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_도시관리국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_도시관리국_세출예산_일반.pdf",
+          "크기": 847612,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_도시관리국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_교통건설국_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_교통건설국_세출예산_일반.pdf",
+          "크기": 971794,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_교통건설국_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_보건소_세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_보건소_세출예산_일반.pdf",
+          "크기": 1383065,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_보건소_세출예산_일반.pdf"
+        },
+        {
+          "파일명": "2026_세출예산_생활안정자금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세출예산_생활안정자금특별회계.pdf",
+          "크기": 603431,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세출예산_생활안정자금특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세출예산_의료급여기금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세출예산_의료급여기금특별회계.pdf",
+          "크기": 605846,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세출예산_의료급여기금특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세출예산_건축안전특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세출예산_건축안전특별회계.pdf",
+          "크기": 633507,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세출예산_건축안전특별회계.pdf"
+        },
+        {
+          "파일명": "2026_세출예산_주차장특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2026/2026_세출예산_주차장특별회계.pdf",
+          "크기": 671402,
+          "저장경로": "files/2026/서울특별시_도봉구/2026_세출예산_주차장특별회계.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=538; 사업예산서 통합 PDF와 세입·세출(회계·국별) 분할 PDF 함께 게시; 기금운용계획은 별도 페이지"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008837",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008837&pageSelect=2026",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도_기금운용계획.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/2026/2026년도_기금운용계획.pdf",
+          "크기": 1519554,
+          "저장경로": "files/2026/서울특별시_도봉구/2026년도_기금운용계획.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=536"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: 사업예산서 페이지의 2026년 선택지는 '사업예산'만 존재(2026-10-05 확인). 언론 보도상 2026년 제2회 추경안까지 의결된 것으로 보이나 홈페이지 미게시, 구의회 사이트(council.dobong.go.kr)는 접속 불가(프록시 502)."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 사업예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2025&csel=1",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년_도봉구_사업예산서(최종).pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025년_도봉구_사업예산서(최종).pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세입예산_일반회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세입예산_일반회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세입예산_생활안정자금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세입예산_생활안정자금특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세입예산_의료급여기금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세입예산_의료급여기금특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세입예산_건축안전특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세입예산_건축안전특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세입예산_주차장특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세입예산_주차장특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_의회사무국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_의회사무국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_감사담당관세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_감사담당관세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_행정안전국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_행정안전국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_기획재정국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_기획재정국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_미래환경국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_미래환경국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_복지가족국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_복지가족국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도시관리국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_도시관리국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_교통건설국세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_교통건설국세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_보건소세출예산_일반.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_보건소세출예산_일반.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세출예산_생활안정자금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세출예산_생활안정자금특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세출예산_의료급여기금특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세출예산_의료급여기금특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세출예산_건축안전특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세출예산_건축안전특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_세출예산_주차장특별회계.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2025/2025_세출예산_주차장특별회계.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=487; 사업예산서 통합 PDF와 세입·세출(회계·국별) 분할 PDF 함께 게시; 기금운용계획은 별도 페이지"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008837",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008837&pageSelect=2025",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도_기금운용계획.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00021/2025년도_기금운용계획.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=489"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2025&csel=2",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도_제1회_추경_예산서.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/2025/2025년도_제1회_추경_예산서.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=514"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2025&csel=3",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제2회 일반.특별회계 세입.세출 추가경정예산서(인쇄본).pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/2025/2025년도 제2회 일반.특별회계 세입.세출 추가경정예산서(인쇄본).pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=521"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 사업예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2024&csel=1",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년예산서_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/2024년예산서_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/일반회계_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "생활안전자금_특별회계_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/생활안전자금_특별회계_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "의료급여기금_특별회계_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/의료급여기금_특별회계_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "건축안전_특별회계_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/건축안전_특별회계_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "주차장_특별회계_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/주차장_특별회계_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "의회사무국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/의회사무국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "감사담당관_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/감사담당관_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "홍보담당관_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/홍보담당관_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "행정안전국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/행정안전국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기획재정국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/기획재정국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "미래환경국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/미래환경국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "복지가족국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/복지가족국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "도시관리국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/도시관리국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "교통건설국_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/교통건설국_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "보건소_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/보건소_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "생활안전자금_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/생활안전자금_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "의료급여기금_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/의료급여기금_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "건축안전_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/건축안전_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "주차장_검색가능.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/주차장_검색가능.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=420; 사업예산서 통합 PDF와 세입·세출(회계·국별) 분할 PDF 함께 게시; 기금운용계획은 별도 페이지"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008837",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008837&pageSelect=2024",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년기금운용계획서.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00021/2024년기금운용계획서.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=418"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산",
+      "게시판URL": "https://www.dobong.go.kr/Contents.asp?code=10008831",
+      "게시물URL": "https://www.dobong.go.kr/Contents.asp?code=10008831&ysel=2024&csel=2",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도_제1회_추경_예산서.pdf",
+          "다운로드URL": "https://www.dobong.go.kr/FILE/link/www/depth03/FIGCOO_A6_00001/2024/2024년도_제1회_추경_예산서.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(연도·예산종류 선택형)라 게시물 등록일 없음; E-Book: https://ebook.dobong.go.kr/ecatalog5.asp?Dir=470"
+    }
+  ],
+  "비고": "도봉구는 게시판 대신 연도 선택형 콘텐츠 페이지로 예산서 제공(ysel=연도, csel=1 본예산/2 제1회 추경/3 제2회 추경). 등록일 표시 없음(페이지 최종수정일 2026-01-13). 2026년 추경은 홈페이지에서 미확인."
+}

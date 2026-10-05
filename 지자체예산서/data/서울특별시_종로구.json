@@ -1,0 +1,205 @@
+{
+  "시도": "서울특별시",
+  "지자체": "종로구",
+  "홈페이지": "https://www.jongno.go.kr",
+  "게시판": [
+    {
+      "이름": "행정정보 > 예산정보 > 예산정보",
+      "URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 사업예산서",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202601071003173800&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000214455",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2026 사업예산서_최종.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000214455&fileSn=1",
+          "크기": 4425599,
+          "저장경로": "files/2026/서울특별시_종로구/2026 사업예산서_최종.pdf"
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소; 기금운용계획은 별도 게시물(2026년 기금운용계획)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202601270919416940&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000215003",
+      "등록일": "2026-01-27",
+      "첨부파일": [
+        {
+          "파일명": "2026년 기금운용계획.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000215003&fileSn=1",
+          "크기": 1577807,
+          "저장경로": "files/2026/서울특별시_종로구/2026년 기금운용계획.pdf"
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": null,
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: 언론보도상 종로구의회 제353회 임시회에서 2026년도 제1회 추경(6,599억원) 의결되었으나 2026-10-05 기준 홈페이지 예산정보 게시판에 추경예산서 미게시"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2차 추가경정예산",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202510200325332400&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000212714",
+      "등록일": "2025-10-20",
+      "첨부파일": [
+        {
+          "파일명": "제2차 추경예산서(최종).pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000212714&fileSn=1",
+          "크기": 13747719,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 종로구 추가경정예산서",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202507090118433050&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000209247",
+      "등록일": "2025-07-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년 추가경정예산서_ 최종.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000209247&fileSn=1",
+          "크기": 4425449,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소; 제목·파일명에 회차 표기 없음 — 같은 해 이후 '제2차 추가경정예산'(2025-10-20) 게시가 있어 제1회로 기재"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 종로구 사업예산서",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202501091038363540&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000203554",
+      "등록일": "2025-01-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년 서울특별시 종로구 사업예산서_웹게시용.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000203554&fileSn=1",
+          "크기": 4511564,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소; 기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202501090121334230&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000203567",
+      "등록일": "2025-01-09",
+      "첨부파일": [
+        {
+          "파일명": "2. 종로구청 2025년 기금운용 본문 최종안_183p 웹용.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000203567&fileSn=1",
+          "크기": 909402,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202406180126001360&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000196974",
+      "등록일": "2024-06-18",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000196974&fileSn=1",
+          "크기": 1782002,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 종로구 사업예산서 (2024.1.1.조직개편)",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202401300249177110&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000192292",
+      "등록일": "2024-01-30",
+      "첨부파일": [
+        {
+          "파일명": "2024 사업명세서 조직개편 후_웹 검색용.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000192292&fileSn=1",
+          "크기": 6139955,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소; 2024.1.1. 조직개편 반영본(2024-01-30 재게시). 최초본은 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 종로구 사업예산서",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202401190911068240&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000191979",
+      "등록일": "2024-01-18",
+      "첨부파일": [
+        {
+          "파일명": "2024 사업예산서_개편전_웹 검색용_(최종본).pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000191979&fileSn=1",
+          "크기": 7452491,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소; 최초 게시본. 조직개편 반영본이 2024-01-30 별도 게시"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.jongno.go.kr/portal/bbs/selectBoardList.do?bbsId=BBSMSTR_000000000971&contentsDvCo=BG&menuId=1823&menuNo=1823",
+      "게시물URL": "https://www.jongno.go.kr/prevhtml/skin/doc.html?fn=FILE_202401290913322480&rs=/prevhtml/book/BBSMSTR_000000000971/FILE_000000000192211",
+      "등록일": "2024-01-29",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획.pdf",
+          "다운로드URL": "https://www.jongno.go.kr/cmm/fms/FileDown.do?atchFileId=FILE_000000000192211&fileSn=1",
+          "크기": 1109025,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판은 상세페이지 없이 목록에서 e-book 보기/다운로드만 제공 — 게시물URL은 e-book 보기 주소"
+    }
+  ],
+  "비고": "예산정보 게시판(BBSMSTR_000000000971)에 사업예산서·기금운용계획·추경·성인지·성과계획서 등이 개별 게시물로 등록됨. 2024년 제2회 추경 게시물은 게시판에 없음(편성 여부 미확인). 2026년 추경은 게시판 미게시로 미확인."
+}

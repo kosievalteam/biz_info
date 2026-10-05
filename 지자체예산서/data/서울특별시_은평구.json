@@ -1,0 +1,180 @@
+{
+  "시도": "서울특별시",
+  "지자체": "은평구",
+  "홈페이지": "https://www.ep.go.kr",
+  "게시판": [
+    {
+      "이름": "예산/결산 > 사업예산서",
+      "URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942"
+    },
+    {
+      "이름": "예산/결산 > 기금운용계획",
+      "URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=157&key=1946"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 사업예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=310345",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도 사업예산서(검색가능).pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=217529",
+          "크기": 13886050,
+          "저장경로": "files/2026/서울특별시_은평구/2026년도 사업예산서(검색가능).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시; 목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=157&key=1946",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1946&bbsNo=157&nttNo=313310",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2026 기금운용계획.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1946&bbsNo=157&atchmnflNo=219020",
+          "크기": 1977097,
+          "저장경로": "files/2026/서울특별시_은평구/★2026 기금운용계획.pdf"
+        }
+      ],
+      "비고": "목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1차 추가경정예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=318758",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년 1회 추경예산서.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=223168",
+          "크기": 749172,
+          "저장경로": "files/2026/서울특별시_은평구/2026년 1회 추경예산서.pdf"
+        }
+      ],
+      "비고": "목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 사업예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=293287",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 사업예산서.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=202318",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판에 게시; 목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=157&key=1946",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1946&bbsNo=157&nttNo=293758",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년 기금운용계획.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1946&bbsNo=157&atchmnflNo=202744",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1차 추가경정예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=301681",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회추경예산서.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=208645",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 2025년 추경은 제1차만 게시됨; 목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 사업예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=276367",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업예산서.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=189256",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판에 게시; 목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=157&key=1946",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1946&bbsNo=157&nttNo=276370",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1946&bbsNo=157&atchmnflNo=189259",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록·상세에 등록일 표시 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 1차추가경정예산서",
+      "게시판URL": "https://www.ep.go.kr/www/selectBbsNttList.do?bbsNo=134&key=1942",
+      "게시물URL": "https://www.ep.go.kr/www/selectBbsNttView.do?key=1942&bbsNo=134&nttNo=285952",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 세입.세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.ep.go.kr/www/downloadBbsFile.do?key=1942&bbsNo=134&atchmnflNo=196145",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 2024년 추경은 1차만 게시됨; 목록·상세에 등록일 표시 없음"
+    }
+  ],
+  "비고": "http→https 리다이렉트가 http로 돌아가므로 https://www.ep.go.kr/www/... 로 직접 접근. 2026년 추경은 제1차까지 게시(2026-10-05 기준)."
+}

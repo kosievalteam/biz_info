@@ -1,0 +1,200 @@
+{
+  "시도": "서울특별시",
+  "지자체": "강동구",
+  "홈페이지": "https://www.gangdong.go.kr",
+  "게시판": [
+    {
+      "이름": "연도별예산서 (강동예산)",
+      "URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026회계연도 일반회계 및 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/154568",
+      "등록일": "2026-01-09",
+      "첨부파일": [
+        {
+          "파일명": "2026회계연도 일반회계 및 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/ae78f46f17bc4732a071a2e995e3ab8c",
+          "크기": 6403630,
+          "저장경로": "files/2026/서울특별시_강동구/2026회계연도 일반회계 및 특별회계 세입세출 예산서.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026회계연도 기금운용계획",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/154645",
+      "등록일": "2026-01-16",
+      "첨부파일": [
+        {
+          "파일명": "2026회계연도 기금운용계획 최종.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/c4dcea01d57a48e1a28f4e5943bb2436",
+          "크기": 670209,
+          "저장경로": "files/2026/서울특별시_강동구/2026회계연도 기금운용계획 최종.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026회계연도 제1회 일반회계 및 특별회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/156309",
+      "등록일": "2026-05-21",
+      "첨부파일": [
+        {
+          "파일명": "260511 (확정) 2026년 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/20d58d00bfa04f2e9a399552130cd7f7",
+          "크기": 798383,
+          "저장경로": "files/2026/서울특별시_강동구/260511 (확정) 2026년 제1회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025회계연도 일반회계 및 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/147495",
+      "등록일": "2024-12-30",
+      "첨부파일": [
+        {
+          "파일명": "2025회계연도 일반회계 및 특별회계 세입세출예산서_opt.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/6e97f56b99ca4b7fb6ce5e5794aeb955",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025회계연도 기금운용계획",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/147493",
+      "등록일": "2024-12-30",
+      "첨부파일": [
+        {
+          "파일명": "(내지)2025회계연도 기금운용계획_9.1mm.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/2c01c41c6dd742d68b66ce96187207e7",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025회계연도 제1회 일반회계 및 특별회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/150187",
+      "등록일": "2025-07-03",
+      "첨부파일": [
+        {
+          "파일명": "(최종) 2025 세입세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/29bcec1b2dc64535977b9adec2fed459",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025회계연도 제2회 일반회계 및 특별회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/151988",
+      "등록일": "2025-11-05",
+      "첨부파일": [
+        {
+          "파일명": "2025회계연도 제2회 일반회계 및 특별회계 세입·세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/66f76fb5523b4fa9979931139f4937bf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024회계연도 일반회계 및 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/141794",
+      "등록일": "2023-12-29",
+      "첨부파일": [
+        {
+          "파일명": "2024회계연도 세입세출예산서(_1).pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/77f27714e404452eb539de09d4ec29d5",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024회계연도 세입세출예산서(_2).pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/852fff68e5c1460881b47d16df430cc9",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨; 분할 첨부 2권"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024회계연도 기금운용계획",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/141796",
+      "등록일": "2023-12-29",
+      "첨부파일": [
+        {
+          "파일명": "2024회계연도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/53e83ed1da2042f3b798038a2ac339f7",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024회계연도 제1회 일반회계 및 특별회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057",
+      "게시물URL": "https://www.gangdong.go.kr/web/newportal/bbs/b_057/145342",
+      "등록일": "2024-07-12",
+      "첨부파일": [
+        {
+          "파일명": "2024회계연도 제1회 세입세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangdong.go.kr/web/newportal/file/download/uu/2ffbc3d1305346be9e19a3618dcf5219",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    }
+  ],
+  "비고": "2026년은 제1회 추경까지 게시(2026-10-05 기준). 2024년은 제1회 추경만 게시. 추경 시 기금운용계획 변경 별도 게시물 없음."
+}

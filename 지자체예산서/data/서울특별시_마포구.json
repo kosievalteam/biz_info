@@ -1,0 +1,787 @@
+{
+  "시도": "서울특별시",
+  "지자체": "마포구",
+  "홈페이지": "https://www.mapo.go.kr",
+  "게시판": [
+    {
+      "이름": "열린재정 > 예·결산서 > 예산서(연도별 콘텐츠 페이지)",
+      "URL": "https://www.mapo.go.kr/site/main/content/mapo03020301"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026 예산서 (예산규모·세입예산서·세출예산서)",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "1. 총괄-예산총칙.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/52f9e04d11cc4e2eb7b468f16f2bff1d",
+          "크기": 51345,
+          "저장경로": "files/2026/서울특별시_마포구/1. 총괄-예산총칙.pdf"
+        },
+        {
+          "파일명": "2. 총괄-회계별예산규모.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/14a02c284ba04a77943fb1627fb479aa",
+          "크기": 44174,
+          "저장경로": "files/2026/서울특별시_마포구/2. 총괄-회계별예산규모.pdf"
+        },
+        {
+          "파일명": "3. 명시이월 사업조서.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/5c2c9b34bedd46dba29a8dc93dc33180",
+          "크기": 161413,
+          "저장경로": "files/2026/서울특별시_마포구/3. 명시이월 사업조서.pdf"
+        },
+        {
+          "파일명": "4. 세입-세입총괄(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/071f7357921d4c90a0b8b8f9db984f86",
+          "크기": 61175,
+          "저장경로": "files/2026/서울특별시_마포구/4. 세입-세입총괄(전체).pdf"
+        },
+        {
+          "파일명": "5. 세입-세입총괄(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/36f6b95a465b4aa48372a25141ea8c82",
+          "크기": 60819,
+          "저장경로": "files/2026/서울특별시_마포구/5. 세입-세입총괄(일반회계).pdf"
+        },
+        {
+          "파일명": "6. 세입-세입총괄(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/a330a9baeb0648e7900560d80c7f8777",
+          "크기": 52487,
+          "저장경로": "files/2026/서울특별시_마포구/6. 세입-세입총괄(특별회계).pdf"
+        },
+        {
+          "파일명": "7. 세입-세입예산서(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ad002be2841e4761ab6d10b3aa160e42",
+          "크기": 57253,
+          "저장경로": "files/2026/서울특별시_마포구/7. 세입-세입예산서(전체).pdf"
+        },
+        {
+          "파일명": "8. 세입-세입예산서(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d96b0a02cddd48d7832f2fd556bdf19b",
+          "크기": 56791,
+          "저장경로": "files/2026/서울특별시_마포구/8. 세입-세입예산서(일반회계).pdf"
+        },
+        {
+          "파일명": "9. 세입-세입예산서(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ad87374afb2e4a5ba200e3d2c89e4634",
+          "크기": 49805,
+          "저장경로": "files/2026/서울특별시_마포구/9. 세입-세입예산서(특별회계).pdf"
+        },
+        {
+          "파일명": "10. 세출-기능별(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/64a35071424c4ffbb0bf7a9837654c0f",
+          "크기": 68610,
+          "저장경로": "files/2026/서울특별시_마포구/10. 세출-기능별(전체).pdf"
+        },
+        {
+          "파일명": "11. 세출-기능별(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d7fff196f2614afaa3e9987f6853b212",
+          "크기": 67892,
+          "저장경로": "files/2026/서울특별시_마포구/11. 세출-기능별(일반회계).pdf"
+        },
+        {
+          "파일명": "12. 세출-기능별(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/8ed69d1ed8eb42558f61acbc2d29e919",
+          "크기": 49893,
+          "저장경로": "files/2026/서울특별시_마포구/12. 세출-기능별(특별회계).pdf"
+        },
+        {
+          "파일명": "13. 세출-조직별(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/9a485e940580498ca96f08a0cf72a1ba",
+          "크기": 71648,
+          "저장경로": "files/2026/서울특별시_마포구/13. 세출-조직별(전체).pdf"
+        },
+        {
+          "파일명": "14. 세출-조직별(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ccefbb74dd054d899884ee12fc50f7a0",
+          "크기": 71319,
+          "저장경로": "files/2026/서울특별시_마포구/14. 세출-조직별(일반회계).pdf"
+        },
+        {
+          "파일명": "15. 세출-조직별(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/89b7252ada3b4b8692704ddbdf4281d6",
+          "크기": 50939,
+          "저장경로": "files/2026/서울특별시_마포구/15. 세출-조직별(특별회계).pdf"
+        },
+        {
+          "파일명": "16. 세출-성질별(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/4f0e7c4312924f2fbe153019dc0f375e",
+          "크기": 102745,
+          "저장경로": "files/2026/서울특별시_마포구/16. 세출-성질별(전체).pdf"
+        },
+        {
+          "파일명": "17. 세출-성질별(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/9370052a747e4109884c21908f472845",
+          "크기": 97860,
+          "저장경로": "files/2026/서울특별시_마포구/17. 세출-성질별(일반회계).pdf"
+        },
+        {
+          "파일명": "18. 세출-성질별(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/aaed0c8019c346c8bce06888c6d62402",
+          "크기": 68744,
+          "저장경로": "files/2026/서울특별시_마포구/18. 세출-성질별(특별회계).pdf"
+        },
+        {
+          "파일명": "19. 세출-세출예산서(전체).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/8750ed27405a467f93dc542cdbc33e8f",
+          "크기": 286612,
+          "저장경로": "files/2026/서울특별시_마포구/19. 세출-세출예산서(전체).pdf"
+        },
+        {
+          "파일명": "20. 세출-세출예산서(일반회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/483a4394d9f9492d863533f3a03ee6d1",
+          "크기": 269096,
+          "저장경로": "files/2026/서울특별시_마포구/20. 세출-세출예산서(일반회계).pdf"
+        },
+        {
+          "파일명": "21. 세출-세출예산서(특별회계).pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2c5c02695c01478fb8ffe970e8f5ef0f",
+          "크기": 79179,
+          "저장경로": "files/2026/서울특별시_마포구/21. 세출-세출예산서(특별회계).pdf"
+        },
+        {
+          "파일명": "22. 세입예산서-일반회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/dc15e18355c14773b565ae6179a5a0a8",
+          "크기": 331270,
+          "저장경로": "files/2026/서울특별시_마포구/22. 세입예산서-일반회계.pdf"
+        },
+        {
+          "파일명": "23. 세입예산서-의료급여기금특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/05a698fff2b44e8692870189770f5adb",
+          "크기": 45396,
+          "저장경로": "files/2026/서울특별시_마포구/23. 세입예산서-의료급여기금특별회계.pdf"
+        },
+        {
+          "파일명": "24. 세입예산서-마포농수산물시장특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2385d22be93b48baab908c88dedc8692",
+          "크기": 56329,
+          "저장경로": "files/2026/서울특별시_마포구/24. 세입예산서-마포농수산물시장특별회계.pdf"
+        },
+        {
+          "파일명": "25. 세입예산서-주차장특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2bc03e65c82c4daeab9ef7e730226ee9",
+          "크기": 80354,
+          "저장경로": "files/2026/서울특별시_마포구/25. 세입예산서-주차장특별회계.pdf"
+        },
+        {
+          "파일명": "26. 세입예산서-발전소주변지역지원사업특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/31a0f0beb9af4efabd5b4d8d04122de2",
+          "크기": 43628,
+          "저장경로": "files/2026/서울특별시_마포구/26. 세입예산서-발전소주변지역지원사업특별회계.pdf"
+        },
+        {
+          "파일명": "27. 세입예산서-건축안전특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/0223b3a86c9c4494aa7a0171b6525ce6",
+          "크기": 46659,
+          "저장경로": "files/2026/서울특별시_마포구/27. 세입예산서-건축안전특별회계.pdf"
+        },
+        {
+          "파일명": "28. 세입예산서-화력발전지역자원시설세특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d818fc57430940d3aab1e5e4eccc4e89",
+          "크기": 45306,
+          "저장경로": "files/2026/서울특별시_마포구/28. 세입예산서-화력발전지역자원시설세특별회계.pdf"
+        },
+        {
+          "파일명": "29. 세출예산서-일반회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d53f64c04d1841008e1df970630c8103",
+          "크기": 5085306,
+          "저장경로": "files/2026/서울특별시_마포구/29. 세출예산서-일반회계.pdf"
+        },
+        {
+          "파일명": "30. 세출예산서-의료급여기금특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/96d9af4f7d4f44d59d28d4d43def240f",
+          "크기": 73786,
+          "저장경로": "files/2026/서울특별시_마포구/30. 세출예산서-의료급여기금특별회계.pdf"
+        },
+        {
+          "파일명": "31. 세출예산서-마포농수산물시장특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/5c41b1549f9e42ae936981140365e472",
+          "크기": 50438,
+          "저장경로": "files/2026/서울특별시_마포구/31. 세출예산서-마포농수산물시장특별회계.pdf"
+        },
+        {
+          "파일명": "32. 세출예산서-주차장특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/06b5d9385d3c41d991034e3471b038bd",
+          "크기": 205156,
+          "저장경로": "files/2026/서울특별시_마포구/32. 세출예산서-주차장특별회계.pdf"
+        },
+        {
+          "파일명": "33. 세출예산서-발전소주변지역지원사업특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/23fff43f49014e679cd6e74e7fc31dab",
+          "크기": 44034,
+          "저장경로": "files/2026/서울특별시_마포구/33. 세출예산서-발전소주변지역지원사업특별회계.pdf"
+        },
+        {
+          "파일명": "34. 세출예산서-건축안전특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/6a0fd3032a2c453fb2d365887db352c8",
+          "크기": 82810,
+          "저장경로": "files/2026/서울특별시_마포구/34. 세출예산서-건축안전특별회계.pdf"
+        },
+        {
+          "파일명": "35. 세출예산서-화력발전지역자원시설세특별회계.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/42a67e49eec14fa59411b65f75f5be15",
+          "크기": 59655,
+          "저장경로": "files/2026/서울특별시_마포구/35. 세출예산서-화력발전지역자원시설세특별회계.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 콘텐츠 페이지(예·결산서>예산서)에 링크 게시 — 등록일 표시 없음. 파일명은 링크 문구 기준(2026은 실제 다운로드 파일명). 기금운용계획은 별도 링크로 게시"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026 기금운용계획",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/17c994c98254443fb12bfee8917fe049",
+          "크기": 672057,
+          "저장경로": "files/2026/서울특별시_마포구/2026년도 기금운용계획.pdf"
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 별도 링크, 등록일 표시 없음"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인 — 홈페이지 예산서 페이지에 2026 추경 섹션이 HTML 주석 처리되어 미게시(2026-10-05 확인). 언론보도상 2026년 9월 마포구의회 제286회 정례회에서 제1회 추경(9,627억원) 수정가결됨"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025 예산서 (예산규모·세입예산서·세출예산서)",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025 예산총칙",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fdc1bfacdec548f88b3e45f88d6385cc",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 회계별 예산규모",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/96adc656e2e74970a9e22792cede1e90",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 명시이월 사업조서",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/0e3921c821214df19f6240685c75494a",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입총괄(전체)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/09415c5eefad4b0eb5a52bc3464b754b",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입총괄(일반회계)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/92526c477e5e4be7a0c21be040c66fb7",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입총괄(특별회계)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d5628be5f1a24223898a44f8f4ff1272",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입예산서[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/6018e7d51388416486f2f01b541cea97",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입예산서[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/e30ab38377cb4162a16b1ef9fd3f4941",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입예산서[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/12d44be095eb46ec910b9be6037b11e8",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 기능별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/013fe6dd186945a29fbb0a188c071e57",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 기능별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/7d945221febb4d04a8ce2fa8d0c26ba0",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 기능별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2e221c2a4b42404494deaa8e61d1fb99",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 조직별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ba1d0a208c7a4611a15b9a9a9b356fa5",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 조직별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/b0c52b7350f74619b74d89cbe45ac548",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 조직별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/48fea7dc27a245c18478e95c532338f4",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 성질별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/55826d97a2e1424289dc5358f552cfe7",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 성질별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/a70bb6032cde4a89847198a41d56c088",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 성질별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/bca5af97721444a69ef64b56665f68ec",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출예산서(전체)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/82b801ed64204ea0a6153b260be4cea9",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출예산서(일반)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2761eb3056f6473ab09f498af4cab47c",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출예산서(특별)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/1fcc02e4f2a14e11a50ee080c8298127",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_일반회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ed47a9cd881441d48b6e2aef90ead673",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_의료급여기금특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/43876864a5f048058aed6596301d2e06",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_마포농수산물시장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/bba158330a80456ea1ce1bfb836cdb43",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_주차장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/53e48036cbc6488ca53c2ca17d349b03",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_발전소주변지역지원사업특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/87f6654452714f9aabc7412de21da50e",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세입_건축안전특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/5592ba0a7a9a41f688f2dd18c90656eb",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_일반회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/6c876c10bf764a92947be9a7a967792e",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_의료급여기금특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fc06e3736da24683b7c51b39c1db9021",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_마포농수산물시장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/4789e97de21f4edda4428cbc262ed949",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_주차장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/5e314a55aff74acfa5889af8349af3a7",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_발전소주변지역지원사업특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/04f477d347984a80a64b371116fd63d5",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025 세출_건축안전특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/6986028aa8164d91bb03391111ec563c",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 콘텐츠 페이지(예·결산서>예산서)에 링크 게시 — 등록일 표시 없음. 파일명은 링크 문구 기준(2026은 실제 다운로드 파일명). 기금운용계획은 별도 링크로 게시"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025 기금운용계획",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025 기금운용계획",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/15af7b1cc9d048638f045ebbf90ba1da",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 별도 링크, 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025 제1회 추가경정예산서",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025 제1회 추가경정예산서(일반·특별)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/aacd125e5ca34c0eb06ab24dacc74b25",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 링크, 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025 제2회 추가경정예산서",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025 제2회 추가경정예산서(일반·특별)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/c7fa020b862046f991d80b8ae0141f73",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 링크, 등록일 표시 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024 예산서 (예산규모·세입예산서·세출예산서)",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024 예산총칙",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/f84e7e70957646f0abaab41de15a965f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 회계별 예산규모",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/f9d89dad47654ef9bc3dc452d1f88b89",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 명시이월 사업조서",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d741512995bd470ebedcf473b37726bd",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입총괄(전체)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/c9eedc2e54d4431481cd4606ddf9a514",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입총괄(일반회계)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/f763ed094e514d91a7620c5d5ae84e79",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입총괄(특별회계)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fe6371a1c7da43c0a4b4fc10b4211c4a",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입예산서[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/7f5203db5b674807817edcbc2db580f6",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입예산서[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/ecc48796077f4117b2b3e58dd714c7cd",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입예산서[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/86de9f5739ea435eb90cd659c8d048c5",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 기능별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/460d97d3df064baaa10e5a151ee76f21",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 기능별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/bfc68324326141f29a77cb199d8ecc17",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 기능별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/59f7e9b6f601409d9cb5933b13b1e7f8",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 조직별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/23765435c2584abcacc0c6f7ac23e17f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 조직별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/181eccca6cda4dcb842400fff33f0abf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 조직별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/343e3ecd7d2a4e2a97fd7db3d6134645",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 성질별[전체]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/64768b68302342a9a545f48e6a3a1d8b",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 성질별[일반회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/f9e48e3c91e24e30b7b9baf9dea49ccc",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 성질별[특별회계]",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fb3cf0645c454615a18d2c9f75ff3a01",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출예산서(전체)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/de905af99f8f4462be82a9cf8f6e330f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출예산서(일반)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/d285aa63f90b49bfb7403b10fb71f4ae",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출예산서(특별)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/231aa6a88f4f4a539d9ef216a1c7ac51",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_일반회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fe61373488b34101a2e85ab2e264944f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_세입예산이체내역서",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/4b1a7087a84941a1a64e7c5d13d1a770",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_의료급여기금특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/b2f72d9aa32f4d0e825ca2a0973e59ec",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_마포농수산물시장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/2f3d25748ee34fba8c26cc46149b241c",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_주차장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/94c60c68f5514ab686da30245d5dd7dc",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_발전소주변지역지원사업특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/f04290221a674cfd8e48ec7cb6b5d6db",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세입_건축안전특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/fc69669e1666463f9fea30c896fb23c4",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_일반회계 세출예산서 전체",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/683330e917b542ae945d6b322d88e05f",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_세출예산이체내역서",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/82622749da5d42a0be7abc8313dec038",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_의료급여기금특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/9a91e7abf6b542b2b496924b4417a835",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_마포농수산물시장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/aaa2d293a7a6451f9867de9c94e93cb8",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_주차장특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/7a0f2d80e46e4b6687350bfc30564225",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_발전소주변지역지원사업특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/b4070246940c4c11b38e7b62a4089b76",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 세출_건축안전특별회계",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/5b11962ae1d24f71b8442068204e7d86",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 콘텐츠 페이지(예·결산서>예산서)에 링크 게시 — 등록일 표시 없음. 파일명은 링크 문구 기준(2026은 실제 다운로드 파일명). 기금운용계획은 별도 링크로 게시"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024 기금운용계획",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024 기금운용계획",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/0db6287889284a35bbf458bea7802414",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 별도 링크, 등록일 표시 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024 제1회 추가경정예산서",
+      "게시판URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "게시물URL": "https://www.mapo.go.kr/site/main/content/mapo03020301",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024 제1회 추가경정예산서(일반·특별)",
+          "다운로드URL": "https://www.mapo.go.kr/site/main/file/download/uu/08021d4e7dc3432fa6a9459ee42d5ae2",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "콘텐츠 페이지 내 링크, 등록일 표시 없음"
+    }
+  ],
+  "비고": "마포구는 게시판 형식이 아니라 한 콘텐츠 페이지에 연도별 예산서 PDF 링크를 나열(예산규모/세입/세출 회계별 분할, 기금운용계획·추경 별도 링크). 등록일은 페이지에 표시되지 않아 null. 성인지예산서·성과계획서·중기지방재정계획은 대상 외라 제외."
+}

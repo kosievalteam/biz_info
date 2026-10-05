@@ -1,0 +1,176 @@
+{
+  "시도": "서울특별시",
+  "지자체": "용산구",
+  "홈페이지": "https://www.yongsan.go.kr",
+  "게시판": [
+    {
+      "이름": "행정정보 > 우리구 살림 > 예산일반현황",
+      "URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정 사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=769182&menuNo=200921",
+      "등록일": "2026-10-02",
+      "첨부파일": [
+        {
+          "파일명": "2026 제1회 추가경정 사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=b607096039e045518646af58394a81a0&fileSn=1",
+          "크기": 6622183,
+          "저장경로": "files/2026/서울특별시_용산구/2026 제1회 추가경정 사업예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=740377&menuNo=200921",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=21ebae3a3a6e44859ef371b82452eeb6&fileSn=1",
+          "크기": 7328239,
+          "저장경로": "files/2026/서울특별시_용산구/2026년도 사업예산서.pdf"
+        }
+      ],
+      "비고": "게시판 명칭 '사업예산서'. 기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=740380&menuNo=200921",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "(용산구)_2026년도_기금운용계획.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=7d8ce046a57e4b0db19867e37c47e639&fileSn=1",
+          "크기": 821420,
+          "저장경로": "files/2026/서울특별시_용산구/(용산구)_2026년도_기금운용계획.pdf"
+        }
+      ],
+      "비고": "별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=701755&menuNo=200921",
+      "등록일": "2025-07-03",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 추가경정사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=bcafe16a226c404294baa8f43c726d3a&fileSn=1",
+          "크기": 5941754,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=686494&menuNo=200921",
+      "등록일": "2024-12-30",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=9400386e75ed46ecbb8934f5be7e2ae6&fileSn=1",
+          "크기": 7994358,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판 명칭 '사업예산서'. 기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=686528&menuNo=200921",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "(용산구)2025년 기금운용계획.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=eca859da8417492fa1d54c99bd9232ec&fileSn=1",
+          "크기": 1873976,
+          "저장경로": null
+        }
+      ],
+      "비고": "별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정 사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=678596&menuNo=200921",
+      "등록일": "2024-07-09",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정 사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=cb4795390ce04a8c9c2a4ac62276ec83&fileSn=1",
+          "크기": 4878364,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 사업예산서",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=670520&menuNo=200921",
+      "등록일": "2023-12-27",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업예산서.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=456a7d79ef26495cb3ee6f142e57ca51&fileSn=1",
+          "크기": 5286470,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판 명칭 '사업예산서'. 기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획",
+      "게시판URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/list.do?menuNo=200921",
+      "게시물URL": "https://www.yongsan.go.kr/portal/bbs/B0000035/view.do?nttId=670868&menuNo=200921",
+      "등록일": "2024-01-10",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획.pdf",
+          "다운로드URL": "https://www.yongsan.go.kr/portal/cmmn/file/fileDown.do?menuNo=200921&atchFileId=b22eaaefc2094c269f453fb3ec7ef931&fileSn=1",
+          "크기": 798627,
+          "저장경로": null
+        }
+      ],
+      "비고": "별도 게시물"
+    }
+  ],
+  "비고": "예산일반현황 게시판(B0000035)에 사업예산서·기금운용계획·추경·성인지·성과계획서·중기재정계획이 개별 게시물로 등록. 2024·2025년은 게시판상 제1회 추경만 있음(제2회 게시물 없음). 결산서는 별도 게시판(B0000036)."
+}

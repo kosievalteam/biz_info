@@ -1,0 +1,187 @@
+{
+  "시도": "서울특별시",
+  "지자체": "관악구",
+  "홈페이지": "https://www.gwanak.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서 (행정정보>예산·결산>예산>예산서)",
+      "URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=190009&parentSeq=190009",
+      "등록일": "2026-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_예산서(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=190009&cbIdx=442&streFileNm=26dd8d16-c622-4640-b127-bfa5a170f094.pdf",
+          "크기": 8314835,
+          "저장경로": "files/2026/서울특별시_관악구/2026년도_예산서(게시용).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=190011&parentSeq=190011",
+      "등록일": "2026-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_기금운용계획(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=190011&cbIdx=442&streFileNm=49b5eee3-1e1e-4535-8fc4-7569979113eb.pdf",
+          "크기": 2300286,
+          "저장경로": "files/2026/서울특별시_관악구/2026년도_기금운용계획(게시용).pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": null,
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: 언론보도상 2026-05-12 구의회 의결로 제1회 추경(60억) 확정되었으나 구 홈페이지 예산서 게시판에 2026-10-05 현재 미게시. 관악구의회 사이트(council.gwanak.go.kr)는 이 환경에서 접속 불가하여 확인 못함."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=170697&parentSeq=170697",
+      "등록일": "2025-01-14",
+      "첨부파일": [
+        {
+          "파일명": "예산서(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=170697&cbIdx=442&streFileNm=53bf4edd-e070-4365-a4f9-4f928fa84d49.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=170699&parentSeq=170699",
+      "등록일": "2025-01-14",
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=170699&cbIdx=442&streFileNm=d6f078da-a091-469e-9a15-c2bdaa5217ce.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=181106&parentSeq=181106",
+      "등록일": "2025-08-11",
+      "첨부파일": [
+        {
+          "파일명": "2025년도_제1회_추가경정예산서.pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=181106&cbIdx=442&streFileNm=adb146a4-ae5f-45bf-b216-8119752ab428.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=183515&parentSeq=183515",
+      "등록일": "2025-09-29",
+      "첨부파일": [
+        {
+          "파일명": "2025년도_제2회_추가경정예산서.pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=183515&cbIdx=442&streFileNm=a882f61e-0cd3-4b3c-9974-84d7c1cee779.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=151891&parentSeq=151891",
+      "등록일": "2024-01-22",
+      "첨부파일": [
+        {
+          "파일명": "2024년도_예산서(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=151891&cbIdx=442&streFileNm=4f174b65-350f-49c5-8ea6-e46a6a0de4e2.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물로 게시됨"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=151893&parentSeq=151893",
+      "등록일": "2024-01-22",
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획(게시용).pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=151893&cbIdx=442&streFileNm=94c60c89-8355-4e4e-8bd4-8e77e2b5528b.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/List.do?cbIdx=442",
+      "게시물URL": "https://www.gwanak.go.kr/site/gwanak/ex/bbs/View.do?cbIdx=442&bcIdx=166522&parentSeq=166522",
+      "등록일": "2024-11-05",
+      "첨부파일": [
+        {
+          "파일명": "2024년도_제1회_추가경정예산서.pdf",
+          "다운로드URL": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=166522&cbIdx=442&streFileNm=03abc8fe-6e7d-4009-93c6-d76d477e4867.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    }
+  ],
+  "비고": "게시물URL은 View.do?cbIdx=442&bcIdx=…&parentSeq=… 형식(목록은 JS 폼전송). 2024년은 제1회 추경만, 2025년은 제1·2회 추경 게시. 2026년 추경은 게시판에 없음(미확인)."
+}

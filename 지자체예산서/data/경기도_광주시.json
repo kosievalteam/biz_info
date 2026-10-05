@@ -1,0 +1,632 @@
+{
+  "시도": "경기도",
+  "지자체": "광주시",
+  "홈페이지": "https://www.gjcity.go.kr",
+  "게시판": [
+    {
+      "이름": "예산공개 (정보공개 > 예산·재정정보 > 예산공개)",
+      "URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 하수도특별회계 당초예산",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=341838&ptIdx=37&mId=0303010000",
+      "등록일": "2026-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2026년 사업별 수입예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7b795b9afe11d20b140d6c5c50b1ca747&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 529239,
+          "저장경로": "files/2026/경기도_광주시/2026년 사업별 수입예산서.pdf"
+        },
+        {
+          "파일명": "2026년 사업별 지출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7b795b9afe11d20b140d6c5c50b1ca747&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 1003283,
+          "저장경로": "files/2026/경기도_광주시/2026년 사업별 지출예산서.pdf"
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 상수도사업특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=341464&ptIdx=37&mId=0303010000",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "@2026년 당초 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7b9d8e28a3a011c4b886a92b4b1cc3cc5&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1198662,
+          "저장경로": "files/2026/경기도_광주시/@2026년 당초 상수도사업특별회계 세입세출예산서.pdf"
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 일반 및 기타 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=341243&ptIdx=37&mId=0303010000",
+      "등록일": "2025-12-23",
+      "첨부파일": [
+        {
+          "파일명": "1.2026년 일반 및 기타 특별회계 세입세출 예산서(1권).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7828a5bb882262cb8502af8a7d9e03a42&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 3620627,
+          "저장경로": "files/2026/경기도_광주시/1.2026년 일반 및 기타 특별회계 세입세출 예산서(1권).pdf"
+        },
+        {
+          "파일명": "2.2026년 일반 및 기타 특별회계 세입세출 예산서(2권).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7828a5bb882262cb8502af8a7d9e03a42&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 3094461,
+          "저장경로": "files/2026/경기도_광주시/2.2026년 일반 및 기타 특별회계 세입세출 예산서(2권).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물 있음"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획안",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=345258&ptIdx=37&mId=0303010000",
+      "등록일": "2026-06-17",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획안_총괄.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=7cb33757806545ceaaca239dfcb42e80e11b577fcd34ef844d2bb84cfb0c459a&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1777730,
+          "저장경로": "files/2026/경기도_광주시/2026년도 기금운용계획안_총괄.pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 일반 및 기타 특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=346907&ptIdx=37&mId=0303010000",
+      "등록일": "2026-09-01",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 일반 및 기타 특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=7cb33757806545ceaaca239dfcb42e8065208e2d4cf0a3656831f235e192a0c8&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 6250238,
+          "저장경로": "files/2026/경기도_광주시/2026년 제1회 일반 및 기타 특별회계 세입세출예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 하수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=346444&ptIdx=37&mId=0303010000",
+      "등록일": "2026-08-07",
+      "첨부파일": [
+        {
+          "파일명": "2026년 1추 사업별명세서(게시용)-하수과.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=7cb33757806545ceaaca239dfcb42e80dd2972584a49d89ab9e965b7a9757e95&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1243865,
+          "저장경로": "files/2026/경기도_광주시/2026년 1추 사업별명세서(게시용)-하수과.pdf"
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 하수도사업특별회계 당초예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330928&ptIdx=37&mId=0303010000",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2025당초 세입예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13e705a993f4e7e2abdb75d9a44ec9e079&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 450887,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025당초 세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13e705a993f4e7e2abdb75d9a44ec9e079&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 996147,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 상수도사업특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330809&ptIdx=37&mId=0303010000",
+      "등록일": "2024-12-27",
+      "첨부파일": [
+        {
+          "파일명": "@2025년 당초 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13f48510e0ce46d0b94f01a0a24803420b&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1216348,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반 및 기타 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330751&ptIdx=37&mId=0303010000",
+      "등록일": "2024-12-24",
+      "첨부파일": [
+        {
+          "파일명": "1.(1권)2025년 일반 및 기타 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b1385176ed5c31ad55190491eb87a5fc1a6&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 3607101,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.(2권)2025년 일반 및 기타 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b1385176ed5c31ad55190491eb87a5fc1a6&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 3040870,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물 있음"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획안",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330754&ptIdx=37&mId=0303010000",
+      "등록일": "2024-12-24",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획안_총괄.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13fa098ef222e922bca9eb8955e0077e58&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 849346,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 상수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=334897&ptIdx=37&mId=0303010000",
+      "등록일": "2025-05-12",
+      "첨부파일": [
+        {
+          "파일명": "@2025년 제1회 상수도사업특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=c594a6531cb6b236b11953c7e86d6eae804541696741f7ae8b6ec0d2aaf6c0e2&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 734003,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 일반 및 기타 특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=334862&ptIdx=37&mId=0303010000",
+      "등록일": "2025-05-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 일반 및 기타 특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=c594a6531cb6b236b11953c7e86d6eaee3684c69c3d1dad55197cf1b4d3ff196&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 8629780,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 하수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=340731&ptIdx=37&mId=0303010000",
+      "등록일": "2025-12-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년 3회추경 수입지출.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7991815965578e33f832d17dbb166fa55&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1226833,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 상수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=339508&ptIdx=37&mId=0303010000",
+      "등록일": "2025-10-14",
+      "첨부파일": [
+        {
+          "파일명": "@2025년 제3회 상수도사업특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7abdde696e619bfe9143b9f0c7379ae7c&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 713031,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 일반 및 기타 특별회계 세입・세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=339244&ptIdx=37&mId=0303010000",
+      "등록일": "2025-09-26",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 일반 및 기타 특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7e5727852fb6872d8a83e0f3ed5ecff7d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 3523215,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 하수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=346429&ptIdx=37&mId=0303010000",
+      "등록일": "2026-08-06",
+      "첨부파일": [
+        {
+          "파일명": "2025년 4추 사업별명세서(게시용)-하수과.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=7cb33757806545ceaaca239dfcb42e80b10d38e4da896ca921a605f545ce7fe6&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1247805,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 상수도사업특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=341463&ptIdx=37&mId=0303010000",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "@2025년 제4회 상수도사업특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d7a7e50480900db8f7d42e79da207dc594&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 723517,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 일반 및 기타 특별회계 세입세출 추가경정 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=341244&ptIdx=37&mId=0303010000",
+      "등록일": "2025-12-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제4회 일반 및 기타 특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=bfd4e39572e8a730d649ccf508d964d77a0ae0444133607d02e2591a47e85c0d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 2915041,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 당초 상수도사업특별회계 세입 · 세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=321241&ptIdx=37&mId=0303010000",
+      "등록일": "2024-01-09",
+      "첨부파일": [
+        {
+          "파일명": "2024 당초예산서(수입).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfce80f8b2377f44b6dbab713d31fb01bc3d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 73400,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024 당초예산서(지출).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfce80f8b2377f44b6dbab713d31fb01bc3d&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 272629,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 당초 일반 및 기타특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=320793&ptIdx=37&mId=0303010000",
+      "등록일": "2023-12-20",
+      "첨부파일": [
+        {
+          "파일명": "1.(1권)2024년 당초 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfcee962a919bc978d435945767002597e98&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 3827302,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.(2권)2024년 당초 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfcee962a919bc978d435945767002597e98&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 2631925,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물 있음"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 당초 하수도사업특별회계 세입 · 세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=320758&ptIdx=37&mId=0303010000",
+      "등록일": "2023-12-18",
+      "첨부파일": [
+        {
+          "파일명": "세입(24 당초 하수과).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfce1d1196a1b00e9dd9bafa1c389c4add8d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 545259,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출(24 당초 하수과).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfce1d1196a1b00e9dd9bafa1c389c4add8d&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 922746,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획(안)",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=320816&ptIdx=37&mId=0303010000",
+      "등록일": "2023-12-21",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 기금운용계획(안).pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=2b8994ab62d3ac054169bd9aac04dfce01cbd1dcd2aa74dfe21d69c743ef62a5&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 796917,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정 하수도사업특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=324636&ptIdx=37&mId=0303010000",
+      "등록일": "2024-05-03",
+      "첨부파일": [
+        {
+          "파일명": "1회 추경 수입.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=4c7fd43e10845b08dec980d14084d722f17ed80374c05f68aed4b481dfa83c11&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 440401,
+          "저장경로": null
+        },
+        {
+          "파일명": "1회 추경 지출.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=4c7fd43e10845b08dec980d14084d722f17ed80374c05f68aed4b481dfa83c11&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 807403,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정 상수도사업특별회계 세입세출예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=324508&ptIdx=37&mId=0303010000",
+      "등록일": "2024-05-01",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추가경정 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=4c7fd43e10845b08dec980d14084d722a61c03387365a59ef47d6960d80b7087&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 807403,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정 일반 및 기타특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=324506&ptIdx=37&mId=0303010000",
+      "등록일": "2024-05-01",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추경 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=4c7fd43e10845b08dec980d14084d72256dde98dd5e804e3205857886b9989a8&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 2956984,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 하수도사업특별회계 제2회 추경 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330925&ptIdx=37&mId=0303010000",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년 2회추경 세입예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13c33be91915b6231f65e0913e9d26f121&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 304087,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 2회추경 세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13c33be91915b6231f65e0913e9d26f121&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 723517,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정 일반 및 기타 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=328450&ptIdx=37&mId=0303010000",
+      "등록일": "2024-10-04",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정 일반 및 기타 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b133b53fe3ac334a791a87ebd71c53ceca9&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 3156213,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정 상수도사업특별회계 세입세출예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=328085&ptIdx=37&mId=0303010000",
+      "등록일": "2024-09-13",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b134819010978e5545ddc624084b9a46564&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 744488,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 하수도사업특별회계 제3회 추경 예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330927&ptIdx=37&mId=0303010000",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년 3회추경 세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b138066565e4b6ada8390d64de3fc564d8f&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 807403,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 3회추경 세입예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b138066565e4b6ada8390d64de3fc564d8f&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 304087,
+          "저장경로": null
+        }
+      ],
+      "비고": "하수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추가경정 상수도사업특별회계 세입세출예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330808&ptIdx=37&mId=0303010000",
+      "등록일": "2024-12-27",
+      "첨부파일": [
+        {
+          "파일명": "@2024년 제3회 추가경정 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13996e67bc575a319f354487ec7cd60197&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 744488,
+          "저장경로": null
+        }
+      ],
+      "비고": "상수도사업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 일반 및 기타 특별회계 추가경정 세입세출예산서",
+      "게시판URL": "https://www.gjcity.go.kr/portal/bbs/list.do?ptIdx=37&mId=0303010000",
+      "게시물URL": "https://www.gjcity.go.kr/portal/bbs/view.do?bIdx=330756&ptIdx=37&mId=0303010000",
+      "등록일": "2024-12-24",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 제3회 일반 및 기타 특별회계 세입세출 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.gjcity.go.kr/common/file/download.do?atchFileId=3a8f07eed2cb53a0f9ad8bc15c926b13ac0264d6f9d81cac3809c520b230f714&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 5567938,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    }
+  ],
+  "비고": "일반 및 기타특별회계 예산서 외에 상수도·하수도사업특별회계 예산서가 별도 게시물로 올라와 함께 기록(비고에 표시). 기금운용계획안은 별도 게시물(2026년도 기금운용계획안은 2026-06-17 등록, 총괄 8쪽). 2025년 제2회 추경 게시물은 게시판에서 확인되지 않음(미확인). 2024·2025년 첨부 크기는 게시판 표시값([x.xxMB])을 바이트로 환산한 근사치."
+}

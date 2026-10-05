@@ -1,0 +1,252 @@
+{
+  "시도": "서울특별시",
+  "지자체": "강북구",
+  "홈페이지": "https://www.gangbuk.go.kr",
+  "게시판": [
+    {
+      "이름": "예산현황 자료실",
+      "URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397"
+    },
+    {
+      "이름": "재정계획 > 기금운용계획",
+      "URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/list.do?menuNo=200393"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 일반·특별회계 사업예산서",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=177111",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "(공개)2026년도 예산서.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=b3026ffbf1d342cab43487a12d6796df&fileSn=1&bbsId=B0000018&nttId=177111",
+          "크기": 6038130,
+          "저장경로": "files/2026/서울특별시_강북구/(공개)2026년도 예산서.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=177205",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "(★최종)2026 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=bb3c364a39324bc991e2b5befc70271b&fileSn=1&bbsId=B0000018&nttId=177205",
+          "크기": 1150926,
+          "저장경로": "files/2026/서울특별시_강북구/(★최종)2026 기금운용계획.pdf"
+        }
+      ],
+      "비고": "예산현황 자료실 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/list.do?menuNo=200393",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/view.do?menuNo=200393&nttId=177699",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200393&atchFileId=4ceb47084a474cc1a1e6b98ee2796839&fileSn=1&bbsId=B0000039&nttId=177699",
+          "크기": 1150926,
+          "저장경로": "files/2026/서울특별시_강북구/(★최종)2026 기금운용계획.pdf"
+        }
+      ],
+      "비고": "재정계획>기금운용계획 게시판에 별도 게시된 동일 연도 문서(내려받은 결과 예산현황 자료실 파일과 동일(md5 일치)하여 중복 저장하지 않음); 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 일반회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=182507",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 일반회계 세입·세출 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=fb0c13beb146427a9a21dd2a93ce229a&fileSn=1&bbsId=B0000018&nttId=182507",
+          "크기": 1122545,
+          "저장경로": "files/2026/서울특별시_강북구/2026년 제1회 일반회계 세입·세출 추가경정예산서.pdf"
+        }
+      ],
+      "비고": "등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반·특별회계 사업예산서",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=165088",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 사업예산서.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=23941bc88e09448f9241928460b3bafc&fileSn=1&bbsId=B0000018&nttId=165088",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=165148",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2025 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=2530e291b3a941139b7c3c0aae14da50&fileSn=1&bbsId=B0000018&nttId=165148",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산현황 자료실 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/list.do?menuNo=200393",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/view.do?menuNo=200393&nttId=167346",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2025 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200393&atchFileId=9f8e02f610ae403aaff76ad343f96216&fileSn=1&bbsId=B0000039&nttId=167346",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정계획>기금운용계획 게시판 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 일반·특별회계 세입·세출 추가경정예산",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=175095",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 추가경정예산서.PDF",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=9205f3efc70a4137ae1f515c35e4beb7&fileSn=1&bbsId=B0000018&nttId=175095",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 2025년 추경은 제1회만 게시됨; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반·특별회계 사업예산서",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=128430",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업예산서.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=70f7a569fab74607ac93933e5e49805c&fileSn=1&bbsId=B0000018&nttId=128430",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반·특별회계 사업예산서(조직개편 후)",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=128431",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업예산서(조직개편 후).pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=65333dd3e313485f96f6f8e3decfa4ca&fileSn=1&bbsId=B0000018&nttId=128431",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "조직개편 반영본; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 강북구 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=128429",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2024 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=4de28c7e167d4cada4138b36d4fe138c&fileSn=1&bbsId=B0000018&nttId=128429",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산현황 자료실 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/list.do?menuNo=200393",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000039/view.do?menuNo=200393&nttId=163485",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "★2024 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200393&atchFileId=cbaf274c34274ed196bf42a989a457d0&fileSn=1&bbsId=B0000039&nttId=163485",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정계획>기금운용계획 게시판 게시물; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 일반·특별회계 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/list.do?menuNo=200397",
+      "게시물URL": "https://www.gangbuk.go.kr/portal/bbs/B0000018/view.do?menuNo=200397&nttId=162283",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangbuk.go.kr/portal/cmmn/file/fileDown.do?menuNo=200397&atchFileId=6048533bd47f4b3494b324aa35e195e2&fileSn=1&bbsId=B0000018&nttId=162283",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 2024년 추경은 제1회만 게시됨; 등록일 미표시(목록·상세 모두 등록일 항목 없음)"
+    }
+  ],
+  "비고": "강북구 게시판은 등록일을 표시하지 않음(최종수정일은 메뉴 단위). 사이트가 쿠키 기반 봇 확인(sabSignature)을 사용. 본예산은 '사업예산서' 명칭으로 게시. 기금운용계획은 두 게시판에 각각 게시(2026년 두 파일은 md5 동일하여 1개만 저장)."
+}

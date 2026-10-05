@@ -1,0 +1,330 @@
+{
+  "시도": "경기도",
+  "지자체": "과천시",
+  "홈페이지": "https://www.gccity.go.kr",
+  "게시판": [
+    {
+      "이름": "예산현황(예산서) > 예산서",
+      "URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501"
+    },
+    {
+      "이름": "예산현황(예산서) > 기금운용계획",
+      "URL": "https://www.gccity.go.kr/portal/bbs/list.do?ptIdx=423&mId=0203150503"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산서 및 세입세출사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2025-12-24",
+      "첨부파일": [
+        {
+          "파일명": "2026 예산서(확정) 최종.pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=843a7f1482bf8330f03b96cf6e9509e64e136060c701028cb664e0bfec0010b1&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1589541,
+          "저장경로": "files/2026/경기도_과천시/2026 예산서(확정) 최종.pdf"
+        },
+        {
+          "파일명": "2026 세입세출예산명세서(확정)(교정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=843a7f1482bf8330f03b96cf6e9509e64e136060c701028cb664e0bfec0010b1&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": 4277883,
+          "저장경로": "files/2026/경기도_과천시/2026 세입세출예산명세서(확정)(교정).pdf"
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드); 기금운용계획은 별도 게시판(기금운용계획)에 게시"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 과천시 기금운용계획",
+      "게시판URL": "https://www.gccity.go.kr/portal/bbs/list.do?ptIdx=423&mId=0203150503",
+      "게시물URL": "https://www.gccity.go.kr/portal/bbs/view.do?mId=0203150503&bIdx=189275&ptIdx=423",
+      "등록일": "2026-01-19",
+      "첨부파일": [
+        {
+          "파일명": "2026년 과천시 기금운용계획.pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=843a7f1482bf8330f03b96cf6e9509e6cf78daefd070de6d10ff83068b108d6f&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1735301,
+          "저장경로": "files/2026/경기도_과천시/2026년 과천시 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추경예산서 및 세입세출예산사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2026-04-03",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제1회 추경(최종).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=148c15d19a358e7fd81799db36f4771c23933f99512a8384b6b544d89da7d120&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 2718384,
+          "저장경로": "files/2026/경기도_과천시/2026년도 제1회 추경(최종).pdf"
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추경예산서 및 세입세출예산사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2026-05-14",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제2회 추경예신사 및 사업명세서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=148c15d19a358e7fd81799db36f4771c377be79dfdd02f4d965d96bf2df5aec6&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 1730800,
+          "저장경로": "files/2026/경기도_과천시/2026년 제2회 추경예신사 및 사업명세서(확정).pdf"
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 제3회 추경예산서 및 세입세출예산사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2026-09-20",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제3회추경(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=5f47e9c13da634db146bd4c5f8b35f40a901e11b8ad06c510ac4f7484b1401ba&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 6015744,
+          "저장경로": "files/2026/경기도_과천시/2026년 제3회추경(확정).pdf"
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산 예산서 및 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2024-12-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 예산서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808b842fe1f9bf28cd486b32e83353f9e85&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 세입세출예산 사업명세서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808b842fe1f9bf28cd486b32e83353f9e85&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드); 목록 표시 크기 1.9MB/9.7MB. 2025년 합본예산서(2026-04-03 등록, 2025합본예산서(최종).pdf 12.3MB)도 별도 게시"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 과천시 기금운용계획",
+      "게시판URL": "https://www.gccity.go.kr/portal/bbs/list.do?ptIdx=423&mId=0203150503",
+      "게시물URL": "https://www.gccity.go.kr/portal/bbs/view.do?mId=0203150503&bIdx=180302&ptIdx=423",
+      "등록일": "2024-12-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 과천시 기금운용계획.pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a80873463b63b38625b34131c6f7db6b5f88&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록 표시 크기 1.6MB"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정 예산서 및 세입.세출예산 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2025-04-07",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 추가경정 예산서(최종).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808c22fac1bb21224f1969f312ffda1449d&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 제1회 추가경정 예산서 및 세입.세출사업명세서(최종).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808c22fac1bb21224f1969f312ffda1449d&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추경예산서 및 세입.세출예산 사업설명서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2025-09-19",
+      "첨부파일": [
+        {
+          "파일명": "★2025년제2회추경(확정)(의결).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=843a7f1482bf8330f03b96cf6e9509e6c1624aeba5954c635642e92c603740e4&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경예산서 및 세입세출예산 사업설명서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2025-12-17",
+      "첨부파일": [
+        {
+          "파일명": "제3회추경 예산서.pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=843a7f1482bf8330f03b96cf6e9509e6e1dd83e34b4ec604a8f91e5afb272deb&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산 예산서 및 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2023-12-26",
+      "첨부파일": [
+        {
+          "파일명": "2024년 본예산서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=c663e003383e26b31ef71f8e42056a5528ab5e51dab65a67788dc17987091848&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 세입세출예산 사업명세서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=c663e003383e26b31ef71f8e42056a5528ab5e51dab65a67788dc17987091848&fileSn=3743fa93046d4584eb9e93f9fe62c66e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드); 2024년 합본예산서(2025-05-26 등록, 2024년 합본예산서(최종).pdf)도 별도 게시"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 과천시 기금운용계획",
+      "게시판URL": "https://www.gccity.go.kr/portal/bbs/list.do?ptIdx=423&mId=0203150503",
+      "게시물URL": "https://www.gccity.go.kr/portal/bbs/view.do?mId=0203150503&bIdx=173563&ptIdx=423",
+      "등록일": "2024-01-12",
+      "첨부파일": [
+        {
+          "파일명": "2024년 과천시 기금운용계획.pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=0bcb8f7e3df807f5723686b05f1588ec4b1e63a189cb6f9914b5feecc20e2d1e&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정 예산서 및 세입.세출예산 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2024-03-12",
+      "첨부파일": [
+        {
+          "파일명": "제1회 추경(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=0bcb8f7e3df807f5723686b05f1588ec7fcb43e6cc28541966f924dce7720212&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정 예산서 및 세입.세출예산 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2024-04-24",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추경예산서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=0bcb8f7e3df807f5723686b05f1588ec6276e2470ec42eae8c299b3d235dcaaa&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추가경정 예산서 및 세입.세출예산 사업명세서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2024-09-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제3회 추경예산서(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808ac8908b3c88efa0d8a258146d3bca0a6&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년 제4회 추경예산서 및 세입.세출예산 사업설명서",
+      "게시판URL": "https://www.gccity.go.kr/portal/budgetStatus/list.do?mId=0203150501",
+      "게시물URL": null,
+      "등록일": "2024-12-11",
+      "첨부파일": [
+        {
+          "파일명": "제4회추경(확정).pdf",
+          "다운로드URL": "https://www.gccity.go.kr/cmm/fms/FileDown.do?atchFileId=32f9673fee500fd17c6e323928d6a808e578f908bbada2a325acc02ed6912985&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "목록형 게시판(개별 상세페이지 없음, 목록에서 바로 첨부 다운로드)"
+    }
+  ],
+  "비고": "정보공개 > 재정정보 > 예산현황(예산서). 상수도·하수도·지식정보타운 특별회계 예산서는 별도 메뉴(mId=0209020100 등)에 있으며 수집하지 않음. 2024·2025 첨부 크기는 서버가 Content-Length를 주지 않아 null"
+}

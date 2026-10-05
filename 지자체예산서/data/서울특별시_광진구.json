@@ -1,0 +1,230 @@
+{
+  "시도": "서울특별시",
+  "지자체": "광진구",
+  "홈페이지": "https://www.gwangjin.go.kr",
+  "게시판": [
+    {
+      "이름": "행정정보 > 우리구 살림 > 예산서",
+      "URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6613045&menuNo=200130",
+      "등록일": "2026-06-24",
+      "첨부파일": [
+        {
+          "파일명": "★2026년도 제2회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=3fd879a5aa70bb48e900ecfd02fc3b20a0ea6cdbfc592db09359283fdb249cbd&fileSn=1",
+          "크기": 3094943,
+          "저장경로": "files/2026/서울특별시_광진구/★2026년도 제2회 추가경정예산서(확정).pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6570120&menuNo=200130",
+      "등록일": "2026-03-17",
+      "첨부파일": [
+        {
+          "파일명": "★2026년도 제1회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=47a25bb24976d9de975f0ee3e60c8dd9ffaac3f350432fb0f97158b430420402&fileSn=1",
+          "크기": 722520,
+          "저장경로": "files/2026/서울특별시_광진구/★2026년도 제1회 추가경정예산서(확정).pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6561109&menuNo=200130",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "☆2026년도 사업예산서(최종).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=47a25bb24976d9de975f0ee3e60c8dd91c6c763495236440dca378b3665408c0&fileSn=1",
+          "크기": 4458425,
+          "저장경로": "files/2026/서울특별시_광진구/☆2026년도 사업예산서(최종).pdf"
+        }
+      ],
+      "비고": "게시판 명칭은 '사업예산서'(확정본). 같은 게시물에 기금운용계획 별도 파일 첨부; 기타 첨부(미수록): ☆2026년도 성인지예산서(최종).pdf, ☆2026년도 예산의 성과계획서(최종).pdf"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6561109&menuNo=200130",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "☆2026년도 기금운용계획(최종).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=47a25bb24976d9de975f0ee3e60c8dd91c6c763495236440dca378b3665408c0&fileSn=2",
+          "크기": 651981,
+          "저장경로": "files/2026/서울특별시_광진구/☆2026년도 기금운용계획(최종).pdf"
+        }
+      ],
+      "비고": "본예산(사업예산서) 게시물에 별도 파일로 첨부"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6417709&menuNo=200130",
+      "등록일": "2025-09-04",
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 제2회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=4d6181dde731a6a423c6fa57095a0364a88f1295834946f54ae9e1ab344f4025&fileSn=1",
+          "크기": 829327,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6414530&menuNo=200130",
+      "등록일": "2025-08-11",
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 제1회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=4d6181dde731a6a423c6fa57095a0364beeb186aa65ed8914f73a8ff0bde8395&fileSn=1",
+          "크기": 1321422,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6348470&menuNo=200130",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "☆2025년도 사업예산서_(최종).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=3357f745f8b9332fcd9984bc600669432950feef53de2360e53760ec8e021687&fileSn=1",
+          "크기": 4247713,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판 명칭은 '사업예산서'(확정본). 같은 게시물에 기금운용계획 별도 파일 첨부; 기타 첨부(미수록): ☆2025년도 성인지예산서_(최종).pdf, ☆2025년도 예산의 성과계획서_(최종).pdf; 등록일은 게시물 등록일시(registDt), 목록 표시일은 수정일 2026-08-21"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6348470&menuNo=200130",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획(최종).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=3357f745f8b9332fcd9984bc600669432950feef53de2360e53760ec8e021687&fileSn=4",
+          "크기": 963326,
+          "저장경로": null
+        }
+      ],
+      "비고": "본예산(사업예산서) 게시물에 별도 파일로 첨부; 등록일은 게시물 등록일시(registDt), 목록 표시일은 수정일 2026-08-21"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6297914&menuNo=200130",
+      "등록일": "2024-09-10",
+      "첨부파일": [
+        {
+          "파일명": "★2024년도 제2회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=3357f745f8b9332fcd9984bc6006694362c92c539bef9783433f88865311fe93&fileSn=1",
+          "크기": 3176139,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정예산",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6283051&menuNo=200130",
+      "등록일": "2024-06-12",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정예산서(확정).pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=829b522e78735cca3c6a12e69b9f4960fc24bea62ba88fe6ea6cf051fc66ae77&fileSn=1",
+          "크기": 891230,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6197179&menuNo=200130",
+      "등록일": "2024-01-03",
+      "첨부파일": [
+        {
+          "파일명": "☆2024년도 사업예산서.pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=829b522e78735cca3c6a12e69b9f49607191988cf1347b72a18141f8be431cba&fileSn=1",
+          "크기": 4916657,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판 명칭은 '사업예산서'(확정본). 같은 게시물에 기금운용계획 별도 파일 첨부; 기타 첨부(미수록): ☆2024년도 예산의 성과계획서.pdf, 2024년도 성인지예산서.pdf; 등록일은 게시물 등록일시(registDt), 목록 표시일은 수정일 2024-01-04"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 사업예산서",
+      "게시판URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/list.do?menuNo=200130",
+      "게시물URL": "https://www.gwangjin.go.kr/portal/bbs/B0000050/view.do?nttId=6197179&menuNo=200130",
+      "등록일": "2024-01-03",
+      "첨부파일": [
+        {
+          "파일명": "☆2024년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gwangjin.go.kr/portal/cmmn/file/fileDown.do?menuNo=200130&atchFileId=829b522e78735cca3c6a12e69b9f49607191988cf1347b72a18141f8be431cba&fileSn=2",
+          "크기": 1003317,
+          "저장경로": null
+        }
+      ],
+      "비고": "본예산(사업예산서) 게시물에 별도 파일로 첨부; 등록일은 게시물 등록일시(registDt), 목록 표시일은 수정일 2024-01-04"
+    }
+  ],
+  "비고": "예산서 게시판에 본예산(사업예산서)·추경 모두 게시. 기금운용계획은 본예산 게시물에 별도 PDF로 첨부. 목록/상세 화면 날짜는 수정일이므로 등록일은 getCMI.json의 registDt(KST)로 기록. 알기쉬운 예산서 게시물은 대상 외로 제외."
+}

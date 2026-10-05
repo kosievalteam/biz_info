@@ -1,0 +1,205 @@
+{
+  "시도": "서울특별시",
+  "지자체": "강남구",
+  "홈페이지": "https://www.gangnam.go.kr",
+  "게시판": [
+    {
+      "이름": "예산 (구정정보>예산·재정>예산)",
+      "URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 강남구 예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=1",
+      "등록일": "2026-01-13",
+      "첨부파일": [
+        {
+          "파일명": "2026년 강남구 예산서(최종).pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/5ed06c6e-d200-402f-b64b-3d158c7da1e7/download.do",
+          "크기": 9440021,
+          "저장경로": "files/2026/서울특별시_강남구/2026년 강남구 예산서(최종).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물; 게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 강남구 기금운용계획",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=1",
+      "등록일": "2026-01-20",
+      "첨부파일": [
+        {
+          "파일명": "2026년 강남구 기금운용계획(홈페이지게시용)(최종).pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/e0e6d4a7-9496-4be0-a573-365395de2e06/download.do",
+          "크기": 2486483,
+          "저장경로": "files/2026/서울특별시_강남구/2026년 강남구 기금운용계획(홈페이지게시용)(최종).pdf"
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": null,
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: 언론보도상 2026-08-28 제출, 2026-09-22 구의회 의결(478억 규모)되었으나 구 홈페이지 예산 게시판에 2026-10-05 현재 미게시. 강남구의회 사이트(council.gangnam.go.kr)는 이 환경에서 접속 불가."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 강남구 예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=2",
+      "등록일": "2025-01-21",
+      "첨부파일": [
+        {
+          "파일명": "2025년 강남구 예산서.pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/02a54cd5-102a-4082-b6dc-37aeb728b39c/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물; 게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 강남구 기금운용계획",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=2",
+      "등록일": "2025-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 강남구 기금운용계획(홈페이지 게시용).pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/7cedc103-461e-4932-8986-c791ba287048/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 강남구 추가경정예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=1",
+      "등록일": "2025-07-11",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 강남구 추가경정예산서(최종 인쇄본).pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/7631dd0a-48b9-451b-8bb2-984855d7093c/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 강남구 추가경정예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=1",
+      "등록일": "2025-09-30",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/e20785ed-9094-4600-bd82-fec84901d4b2/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=3",
+      "등록일": "2024-01-24",
+      "첨부파일": [
+        {
+          "파일명": "2024강남구예산서_제출(펼침본).pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/a142756d-de3c-4962-b46f-680420460e0a/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물; 게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 강남구 기금운용계획",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=2",
+      "등록일": "2024-02-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/0813214d-9203-44e6-8567-cd3046eda8b7/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 강남구 기금운용계획변경",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=2",
+      "등록일": "2024-07-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획변경.pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/a7d93e2e-fa69-4d5b-a052-9c4fa996e0ac/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경; 게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 강남구 추가경정예산서",
+      "게시판URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302",
+      "게시물URL": "https://www.gangnam.go.kr/board/B_000742/list.do?mid=ID05_050302&pgno=2",
+      "등록일": "2024-07-16",
+      "첨부파일": [
+        {
+          "파일명": "(2024.7.15.)2024년추가경정예산서제1회_웹게시용_펼침고해상도.pdf",
+          "다운로드URL": "https://www.gangnam.go.kr/file/1/get/283876ec-f66d-48ad-99c7-70549fa0ff5b/download.do",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판에 상세보기 페이지 없음(목록에서 직접 첨부 다운로드), 게시물URL은 목록 페이지"
+    }
+  ],
+  "비고": "게시판은 상세보기 없이 목록에서 첨부 직접 다운로드(/file/1/get/{uuid}/download.do). 게시물URL은 해당 게시물이 있는 목록 페이지(pgno). 2025년 기금운용계획 변경 게시물 없음. 2024년 제2회 추경 게시물 없음."
+}

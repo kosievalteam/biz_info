@@ -1,0 +1,230 @@
+{
+  "시도": "서울특별시",
+  "지자체": "서초구",
+  "홈페이지": "https://www.seocho.go.kr",
+  "게시판": [
+    {
+      "이름": "예산 (공개행정>열린재정>예산)",
+      "URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 일반 및 특별회계 세입·세출 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=406491",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_일반_및_특별회계_예산서_1.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=406491&cbIdx=31&streFileNm=20260109090747_z2zdcqi1ws8lmdttn6pvwietpjzibme7.pdf",
+          "크기": 11638539,
+          "저장경로": "files/2026/서울특별시_서초구/2026년도_일반_및_특별회계_예산서_1.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 서초구 기금운용계획",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=406494",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_기금운용계획안(최종).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=406494&cbIdx=31&streFileNm=20251231131334_avnjfper3w00ozwnjuedmbtmhzyegxzg.pdf",
+          "크기": 1117169,
+          "저장경로": "files/2026/서울특별시_서초구/2026년도_기금운용계획안(최종).pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 일반회계 추가경정 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=410966",
+      "등록일": "2026-08-27",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_제1회_일반회계_추가경정_사업예산서.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=410966&cbIdx=31&streFileNm=20260827171533_1p1jlfpwr5y7ynub0cygnxczbfukcl2m.pdf",
+          "크기": 2072981,
+          "저장경로": "files/2026/서울특별시_서초구/2026년도_제1회_일반회계_추가경정_사업예산서.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 기금운용계획 변경",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=410963",
+      "등록일": "2026-08-27",
+      "첨부파일": [
+        {
+          "파일명": "2026년도_기금운용계획변경(안)_.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=410963&cbIdx=31&streFileNm=20260827151729_iyqysnlq2rurxrcmx0hnahipyd4vj5av.pdf",
+          "크기": 329016,
+          "저장경로": "files/2026/서울특별시_서초구/2026년도_기금운용계획변경(안)_.pdf"
+        }
+      ],
+      "비고": "기금운용계획 변경"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반 및 특별회계 세입·세출 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=395827",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "@2025년도_예산서(최종).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=395827&cbIdx=31&streFileNm=20241231134258_0aof9bpav4tbrwfs8fkgmsuem7n9acjm.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=395834",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2025년도_기금운용계획.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=395834&cbIdx=31&streFileNm=20241231142410_9mvifb1oqgiqcbnoxd6xebls0nsqjasi.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 기금운용계획 변경",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=402534",
+      "등록일": "2025-07-03",
+      "첨부파일": [
+        {
+          "파일명": "[붙임]2025년도_기금운용계획변경(안)(최종).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=402534&cbIdx=31&streFileNm=20250703133909_9tcfbfr0m97oiz8p2c08knemuaas3cid.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 일반 및 특별회계 추가경정 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=402533",
+      "등록일": "2025-07-03",
+      "첨부파일": [
+        {
+          "파일명": "@2025_추경예산서(확정).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=402533&cbIdx=31&streFileNm=20250703133259_p5h8evagmq83ofsjafrl8t5o488yha4z.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 일반 및 특별회계, 기금 추가경정 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=404360",
+      "등록일": "2025-09-12",
+      "첨부파일": [
+        {
+          "파일명": "★2025_2차_추경예산서(최종).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=404360&cbIdx=31&streFileNm=20250915090050_knvb14s4t1epxv9idlmxa3s0c6ymtlvf.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 세입·세출 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=386644",
+      "등록일": "2024-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년_일반_및_특별회계_세입세출_사업예산서(최종).pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=386644&cbIdx=31&streFileNm=20240329170631_8ryytyybb7bgyig8kpovyzvbrhngfry3.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=386645",
+      "등록일": "2024-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2024년도_총괄_기금운용계획.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=386645&cbIdx=31&streFileNm=20240102113737_cmyuhhdpore1dlwxy8yppiudjzubrjkd.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 일반 및 특별회계 추가경정 사업예산서",
+      "게시판URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/List.do?cbIdx=31",
+      "게시물URL": "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?cbIdx=31&bcIdx=391488",
+      "등록일": "2024-07-03",
+      "첨부파일": [
+        {
+          "파일명": "@2024_추경예산서.pdf",
+          "다운로드URL": "https://www.seocho.go.kr/common/board/Download.do?bcIdx=391488&cbIdx=31&streFileNm=20240703131718_vqe9emvhqhgsyhwokhe2swihdv7shuzt.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    }
+  ],
+  "비고": "본예산 명칭은 \"일반 및 특별회계 세입·세출 사업예산서\". 기금운용계획 별도 게시. 추경 시 기금운용계획 변경을 별도 게시물로 올려 추경 회차로 기록(2026·2025 제1회). 2025 제2회 추경은 기금 포함 합본 제목. 2024년은 제1회 추경만 게시됨."
+}
