@@ -1,0 +1,3720 @@
+{
+  "시도": "경기도",
+  "지자체": "군포시",
+  "홈페이지": "https://www.gunpo.go.kr",
+  "게시판": [
+    {
+      "이름": "예산/재정공개 > 예산공개(연도·회차별 콘텐츠 페이지)",
+      "URL": "https://www.gunpo.go.kr/www/contents.do?key=1009088"
+    },
+    {
+      "이름": "예산/재정공개 > 기금",
+      "URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1009088",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1009088",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1009088_00_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_00_file01.pdf",
+          "크기": 146829,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_00_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file01_02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file01_02.pdf",
+          "크기": 123260,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file01_02.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file03.pdf",
+          "크기": 112609,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file03.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file04.pdf",
+          "크기": 112322,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file04.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file05.pdf",
+          "크기": 105447,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file05.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file09.pdf",
+          "크기": 122415,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file09.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file10.pdf",
+          "크기": 122394,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file10.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file11.pdf",
+          "크기": 101498,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file11.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file02.pdf",
+          "크기": 100531,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file02.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file06.pdf",
+          "크기": 120842,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file06.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file07.pdf",
+          "크기": 120606,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file07.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file08.pdf",
+          "크기": 102505,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file08.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file12.pdf",
+          "크기": 145752,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file12.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file13.pdf",
+          "크기": 144977,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file13.pdf"
+        },
+        {
+          "파일명": "cts1009088_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_01_file14.pdf",
+          "크기": 115898,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_01_file14.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file01.pdf",
+          "크기": 109822,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file02.pdf",
+          "크기": 109559,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file02.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file03.pdf",
+          "크기": 103487,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file03.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file04.pdf",
+          "크기": 276730,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file04.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file05.pdf",
+          "크기": 270029,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file05.pdf"
+        },
+        {
+          "파일명": "cts1009088_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_02_file06.pdf",
+          "크기": 114549,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_02_file06.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file01.pdf",
+          "크기": 189081,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file02.pdf",
+          "크기": 179526,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file02.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file03.pdf",
+          "크기": 162871,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file03.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file04.pdf",
+          "크기": 299342,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file04.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file10.pdf",
+          "크기": 194782,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file10.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file05.pdf",
+          "크기": 210498,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file05.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file11.pdf",
+          "크기": 274812,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file11.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file06.pdf",
+          "크기": 200991,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file06.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file12.pdf",
+          "크기": 181088,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file12.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file07.pdf",
+          "크기": 199759,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file07.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file13.pdf",
+          "크기": 183848,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file13.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file08.pdf",
+          "크기": 255094,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file08.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file14.pdf",
+          "크기": 169917,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file14.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file09.pdf",
+          "크기": 235355,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file09.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file15.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file15.pdf",
+          "크기": 165938,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file15.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file20.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file20.pdf",
+          "크기": 228514,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file20.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file16.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file16.pdf",
+          "크기": 168509,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file16.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file21.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file21.pdf",
+          "크기": 228896,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file21.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file17.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file17.pdf",
+          "크기": 176940,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file17.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file22.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file22.pdf",
+          "크기": 226206,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file22.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file18.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file18.pdf",
+          "크기": 212449,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file18.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file23.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file23.pdf",
+          "크기": 224380,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file23.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file19.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file19.pdf",
+          "크기": 181651,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file19.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file24.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file24.pdf",
+          "크기": 165405,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file24.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file25.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file25.pdf",
+          "크기": 291406,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file25.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file31.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file31.pdf",
+          "크기": 305256,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file31.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file26.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file26.pdf",
+          "크기": 333483,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file26.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file32.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file32.pdf",
+          "크기": 321770,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file32.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file27.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file27.pdf",
+          "크기": 317540,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file27.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file33.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file33.pdf",
+          "크기": 241804,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file33.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file28.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file28.pdf",
+          "크기": 347009,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file28.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file34.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file34.pdf",
+          "크기": 181462,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file34.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file29.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file29.pdf",
+          "크기": 227726,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file29.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file30.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file30.pdf",
+          "크기": 230080,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file30.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file35.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file35.pdf",
+          "크기": 170953,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file35.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file36.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file36.pdf",
+          "크기": 157902,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file36.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file37.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file37.pdf",
+          "크기": 217086,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file37.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file38.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file38.pdf",
+          "크기": 166380,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file38.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file39.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file39.pdf",
+          "크기": 176116,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file39.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file40.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file40.pdf",
+          "크기": 169914,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file40.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file41.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file41.pdf",
+          "크기": 170147,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file41.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file42.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file42.pdf",
+          "크기": 169606,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file42.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file43.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file43.pdf",
+          "크기": 169279,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file43.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file44.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file44.pdf",
+          "크기": 169061,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file44.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file45.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file45.pdf",
+          "크기": 169660,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file45.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file46.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file46.pdf",
+          "크기": 175821,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file46.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file47.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file47.pdf",
+          "크기": 166923,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file47.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file48.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file48.pdf",
+          "크기": 166299,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file48.pdf"
+        },
+        {
+          "파일명": "cts1009088_04_file49.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_04_file49.pdf",
+          "크기": 374323,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_04_file49.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file01.pdf",
+          "크기": 100942,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file02.pdf",
+          "크기": 98501,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file02.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file03.pdf",
+          "크기": 99493,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file03.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file04.pdf",
+          "크기": 97088,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file04.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file05.pdf",
+          "크기": 96561,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file05.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file06.pdf",
+          "크기": 97269,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file06.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file07.pdf",
+          "크기": 111913,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file07.pdf"
+        },
+        {
+          "파일명": "cts1009088_05_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_05_file08.pdf",
+          "크기": 97560,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_05_file08.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file01.pdf",
+          "크기": 112821,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file02.pdf",
+          "크기": 99122,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file02.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file03.pdf",
+          "크기": 98775,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file03.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file04.pdf",
+          "크기": 97288,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file04.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file05.pdf",
+          "크기": 99114,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file05.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file06.pdf",
+          "크기": 102827,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file06.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file07.pdf",
+          "크기": 168073,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file07.pdf"
+        },
+        {
+          "파일명": "cts1009088_06_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_06_file08.pdf",
+          "크기": 98029,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_06_file08.pdf"
+        },
+        {
+          "파일명": "cts1009088_07_file00.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_07_file00.pdf",
+          "크기": 125900,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_07_file00.pdf"
+        },
+        {
+          "파일명": "cts1009088_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_08_file01.pdf",
+          "크기": 1331258,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_08_file01.pdf"
+        },
+        {
+          "파일명": "cts1009088_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009088_08_file02.pdf",
+          "크기": 2062707,
+          "저장경로": "files/2026/경기도_군포시/cts1009088_08_file02.pdf"
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 89개(합본 없음). 구성: cts1009088_00_file01=재정전망 및 시정방향; cts1009088_01_file01_02=예산현황-예산총칙; cts1009088_01_file03=예산현황-세입총괄표(일반+특별); cts1009088_01_file04=예산현황-세입총괄표(일반); cts1009088_01_file05=예산현황-세입총괄표(특별); cts1009088_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1009088_01_file10=예산현황-세출총괄표(조직별)(일반); cts1009088_01_file11=예산현황-세출총괄표(조직별)(특별); cts1009088_01_file02=예산현황-회계별 예산규모; cts1009088_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1009088_01_file07=예산현황-세출총괄표(기능별)(일반); cts1009088_01_file08=예산현황-세출총괄표(기능별)(특별); cts1009088_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1009088_01_file13=예산현황-세출총괄표(성질별)(일반); cts1009088_01_file14=예산현황-세출총괄표(성질별)(특별); cts1009088_02_file01=세입세출예산서-세입예산서(일반+특별); cts1009088_02_file02=세입세출예산서-세입예산서(일반); cts1009088_02_file03=세입세출예산서-세입예산서(특별); cts1009088_02_file04=세입세출예산서-세출예산서(일반+특별); cts1009088_02_file05=세입세출예산서-세출예산서(일반); cts1009088_02_file06=세입세출예산서-세출예산서(특별); cts1009088_04_file01=세출예산명세서-기획예산실; cts1009088_04_file02=세출예산명세서-홍보실; cts1009088_04_file03=세출예산명세서-감사실; cts1009088_04_file04=세출예산명세서-행정지원과; cts1009088_04_file10=세출예산명세서-기업정책과; cts1009088_04_file05=세출예산명세서-자치분권과; cts1009088_04_file11=세출예산명세서-지역경제과; cts1009088_04_file06=세출예산명세서-민원봉사과; cts1009088_04_file12=세출예산명세서-회계과; cts1009088_04_file07=세출예산명세서-스마트정보과; cts1009088_04_file13=세출예산명세서-세정과; cts1009088_04_file08=세출예산명세서-교육체육과; cts1009088_04_file14=세출예산명세서-세원관리과; cts1009088_04_file09=세출예산명세서-문화예술과; cts1009088_04_file15=세출예산명세서-도시계획과; cts1009088_04_file20=세출예산명세서-안전총괄과; cts1009088_04_file16=세출예산명세서-도시개발과; cts1009088_04_file21=세출예산명세서-환경과; cts1009088_04_file17=세출예산명세서-주택정책과; cts1009088_04_file22=세출예산명세서-위생자원과; cts1009088_04_file18=세출예산명세서-건설과; cts1009088_04_file23=세출예산명세서-교통행정과; cts1009088_04_file19=세출예산명세서-건축과; cts1009088_04_file24=세출예산명세서-차량관리과; cts1009088_04_file25=세출예산명세서-복지정책과; cts1009088_04_file31=세출예산명세서-보건행정과; cts1009088_04_file26=세출예산명세서-노인장애인과; cts1009088_04_file32=세출예산명세서-산본보건지소; cts1009088_04_file27=세출예산명세서-여성가족과; cts1009088_04_file33=세출예산명세서-생태공원녹지과; cts1009088_04_file28=세출예산명세서-아동청소년과; cts1009088_04_file34=세출예산명세서-의회사무과; cts1009088_04_file29=세출예산명세서-중앙도서관; cts1009088_04_file30=세출예산명세서-산본도서관; cts1009088_04_file35=세출예산명세서-민원행정과; cts1009088_04_file36=세출예산명세서-복지과; cts1009088_04_file37=세출예산명세서-도시환경과; cts1009088_04_file38=세출예산명세서-군포2동; cts1009088_04_file39=세출예산명세서-산본1동; cts1009088_04_file40=세출예산명세서-산본2동; cts1009088_04_file41=세출예산명세서-금정동; cts1009088_04_file42=세출예산명세서-재궁동; cts1009088_04_file43=세출예산명세서-오금동; cts1009088_04_file44=세출예산명세서-수리동; cts1009088_04_file45=세출예산명세서-궁내동; cts1009088_04_file46=세출예산명세서-광정동; cts1009088_04_file47=세출예산명세서-대야동; cts1009088_04_file48=세출예산명세서-송부동; cts1009088_04_file49=세출예산명세서-일반회계 세입예산사업명세서(과목별); cts1009088_05_file01=특별회계 세입-의료급여기금; cts1009088_05_file02=특별회계 세입-폐기물처리시설; cts1009088_05_file03=특별회계 세입-장기미집행도시계획시설대지보상; cts1009088_05_file04=특별회계 세입-도시개발; cts1009088_05_file05=특별회계 세입-산업단지; cts1009088_05_file06=특별회계 세입-도시재생; cts1009088_05_file07=특별회계 세입-교통사업; cts1009088_05_file08=특별회계 세입-발전소주변지역; cts1009088_06_file01=특별회계 세출-의료급여기금; cts1009088_06_file02=특별회계 세출-폐기물처리시설; cts1009088_06_file03=특별회계 세출-장기미집행도시계획시설대지보상; cts1009088_06_file04=특별회계 세출-도시개발; cts1009088_06_file05=특별회계 세출-산업단지; cts1009088_06_file06=특별회계 세출-도시재생; cts1009088_06_file07=특별회계 세출-교통사업; cts1009088_06_file08=특별회계 세출-발전소주변지역; cts1009088_07_file00=계속비 사업조서 계속비 사업조서(2026년도 본예산); cts1009088_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1009088_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서; 기금운용계획은 '기금' 게시판에 별도 게시(본예산 페이지 내 기금 운용 계획 섹션은 주석처리되어 비노출)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용 계획서",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=311223",
+      "등록일": "2026-01-19",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 군포시 기금운용계획.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1123920",
+          "크기": 440301,
+          "저장경로": "files/2026/경기도_군포시/2026년도 군포시 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 1회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1009106",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1009106",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1009106_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file01.pdf",
+          "크기": 121611,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file01.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file03.pdf",
+          "크기": 113718,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file03.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file04.pdf",
+          "크기": 113474,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file04.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file05.pdf",
+          "크기": 106102,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file05.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file09.pdf",
+          "크기": 122604,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file09.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file10.pdf",
+          "크기": 122386,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file10.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file11.pdf",
+          "크기": 101567,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file11.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file02.pdf",
+          "크기": 100810,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file02.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file06.pdf",
+          "크기": 120764,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file06.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file07.pdf",
+          "크기": 120502,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file07.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file08.pdf",
+          "크기": 102489,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file08.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file12.pdf",
+          "크기": 145356,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file12.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file13.pdf",
+          "크기": 144647,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file13.pdf"
+        },
+        {
+          "파일명": "cts1009106_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_01_file14.pdf",
+          "크기": 115447,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_01_file14.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file01.pdf",
+          "크기": 110749,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file01.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file02.pdf",
+          "크기": 110456,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file02.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file03.pdf",
+          "크기": 103963,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file03.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file04.pdf",
+          "크기": 330573,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file04.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file05.pdf",
+          "크기": 322080,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file05.pdf"
+        },
+        {
+          "파일명": "cts1009106_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_02_file06.pdf",
+          "크기": 119852,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_02_file06.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file01.pdf",
+          "크기": 139980,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file01.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file02.pdf",
+          "크기": 132360,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file02.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file03.pdf",
+          "크기": 239789,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file03.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file04.pdf",
+          "크기": 138088,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file04.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file10.pdf",
+          "크기": 139478,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file10.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file05.pdf",
+          "크기": 142914,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file05.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file11.pdf",
+          "크기": 177431,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file11.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file06.pdf",
+          "크기": 130307,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file06.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file07.pdf",
+          "크기": 152837,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file07.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file08.pdf",
+          "크기": 152126,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file08.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file15.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file15.pdf",
+          "크기": 131711,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file15.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file20.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file20.pdf",
+          "크기": 139005,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file20.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file18.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file18.pdf",
+          "크기": 154025,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file18.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file21.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file21.pdf",
+          "크기": 137634,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file21.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file19.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file19.pdf",
+          "크기": 132115,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file19.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file22.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file22.pdf",
+          "크기": 137118,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file22.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file23.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file23.pdf",
+          "크기": 161384,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file23.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file24.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file24.pdf",
+          "크기": 132326,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file24.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file25.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file25.pdf",
+          "크기": 174726,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file25.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file31.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file31.pdf",
+          "크기": 178686,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file31.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file26.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file26.pdf",
+          "크기": 257703,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file26.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file32.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file32.pdf",
+          "크기": 159635,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file32.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file27.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file27.pdf",
+          "크기": 195006,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file27.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file33.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file33.pdf",
+          "크기": 165155,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file33.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file28.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file28.pdf",
+          "크기": 209920,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file28.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file34.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file34.pdf",
+          "크기": 131990,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file34.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file29.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file29.pdf",
+          "크기": 145361,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file29.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file30.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file30.pdf",
+          "크기": 138665,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file30.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file35.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file35.pdf",
+          "크기": 129919,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file35.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file37.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file37.pdf",
+          "크기": 156656,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file37.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file38.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file38.pdf",
+          "크기": 130495,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file38.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file39.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file39.pdf",
+          "크기": 129969,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file39.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file40.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file40.pdf",
+          "크기": 129982,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file40.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file41.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file41.pdf",
+          "크기": 131462,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file41.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file42.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file42.pdf",
+          "크기": 129959,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file42.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file43.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file43.pdf",
+          "크기": 129949,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file43.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file44.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file44.pdf",
+          "크기": 129948,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file44.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file45.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file45.pdf",
+          "크기": 129966,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file45.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file46.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file46.pdf",
+          "크기": 130612,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file46.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file47.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file47.pdf",
+          "크기": 129976,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file47.pdf"
+        },
+        {
+          "파일명": "cts1009106_04_file48.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_04_file48.pdf",
+          "크기": 129963,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_04_file48.pdf"
+        },
+        {
+          "파일명": "cts1009106_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_05_file03.pdf",
+          "크기": 99687,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_05_file03.pdf"
+        },
+        {
+          "파일명": "cts1009106_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_05_file04.pdf",
+          "크기": 105764,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_05_file04.pdf"
+        },
+        {
+          "파일명": "cts1009106_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_05_file05.pdf",
+          "크기": 99185,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_05_file05.pdf"
+        },
+        {
+          "파일명": "cts1009106_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_05_file06.pdf",
+          "크기": 103119,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_05_file06.pdf"
+        },
+        {
+          "파일명": "cts1009106_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_07_file01.pdf",
+          "크기": 132844,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_07_file01.pdf"
+        },
+        {
+          "파일명": "cts1009106_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_08_file01.pdf",
+          "크기": 3262202,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_08_file01.pdf"
+        },
+        {
+          "파일명": "cts1009106_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009106_08_file02.pdf",
+          "크기": 9172817,
+          "저장경로": "files/2026/경기도_군포시/cts1009106_08_file02.pdf"
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 68개(합본 없음). 구성: cts1009106_01_file01=예산현황-예산총칙; cts1009106_01_file03=예산현황-세입총괄표(일반+특별); cts1009106_01_file04=예산현황-세입총괄표(일반); cts1009106_01_file05=예산현황-세입총괄표(특별); cts1009106_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1009106_01_file10=예산현황-세출총괄표(조직별)(일반); cts1009106_01_file11=예산현황-세출총괄표(조직별)(특별); cts1009106_01_file02=예산현황-회계별 예산규모; cts1009106_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1009106_01_file07=예산현황-세출총괄표(기능별)(일반); cts1009106_01_file08=예산현황-세출총괄표(기능별)(특별); cts1009106_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1009106_01_file13=예산현황-세출총괄표(성질별)(일반); cts1009106_01_file14=예산현황-세출총괄표(성질별)(특별); cts1009106_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1009106_02_file02=세입세출예산서-세입예산서 (일반); cts1009106_02_file03=세입세출예산서-세입예산서 (특별); cts1009106_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1009106_02_file05=세입세출예산서-세출예산서 (일반); cts1009106_02_file06=세입세출예산서-세출예산서 (특별); cts1009106_04_file01=세출예산명세서-기획예산실; cts1009106_04_file02=세출예산명세서-홍보실; cts1009106_04_file03=세출예산명세서-과목별; cts1009106_04_file04=세출예산명세서-행정지원과; cts1009106_04_file10=세출예산명세서-기업정책과; cts1009106_04_file05=세출예산명세서-자치분권과; cts1009106_04_file11=세출예산명세서-지역경제과; cts1009106_04_file06=세출예산명세서-스마트정보과; cts1009106_04_file07=세출예산명세서-교육체육과; cts1009106_04_file08=세출예산명세서-문화예술과; cts1009106_04_file15=세출예산명세서-도시계획과; cts1009106_04_file20=세출예산명세서-안전총괄과; cts1009106_04_file18=세출예산명세서-건설과; cts1009106_04_file21=세출예산명세서-환경과; cts1009106_04_file19=세출예산명세서-건축과; cts1009106_04_file22=세출예산명세서-위생자원과; cts1009106_04_file23=세출예산명세서-교통행정과; cts1009106_04_file24=세출예산명세서-차량관리과; cts1009106_04_file25=세출예산명세서-복지정책과; cts1009106_04_file31=세출예산명세서-보건행정과; cts1009106_04_file26=세출예산명세서-노인장애인과; cts1009106_04_file32=세출예산명세서-산본보건지소; cts1009106_04_file27=세출예산명세서-여성가족과; cts1009106_04_file33=세출예산명세서-생태공원녹지과; cts1009106_04_file28=세출예산명세서-아동청소년과; cts1009106_04_file34=세출예산명세서-의회사무과; cts1009106_04_file29=세출예산명세서-중앙도서관; cts1009106_04_file30=세출예산명세서-산본도서관; cts1009106_04_file35=세출예산명세서-민원행정과; cts1009106_04_file37=세출예산명세서-도시환경과; cts1009106_04_file38=세출예산명세서-군포2동; cts1009106_04_file39=세출예산명세서-산본1동; cts1009106_04_file40=세출예산명세서-산본2동; cts1009106_04_file41=세출예산명세서-금정동; cts1009106_04_file42=세출예산명세서-재궁동; cts1009106_04_file43=세출예산명세서-오금동; cts1009106_04_file44=세출예산명세서-수리동; cts1009106_04_file45=세출예산명세서-궁내동; cts1009106_04_file46=세출예산명세서-광정동; cts1009106_04_file47=세출예산명세서-대야동; cts1009106_04_file48=세출예산명세서-송부동; cts1009106_05_file03=특별회계 세입-교통사업; cts1009106_05_file04=특별회계 세입-교통사업; cts1009106_05_file05=특별회계 세입-발전소주변지역지원사업; cts1009106_05_file06=특별회계 세입-발전소주변지역지원사업; cts1009106_07_file01=계속비 사업조서 계속비 사업조서(2025년 1회 추경); cts1009106_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1009106_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=316201",
+      "등록일": "2026-04-07",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제1회 추가경정 기금 운용계획 변경.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1128951",
+          "크기": 205394,
+          "저장경로": "files/2026/경기도_군포시/2026년도 제1회 추가경정 기금 운용계획 변경.pdf"
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=326810",
+      "등록일": "2026-10-01",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제2회 추가경정 기금 운용계획 변경.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1139827",
+          "크기": 385332,
+          "저장경로": "files/2026/경기도_군포시/2026년도 제2회 추가경정 기금 운용계획 변경.pdf"
+        }
+      ],
+      "비고": "기금운용계획 변경(추경). 2026년 제2회 추경 세입세출예산서는 예산공개 페이지에 아직 미게시(미확인)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008981",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008981",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008981_00_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_00_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file01_02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file01_02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file15.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file20.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file16.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file21.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file17.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file22.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file18.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file23.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file19.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file24.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file25.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file31.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file26.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file32.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file27.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file33.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file28.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file34.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file29.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file30.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file35.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file36.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file37.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file38.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file39.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file40.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file41.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file42.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file43.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file44.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file45.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file46.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file47.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file48.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_04_file49.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_04_file49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_06_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_06_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_06_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_06_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_06_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_06_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_06_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_06_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_06_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_06_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_08_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008981_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008981_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 82개(합본 없음). 구성: cts1008981_00_file01=재정전망 및 시정방향; cts1008981_01_file01_02=예산현황-예산총칙; cts1008981_01_file03=예산현황-세입총괄표(일반+특별); cts1008981_01_file04=예산현황-세입총괄표(일반); cts1008981_01_file05=예산현황-세입총괄표(특별); cts1008981_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008981_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008981_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008981_01_file02=예산현황-회계별 예산규모; cts1008981_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008981_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008981_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008981_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008981_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008981_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008981_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008981_02_file02=세입세출예산서-세입예산서 (일반); cts1008981_02_file03=세입세출예산서-세입예산서 (특별); cts1008981_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008981_02_file05=세입세출예산서-세출예산서 (일반); cts1008981_02_file06=세입세출예산서-세출예산서 (특별); cts1008981_04_file01=세출예산명세서-기획예산실; cts1008981_04_file02=세출예산명세서-홍보실; cts1008981_04_file03=세출예산명세서-감사실; cts1008981_04_file04=세출예산명세서-행정지원과; cts1008981_04_file10=세출예산명세서-기업정책과; cts1008981_04_file05=세출예산명세서-자치분권과; cts1008981_04_file11=세출예산명세서-지역경제과; cts1008981_04_file06=세출예산명세서-민원봉사과; cts1008981_04_file12=세출예산명세서-회계과; cts1008981_04_file07=세출예산명세서-스마트정보과; cts1008981_04_file13=세출예산명세서-세정과; cts1008981_04_file08=세출예산명세서-교육체육과; cts1008981_04_file14=세출예산명세서-세원관리과; cts1008981_04_file09=세출예산명세서-문화예술과; cts1008981_04_file15=세출예산명세서-도시계획과; cts1008981_04_file20=세출예산명세서-안전총괄과; cts1008981_04_file16=세출예산명세서-도시개발과; cts1008981_04_file21=세출예산명세서-환경과; cts1008981_04_file17=세출예산명세서-주택정책과; cts1008981_04_file22=세출예산명세서-위생자원과; cts1008981_04_file18=세출예산명세서-건설과; cts1008981_04_file23=세출예산명세서-교통행정과; cts1008981_04_file19=세출예산명세서-건축과; cts1008981_04_file24=세출예산명세서-차량관리과; cts1008981_04_file25=세출예산명세서-복지정책과; cts1008981_04_file31=세출예산명세서-보건행정과; cts1008981_04_file26=세출예산명세서-노인장애인과; cts1008981_04_file32=세출예산명세서-산본보건지소; cts1008981_04_file27=세출예산명세서-여성가족과; cts1008981_04_file33=세출예산명세서-생태공원녹지과; cts1008981_04_file28=세출예산명세서-아동청소년과; cts1008981_04_file34=세출예산명세서-의회사무과; cts1008981_04_file29=세출예산명세서-중앙도서관; cts1008981_04_file30=세출예산명세서-산본도서관; cts1008981_04_file35=세출예산명세서-민원행정과; cts1008981_04_file36=세출예산명세서-복지과; cts1008981_04_file37=세출예산명세서-도시환경과; cts1008981_04_file38=세출예산명세서-군포2동; cts1008981_04_file39=세출예산명세서-산본1동; cts1008981_04_file40=세출예산명세서-산본2동; cts1008981_04_file41=세출예산명세서-금정동; cts1008981_04_file42=세출예산명세서-재궁동; cts1008981_04_file43=세출예산명세서-오금동; cts1008981_04_file44=세출예산명세서-수리동; cts1008981_04_file45=세출예산명세서-궁내동; cts1008981_04_file46=세출예산명세서-광정동; cts1008981_04_file47=세출예산명세서-대야동; cts1008981_04_file48=세출예산명세서-송부동; cts1008981_04_file49=세출예산명세서-일반회계 세입예산사업명세서(과목별); cts1008981_05_file01=특별회계 세입-의료급여기금; cts1008981_05_file02=특별회계 세입-폐기물처리시설; cts1008981_05_file03=특별회계 세입-장기미집행도시계획시설대지보상; cts1008981_05_file04=특별회계 세입-산업단지; cts1008981_05_file05=특별회계 세입-교통사업; cts1008981_06_file01=특별회계 세출-의료급여기금; cts1008981_06_file02=특별회계 세출-폐기물처리시설; cts1008981_06_file03=특별회계 세출-장기미집행도시계획시설대지보상; cts1008981_06_file04=특별회계 세출-산업단지; cts1008981_06_file05=특별회계 세출-교통사업; cts1008981_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1008981_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서; 기금운용계획은 '기금' 게시판에 별도 게시(본예산 페이지 내 기금 운용 계획 섹션은 주석처리되어 비노출)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획서",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=295711",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 군포시 기금운용계획(최종업로드).pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1106180",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 1회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1009006",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1009006",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1009006_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_05_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_08_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009006_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009006_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 31개(합본 없음). 구성: cts1009006_01_file01=예산현황-예산총칙; cts1009006_01_file03=예산현황-세입총괄표(일반+특별); cts1009006_01_file04=예산현황-세입총괄표(일반); cts1009006_01_file05=예산현황-세입총괄표(특별); cts1009006_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1009006_01_file10=예산현황-세출총괄표(조직별)(일반); cts1009006_01_file11=예산현황-세출총괄표(조직별)(특별); cts1009006_01_file02=예산현황-회계별 예산규모; cts1009006_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1009006_01_file07=예산현황-세출총괄표(기능별)(일반); cts1009006_01_file08=예산현황-세출총괄표(기능별)(특별); cts1009006_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1009006_01_file13=예산현황-세출총괄표(성질별)(일반); cts1009006_01_file14=예산현황-세출총괄표(성질별)(특별); cts1009006_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1009006_02_file02=세입세출예산서-세입예산서 (일반); cts1009006_02_file03=세입세출예산서-세입예산서 (특별); cts1009006_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1009006_02_file05=세입세출예산서-세출예산서 (일반); cts1009006_02_file06=세입세출예산서-세출예산서 (특별); cts1009006_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1009006_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1009006_05_file01=특별회계 세입-도시재생; cts1009006_05_file02=특별회계 세입-도시재생; cts1009006_05_file03=특별회계 세입-교통사업; cts1009006_05_file04=특별회계 세입-교통사업; cts1009006_05_file05=특별회계 세입-발전소주변지역지원사업; cts1009006_05_file06=특별회계 세입-발전소주변지역지원사업; cts1009006_07_file01=계속비 사업조서 계속비 사업조서(2025년 1회 추경); cts1009006_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1009006_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=298633",
+      "등록일": "2025-04-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 추가경정 기금운용계획 변경.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1109897",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 2회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1009072",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1009072",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1009072_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_05_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_05_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_08_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009072_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009072_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 39개(합본 없음). 구성: cts1009072_01_file01=예산현황-예산총칙; cts1009072_01_file03=예산현황-세입총괄표(일반+특별); cts1009072_01_file04=예산현황-세입총괄표(일반); cts1009072_01_file05=예산현황-세입총괄표(특별); cts1009072_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1009072_01_file10=예산현황-세출총괄표(조직별)(일반); cts1009072_01_file11=예산현황-세출총괄표(조직별)(특별); cts1009072_01_file02=예산현황-회계별 예산규모; cts1009072_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1009072_01_file07=예산현황-세출총괄표(기능별)(일반); cts1009072_01_file08=예산현황-세출총괄표(기능별)(특별); cts1009072_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1009072_01_file13=예산현황-세출총괄표(성질별)(일반); cts1009072_01_file14=예산현황-세출총괄표(성질별)(특별); cts1009072_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1009072_02_file02=세입세출예산서-세입예산서 (일반); cts1009072_02_file03=세입세출예산서-세입예산서 (특별); cts1009072_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1009072_02_file05=세입세출예산서-세출예산서 (일반); cts1009072_02_file06=세입세출예산서-세출예산서 (특별); cts1009072_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1009072_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1009072_05_file01=특별회계 세입-의료급여; cts1009072_05_file02=특별회계 세입-의료급여; cts1009072_05_file03=특별회계 세입-폐기물처리시설; cts1009072_05_file04=특별회계 세입-폐기물처리시설; cts1009072_05_file05=특별회계 세입-장기미집행도시계획시설대지보상; cts1009072_05_file06=특별회계 세입-장기미집행도시계획시설대지보상; cts1009072_05_file07=특별회계 세입-도시개발; cts1009072_05_file08=특별회계 세입-도시개발; cts1009072_05_file09=특별회계 세입-산업단지; cts1009072_05_file10=특별회계 세입-산업단지; cts1009072_05_file11=특별회계 세입-교통사업; cts1009072_05_file12=특별회계 세입-교통사업; cts1009072_05_file13=특별회계 세입-발전소주변지역지원사업; cts1009072_05_file14=특별회계 세입-발전소주변지역지원사업; cts1009072_07_file01=계속비 사업조서 계속비 사업조서(2025년 2회 추경); cts1009072_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1009072_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=305180",
+      "등록일": "2025-09-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회 추가경정 기금운용계획 변경.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1117719",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 3회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1009083",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1009083",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1009083_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_05_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_07_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_07_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1009083_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1009083_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 31개(합본 없음). 구성: cts1009083_01_file01=예산현황-예산총칙; cts1009083_01_file03=예산현황-세입총괄표(일반+특별); cts1009083_01_file04=예산현황-세입총괄표(일반); cts1009083_01_file05=예산현황-세입총괄표(특별); cts1009083_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1009083_01_file10=예산현황-세출총괄표(조직별)(일반); cts1009083_01_file11=예산현황-세출총괄표(조직별)(특별); cts1009083_01_file02=예산현황-회계별 예산규모; cts1009083_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1009083_01_file07=예산현황-세출총괄표(기능별)(일반); cts1009083_01_file08=예산현황-세출총괄표(기능별)(특별); cts1009083_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1009083_01_file13=예산현황-세출총괄표(성질별)(일반); cts1009083_01_file14=예산현황-세출총괄표(성질별)(특별); cts1009083_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1009083_02_file02=세입세출예산서-세입예산서 (일반); cts1009083_02_file03=세입세출예산서-세입예산서 (특별); cts1009083_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1009083_02_file05=세입세출예산서-세출예산서 (일반); cts1009083_02_file06=세입세출예산서-세출예산서 (특별); cts1009083_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1009083_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1009083_05_file01=특별회계 세입-의료급여; cts1009083_05_file02=특별회계 세입-의료급여; cts1009083_05_file03=특별회계 세입-폐기물처리시설; cts1009083_05_file04=특별회계 세입-폐기물처리시설; cts1009083_05_file05=특별회계 세입-교통사업; cts1009083_05_file06=특별회계 세입-교통사업; cts1009083_07_file01=계속비 사업조서 계속비 사업조서(2025년 3회 추경); cts1009083_07_file02=명시이월사업조서 명시이월사업조서(2025년 3회 추경); cts1009083_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=309474",
+      "등록일": "2025-12-12",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 추가경정 기금운용계획 변경.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1122179",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008840",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008840",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008840_00_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_00_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file01_02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file01_02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file15.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file20.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file16.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file21.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file17.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file22.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file18.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file23.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file19.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file24.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file25.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file31.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file26.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file32.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file27.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file33.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file28.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file34.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file29.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file30.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file35.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file36.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file37.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file38.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file39.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file40.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file41.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file42.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file43.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file44.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file45.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file46.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file47.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file48.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_04_file49.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_04_file49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_06_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_06_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_06_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_06_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_06_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_06_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_06_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_06_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_06_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_06_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file00.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file00.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_07_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_07_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_08_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008840_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008840_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 91개(합본 없음). 구성: cts1008840_00_file01=재정전망 및 시정방향; cts1008840_01_file01_02=예산현황-예산총칙; cts1008840_01_file03=예산현황-세입총괄표(일반+특별); cts1008840_01_file04=예산현황-세입총괄표(일반); cts1008840_01_file05=예산현황-세입총괄표(특별); cts1008840_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008840_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008840_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008840_01_file02=예산현황-회계별 예산규모; cts1008840_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008840_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008840_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008840_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008840_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008840_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008840_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008840_02_file02=세입세출예산서-세입예산서 (일반); cts1008840_02_file03=세입세출예산서-세입예산서 (특별); cts1008840_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008840_02_file05=세입세출예산서-세출예산서 (일반); cts1008840_02_file06=세입세출예산서-세출예산서 (특별); cts1008840_04_file01=세출예산명세서-기획예산실; cts1008840_04_file02=세출예산명세서-홍보실; cts1008840_04_file03=세출예산명세서-감사실; cts1008840_04_file04=세출예산명세서-행정지원과; cts1008840_04_file10=세출예산명세서-기업정책과; cts1008840_04_file05=세출예산명세서-자치분권과; cts1008840_04_file11=세출예산명세서-지역경제과; cts1008840_04_file06=세출예산명세서-민원봉사과; cts1008840_04_file12=세출예산명세서-회계과; cts1008840_04_file07=세출예산명세서-스마트정보과; cts1008840_04_file13=세출예산명세서-세정과; cts1008840_04_file08=세출예산명세서-교육체육과; cts1008840_04_file14=세출예산명세서-세원관리과; cts1008840_04_file09=세출예산명세서-문화예술과; cts1008840_04_file15=세출예산명세서-도시계획과; cts1008840_04_file20=세출예산명세서-안전총괄과; cts1008840_04_file16=세출예산명세서-도시개발과; cts1008840_04_file21=세출예산명세서-환경과; cts1008840_04_file17=세출예산명세서-주택정책과; cts1008840_04_file22=세출예산명세서-위생자원과; cts1008840_04_file18=세출예산명세서-건설과; cts1008840_04_file23=세출예산명세서-교통행정과; cts1008840_04_file19=세출예산명세서-건축과; cts1008840_04_file24=세출예산명세서-차량관리과; cts1008840_04_file25=세출예산명세서-복지정책과; cts1008840_04_file31=세출예산명세서-보건행정과; cts1008840_04_file26=세출예산명세서-노인장애인과; cts1008840_04_file32=세출예산명세서-산본보건지소; cts1008840_04_file27=세출예산명세서-여성가족과; cts1008840_04_file33=세출예산명세서-생태공원녹지과; cts1008840_04_file28=세출예산명세서-아동청소년과; cts1008840_04_file34=세출예산명세서-의회사무과; cts1008840_04_file29=세출예산명세서-중앙도서관; cts1008840_04_file30=세출예산명세서-산본도서관; cts1008840_04_file35=세출예산명세서-민원행정과; cts1008840_04_file36=세출예산명세서-복지과; cts1008840_04_file37=세출예산명세서-도시환경과; cts1008840_04_file38=세출예산명세서-군포2동; cts1008840_04_file39=세출예산명세서-산본1동; cts1008840_04_file40=세출예산명세서-산본2동; cts1008840_04_file41=세출예산명세서-금정동; cts1008840_04_file42=세출예산명세서-재궁동; cts1008840_04_file43=세출예산명세서-오금동; cts1008840_04_file44=세출예산명세서-수리동; cts1008840_04_file45=세출예산명세서-궁내동; cts1008840_04_file46=세출예산명세서-광정동; cts1008840_04_file47=세출예산명세서-대야동; cts1008840_04_file48=세출예산명세서-송부동; cts1008840_04_file49=세출예산명세서-일반회계 세입예산사업명세서(과목별); cts1008840_05_file01=특별회계 세입-의료급여기금; cts1008840_05_file02=특별회계 세입-폐기물처리시설; cts1008840_05_file03=특별회계 세입-산업단지; cts1008840_05_file04=특별회계 세입-도시재생; cts1008840_05_file05=특별회계 세입-교통사업; cts1008840_06_file01=특별회계 세출-의료급여기금; cts1008840_06_file02=특별회계 세출-폐기물처리시설; cts1008840_06_file03=특별회계 세출-산업단지; cts1008840_06_file04=특별회계 세출-도시재생; cts1008840_06_file05=특별회계 세출-교통사업; cts1008840_07_file00=계속비 사업조서 계속비 사업조서(2024년도 본예산); cts1008840_07_file01=기금개요; cts1008840_07_file02=기금운용계획총괄표; cts1008840_07_file03=기금조성규모; cts1008840_07_file04=기금 총 조성규모; cts1008840_07_file05=자금운용계획; cts1008840_07_file06=연도별 기금조성 및 집행현황; cts1008840_07_file07=수입계획; cts1008840_07_file08=지출계획; cts1008840_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1008840_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서; 기금운용계획은 '기금' 게시판에 별도 게시(본예산 페이지 내 기금 운용 계획 섹션은 주석처리되어 비노출)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획서",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=286047",
+      "등록일": "2024-01-05",
+      "첨부파일": [
+        {
+          "파일명": "(최종)2024년 기금운용계획.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1094416",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 1회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008872",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008872",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008872_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008872_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008872_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 23개(합본 없음). 구성: cts1008872_01_file01=예산현황-예산총칙; cts1008872_01_file03=예산현황-세입총괄표(일반+특별); cts1008872_01_file04=예산현황-세입총괄표(일반); cts1008872_01_file05=예산현황-세입총괄표(특별); cts1008872_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008872_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008872_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008872_01_file02=예산현황-회계별 예산규모; cts1008872_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008872_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008872_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008872_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008872_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008872_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008872_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008872_02_file02=세입세출예산서-세입예산서 (일반); cts1008872_02_file03=세입세출예산서-세입예산서 (특별); cts1008872_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008872_02_file05=세입세출예산서-세출예산서 (일반); cts1008872_02_file06=세입세출예산서-세출예산서 (특별); cts1008872_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1008872_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1008872_07_file01=계속비 사업조서 계속비 사업조서(2024년 1회 추경)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 2회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008899",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008899",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008899_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_05_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_05_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file01_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file01_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file02_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file02_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file03_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file03_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file04_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file04_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file05_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file05_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file06_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file06_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file07_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file07_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_06_file08_1.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_06_file08_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008899_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008899_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 40개(합본 없음). 구성: cts1008899_01_file01=예산현황-예산총칙; cts1008899_01_file03=예산현황-세입총괄표(일반+특별); cts1008899_01_file04=예산현황-세입총괄표(일반); cts1008899_01_file05=예산현황-세입총괄표(특별); cts1008899_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008899_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008899_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008899_01_file02=예산현황-회계별 예산규모; cts1008899_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008899_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008899_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008899_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008899_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008899_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008899_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008899_02_file02=세입세출예산서-세입예산서 (일반); cts1008899_02_file03=세입세출예산서-세입예산서 (특별); cts1008899_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008899_02_file05=세입세출예산서-세출예산서 (일반); cts1008899_02_file06=세입세출예산서-세출예산서 (특별); cts1008899_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1008899_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1008899_05_file02=특별회계 세입-폐기물처리시설; cts1008899_05_file03=특별회계 세입-산업단지; cts1008899_05_file04=특별회계 세입-산업단지; cts1008899_05_file05=특별회계 세입-도시재생; cts1008899_05_file06=특별회계 세입-도시재생; cts1008899_05_file07=특별회계 세입-교통사업; cts1008899_05_file08=특별회계 세입-교통사업; cts1008899_05_file09=특별회계 세입-발전소주변지역; cts1008899_05_file10=특별회계 세입-발전소주변지역; cts1008899_06_file01_1=특별회계 세출-기금개요; cts1008899_06_file02_1=특별회계 세출-기금운용계획총괄표; cts1008899_06_file03_1=특별회계 세출-기금조성규모; cts1008899_06_file04_1=특별회계 세출-기금 총 조성규모; cts1008899_06_file05_1=특별회계 세출-자금운용계획; cts1008899_06_file06_1=특별회계 세출-연도별 기금조성 및 집행현황; cts1008899_06_file07_1=특별회계 세출-수입계획; cts1008899_06_file08_1=특별회계 세출-지출계획; cts1008899_07_file01=계속비 사업조서 계속비 사업조서(2024년도 제2회 추경)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=294784",
+      "등록일": "2024-12-12",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정 기금운용 변경계획.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1105556",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 3회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008953",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008953",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008953_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file15.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008953_05_file16.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008953_05_file16.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 38개(합본 없음). 구성: cts1008953_01_file01=예산현황-예산총칙; cts1008953_01_file03=예산현황-세입총괄표(일반+특별); cts1008953_01_file04=예산현황-세입총괄표(일반); cts1008953_01_file05=예산현황-세입총괄표(특별); cts1008953_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008953_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008953_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008953_01_file02=예산현황-회계별 예산규모; cts1008953_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008953_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008953_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008953_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008953_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008953_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008953_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008953_02_file02=세입세출예산서-세입예산서 (일반); cts1008953_02_file03=세입세출예산서-세입예산서 (특별); cts1008953_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008953_02_file05=세입세출예산서-세출예산서 (일반); cts1008953_02_file06=세입세출예산서-세출예산서 (특별); cts1008953_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1008953_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1008953_05_file01=특별회계 세입-의료급여기금특별회계; cts1008953_05_file02=특별회계 세입-의료급여기금특별회계; cts1008953_05_file03=특별회계 세입-폐기물처리시설; cts1008953_05_file04=특별회계 세입-폐기물처리시설; cts1008953_05_file05=특별회계 세입-장기미집행도시계획시설대지보상; cts1008953_05_file06=특별회계 세입-장기미집행도시계획시설대지보상; cts1008953_05_file07=특별회계 세입-도시개발; cts1008953_05_file08=특별회계 세입-도시개발; cts1008953_05_file09=특별회계 세입-산업단지; cts1008953_05_file10=특별회계 세입-산업단지; cts1008953_05_file11=특별회계 세입-도시재생; cts1008953_05_file12=특별회계 세입-도시재생; cts1008953_05_file13=특별회계 세입-교통사업; cts1008953_05_file14=특별회계 세입-교통사업; cts1008953_05_file15=특별회계 세입-발전소주변지역지원사업; cts1008953_05_file16=특별회계 세입-발전소주변지역지원사업"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=294785",
+      "등록일": "2024-12-12",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제3회 추가경정 기금운용 변경계획.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1105557",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년도 4회 추경",
+      "게시판URL": "https://www.gunpo.go.kr/www/contents.do?key=1008977",
+      "게시물URL": "https://www.gunpo.go.kr/www/contents.do?key=1008977",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts1008977_01_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file09.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file10.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file11.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file07.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file08.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file12.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file13.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_01_file14.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_01_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file05.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_02_file06.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_02_file06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_03_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_03_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_04_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_04_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_05_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_05_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_05_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_05_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_05_file03.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_05_file03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_05_file04.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_05_file04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_07_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_07_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_07_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_07_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_08_file01.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_08_file01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "cts1008977_08_file02.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadContentsFile.do?fileNm=cts1008977_08_file02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산공개 콘텐츠 페이지(게시물 아님, 등록일 없음). 장·과별 분할 PDF 30개(합본 없음). 구성: cts1008977_01_file01=예산현황-예산총칙; cts1008977_01_file03=예산현황-세입총괄표(일반+특별); cts1008977_01_file04=예산현황-세입총괄표(일반); cts1008977_01_file05=예산현황-세입총괄표(특별); cts1008977_01_file09=예산현황-세출총괄표(조직별)(일반+특별); cts1008977_01_file10=예산현황-세출총괄표(조직별)(일반); cts1008977_01_file11=예산현황-세출총괄표(조직별)(특별); cts1008977_01_file02=예산현황-회계별 예산규모; cts1008977_01_file06=예산현황-세출총괄표(기능별)(일반+특별); cts1008977_01_file07=예산현황-세출총괄표(기능별)(일반); cts1008977_01_file08=예산현황-세출총괄표(기능별)(특별); cts1008977_01_file12=예산현황-세출총괄표(성질별)(일반+특별); cts1008977_01_file13=예산현황-세출총괄표(성질별)(일반); cts1008977_01_file14=예산현황-세출총괄표(성질별)(특별); cts1008977_02_file01=세입세출예산서-세입예산서 (일반+특별); cts1008977_02_file02=세입세출예산서-세입예산서 (일반); cts1008977_02_file03=세입세출예산서-세입예산서 (특별); cts1008977_02_file04=세입세출예산서-세출예산서 (일반+특별); cts1008977_02_file05=세입세출예산서-세출예산서 (일반); cts1008977_02_file06=세입세출예산서-세출예산서 (특별); cts1008977_03_file01=일반회계 세입예산사업명세서(과목별) 일반회계 세입예산사업명세서(과목별); cts1008977_04_file01=세출예산명세서-일반회계 세출예산사업명세서(부서별) 일반회계 세출예산사업명세서(부서별); cts1008977_05_file01=특별회계 세입-폐기물처리시설; cts1008977_05_file02=특별회계 세입-폐기물처리시설; cts1008977_05_file03=특별회계 세입-교통사업; cts1008977_05_file04=특별회계 세입-교통사업; cts1008977_07_file01=계속비 사업조서 계속비 사업조서(2024년도 제4회 추경); cts1008977_07_file02=명시이월사업조서 명시이월사업조서(2024년도 제4회 추경); cts1008977_08_file01=공기업특별회계-수도사업특별회계 수입ㆍ지출예산서; cts1008977_08_file02=공기업특별회계-하수도사업특별회계 수입ㆍ지출예산서"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년도 제4회 추가경정 기금운용 변경계획",
+      "게시판URL": "https://www.gunpo.go.kr/www/selectBbsNttList.do?bbsNo=713&key=4273",
+      "게시물URL": "https://www.gunpo.go.kr/www/selectBbsNttView.do?key=4273&bbsNo=713&nttNo=294786",
+      "등록일": "2024-12-12",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제4회 추가경정 기금운용 변경계획.pdf",
+          "다운로드URL": "https://www.gunpo.go.kr/www/downloadBbsFile.do?atchmnflNo=1105558",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경(추경)"
+    }
+  ],
+  "비고": "예산서는 '예산공개' 콘텐츠 페이지에 장·과별로 잘게 분할된 PDF로만 제공(합본 없음, 등록일 없음). 2026년 페이지는 본예산·1회 추경까지만 있음. 기금 게시판에는 2026년 제2회 추경 기금운용 변경계획(2026-10-01)까지 게시. 2024년 제1회 추경 기금운용 변경계획 게시물은 목록에서 확인 못함"
+}

@@ -1,0 +1,420 @@
+{
+  "시도": "경기도",
+  "지자체": "구리시",
+  "홈페이지": "https://www.guri.go.kr",
+  "게시판": [
+    {
+      "이름": "재정현황 > 예산서 목록",
+      "URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324"
+    },
+    {
+      "이름": "재정현황 > 기금운용계획 현황",
+      "URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=726&key=328"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 일반 및 특별회계 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=134852",
+      "등록일": "2025-12-11",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 일반 및 특별회계 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=423557",
+          "크기": 27315832,
+          "저장경로": "files/2026/경기도_구리시/2026년도 일반 및 특별회계 예산서.pdf"
+        },
+        {
+          "파일명": "2026년도 일반 및 기타특별회계(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=423558",
+          "크기": 838420,
+          "저장경로": "files/2026/경기도_구리시/2026년도 일반 및 기타특별회계(세출-검색용).xlsx"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획 현황)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 구리시 기금운용계획서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=726&key=328",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=328&bbsNo=726&nttNo=135096",
+      "등록일": "2025-12-19",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 구리시 기금운용계획.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=424030",
+          "크기": 851989,
+          "저장경로": "files/2026/경기도_구리시/2026년도 구리시 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=141616",
+      "등록일": "2026-04-10",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제1회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=433930",
+          "크기": 3552827,
+          "저장경로": "files/2026/경기도_구리시/2026년도 제1회 일반 및 특별회계 추가경정 예산서.pdf"
+        },
+        {
+          "파일명": "2026년도 제1회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=433931",
+          "크기": 143566,
+          "저장경로": "files/2026/경기도_구리시/2026년도 제1회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=142993",
+      "등록일": "2026-05-18",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제2회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=436019",
+          "크기": 1322180,
+          "저장경로": "files/2026/경기도_구리시/2026년도 제2회 일반 및 특별회계 추가경정 예산서.pdf"
+        },
+        {
+          "파일명": "2026년도 제2회 일반회계 추가경정 예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=436020",
+          "크기": 18605,
+          "저장경로": "files/2026/경기도_구리시/2026년도 제2회 일반회계 추가경정 예산서(세출-검색용).xlsx"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반 및 특별회계 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=118614",
+      "등록일": "2024-12-19",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=394787",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 일반 및 기타특별회계(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=394788",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 구리시 기금운용계획서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=726&key=328",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=328&bbsNo=726&nttNo=118677",
+      "등록일": "2024-12-20",
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 구리시 기금운용계획.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=394876",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=123977",
+      "등록일": "2025-04-08",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=403496",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 제1회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=403497",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=127885",
+      "등록일": "2025-07-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제2회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=411134",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 제2회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=411135",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=130854",
+      "등록일": "2025-09-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제3회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=416111",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 제3회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=416112",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년도 제4회(마무리) 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=135207",
+      "등록일": "2025-12-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제4회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=424197",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년도 제4회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=424198",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": null,
+      "제목": "2025년도 일반 및 특별회계 간주예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=137810",
+      "등록일": "2026-01-19",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 간주예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=425993",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "간주예산서(회차 표기 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=102332",
+      "등록일": "2023-12-13",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 일반 및 특별회계 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=352137",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 일반 및 기타특별회계(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=352138",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 구리시 기금운용계획서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=726&key=328",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=328&bbsNo=726&nttNo=103538",
+      "등록일": "2024-01-24",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 구리시 기금운용계획.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=354174",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=106127",
+      "등록일": "2024-03-21",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=365813",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 제1회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=365814",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=112376",
+      "등록일": "2024-06-28",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제2회 일반 및 특별회계 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=377756",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 제2회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=377757",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=115552",
+      "등록일": "2024-09-23",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제3회 일반 및 특별회계 추가경정예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=385963",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 제3회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=385964",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년도 제4회 일반 및 특별회계 추가경정 예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=120776",
+      "등록일": "2025-02-26",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제4회 일반 및 특별회계 추가경정예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=399630",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 제4회 일반 및 기타특별회계 추가경정예산서(세출-검색용).xlsx",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=399631",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 간주예산서",
+      "게시판URL": "https://www.guri.go.kr/www/selectBbsNttList.do?bbsNo=10&key=324",
+      "게시물URL": "https://www.guri.go.kr/www/selectBbsNttView.do?key=324&bbsNo=10&nttNo=119007",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 일반 및 특별회계 간주예산서.pdf",
+          "다운로드URL": "https://www.guri.go.kr/www/downloadBbsFile.do?atchmnflNo=395869",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "간주예산서(회차 표기 없음)"
+    }
+  ],
+  "비고": "예산서 목록 게시판에 확정 예산서만 게시(예산안 없음). 2026년은 제2회 추경까지 게시됨"
+}

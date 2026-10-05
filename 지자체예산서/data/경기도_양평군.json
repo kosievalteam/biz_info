@@ -1,0 +1,1902 @@
+{
+  "시도": "경기도",
+  "지자체": "양평군",
+  "홈페이지": "https://www.yp21.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서 (분야별정보 > 재정 > 예산서, 연도·회차 선택형 콘텐츠 페이지)",
+      "URL": "https://www.yp21.go.kr/www/contents.do?key=4623"
+    },
+    {
+      "이름": "기금운용계획",
+      "URL": "https://www.yp21.go.kr/www/selectBbsNttList.do?bbsNo=468&key=4392"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts4623_file01_2.pdf (2026년 예산안)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4623_file01_2.pdf",
+          "크기": 6501082,
+          "저장경로": "files/2026/경기도_양평군/cts4623_file01_2.pdf"
+        },
+        {
+          "파일명": "01 예산,회계별 총칙-26년도 본예산.hwp (예산, 회계별 총칙)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18785",
+          "크기": 52736,
+          "저장경로": "files/2026/경기도_양평군/01 예산,회계별 총칙-26년도 본예산.hwp"
+        },
+        {
+          "파일명": "02 세입총괄(일반 및 기타).pdf (세입총괄표(일반 및 기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18786",
+          "크기": 62018,
+          "저장경로": "files/2026/경기도_양평군/02 세입총괄(일반 및 기타).pdf"
+        },
+        {
+          "파일명": "03 세입총괄(일반).pdf (세입총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18787",
+          "크기": 60543,
+          "저장경로": "files/2026/경기도_양평군/03 세입총괄(일반).pdf"
+        },
+        {
+          "파일명": "04 세입총괄(수특).pdf (세입총괄표(수특))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18788",
+          "크기": 45033,
+          "저장경로": "files/2026/경기도_양평군/04 세입총괄(수특).pdf"
+        },
+        {
+          "파일명": "05 세입총괄(의료).pdf (세입총괄표(의료보호))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18789",
+          "크기": 43372,
+          "저장경로": "files/2026/경기도_양평군/05 세입총괄(의료).pdf"
+        },
+        {
+          "파일명": "06 세입총괄(다문).pdf (세입총괄표(다문))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18790",
+          "크기": 41547,
+          "저장경로": "files/2026/경기도_양평군/06 세입총괄(다문).pdf"
+        },
+        {
+          "파일명": "07 세입총괄(발전소).pdf (세입총괄표(발전소))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18791",
+          "크기": 40295,
+          "저장경로": "files/2026/경기도_양평군/07 세입총괄(발전소).pdf"
+        },
+        {
+          "파일명": "08 세입총괄(주차장).pdf (세입총괄표(주차장))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18792",
+          "크기": 46623,
+          "저장경로": "files/2026/경기도_양평군/08 세입총괄(주차장).pdf"
+        },
+        {
+          "파일명": "09 기능별(일반 및 기특).pdf (기능별(일반 및 기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18793",
+          "크기": 71647,
+          "저장경로": "files/2026/경기도_양평군/09 기능별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "10 기능별(일반).pdf (기능별(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18794",
+          "크기": 71501,
+          "저장경로": "files/2026/경기도_양평군/10 기능별(일반).pdf"
+        },
+        {
+          "파일명": "11 기능별(기특).pdf (기능별(기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18795",
+          "크기": 46283,
+          "저장경로": "files/2026/경기도_양평군/11 기능별(기특).pdf"
+        },
+        {
+          "파일명": "12 조직별(일반 및 기특).pdf (조직별(일반 및 기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18796",
+          "크기": 74123,
+          "저장경로": "files/2026/경기도_양평군/12 조직별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "13 조직별(일반).pdf (조직별(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18797",
+          "크기": 73858,
+          "저장경로": "files/2026/경기도_양평군/13 조직별(일반).pdf"
+        },
+        {
+          "파일명": "14 조직별(기특).pdf (조직별(기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18798",
+          "크기": 46160,
+          "저장경로": "files/2026/경기도_양평군/14 조직별(기특).pdf"
+        },
+        {
+          "파일명": "15 성질별(일반 및 기특).pdf (성질별(일반 및 기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18799",
+          "크기": 107014,
+          "저장경로": "files/2026/경기도_양평군/15 성질별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "16 성질별(일반).pdf (성질별(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18800",
+          "크기": 106901,
+          "저장경로": "files/2026/경기도_양평군/16 성질별(일반).pdf"
+        },
+        {
+          "파일명": "17 성질별(기특).pdf (성질별(기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18801",
+          "크기": 61449,
+          "저장경로": "files/2026/경기도_양평군/17 성질별(기특).pdf"
+        },
+        {
+          "파일명": "cts4623_file18.pdf (세입예산사업명세서(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4623_file18.pdf",
+          "크기": 496450,
+          "저장경로": "files/2026/경기도_양평군/cts4623_file18.pdf"
+        },
+        {
+          "파일명": "19 세입예산사업명세서(기특).pdf (세입예산사업명세서(기타))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18802",
+          "크기": 73401,
+          "저장경로": "files/2026/경기도_양평군/19 세입예산사업명세서(기특).pdf"
+        },
+        {
+          "파일명": "20 세출총괄표.pdf (세출총괄표)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4623&fileNo=18803",
+          "크기": 70043,
+          "저장경로": "files/2026/경기도_양평군/20 세출총괄표.pdf"
+        },
+        {
+          "파일명": "cts4623_file21.pdf (세출예산사업명세서)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4623_file21.pdf",
+          "크기": 6476530,
+          "저장경로": "files/2026/경기도_양평군/cts4623_file21.pdf"
+        },
+        {
+          "파일명": "cts4623_file22.zip (상수도공기업특별회계)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4623_file22.zip",
+          "크기": 670778,
+          "저장경로": "files/2026/경기도_양평군/cts4623_file22.zip"
+        },
+        {
+          "파일명": "cts4623_file23.zip (하수도공기업특별회계)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4623_file23.zip",
+          "크기": 615280,
+          "저장경로": "files/2026/경기도_양평군/cts4623_file23.zip"
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 같은 페이지의 예산의 성과계획서, 성인지예산서는 제외; 첨부 중 '예산안' 파일 포함; 기금운용계획은 별도 게시판(기금운용계획) 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 양평군 기금운용계획",
+      "게시판URL": "https://www.yp21.go.kr/www/selectBbsNttList.do?bbsNo=468&key=4392",
+      "게시물URL": "https://www.yp21.go.kr/www/selectBbsNttView.do?key=4392&bbsNo=468&nttNo=300396",
+      "등록일": "2026-01-08",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 양평군 기금운용계획안(게시).pdf",
+          "다운로드URL": "https://www.yp21.go.kr/www/downloadBbsFile.do?atchmnflNo=233886",
+          "크기": 31035478,
+          "저장경로": "files/2026/경기도_양평군/2026년도 양평군 기금운용계획안(게시).pdf"
+        }
+      ],
+      "비고": "첨부 파일명은 '기금운용계획안(게시)'"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4662",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts4662_file00.pdf (추가경정예산안)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4662_file00.pdf",
+          "크기": 4250391,
+          "저장경로": "files/2026/경기도_양평군/cts4662_file00.pdf"
+        },
+        {
+          "파일명": "01 예산,회계별 총칙-26년도 1추.hwp (예산,회계별 총칙)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19898",
+          "크기": 52224,
+          "저장경로": "files/2026/경기도_양평군/01 예산,회계별 총칙-26년도 1추.hwp"
+        },
+        {
+          "파일명": "02 세입총괄표(일반 및 기특).pdf (세입총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19899",
+          "크기": 61745,
+          "저장경로": "files/2026/경기도_양평군/02 세입총괄표(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "03 세입총괄표(일반).pdf (세입총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19900",
+          "크기": 59442,
+          "저장경로": "files/2026/경기도_양평군/03 세입총괄표(일반).pdf"
+        },
+        {
+          "파일명": "04 세입총괄표(수특).pdf (세입총괄표(수특))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19901",
+          "크기": 45847,
+          "저장경로": "files/2026/경기도_양평군/04 세입총괄표(수특).pdf"
+        },
+        {
+          "파일명": "05 세입총괄표(의료급여).pdf (세입총괄표(의료))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19902",
+          "크기": 43560,
+          "저장경로": "files/2026/경기도_양평군/05 세입총괄표(의료급여).pdf"
+        },
+        {
+          "파일명": "06 세입총괄표(발전소).pdf (세입총괄표(발전소))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19903",
+          "크기": 43171,
+          "저장경로": "files/2026/경기도_양평군/06 세입총괄표(발전소).pdf"
+        },
+        {
+          "파일명": "07 세입총괄표(주차장).pdf (세입총괄표(주차장))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19904",
+          "크기": 46282,
+          "저장경로": "files/2026/경기도_양평군/07 세입총괄표(주차장).pdf"
+        },
+        {
+          "파일명": "08 기능별(일반 및 기특).pdf (기능별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19905",
+          "크기": 71054,
+          "저장경로": "files/2026/경기도_양평군/08 기능별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "09 기능별(일반).pdf (기능별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19906",
+          "크기": 70917,
+          "저장경로": "files/2026/경기도_양평군/09 기능별(일반).pdf"
+        },
+        {
+          "파일명": "10 기능별(기특).pdf (기능별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19907",
+          "크기": 46243,
+          "저장경로": "files/2026/경기도_양평군/10 기능별(기특).pdf"
+        },
+        {
+          "파일명": "11 조직별(일반 및 기특).pdf (조직별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19908",
+          "크기": 73691,
+          "저장경로": "files/2026/경기도_양평군/11 조직별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "12 조직별(일반).pdf (조직별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19909",
+          "크기": 73452,
+          "저장경로": "files/2026/경기도_양평군/12 조직별(일반).pdf"
+        },
+        {
+          "파일명": "13 조직별(기특).pdf (조직별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19910",
+          "크기": 46159,
+          "저장경로": "files/2026/경기도_양평군/13 조직별(기특).pdf"
+        },
+        {
+          "파일명": "14 성질별(일반 및 기특).pdf (성질별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19911",
+          "크기": 105868,
+          "저장경로": "files/2026/경기도_양평군/14 성질별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "15 성질별(일반).pdf (성질별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19912",
+          "크기": 105815,
+          "저장경로": "files/2026/경기도_양평군/15 성질별(일반).pdf"
+        },
+        {
+          "파일명": "16 성질별(기특).pdf (성질별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19913",
+          "크기": 62568,
+          "저장경로": "files/2026/경기도_양평군/16 성질별(기특).pdf"
+        },
+        {
+          "파일명": "17 세입예산사업명세서(일반).pdf (세입예산사업명세서(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19914",
+          "크기": 215916,
+          "저장경로": "files/2026/경기도_양평군/17 세입예산사업명세서(일반).pdf"
+        },
+        {
+          "파일명": "18 세입예산사업명세서(수특).pdf (세입예산사업명세서(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19915",
+          "크기": 47186,
+          "저장경로": "files/2026/경기도_양평군/18 세입예산사업명세서(수특).pdf"
+        },
+        {
+          "파일명": "19 세입예산사업명서(의료급여).pdf (세입예산사업명세서(의료보호))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19916",
+          "크기": 44906,
+          "저장경로": "files/2026/경기도_양평군/19 세입예산사업명서(의료급여).pdf"
+        },
+        {
+          "파일명": "20 세입예산사업명세서(발전소).pdf (세입예산사업명세서(발전소))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19917",
+          "크기": 44116,
+          "저장경로": "files/2026/경기도_양평군/20 세입예산사업명세서(발전소).pdf"
+        },
+        {
+          "파일명": "21 세입예산사업명세서(주차장).pdf (세입예산사업명세서(주차장))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19918",
+          "크기": 40934,
+          "저장경로": "files/2026/경기도_양평군/21 세입예산사업명세서(주차장).pdf"
+        },
+        {
+          "파일명": "22 세출총괄표.pdf (세출총괄표)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4662&fileNo=19919",
+          "크기": 70476,
+          "저장경로": "files/2026/경기도_양평군/22 세출총괄표.pdf"
+        },
+        {
+          "파일명": "cts4662_file23.pdf (세출예산사업명세서)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4662_file23.pdf",
+          "크기": 1788604,
+          "저장경로": "files/2026/경기도_양평군/cts4662_file23.pdf"
+        },
+        {
+          "파일명": "cts4662_file24.zip (상수도사업 특별회계)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4662_file24.zip",
+          "크기": 363834,
+          "저장경로": "files/2026/경기도_양평군/cts4662_file24.zip"
+        },
+        {
+          "파일명": "cts4662_file25.zip (하수도사업 특별회계)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4662_file25.zip",
+          "크기": 353605,
+          "저장경로": "files/2026/경기도_양평군/cts4662_file25.zip"
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 첨부 중 '예산안' 파일 포함"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4673",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts4673_file00.pdf (추가경정예산안)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4673_file00.pdf",
+          "크기": 1152175,
+          "저장경로": "files/2026/경기도_양평군/cts4673_file00.pdf"
+        },
+        {
+          "파일명": "01 예산,회계별 총칙-26년도 2추.hwp (예산,회계별 총칙)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20082",
+          "크기": 47616,
+          "저장경로": "files/2026/경기도_양평군/01 예산,회계별 총칙-26년도 2추.hwp"
+        },
+        {
+          "파일명": "02 세입총괄표(일반 및 기특).pdf (세입총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20083",
+          "크기": 60826,
+          "저장경로": "files/2026/경기도_양평군/02 세입총괄표(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "03 세입총괄표(일반).pdf (세입총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20084",
+          "크기": 58800,
+          "저장경로": "files/2026/경기도_양평군/03 세입총괄표(일반).pdf"
+        },
+        {
+          "파일명": "04 세입총괄표(수특).pdf (세입총괄표(수특))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20085",
+          "크기": 49330,
+          "저장경로": "files/2026/경기도_양평군/04 세입총괄표(수특).pdf"
+        },
+        {
+          "파일명": "05 기능별(일반 및 기특).pdf (기능별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20086",
+          "크기": 69907,
+          "저장경로": "files/2026/경기도_양평군/05 기능별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "06 기능별(일반).pdf (기능별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20087",
+          "크기": 69745,
+          "저장경로": "files/2026/경기도_양평군/06 기능별(일반).pdf"
+        },
+        {
+          "파일명": "07 기능별(기특).pdf (기능별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20088",
+          "크기": 45952,
+          "저장경로": "files/2026/경기도_양평군/07 기능별(기특).pdf"
+        },
+        {
+          "파일명": "08 조직별(일반 및 기특).pdf (조직별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20089",
+          "크기": 72048,
+          "저장경로": "files/2026/경기도_양평군/08 조직별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "09 조직별(일반).pdf (조직별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20090",
+          "크기": 71709,
+          "저장경로": "files/2026/경기도_양평군/09 조직별(일반).pdf"
+        },
+        {
+          "파일명": "10 조직별(기특).pdf (조직별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20091",
+          "크기": 45824,
+          "저장경로": "files/2026/경기도_양평군/10 조직별(기특).pdf"
+        },
+        {
+          "파일명": "11 성질별(일반 및 기특).pdf (성질별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20092",
+          "크기": 103438,
+          "저장경로": "files/2026/경기도_양평군/11 성질별(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "12 성질별(일반).pdf (성질별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20093",
+          "크기": 103327,
+          "저장경로": "files/2026/경기도_양평군/12 성질별(일반).pdf"
+        },
+        {
+          "파일명": "13 성질별(기특).pdf (성질별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20094",
+          "크기": 62008,
+          "저장경로": "files/2026/경기도_양평군/13 성질별(기특).pdf"
+        },
+        {
+          "파일명": "14 세입예산사업명세서(일반).pdf (세입예산사업명세서(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20095",
+          "크기": 66100,
+          "저장경로": "files/2026/경기도_양평군/14 세입예산사업명세서(일반).pdf"
+        },
+        {
+          "파일명": "15 세입예산사업명세서(기특).pdf (세입예산사업명세서(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20096",
+          "크기": 44439,
+          "저장경로": "files/2026/경기도_양평군/15 세입예산사업명세서(기특).pdf"
+        },
+        {
+          "파일명": "16 세출총괄표(일반 및 기특).pdf (세출총괄표)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4673&fileNo=20097",
+          "크기": 70316,
+          "저장경로": "files/2026/경기도_양평군/16 세출총괄표(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "cts4673_file17.pdf (세출예산사업명세서)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4673_file17.pdf",
+          "크기": 605936,
+          "저장경로": "files/2026/경기도_양평군/cts4673_file17.pdf"
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 첨부 중 '예산안' 파일 포함"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년도 제3회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4712",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "cts4712_file00.pdf (추가경정예산안)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4712_file00.pdf",
+          "크기": 3104537,
+          "저장경로": "files/2026/경기도_양평군/cts4712_file00.pdf"
+        },
+        {
+          "파일명": "02. 예산총칙, 회계별 예산규모(26년도 3추).hwp (예산,회계별 총칙)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20128",
+          "크기": 48128,
+          "저장경로": "files/2026/경기도_양평군/02. 예산총칙, 회계별 예산규모(26년도 3추).hwp"
+        },
+        {
+          "파일명": "03. 세입총괄표(일반 및 기특).pdf (세입총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20129",
+          "크기": 62793,
+          "저장경로": "files/2026/경기도_양평군/03. 세입총괄표(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "04. 세입총괄표(일반).pdf (세입총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20130",
+          "크기": 61284,
+          "저장경로": "files/2026/경기도_양평군/04. 세입총괄표(일반).pdf"
+        },
+        {
+          "파일명": "05. 세입총괄표(수특).pdf (세입총괄표(수특))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20131",
+          "크기": 47262,
+          "저장경로": "files/2026/경기도_양평군/05. 세입총괄표(수특).pdf"
+        },
+        {
+          "파일명": "06. 세입총괄표(의료).pdf (세입총괄표(의료))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20132",
+          "크기": 43305,
+          "저장경로": "files/2026/경기도_양평군/06. 세입총괄표(의료).pdf"
+        },
+        {
+          "파일명": "07. 세입총괄표(발전소).pdf (세입총괄표(발전소))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20133",
+          "크기": 43410,
+          "저장경로": "files/2026/경기도_양평군/07. 세입총괄표(발전소).pdf"
+        },
+        {
+          "파일명": "08. 세입총괄표(주차장).pdf (세입총괄표(주차장))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20134",
+          "크기": 47010,
+          "저장경로": "files/2026/경기도_양평군/08. 세입총괄표(주차장).pdf"
+        },
+        {
+          "파일명": "09. 기능별(일반 및 기타).pdf (기능별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20135",
+          "크기": 70327,
+          "저장경로": "files/2026/경기도_양평군/09. 기능별(일반 및 기타).pdf"
+        },
+        {
+          "파일명": "10. 기능별(일반).pdf (기능별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20136",
+          "크기": 70244,
+          "저장경로": "files/2026/경기도_양평군/10. 기능별(일반).pdf"
+        },
+        {
+          "파일명": "11. 기능별(기타).pdf (기능별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20137",
+          "크기": 46037,
+          "저장경로": "files/2026/경기도_양평군/11. 기능별(기타).pdf"
+        },
+        {
+          "파일명": "12. 조직별(일반 및 기타).pdf (조직별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20138",
+          "크기": 73047,
+          "저장경로": "files/2026/경기도_양평군/12. 조직별(일반 및 기타).pdf"
+        },
+        {
+          "파일명": "13. 조직별(일반).pdf (조직별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20139",
+          "크기": 72763,
+          "저장경로": "files/2026/경기도_양평군/13. 조직별(일반).pdf"
+        },
+        {
+          "파일명": "14. 조직별(기타).pdf (조직별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20140",
+          "크기": 46034,
+          "저장경로": "files/2026/경기도_양평군/14. 조직별(기타).pdf"
+        },
+        {
+          "파일명": "15. 성질별(일반 및 기타).pdf (성질별세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20141",
+          "크기": 107082,
+          "저장경로": "files/2026/경기도_양평군/15. 성질별(일반 및 기타).pdf"
+        },
+        {
+          "파일명": "16. 성질별(일반).pdf (성질별세출총괄표(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20142",
+          "크기": 106973,
+          "저장경로": "files/2026/경기도_양평군/16. 성질별(일반).pdf"
+        },
+        {
+          "파일명": "17. 성질별(기타).pdf (성질별세출총괄표(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20143",
+          "크기": 64063,
+          "저장경로": "files/2026/경기도_양평군/17. 성질별(기타).pdf"
+        },
+        {
+          "파일명": "18. 세입예산사업명세서(일반).pdf (세입예산사업명세서(일반))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20144",
+          "크기": 191831,
+          "저장경로": "files/2026/경기도_양평군/18. 세입예산사업명세서(일반).pdf"
+        },
+        {
+          "파일명": "19. 세입예산사업명세서(수특).pdf (세입예산사업명세서(특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20145",
+          "크기": 50765,
+          "저장경로": "files/2026/경기도_양평군/19. 세입예산사업명세서(수특).pdf"
+        },
+        {
+          "파일명": "20. 세입예산사업명세서(의료).pdf (세입예산사업명세서(의료))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20146",
+          "크기": 42218,
+          "저장경로": "files/2026/경기도_양평군/20. 세입예산사업명세서(의료).pdf"
+        },
+        {
+          "파일명": "21. 세입예산사업명세서(발전소).pdf (세입예산사업명세서(발전소))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20147",
+          "크기": 41416,
+          "저장경로": "files/2026/경기도_양평군/21. 세입예산사업명세서(발전소).pdf"
+        },
+        {
+          "파일명": "22. 세입예산사업명세서(주차장).pdf (세입예산사업명세서(주차장))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20148",
+          "크기": 40712,
+          "저장경로": "files/2026/경기도_양평군/22. 세입예산사업명세서(주차장).pdf"
+        },
+        {
+          "파일명": "23. 세출총괄표(일반 및 기특).pdf (세출총괄표(일반,특별))",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4712&fileNo=20149",
+          "크기": 70751,
+          "저장경로": "files/2026/경기도_양평군/23. 세출총괄표(일반 및 기특).pdf"
+        },
+        {
+          "파일명": "cts4712_file23.pdf (세출예산사업명세서)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4712_file23.pdf",
+          "크기": 3069839,
+          "저장경로": "files/2026/경기도_양평군/cts4712_file23.pdf"
+        },
+        {
+          "파일명": "cts4712_file24.zip (하수도사업 특별회계)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4712_file24.zip",
+          "크기": 380147,
+          "저장경로": "files/2026/경기도_양평군/cts4712_file24.zip"
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 첨부 중 '예산안' 파일 포함"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4571",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산, 회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14002",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14003",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14004",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14005",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14006",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(공흥양근)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14007",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(다문)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14008",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14009",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14010",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14011",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14012",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14013",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14014",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14015",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14016",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14017",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14018",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14019",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4571_file19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14020",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄표",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4571&fileNo=14021",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4571_file22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도공기업특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4571_file23.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도공기업특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4571_file24.zip",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 같은 페이지의 예산의 성과계획서, 성인지예산서는 제외; 기금운용계획은 별도 게시판(기금운용계획) 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 양평군 기금운용계획",
+      "게시판URL": "https://www.yp21.go.kr/www/selectBbsNttList.do?bbsNo=468&key=4392",
+      "게시물URL": "https://www.yp21.go.kr/www/selectBbsNttView.do?key=4392&bbsNo=468&nttNo=284130",
+      "등록일": "2025-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 양평군 기금운용계획.pdf",
+          "다운로드URL": "https://www.yp21.go.kr/www/downloadBbsFile.do?atchmnflNo=210982",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4592",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15803",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15804",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15805",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15806",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15807",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15808",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15809",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15810",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15811",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15812",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15813",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15814",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15815",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15816",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15817",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15818",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4592_file17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15819",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15820",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15821",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15822",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄표",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4592&fileNo=15823",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4592_file23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4592_file24.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4592_file25.zip",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4616",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17432",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17433",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17434",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17435",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17436",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17437",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17438",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17439",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17440",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17441",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17442",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17443",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17444",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4616_file14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17445",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄표",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4616&fileNo=17446",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4616_file17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4616_file18.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4616_file19.zip",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4629",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18804",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18805",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18806",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18807",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18808",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(공흥양근)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18809",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(다문지구)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18810",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18811",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18812",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18813",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18814",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18815",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18816",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18817",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18818",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18819",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18820",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18821",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4629_file19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18822",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄표",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4629&fileNo=18823",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4629_file22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4629_file23.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4629_file24.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "명시 및 계속비 이월사업조서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4629_file25.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4317",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산, 회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10024",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반 및 기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10025",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10026",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10027",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10028",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10029",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10030",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10031",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10033",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10034",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(일반 및 기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10035",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10036",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별(기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10037",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(일반 및 기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10038",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10039",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별(기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10040",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입명세(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10041",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입명세(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10042",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입명세(의료)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10043",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입명세(발전소)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10044",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입명세(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10045",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10046",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10047",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도공기업특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10048",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도공기업특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4317&fileNo=10049",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 같은 페이지의 예산의 성과계획서, 성인지예산서는 제외; 기금운용계획은 별도 게시판(기금운용계획) 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 양평군 기금운용계획",
+      "게시판URL": "https://www.yp21.go.kr/www/selectBbsNttList.do?bbsNo=468&key=4392",
+      "게시물URL": "https://www.yp21.go.kr/www/selectBbsNttView.do?key=4392&bbsNo=468&nttNo=274446",
+      "등록일": "2024-06-10",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 양평군 기금운용계획.pdf",
+          "다운로드URL": "https://www.yp21.go.kr/www/downloadBbsFile.do?atchmnflNo=197514",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4372",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11307",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11308",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11309",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수질개선)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11310",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11311",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(다문지구)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11312",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소주변지원)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11313",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11314",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11315",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11316",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11317",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11318",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11319",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11320",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11321",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11322",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11323",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11324",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11325",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(다문지구)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11326",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(발전소주변지원)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11327",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서(총괄)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11328",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서(부서별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11329",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11330",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4372&fileNo=11331",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4563",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13117",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13118",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13119",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수질개선)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13120",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료보호)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13121",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(발전소주변지원)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13122",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(주차장)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13123",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13124",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13125",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13126",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13127",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13128",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13129",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13130",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13131",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13132",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13133",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13134",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서(일반,특별)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4563&fileNo=13135",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4563_file21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4563_file22.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4563_file23.zip",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 추가경정예산",
+      "게시판URL": "https://www.yp21.go.kr/www/contents.do?key=4623",
+      "게시물URL": "https://www.yp21.go.kr/www/contents.do?key=4567",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산,회계별 총칙",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13910",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반 및 기특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13891",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13892",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(수특)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13893",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(의료)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13894",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(공흥양근)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13895",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄표(다문지구)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13896",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13897",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13898",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13899",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13900",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13901",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13902",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반 및 기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13903",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13904",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별세출총괄표(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13905",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(일반)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13911",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산사업명세서(기타)",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13908",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출총괄표",
+          "다운로드URL": "https://www.yp21.go.kr/downloadContentsFile.do?key=4567&fileNo=13909",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산사업명세서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4567_file21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4567_file22.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업 특별회계",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4567_file23.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "명시 및 계속비이월 조서",
+          "다운로드URL": "https://www.yp21.go.kr/site/www/download/cts4567_file24.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 예산서 콘텐츠 페이지(연도·회차 선택)에 항목별 분할 파일로 게시; 등록일 미확인; 같은 페이지의 예산의 성과계획서는 제외"
+    }
+  ],
+  "비고": "양평군 홈페이지 도메인은 yp21.go.kr(yp.go.kr은 접속 불가). 예산서는 게시판이 아닌 콘텐츠 페이지에서 연도·회차를 선택하는 방식이며, 각 페이지에 통합 예산서 PDF(첫 항목)와 예산총칙(hwp)·총괄표·사업명세서 등 분할 파일, 상·하수도 공기업특별회계(zip) 등을 게시 — 2026년 파일은 모두 받음(zip은 풀지 않음). 같은 페이지의 성과계획서·성인지예산서는 제외. HTML 주석 처리된 링크 제외. 콘텐츠 페이지라 등록일 확인 불가(null). 2024·2025 파일명은 페이지 표시 항목명(실제 파일명 미확인), 크기 미표시(null). 기금운용계획은 별도 게시판."
+}
