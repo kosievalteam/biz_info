@@ -1,0 +1,1801 @@
+{
+  "시도": "경기도",
+  "지자체": "성남시",
+  "홈페이지": "https://www.seongnam.go.kr",
+  "게시판": [
+    {
+      "이름": "재정정보 > 예산정보 > 연도별 예산서",
+      "URL": "https://www.seongnam.go.kr/cn03050201"
+    },
+    {
+      "이름": "재정정보 > 기금운용현황",
+      "URL": "https://www.seongnam.go.kr/bbs030506"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11608_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_1.pdf",
+          "크기": 10749851,
+          "저장경로": "files/2026/경기도_성남시/11608_1.pdf"
+        },
+        {
+          "파일명": "11608_2.pdf",
+          "설명": "일반회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_2.pdf",
+          "크기": 726328,
+          "저장경로": "files/2026/경기도_성남시/11608_2.pdf"
+        },
+        {
+          "파일명": "11608_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3.pdf",
+          "크기": 16718816,
+          "저장경로": "files/2026/경기도_성남시/11608_3.pdf"
+        },
+        {
+          "파일명": "11608_3_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 의회사무국",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_1.pdf",
+          "크기": 16661262,
+          "저장경로": "files/2026/경기도_성남시/11608_3_1.pdf"
+        },
+        {
+          "파일명": "11608_3_2.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 소통관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_2.pdf",
+          "크기": 16661244,
+          "저장경로": "files/2026/경기도_성남시/11608_3_2.pdf"
+        },
+        {
+          "파일명": "11608_3_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 공보관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_3.pdf",
+          "크기": 16661253,
+          "저장경로": "files/2026/경기도_성남시/11608_3_3.pdf"
+        },
+        {
+          "파일명": "11608_3_4.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 감사관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_4.pdf",
+          "크기": 16661239,
+          "저장경로": "files/2026/경기도_성남시/11608_3_4.pdf"
+        },
+        {
+          "파일명": "11608_3_5.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 재난안전관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_5.pdf",
+          "크기": 16661277,
+          "저장경로": "files/2026/경기도_성남시/11608_3_5.pdf"
+        },
+        {
+          "파일명": "11608_3_6.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_6.pdf",
+          "크기": 16661250,
+          "저장경로": "files/2026/경기도_성남시/11608_3_6.pdf"
+        },
+        {
+          "파일명": "11608_3_7.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과,정책기획과,인사과,자치행정과,예산과,법무과,민원여권과,정보통신과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_7.pdf",
+          "크기": 16661385,
+          "저장경로": "files/2026/경기도_성남시/11608_3_7.pdf"
+        },
+        {
+          "파일명": "11608_3_8.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래산업과,AI반도체과,국제협력과,기업혁신과,스마트도시과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_8.pdf",
+          "크기": 16661330,
+          "저장경로": "files/2026/경기도_성남시/11608_3_8.pdf"
+        },
+        {
+          "파일명": "11608_3_9.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (고용과,지역경제상권과,회계과,세정과,세원관리과,지방소득세과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_9.pdf",
+          "크기": 16661335,
+          "저장경로": "files/2026/경기도_성남시/11608_3_9.pdf"
+        },
+        {
+          "파일명": "11608_3_10.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (복지정책과,장애인복지과,노인복지과,여성가족과,아동보육과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_10.pdf",
+          "크기": 16661588,
+          "저장경로": "files/2026/경기도_성남시/11608_3_10.pdf"
+        },
+        {
+          "파일명": "11608_3_11_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래교육과,청년청소년과,문화관광과,체육진흥과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_11_1.pdf",
+          "크기": 16665654,
+          "저장경로": "files/2026/경기도_성남시/11608_3_11_1.pdf"
+        },
+        {
+          "파일명": "11608_3_12.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (환경정책과,자원순환과,기후에너지과,위생정책과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_12.pdf",
+          "크기": 16661361,
+          "저장경로": "files/2026/경기도_성남시/11608_3_12.pdf"
+        },
+        {
+          "파일명": "11608_3_13.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시계획과,건축과,주택과,공동주택과,건축안전관리과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_13.pdf",
+          "크기": 16661284,
+          "저장경로": "files/2026/경기도_성남시/11608_3_13.pdf"
+        },
+        {
+          "파일명": "11608_3_14.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시개발과,신도시정비과,재개발과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_14.pdf",
+          "크기": 16661253,
+          "저장경로": "files/2026/경기도_성남시/11608_3_14.pdf"
+        },
+        {
+          "파일명": "11608_3_15.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (교통기획과,대중교통과,주차지원과,도로과,토지정보과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_15.pdf",
+          "크기": 16661279,
+          "저장경로": "files/2026/경기도_성남시/11608_3_15.pdf"
+        },
+        {
+          "파일명": "11608_3_16.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (공공개발정책과,공공개발사업과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_16.pdf",
+          "크기": 16661228,
+          "저장경로": "files/2026/경기도_성남시/11608_3_16.pdf"
+        },
+        {
+          "파일명": "11608_3_17_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_17_1.pdf",
+          "크기": 16661375,
+          "저장경로": "files/2026/경기도_성남시/11608_3_17_1.pdf"
+        },
+        {
+          "파일명": "11608_3_18.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_18.pdf",
+          "크기": 16661337,
+          "저장경로": "files/2026/경기도_성남시/11608_3_18.pdf"
+        },
+        {
+          "파일명": "11608_3_19.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과,감염병관리센터,판교보건지소)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_19.pdf",
+          "크기": 16661393,
+          "저장경로": "files/2026/경기도_성남시/11608_3_19.pdf"
+        },
+        {
+          "파일명": "11608_3_20.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_20.pdf",
+          "크기": 16661313,
+          "저장경로": "files/2026/경기도_성남시/11608_3_20.pdf"
+        },
+        {
+          "파일명": "11608_3_21.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (공원과,녹지과,생태하천과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_21.pdf",
+          "크기": 16661361,
+          "저장경로": "files/2026/경기도_성남시/11608_3_21.pdf"
+        },
+        {
+          "파일명": "11608_3_22.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (물관리정책과,수도시설과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_22.pdf",
+          "크기": 16661239,
+          "저장경로": "files/2026/경기도_성남시/11608_3_22.pdf"
+        },
+        {
+          "파일명": "11608_3_23.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도서관지원과,중앙도서관,분당도서관,구미도서관,판교도서관,복정도서관)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_23.pdf",
+          "크기": 16661430,
+          "저장경로": "files/2026/경기도_성남시/11608_3_23.pdf"
+        },
+        {
+          "파일명": "11608_3_24.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 박물관사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_24.pdf",
+          "크기": 16661251,
+          "저장경로": "files/2026/경기도_성남시/11608_3_24.pdf"
+        },
+        {
+          "파일명": "11608_3_25_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 차량등록사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_25_1.pdf",
+          "크기": 16661434,
+          "저장경로": "files/2026/경기도_성남시/11608_3_25_1.pdf"
+        },
+        {
+          "파일명": "11608_3_26.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_26.pdf",
+          "크기": 16661250,
+          "저장경로": "files/2026/경기도_성남시/11608_3_26.pdf"
+        },
+        {
+          "파일명": "11608_3_28.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_28.pdf",
+          "크기": 16661472,
+          "저장경로": "files/2026/경기도_성남시/11608_3_28.pdf"
+        },
+        {
+          "파일명": "11608_3_27.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (신흥1동~시흥동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_27.pdf",
+          "크기": 16661530,
+          "저장경로": "files/2026/경기도_성남시/11608_3_27.pdf"
+        },
+        {
+          "파일명": "11608_3_29.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_29.pdf",
+          "크기": 1031032,
+          "저장경로": "files/2026/경기도_성남시/11608_3_29.pdf"
+        },
+        {
+          "파일명": "11608_3_30.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (성남동~도촌동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_30.pdf",
+          "크기": 16661427,
+          "저장경로": "files/2026/경기도_성남시/11608_3_30.pdf"
+        },
+        {
+          "파일명": "11608_3_31.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_31.pdf",
+          "크기": 16661499,
+          "저장경로": "files/2026/경기도_성남시/11608_3_31.pdf"
+        },
+        {
+          "파일명": "11608_3_32.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (분당동~운중동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_3_32.pdf",
+          "크기": 16661576,
+          "저장경로": "files/2026/경기도_성남시/11608_3_32.pdf"
+        },
+        {
+          "파일명": "11608_4.pdf",
+          "설명": "기타특별회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_4.pdf",
+          "크기": 433177,
+          "저장경로": "files/2026/경기도_성남시/11608_4.pdf"
+        },
+        {
+          "파일명": "11608_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5.pdf",
+          "크기": 1219788,
+          "저장경로": "files/2026/경기도_성남시/11608_5.pdf"
+        },
+        {
+          "파일명": "11608_5_1.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 발전소주변지역지원사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_1.pdf",
+          "크기": 1220510,
+          "저장경로": "files/2026/경기도_성남시/11608_5_1.pdf"
+        },
+        {
+          "파일명": "11608_5_2.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 의료급여기금",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_2.pdf",
+          "크기": 1220529,
+          "저장경로": "files/2026/경기도_성남시/11608_5_2.pdf"
+        },
+        {
+          "파일명": "11608_5_4.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 기반시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_4.pdf",
+          "크기": 1220522,
+          "저장경로": "files/2026/경기도_성남시/11608_5_4.pdf"
+        },
+        {
+          "파일명": "11608_5_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 토지구획정리",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_5.pdf",
+          "크기": 1220519,
+          "저장경로": "files/2026/경기도_성남시/11608_5_5.pdf"
+        },
+        {
+          "파일명": "11608_5_6.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 교통사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_6.pdf",
+          "크기": 1220592,
+          "저장경로": "files/2026/경기도_성남시/11608_5_6.pdf"
+        },
+        {
+          "파일명": "11608_5_7.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 판교택지개발사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_7.pdf",
+          "크기": 1220516,
+          "저장경로": "files/2026/경기도_성남시/11608_5_7.pdf"
+        },
+        {
+          "파일명": "11608_5_8.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 도시재생",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_8.pdf",
+          "크기": 1220519,
+          "저장경로": "files/2026/경기도_성남시/11608_5_8.pdf"
+        },
+        {
+          "파일명": "11608_5_9.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 폐기물처리시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_5_9.pdf",
+          "크기": 1220508,
+          "저장경로": "files/2026/경기도_성남시/11608_5_9.pdf"
+        },
+        {
+          "파일명": "11608_6.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_6.pdf",
+          "크기": 240543,
+          "저장경로": "files/2026/경기도_성남시/11608_6.pdf"
+        },
+        {
+          "파일명": "11608_6_1.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_6_1.pdf",
+          "크기": 1021445,
+          "저장경로": "files/2026/경기도_성남시/11608_6_1.pdf"
+        },
+        {
+          "파일명": "11608_7.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_7.pdf",
+          "크기": 333360,
+          "저장경로": "files/2026/경기도_성남시/11608_7.pdf"
+        },
+        {
+          "파일명": "11608_7_1.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_7_1.pdf",
+          "크기": 1237918,
+          "저장경로": "files/2026/경기도_성남시/11608_7_1.pdf"
+        },
+        {
+          "파일명": "11608_9.pdf",
+          "설명": "성인지 예산 > 성인지 예산",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11608_9.pdf",
+          "크기": 36048348,
+          "저장경로": "files/2026/경기도_성남시/11608_9.pdf"
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2026년 본예산서')에 회계·부서별 분할 PDF 50개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지). 기금운용계획은 별도 게시판(기금운용현황)에 게시."
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.seongnam.go.kr/bbs030506",
+      "게시물URL": "https://www.seongnam.go.kr/bbs030506",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년 기금운용계획서.hwp",
+          "다운로드URL": "https://www.seongnam.go.kr/bbs030506/getFile?bbsCrtSn=35001&pstSn=377877&fileNo=209954",
+          "크기": 624128,
+          "저장경로": "files/2026/경기도_성남시/2026년 기금운용계획서.hwp"
+        }
+      ],
+      "비고": "기금운용현황 게시판은 목록형(상세 페이지·작성일 표시 없음, pstSn=377877). 첨부 저장파일명 타임스탬프상 업로드일 2025-12-26(참고용)."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 1회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11610_1_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_1_1.pdf",
+          "크기": 9684901,
+          "저장경로": "files/2026/경기도_성남시/11610_1_1.pdf"
+        },
+        {
+          "파일명": "11610_1_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_1_2.pdf",
+          "크기": 527170,
+          "저장경로": "files/2026/경기도_성남시/11610_1_2.pdf"
+        },
+        {
+          "파일명": "11610_1_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_1_3.pdf",
+          "크기": 35367861,
+          "저장경로": "files/2026/경기도_성남시/11610_1_3.pdf"
+        },
+        {
+          "파일명": "11610_6_1.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_6_1.pdf",
+          "크기": 501565,
+          "저장경로": "files/2026/경기도_성남시/11610_6_1.pdf"
+        },
+        {
+          "파일명": "11610_6_1_1.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_6_1_1.pdf",
+          "크기": 1126776,
+          "저장경로": "files/2026/경기도_성남시/11610_6_1_1.pdf"
+        },
+        {
+          "파일명": "11610_7_1.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_7_1.pdf",
+          "크기": 322687,
+          "저장경로": "files/2026/경기도_성남시/11610_7_1.pdf"
+        },
+        {
+          "파일명": "11610_7_1_1.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_7_1_1.pdf",
+          "크기": 632979,
+          "저장경로": "files/2026/경기도_성남시/11610_7_1_1.pdf"
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2026년 추경예산서')에 회계·부서별 분할 PDF 7개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 2회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11610_2_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_2_1.pdf",
+          "크기": 9295011,
+          "저장경로": "files/2026/경기도_성남시/11610_2_1.pdf"
+        },
+        {
+          "파일명": "11610_2_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_2_2.pdf",
+          "크기": 49477,
+          "저장경로": "files/2026/경기도_성남시/11610_2_2.pdf"
+        },
+        {
+          "파일명": "11610_2_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_2_3.pdf",
+          "크기": 422198,
+          "저장경로": "files/2026/경기도_성남시/11610_2_3.pdf"
+        },
+        {
+          "파일명": "11610_8_1_2.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_8_1_2.pdf",
+          "크기": 99795,
+          "저장경로": "files/2026/경기도_성남시/11610_8_1_2.pdf"
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2026년 추경예산서')에 회계·부서별 분할 PDF 4개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 3회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11610_3_1.pdf",
+          "설명": "2026년 3회 추경 세입세출예산서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_3_1.pdf",
+          "크기": 28434292,
+          "저장경로": "files/2026/경기도_성남시/11610_3_1.pdf"
+        },
+        {
+          "파일명": "11610_7_3.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_7_3.pdf",
+          "크기": 223525,
+          "저장경로": "files/2026/경기도_성남시/11610_7_3.pdf"
+        },
+        {
+          "파일명": "11610_7_1_3.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2026/11610_7_1_3.pdf",
+          "크기": 268868,
+          "저장경로": "files/2026/경기도_성남시/11610_7_1_3.pdf"
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2026년 추경예산서')에 회계·부서별 분할 PDF 3개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11599_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_2.pdf",
+          "설명": "일반회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 의회사무국",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_2.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 소통관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 공공개발정책관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_4.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 공보관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_5.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 감사관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_6.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 재난안전관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_7.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 공공의료정책관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_8.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과,정책기획과,인사과,자치행정과,예산과,법무과,민원여권과,정보통신과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_9.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래산업과,기업혁신과,스마트도시과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_10.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (고용과,지역경제과,상권지원과,회계과,세정과,세원관리과,지방소득세과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_11.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (복지정책과,장애인복지과,노인복지과,여성가족과,아동보육과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_12.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래교육과,청년청소년과,문화관광과,체육진흥과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_13.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (환경정책과,자원순환과,기후에너지과,위생정책과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_14.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시계획과,주택과,공동주택과,건축과,건축안전관리과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_15.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (교통기획과,대중교통과,주차지원과,도로과,토지정보과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_16.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_17.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_18.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과,감염병관리센터,판교보건지소)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_19.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_20.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (공원과,녹지과,생태하천과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_21.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (물관리정책과,수도시설과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_22.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시개발행정과,재개발과,재건축과,시설공사과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_23.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도서관지원과,중앙도서관,분당도서관,구미도서관,판교도서관,복정도서관)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_24.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 박물관사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_25.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 차량등록사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_26.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_28.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_27.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (신흥1동~시흥동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_29.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_30.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (성남동~도촌동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_31.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_3_32.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (분당동~운중동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_3_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_4.pdf",
+          "설명": "기타특별회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_1.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 발전소주변지역지원사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_2.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 의료급여기금",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_4.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 기반시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 토지구획정리",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_6.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 교통사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_7.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 판교택지개발사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_8.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 도시재생",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_5_9.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 폐기물처리시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_5_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_6.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_6_1.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_7.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_7_1.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_8.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_8_1.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11599_9.pdf",
+          "설명": "성인지 예산 > 성인지 예산",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11599_9.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2025년 본예산서')에 회계·부서별 분할 PDF 52개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지). 기금운용계획은 별도 게시판(기금운용현황)에 게시."
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.seongnam.go.kr/bbs030506",
+      "게시물URL": "https://www.seongnam.go.kr/bbs030506",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획서.hwp",
+          "다운로드URL": "https://www.seongnam.go.kr/bbs030506/getFile?bbsCrtSn=35001&pstSn=367040&fileNo=197776",
+          "크기": 559616,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용현황 게시판은 목록형(상세 페이지·작성일 표시 없음, pstSn=367040). 첨부 저장파일명 타임스탬프상 업로드일 2024-12-31(참고용)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 1회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11604_1_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_1_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_1_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_1_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_1_1.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_1_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_1.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_1_1.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_1_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_8_1.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_8_1_1.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_8_1_1.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2025년 추경예산서')에 회계·부서별 분할 PDF 8개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 2회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11604_2_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_2_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_2_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_2_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_2_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_2_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_2.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_1_2.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_2.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_1_2.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_8_2.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_8_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_8_1_2.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_8_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2025년 추경예산서')에 회계·부서별 분할 PDF 9개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 3회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11604_3_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_3_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_3_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_1_3.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_3.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_1_3.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2025년 추경예산서')에 회계·부서별 분할 PDF 6개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 4회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11604_4_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_4_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_4_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_4_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_4_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_4_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_4.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_6_1_4.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_6_1_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_4.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11604_7_1_4.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2025/11604_7_1_4.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2025년 추경예산서')에 회계·부서별 분할 PDF 7개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11570_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_2.pdf",
+          "설명": "일반회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_1.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 의회사무국",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_2.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 소통관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_3.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 공보관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_4.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 감사관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_5.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 재난안전관",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_6.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_7.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과,정책기획과,인사과,자치행정과,예산과,법무과,민원여권과,정보통신과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_8.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래산업과,기업혁신과,스마트도시과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_9.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (고용과,지역경제과,상권지원과,회계과,세정과,세원관리과,지방소득세과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_10.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (복지정책과,장애인복지과,노인복지과,여성가족과,아동보육과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_11.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (미래교육과,청년청소년과,문화관광과,체육진흥과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_12.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (환경정책과,자원순환과,기후에너지과,위생정책과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_13.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시계획과,주택과,공동주택과,건축과,건축안전관리과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_14.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (교통기획과,대중교통과,주차지원과,도로과,토지정보과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_15.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_16.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_17.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (보건행정과,건강증진과,감염병관리센터,판교보건지소)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_18.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_19.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (공원과,녹지과,생태하천과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_20.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (물관리정책과,수도시설과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_21.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도시개발행정과,재개발과,재건축과,시설공사과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_22.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (도서관지원과,중앙도서관,분당도서관,구미도서관,판교도서관,복정도서관)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_23.pdf",
+          "설명": "일반회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_24.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 차량등록사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_25.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > 장례문화사업소",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_26.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_27.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (신흥1동~시흥동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_28.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_29.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (성남동~도촌동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_30.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (총무과~도시미관과)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_3_31.pdf",
+          "설명": "일반회계 > 세출예산사업명세서 > (분당동~운중동)",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_3_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_4.pdf",
+          "설명": "기타특별회계 > 세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 전체",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_1.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 발전소주변지역지원사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_2.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 의료급여기금",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_4.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 기반시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_5.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 토지구획정리",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_6.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 교통사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_7.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 판교택지개발사업",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_8.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 도시재생",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_5_9.pdf",
+          "설명": "기타특별회계 > 세출예산사업명세서 > 폐기물처리시설",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_5_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_6.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_6_1.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_7.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_7_1.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_8.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_8_1.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11570_9.pdf",
+          "설명": "성인지 예산 > 성인지 예산",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11570_9.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2024년 본예산서')에 회계·부서별 분할 PDF 51개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지). 기금운용계획은 별도 게시판(기금운용현황)에 게시."
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.seongnam.go.kr/bbs030506",
+      "게시물URL": "https://www.seongnam.go.kr/bbs030506",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 기금운용계획서(성남시).hwp",
+          "다운로드URL": "https://www.seongnam.go.kr/bbs030506/getFile?bbsCrtSn=35001&pstSn=354525&fileNo=185823",
+          "크기": 531456,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용현황 게시판은 목록형(상세 페이지·작성일 표시 없음, pstSn=354525). 첨부 저장파일명 타임스탬프상 업로드일 2023-12-28(참고용)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 1회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11577_1_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_1_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_1_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_1_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2024년 추경예산서')에 회계·부서별 분할 PDF 3개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 2회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11577_2_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_2_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_2_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_2_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_2_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_2_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_6_2.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_6_1_2.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_6_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_7_2.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_7_1_2.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_7_1_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_8.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_8_1.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2024년 추경예산서')에 회계·부서별 분할 PDF 9개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 3회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11577_3_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_3_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_3_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_6_3.pdf",
+          "설명": "상수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_6_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_6_1_3.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_6_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_7_1_3.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_7_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_8_3.pdf",
+          "설명": "공영개발사업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_8_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_8_1_3.pdf",
+          "설명": "공영개발사업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_8_1_3.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2024년 추경예산서')에 회계·부서별 분할 PDF 8개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년 4회 추경 세입세출예산서",
+      "게시판URL": "https://www.seongnam.go.kr/cn03050201",
+      "게시물URL": "https://www.seongnam.go.kr/cn03050201",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "11577_4_1.pdf",
+          "설명": "세입·세출예산규모 및 총괄표",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_4_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_4_2.pdf",
+          "설명": "세입예산사업명세서 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_4_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_4_3.pdf",
+          "설명": "세출예산사업명세서 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_4_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_6_1_4.pdf",
+          "설명": "상수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_6_1_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_7_4.pdf",
+          "설명": "하수도공기업특별회계 > 세입예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_7_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11577_7_1_4.pdf",
+          "설명": "하수도공기업특별회계 > 세출예산사업명세서",
+          "다운로드URL": "https://www.seongnam.go.kr/humanframe/file/sncity/bgt/2024/11577_7_1_4.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "'재정정보>예산정보>연도별 예산서' 콘텐츠 페이지(예산선택 '2024년 추경예산서')에 회계·부서별 분할 PDF 6개로 공개. 개별 게시물 URL·등록일 없음(콘텐츠형 페이지)."
+    }
+  ],
+  "비고": "예산서는 게시판이 아닌 연도별 콘텐츠 페이지(예산선택 드롭다운)로 공개되어 게시물 단위 URL·등록일이 없음. 2026년 추경은 제3회까지 공개(제4회 항목은 빈 칸). 2024·2025년 첨부 크기는 미확인(null). 기금운용계획은 hwp 파일."
+}

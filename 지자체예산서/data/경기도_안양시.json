@@ -1,0 +1,1458 @@
+{
+  "시도": "경기도",
+  "지자체": "안양시",
+  "홈페이지": "https://www.anyang.go.kr",
+  "게시판": [
+    {
+      "이름": "정보공개 > 예산정보 > 예산현황",
+      "URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196"
+    },
+    {
+      "이름": "정보공개 > 예산정보 > 기금운용계획",
+      "URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=37&key=203"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 예산(안)",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=423309",
+      "등록일": "2025-11-27",
+      "첨부파일": [
+        {
+          "파일명": "1. 예산총칙, 세입세출총괄 등.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807572",
+          "크기": 1901361,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_1. 예산총칙, 세입세출총괄 등.pdf"
+        },
+        {
+          "파일명": "2. 세입예산사업명세서(일반회계, 기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807573",
+          "크기": 879933,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_2. 세입예산사업명세서(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "3. 세출예산사업명세서_(의회운영위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807574",
+          "크기": 168940,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_3. 세출예산사업명세서_(의회운영위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "4. 세출예산사업명세서_(총무경제위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807575",
+          "크기": 1453863,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_4. 세출예산사업명세서_(총무경제위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "5. 세출예산사업명세서_(보사환경위원회)_(일반회계, 기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807576",
+          "크기": 3566889,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_5. 세출예산사업명세서_(보사환경위원회)_(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "6. 세출예산사업명세서_(도시건설위원회)_(일반회계, 기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807577",
+          "크기": 1142076,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_6. 세출예산사업명세서_(도시건설위원회)_(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "7. 세출예산사업명세서_(도시건설위원회)_(상수도공기업).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807578",
+          "크기": 1466964,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_7. 세출예산사업명세서_(도시건설위원회)_(상수도공기업).pdf"
+        },
+        {
+          "파일명": "8. 세출예산사업명세서_(도시건설위원회)_(하수도공기업).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807579",
+          "크기": 695206,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_8. 세출예산사업명세서_(도시건설위원회)_(하수도공기업).pdf"
+        },
+        {
+          "파일명": "9. 세출예산사업명세서_(도시건설위원회)_(공영개발사업 공기업).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807580",
+          "크기": 138803,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_9. 세출예산사업명세서_(도시건설위원회)_(공영개발사업 공기업).pdf"
+        },
+        {
+          "파일명": "10. 세출예산사업명세서_(구청, 동)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807581",
+          "크기": 2563172,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산(안)_10. 세출예산사업명세서_(구청, 동)_(일반회계).pdf"
+        }
+      ],
+      "비고": "예산안; 파일명 중복 방지를 위해 저장 시 게시물 제목 접두어 부여; 분할 첨부 10개"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=428866",
+      "등록일": "2026-01-05",
+      "첨부파일": [
+        {
+          "파일명": "1. 2026년 재정전망 및 운영 방향.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807557",
+          "크기": 231637,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_1. 2026년 재정전망 및 운영 방향.pdf"
+        },
+        {
+          "파일명": "2. 예산총칙, 세입세출총괄 등.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807558",
+          "크기": 1906567,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_2. 예산총칙, 세입세출총괄 등.pdf"
+        },
+        {
+          "파일명": "3. 계속비 사업조서 및 명시이월 사업조서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807559",
+          "크기": 676173,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_3. 계속비 사업조서 및 명시이월 사업조서.pdf"
+        },
+        {
+          "파일명": "4. 세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807560",
+          "크기": 628990,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_4. 세입예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "5. 세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807561",
+          "크기": 7804512,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_5. 세출예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "6. 세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807562",
+          "크기": 703496,
+          "저장경로": "files/2026/경기도_안양시/2026년도 예산서_6. 세입세출예산사업명세서(기타특별회계).pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시; 파일명 중복 방지를 위해 저장 시 게시물 제목 접두어 부여; 분할 첨부 6개"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 조직개편에 따른 본예산 세출합본예산내역",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=430008",
+      "등록일": "2026-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2026년 조직개편에 따른 본예산 세출합본예산내역.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807556",
+          "크기": 16749260,
+          "저장경로": "files/2026/경기도_안양시/2026년 조직개편에 따른 본예산 세출합본예산내역.pdf"
+        }
+      ],
+      "비고": "조직개편에 따른 세출 합본예산내역(본예산 보완자료)"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=430713",
+      "등록일": "2026-01-23",
+      "첨부파일": [
+        {
+          "파일명": "[게시]2026년도 하수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838691",
+          "크기": 969710,
+          "저장경로": "files/2026/경기도_안양시/[게시]2026년도 하수도공기업특별회계 예산서.pdf"
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=430691",
+      "등록일": "2026-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2026년 상수도공기업특별회계예산서(최종).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807541",
+          "크기": 2059200,
+          "저장경로": "files/2026/경기도_안양시/2026년 상수도공기업특별회계예산서(최종).pdf"
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 공영개발사업공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=430831",
+      "등록일": "2026-01-26",
+      "첨부파일": [
+        {
+          "파일명": "★2026년 공영개발사업공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806835",
+          "크기": 924357,
+          "저장경로": "files/2026/경기도_안양시/★2026년 공영개발사업공기업특별회계 예산서.pdf"
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 본예산 기금운용계획",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=37&key=203",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=203&bbsNo=37&nttNo=428617",
+      "등록일": "2026-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806710",
+          "크기": 6387078,
+          "저장경로": "files/2026/경기도_안양시/2026년도 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정 예산(안)",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=438122",
+      "등록일": "2026-04-01",
+      "첨부파일": [
+        {
+          "파일명": "(최종)2026년도 제1회 추가경정 예산안.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807555",
+          "크기": 6277055,
+          "저장경로": "files/2026/경기도_안양시/(최종)2026년도 제1회 추가경정 예산안.pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=442649",
+      "등록일": "2026-05-08",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809159",
+          "크기": 49004,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_1.예산총칙.pdf"
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809160",
+          "크기": 44456,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_2.회계별예산규모.pdf"
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809161",
+          "크기": 143229,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_3.세입총괄표.pdf"
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809162",
+          "크기": 686350,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_4.세출총괄표.pdf"
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809163",
+          "크기": 166493,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_5.세입예산서.pdf"
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809164",
+          "크기": 833825,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_6.세출예산서.pdf"
+        },
+        {
+          "파일명": "7.계속비 사업조서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809165",
+          "크기": 79556,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_7.계속비 사업조서.pdf"
+        },
+        {
+          "파일명": "8.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809166",
+          "크기": 265436,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_8.세입예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "9.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809167",
+          "크기": 2292644,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_9.세출예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "10. 세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809168",
+          "크기": 408746,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제1회 추가경정 예산서_10. 세입세출예산사업명세서(기타특별회계).pdf"
+        }
+      ],
+      "비고": "파일명 중복 방지를 위해 저장 시 게시물 제목 접두어 부여; 분할 첨부 10개"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=442631",
+      "등록일": "2026-05-08",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 추경 상수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=809133",
+          "크기": 1416928,
+          "저장경로": "files/2026/경기도_안양시/2026년 제1회 추경 상수도공기업특별회계 예산서.pdf"
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=443190",
+      "등록일": "2026-05-13",
+      "첨부파일": [
+        {
+          "파일명": "[게시] 2026년도 하수도공기업특별회계 제1회 추경 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=810085",
+          "크기": 1760881,
+          "저장경로": "files/2026/경기도_안양시/[게시] 2026년도 하수도공기업특별회계 제1회 추경 예산서.pdf"
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정 예산(안)",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=446989",
+      "등록일": "2026-06-08",
+      "첨부파일": [
+        {
+          "파일명": "1. 예산총칙, 회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=813999",
+          "크기": 91132,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_1. 예산총칙, 회계별예산규모.pdf"
+        },
+        {
+          "파일명": "2. 세입세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814000",
+          "크기": 812893,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_2. 세입세출총괄표.pdf"
+        },
+        {
+          "파일명": "3. 세입세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814001",
+          "크기": 969302,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_3. 세입세출예산서.pdf"
+        },
+        {
+          "파일명": "4. 세입예산사업명세서_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814002",
+          "크기": 49366,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_4. 세입예산사업명세서_(일반회계).pdf"
+        },
+        {
+          "파일명": "5. 세출예산사업명세서_(의회운영위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814003",
+          "크기": 43212,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_5. 세출예산사업명세서_(의회운영위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "6. 세출예산사업명세서_(기획행정위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814004",
+          "크기": 70473,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_6. 세출예산사업명세서_(기획행정위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "7. 세출예산사업명세서_(복지환경위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814005",
+          "크기": 51068,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_7. 세출예산사업명세서_(복지환경위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "8. 세출예산사업명세서_(도시교통위원회)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814006",
+          "크기": 46639,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_8. 세출예산사업명세서_(도시교통위원회)_(일반회계).pdf"
+        },
+        {
+          "파일명": "9. 세출예산사업명세서_(구청)_(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=814007",
+          "크기": 87443,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산(안)_9. 세출예산사업명세서_(구청)_(일반회계).pdf"
+        }
+      ],
+      "비고": "예산안; 파일명 중복 방지를 위해 저장 시 게시물 제목 접두어 부여; 분할 첨부 9개"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=448723",
+      "등록일": "2026-06-26",
+      "첨부파일": [
+        {
+          "파일명": "1. 예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823075",
+          "크기": 47937,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_1. 예산총칙.pdf"
+        },
+        {
+          "파일명": "2. 회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823076",
+          "크기": 44069,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_2. 회계별예산규모.pdf"
+        },
+        {
+          "파일명": "3. 세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823077",
+          "크기": 142023,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_3. 세입총괄표.pdf"
+        },
+        {
+          "파일명": "4. 세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823078",
+          "크기": 664915,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_4. 세출총괄표.pdf"
+        },
+        {
+          "파일명": "5. 세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823079",
+          "크기": 164155,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_5. 세입예산서.pdf"
+        },
+        {
+          "파일명": "6. 세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823080",
+          "크기": 805254,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_6. 세출예산서.pdf"
+        },
+        {
+          "파일명": "7. 세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823081",
+          "크기": 49366,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_7. 세입예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "8. 세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=823082",
+          "크기": 102884,
+          "저장경로": "files/2026/경기도_안양시/2026년도 제2회 추가경정 예산서_8. 세출예산사업명세서(일반회계).pdf"
+        }
+      ],
+      "비고": "파일명 중복 방지를 위해 저장 시 게시물 제목 접두어 부여; 분할 첨부 8개"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년도 제3회 추가경정 예산(안)",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=456642",
+      "등록일": "2026-08-28",
+      "첨부파일": [
+        {
+          "파일명": "(최종)2026년도 제3회 추가경정 예산안.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=841768",
+          "크기": 6459398,
+          "저장경로": "files/2026/경기도_안양시/(최종)2026년도 제3회 추가경정 예산안.pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년도 제3회 추가경정 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=459215",
+      "등록일": "2026-10-02",
+      "첨부파일": [
+        {
+          "파일명": "(최종)2026년도 제3회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=844706",
+          "크기": 24791715,
+          "저장경로": "files/2026/경기도_안양시/(최종)2026년도 제3회 추가경정 예산서.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=392079",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807620",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807621",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807622",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807623",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807624",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807625",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807626",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807627",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807628",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시; 분할 첨부 9개"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 공영개발사업공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=393074",
+      "등록일": "2025-01-17",
+      "첨부파일": [
+        {
+          "파일명": "★★2025년 공영개발사업공기업특별회계 예산서_내지.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806838",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=393536",
+      "등록일": "2025-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 하수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838687",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=393531",
+      "등록일": "2025-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 상수도공기업특별회계 예산서(최종).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807545",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 조직개편에 따른 본예산 및 1회 추경 세출합본예산내역",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=394052",
+      "등록일": "2025-02-04",
+      "첨부파일": [
+        {
+          "파일명": "2025년 조직개편에 따른 본예산 및 1회 추경 세출합본예산내역.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807619",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "조직개편에 따른 세출 합본예산내역(본예산 보완자료)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 본예산 기금운용계획",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=37&key=203",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=203&bbsNo=37&nttNo=392417",
+      "등록일": "2025-01-07",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806711",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=401771",
+      "등록일": "2025-05-14",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회 추경 하수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838688",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=401758",
+      "등록일": "2025-05-14",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회추경 상수도공기업 예산서(최종).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807544",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추경예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=401949",
+      "등록일": "2025-05-16",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807609",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807610",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807611",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807612",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807613",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807614",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807615",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807616",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807617",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=414361",
+      "등록일": "2025-09-26",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 추경 상수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807543",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경 공영개발사업 공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=414569",
+      "등록일": "2025-09-29",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 제3회 추경 공영개발사업 공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806837",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=414492",
+      "등록일": "2025-09-29",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 추경 하수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838689",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추경예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=414815",
+      "등록일": "2025-10-01",
+      "첨부파일": [
+        {
+          "파일명": "1. 예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807600",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2. 회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807601",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3. 세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807602",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4. 세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807603",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5. 세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807604",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6. 세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807605",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7. 세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807606",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8. 세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807607",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9. 세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807608",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 추경예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=428448",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807563",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807564",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807565",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4. 세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807566",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5. 세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807567",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6. 세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807568",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807569",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807570",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9. 세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807571",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=428561",
+      "등록일": "2026-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제4회 추경 상수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807542",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년 제4회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=428545",
+      "등록일": "2026-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제4회 추경 하수도공기업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838690",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=361687",
+      "등록일": "2024-01-02",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807656",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807657",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807658",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807659",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807660",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807661",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807662",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807663",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807664",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시; 분할 첨부 9개"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=363535",
+      "등록일": "2024-01-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년 상수도 공기업 특별회계 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807551",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=364373",
+      "등록일": "2024-01-26",
+      "첨부파일": [
+        {
+          "파일명": "★2024년도 하수도공기업특별회계 예산서_내지.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838676",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 공영개발사업공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=372368",
+      "등록일": "2024-05-09",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 공영개발사업공기업특별회계 예산서_내지.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806840",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 본예산 기금운용계획",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=37&key=203",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=203&bbsNo=37&nttNo=361939",
+      "등록일": "2024-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2024 기금운용계획(의결).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=840243",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추경예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=373621",
+      "등록일": "2024-05-27",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807647",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807648",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807649",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807650",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807651",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807652",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807653",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807654",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807655",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=373816",
+      "등록일": "2024-05-29",
+      "첨부파일": [
+        {
+          "파일명": "하수도공기업특별회계 예산서_1추_내지.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838680",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=375275",
+      "등록일": "2024-06-17",
+      "첨부파일": [
+        {
+          "파일명": "2024년 상수도공기업특별회계 제1회추경 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807550",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추경 공영개발사업공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=375820",
+      "등록일": "2024-06-24",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 공영개발사업공기업특별회계 1추 예산서_내지.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=806839",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추경예산 세입/세출예산 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=384190",
+      "등록일": "2024-09-12",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807638",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807639",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807640",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807641",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807642",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807643",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807644",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807645",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출예산사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807646",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=385619",
+      "등록일": "2024-09-27",
+      "첨부파일": [
+        {
+          "파일명": "2024년 하수도공기업특별회계 제2회 추경 예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838681",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=385605",
+      "등록일": "2024-09-27",
+      "첨부파일": [
+        {
+          "파일명": "2024년 상수도공기업특별회계 제2회추경 예산서(최종).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807547",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추경예산 세입/세출 현황",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=391530",
+      "등록일": "2024-12-20",
+      "첨부파일": [
+        {
+          "파일명": "1.예산총칙.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807629",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807630",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807631",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.세출총괄표.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807632",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.세입예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807633",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.세출예산서.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807634",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807635",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산사업명세서(일반회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807636",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9.세입세출사업명세서(기타특별회계).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807637",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "분할 첨부 9개"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추경 하수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=392133",
+      "등록일": "2025-01-02",
+      "첨부파일": [
+        {
+          "파일명": "(최종)하수도공기업특별회계 예산서_3추_내지 v3.pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=838692",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추경 상수도공기업특별회계 예산서",
+      "게시판URL": "https://www.anyang.go.kr/main/selectBbsNttList.do?bbsNo=35&key=196",
+      "게시물URL": "https://www.anyang.go.kr/main/selectBbsNttView.do?key=196&bbsNo=35&nttNo=392180",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2024년 상수도공기업 특별회계 제3회 추경 예산서(최종).pdf",
+          "다운로드URL": "https://www.anyang.go.kr/main/downloadBbsFile.do?atchmnflNo=807546",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "공기업특별회계 별도 게시물"
+    }
+  ],
+  "비고": "일반·기타특별회계 예산서와 상수도·하수도·공영개발 공기업특별회계 예산서를 별도 게시물로 올림(각각 한 줄로 기록). 예산(안) 게시물도 함께 기록(비고 '예산안'). 2025년 제1회 일반회계 추경 게시물은 목록에서 확인 못함(미확인, '2025년 조직개편에 따른 본예산 및 1회 추경 세출합본예산내역'만 존재). '2024년 간주예산서'(2025-02-25 등록)는 본예산·추경이 아니어서 제외. 2024·2025년 첨부 크기는 상세페이지에 근사치(KB/MB)만 표시되어 null."
+}

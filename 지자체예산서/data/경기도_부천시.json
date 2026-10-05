@@ -1,0 +1,3778 @@
+{
+  "시도": "경기도",
+  "지자체": "부천시",
+  "홈페이지": "https://www.bucheon.go.kr",
+  "게시판": [
+    {
+      "이름": "부천시 재정공시(budget.bucheon.go.kr) > 재정정보 > 예산현황",
+      "URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001"
+    },
+    {
+      "이름": "재정정보 > 기금운용",
+      "URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/list?boardtypeid=27910&menuid=168002004"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_본예산_budget_open_본예산(안).pdf",
+          "설명": "0. 본예산(안)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/budget_open.pdf",
+          "크기": 739272014,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_budget_open_본예산(안).pdf"
+        },
+        {
+          "파일명": "2026_본예산_3_2_회계별예산규모(일반회계, 기타특별회계).pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/3_2.pdf",
+          "크기": 46758,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_3_2_회계별예산규모(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "2026_본예산_3_3_세입세출총괄표(일반회계, 기타특별회계).pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 3. 세입세출총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/3_3.pdf",
+          "크기": 1032790,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_3_3_세입세출총괄표(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "2026_본예산_3_4_세입세출예산서(일반회계, 기타특별회계).pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 4. 세입세출예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/3_4.pdf",
+          "크기": 1844328,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_3_4_세입세출예산서(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "2026_본예산_3_5_세입예산사업명세서(일반회계).pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/3_5.pdf",
+          "크기": 758755,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_3_5_세입예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "2026_본예산_3_6_세출예산사업명세서(일반회계).pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/3_6.pdf",
+          "크기": 9630881,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_3_6_세출예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "2026_본예산_4_1_기타특별회계 예산서 세출.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 1. 기타특별회계 예산서 세출",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/4_1.pdf",
+          "크기": 497191,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_4_1_기타특별회계 예산서 세출.pdf"
+        },
+        {
+          "파일명": "2026_본예산_4_2_기타 특별회계 예산서 세입.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 2. 기타 특별회계 예산서 세입",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/4_2.pdf",
+          "크기": 141420,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_4_2_기타 특별회계 예산서 세입.pdf"
+        },
+        {
+          "파일명": "2026_본예산_5_1_상수도사업특별회계.pdf",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/5_1.pdf",
+          "크기": 7911307,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_5_1_상수도사업특별회계.pdf"
+        },
+        {
+          "파일명": "2026_본예산_5_2_하수도사업특별회계.pdf",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/5_2.pdf",
+          "크기": 750855,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_5_2_하수도사업특별회계.pdf"
+        },
+        {
+          "파일명": "2026_본예산_budget_new_성인지예산서.pdf",
+          "설명": "Ⅵ. 성인지예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/depth/budget_new.pdf",
+          "크기": 5267095,
+          "저장경로": "files/2026/경기도_부천시/2026_본예산_budget_new_성인지예산서.pdf"
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음); 페이지 첫 항목 표기 '0. 본예산(안)' 전체파일(budget_open.pdf, 약 739MB) 포함; 원 파일명이 코드형이라 '연도_구분_원파일명_항목명'으로 저장; 기금운용계획은 별도 '기금운용' 게시판에 게시 (파일 11개)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/list?boardtypeid=27910&menuid=168002004",
+      "게시물URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/view?menuid=168002004&pagesize=10&boardtypeid=27910&boardid=1186730",
+      "등록일": "2026-01-22",
+      "첨부파일": [
+        {
+          "파일명": "2026년 기금운용계획(최종).pdf",
+          "다운로드URL": "https://budget.bucheon.go.kr/site/inc/file/fileDownload?dirname=/board/1186&filename=2026%EB%85%84%20%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%28%EC%B5%9C%EC%A2%85%29.pdf",
+          "크기": 694103,
+          "저장경로": "files/2026/경기도_부천시/2026년 기금운용계획(최종).pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 1회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020002",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_1회추경예산_5_1_예산총칙.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_1.pdf",
+          "크기": 85163323,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_1_예산총칙.pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_5_2_회계별예산규모(일반회계, 특별회계).pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_2.pdf",
+          "크기": 46385,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_2_회계별예산규모(일반회계, 특별회계).pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_5_3_세입세출 총괄표(일반회계, 기타특별회계).pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_3.pdf",
+          "크기": 2145336,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_3_세입세출 총괄표(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_5_4_세입세출 예산서(일반회계, 기타특별회계).pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_4.pdf",
+          "크기": 10520885,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_4_세입세출 예산서(일반회계, 기타특별회계).pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_5_5_세입예산사업명세서(일반회계).pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_5.pdf",
+          "크기": 113085,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_5_세입예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_5_6_세출예산사업명세서(일반회계).pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/5_6.pdf",
+          "크기": 444512,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_5_6_세출예산사업명세서(일반회계).pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_7_1_기타특별회계 예산서 세입.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 1. 기타특별회계 예산서 세입",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/7_1.pdf",
+          "크기": 44995,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_7_1_기타특별회계 예산서 세입.pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_7_2_기타특별회계 예산서 세출.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 2. 기타특별회계 예산서 세출",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/7_2.pdf",
+          "크기": 41819,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_7_2_기타특별회계 예산서 세출.pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_8_1_상수도사업특별회계.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/8_1.pdf",
+          "크기": 775131,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_8_1_상수도사업특별회계.pdf"
+        },
+        {
+          "파일명": "2026_1회추경예산_8_2_하수도사업특별회계.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2026/2026depth1/8_2.pdf",
+          "크기": 21772515,
+          "저장경로": "files/2026/경기도_부천시/2026_1회추경예산_8_2_하수도사업특별회계.pdf"
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음); 원 파일명이 코드형(5_1.pdf 등)이고 본예산과 중복되어 '연도_구분_원파일명_항목명'으로 저장 (파일 10개)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001019001",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "3_1.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_2.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_3.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 3. 세입세출총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_4.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 4. 세입세출예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_5.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_6.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/3_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_1.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 의회사무국",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_2.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 소통담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_3.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 안전담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_4.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 홍보담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_5.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 감사담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_6.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 정책기획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_7.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 예산법무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_8.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_9.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 생활경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_10.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 기업지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_11.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 회계과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_12.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 재산관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_13.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_14.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 징수과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_15.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_16.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_17.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 노무복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_18.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 스마트도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_19.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 정보통신과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_20.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 민원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_21.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 문화예술과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_22.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 문화산업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_23.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 관광진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_24.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_25.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_26.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 미래세대지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_27.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_28.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 통합돌봄과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_29.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 여성가족과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_30.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 아동보육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_31.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_32.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 장애인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_33.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 식품위생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_34.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시계획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_35.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 토지정보과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_36.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_38.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건축관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_39.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주택정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_40.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 시설공사과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_41.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 환경과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_42.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 기후에너지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_43.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시개발과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_44.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주거정비과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_45.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_46.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_47.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 대중교통과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_48.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주차정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_49.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건설정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_50.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_50.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_51.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 차량등록과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_51.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_52.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주차지도과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_52.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_53.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_53.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_54.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강증진과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_54.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_55.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_55.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_56.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 감염병관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_56.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_57.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 소사보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_57.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_58.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 오정보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_58.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_59.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 생태하천과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_59.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_60.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 자원순환과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_60.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_61.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_61.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_62.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_62.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_63.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 녹지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_63.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_64.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_64.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_65.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 상동도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_65.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_66.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 별빛마루도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_66.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_67.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 수주도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_67.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_68.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 원미구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_68.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_69.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 원미구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_69.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_70.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 소사구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_70.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_71.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 소사구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_71.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_72.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 오정구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_72.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_73.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 오정구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/2_73.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "budget_etc.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/budget_etc.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_1.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 1. 공유재산관리",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_2.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 2. 의료급여기금",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_3.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 3. 교통사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_4.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 4. 철도건설사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_5.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 5. 폐기물처리시설",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_6.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 6. 도시개발",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_7.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 7. 공공시설등 설치",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_8.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 8. 도시재생",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_9.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 9. 성골지구 도시개발사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_10.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 10. 발전소주변지역 지원사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/4_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.hwp",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/5_2.hwp",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "budget_new.pdf",
+          "설명": "Ⅵ. 성인지예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/depth/budget_new.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음); 기금운용계획은 별도 '기금운용' 게시판에 게시 (파일 92개)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/list?boardtypeid=27910&menuid=168002004",
+      "게시물URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/view?menuid=168002004&pagesize=10&boardtypeid=27910&boardid=1151111",
+      "등록일": "2025-01-17",
+      "첨부파일": [
+        {
+          "파일명": "2025년 기금운용계획.pdf",
+          "다운로드URL": "https://budget.bucheon.go.kr/site/inc/file/fileDownload?dirname=/board/1151&filename=2025%EB%85%84%20%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 1회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001019002",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 부서별 세출예산(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 징수과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 재난안전과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 지역경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_7.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_8.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기후에너지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_9.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 문화정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_10.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 콘텐츠관광과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_11.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_12.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_13.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 돌봄지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_14.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 여성다문화과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_15.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 아동보육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_16.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_17.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_18.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 청년청소년과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_19.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 상동도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_20.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 별빛마루도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_21.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 수주도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_22.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_23.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_24.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원도심재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_25.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_26.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 하수하천과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_27.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_28.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_29.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 녹지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_30.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_31.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_32.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_33.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구 재산세과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_34.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구 취득세과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_35.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_36.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구 세무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_37.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구 도시미관과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_38.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_39.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구 세무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_40.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구 건설안전과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/6_40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_1.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 1. 교통사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_2.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 2. 교통사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_1.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_2.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth1/8_2.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음) (파일 50개)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 2회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001019003",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 의회사무국",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소통담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 전략담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 홍보담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 감사담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 정책기획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_7.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 스마트도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_8.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 예산법무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_9.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 회계과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_10.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 재산관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_11.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_12.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 징수과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_13.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_14.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_15.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 재난안전과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_16.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 직원복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_17.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 정보통신과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_18.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 민원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_19.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 지역경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_20.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기업지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_21.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_22.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 환경정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_23.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기후에너지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_24.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 문화정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_25.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 콘텐츠관광과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_26.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_27.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 식품위생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_28.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_29.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 돌봄지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_30.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 여성다문화과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_31.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 아동보육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_32.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_33.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 장애인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_34.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_35.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 청년청소년과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_36.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 상동도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_37.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 별빛마루도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_38.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 수주도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_39.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시계획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_40.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시개발과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_41.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 토지정보과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_42.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건설정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_43.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_44.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_45.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_46.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원도심재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_47.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공동주택과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_48.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_49.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 대중교통과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_50.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주차정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_50.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_51.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 차량등록과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_51.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_52.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 하수하천과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_52.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_53.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자원순환과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_53.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_54.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_54.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_55.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_55.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_56.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 녹지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_56.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_57.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_57.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_58.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_58.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_59.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강증진과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_59.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_60.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 감염병관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_60.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_61.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_61.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_62.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_62.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_63.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_63.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_64.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_64.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_65.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_65.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_66.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_66.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_67.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_67.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_68.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구동행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/6_68.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_0.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_0.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_1.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 1. 공유재산관리",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_2.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 2. 의료급여기금",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_3.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 3. 교통사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_4.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 4. 철도건설사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_5.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 5. 폐기물처리시설",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_6.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 6. 도시개발",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_7.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 7. 공공시설등 설치",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_8.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 8. 문화시설건립",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_9.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 9. 도시재생",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_10.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 10. 성골지구 도시개발사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_11.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 11. 발전소주변지역 지원사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/7_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_1.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_2.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth2/8_2.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음) (파일 88개)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 3회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001019004",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/5_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_1.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_2.hwp",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2025/2025depth3/8_2.hwp",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음) (파일 7개)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 본예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001018001",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "budget_open.pdf",
+          "설명": "Ⅲ. 세입세출 예산",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/budget_open.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_1.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_2.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_3.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 3. 세입세출총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_4.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 4. 세입세출예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_5.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3_6.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 6. 세출예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/3_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_1.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 의회사무국",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_2.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 365안전센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_3.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 홍보담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_4.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 감사담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_5.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 스마트시티담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_6.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 정책기획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_7.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 예산법무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_8.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 회계과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_9.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 재산관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_10.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_11.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 재산세과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_12.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 취득세과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_13.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 징수과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_14.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 문화예술과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_15.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 문화산업전략과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_16.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 관광진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_17.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_18.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 생활경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_19.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 기업지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_20.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_21.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 통합돌봄과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_22.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 여성정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_23.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 보육정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_24.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 아동청소년과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_25.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_26.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 장애인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_27.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 식품위생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_28.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시계획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_29.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시전략과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_30.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 토지정보과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_31.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 부동산과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_32.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_33.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건축관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_34.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 공동주택과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_35.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 시설공사과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_36.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주택정비과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_37.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_38.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_39.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 대중교통과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_40.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주차시설과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_41.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 차량등록과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_42.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 주차지도과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_43.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_44.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_45.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 노무복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_46.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 정보통신과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_47.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_48.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 민원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_49.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_50.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강증진과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_50.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_51.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건강도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_51.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_52.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 감염병관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_52.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_53.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 소사보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_53.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_54.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 오정보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_54.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_55.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 환경과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_55.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_56.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 미세먼지대책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_56.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_57.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 생태하천과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_57.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_58.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 자원순환과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_58.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_59.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 건설정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_59.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_60.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_60.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_61.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 가로정비과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_61.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_62.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_62.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_63.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_63.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_64.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 녹지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_64.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_65.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_65.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_66.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_66.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_67.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 상동도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_67.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_68.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 별빛마루도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_68.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_69.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 수주도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_69.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2_70.pdf",
+          "설명": "Ⅲ. 세입세출 예산 > 행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/2_70.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "budget_etc.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/budget_etc.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_1.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 1. 공유재산관리",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_2.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 2. 의료급여기금",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_3.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 3. 장기미집행",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_4.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 4. 교통사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_5.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 5. 철도건설사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_6.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 6. 폐기물처리시설",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_7.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 7. 도시개발",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_8.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 8. 공공시설등",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_9.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 9. 문화시설건립 설치",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_10.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 10. 도시재생",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4_11.pdf",
+          "설명": "Ⅳ. 기타특별회계 예산서 > 11. 성골지구 도시개발사업",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/4_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅴ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "budget_new.pdf",
+          "설명": "Ⅵ. 성인지예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/depth/budget_new.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음); 기금운용계획은 별도 '기금운용' 게시판에 게시 (파일 92개)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용",
+      "게시판URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/list?boardtypeid=27910&menuid=168002004",
+      "게시물URL": "https://budget.bucheon.go.kr/site/program/board/basicboard/view?menuid=168002004&pagesize=10&boardtypeid=27910&boardid=998498",
+      "등록일": "2024-02-14",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획.pdf",
+          "다운로드URL": "https://budget.bucheon.go.kr/site/inc/file/fileDownload?dirname=/board/998&filename=2024%EB%85%84%20%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 1회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001018002",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "budget_open.pdf",
+          "설명": "Ⅰ. 세입세출 예산",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/budget_open.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 부서별 세출예산(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 의회사무국",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소통담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 안전담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 홍보담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 감사담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 정책기획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_7.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 예산법무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_8.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_9.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 생활경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_10.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기업지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_11.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 회계과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_12.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 재산관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_13.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_14.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 징수과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_15.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 행정지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_16.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_17.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 노무복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_18.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 스마트도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_19.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 정보통신과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_20.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 민원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_21.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 문화예술과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_22.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 문화산업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_23.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 관광진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_24.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_25.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_26.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 미래세대지원과지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_27.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_28.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 통합돌봄과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_29.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 여성가족과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_30.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 아동보육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_31.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_32.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 장애인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_33.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 식품위생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_34.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시계획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_35.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 토지정보과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_36.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_37.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_38.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주택정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_39.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 환경과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_40.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기후에너지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_40.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_41.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시개발과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_41.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_42.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주거정비과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_42.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_43.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_43.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_44.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_44.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_45.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 대중교통과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_45.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_46.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주차정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_46.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_47.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건설정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_47.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_48.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_48.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_49.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주차지도과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_49.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_50.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_50.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_51.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강증진과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_51.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_52.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_52.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_53.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 감염병관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_53.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_54.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_54.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_55.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_55.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_56.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 생태하천과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_56.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_57.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자원순환과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_57.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_58.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_58.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_59.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_59.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_60.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 녹지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_60.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_61.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_61.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_62.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 상동도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_62.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_63.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 별빛마루도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_63.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_64.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 수주도서관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_64.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_65.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구 동 행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_65.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_66.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_66.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_67.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구 동 행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_67.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_68.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_68.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_69.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구 동 행정복지센터",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_69.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_70.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/6_70.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_0.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_0.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_1.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 1. 공유재산관리(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_2.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 2. 공유재산관리(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_3.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 3. 의료급여기금(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_4.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 4. 의료급여기금(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_5.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 5. 장기미집행도시계획시설대지보상임시(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_6.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 6. 장기미집행도시계획시설대지보상임시(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_7.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 7. 교통사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_8.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 8. 교통사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_9.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 9. 철도건설사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_10.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 10. 철도건설사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_11.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 11. 폐기물처리시설(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_12.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 12. 폐기물처리시설(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_13.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 13. 도시개발(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_14.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 14. 도시개발(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_15.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 15. 공공시설등 설치(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_16.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 16. 공공시설등 설치(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_17.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 17. 도시재생(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_18.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 18. 도시재생(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_19.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 19. 성골지구 도시개발사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_20.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 20. 성골지구 도시개발사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_21.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 21. 발전소주변지역 지원사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_22.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 22. 발전소주변지역 지원사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/7_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_1.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_2.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 하수도사업특별회계",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth1/8_2.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음) (파일 102개)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 2회추경예산",
+      "게시판URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001020001",
+      "게시물URL": "https://budget.bucheon.go.kr/site/homepage/menu/viewMenu?menuid=168002001018003",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "5_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 1. 예산총칙",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 2. 회계별예산규모(일반회계, 특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 3. 세입세출 총괄표(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 4. 세입세출 예산서(일반회계, 기타특별회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 5. 세입예산사업명세서(일반회계)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 6. 간주 예산서",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/5_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_1.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 안전담당관",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_2.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 예산법무과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_3.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 일자리정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_4.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 생활경제과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_5.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 회계과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_6.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 세정과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_7.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자치분권과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_8.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 스마트도시과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_9.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 민원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_10.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 문화예술과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_11.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 체육진흥과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_12.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 평생교육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_13.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 미래세대지원과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_14.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 복지정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_15.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 통합돌봄과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_16.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 여성가족과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_17.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 아동보육과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_18.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 노인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_19.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 장애인복지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_20.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시계획과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_21.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건축디자인과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_22.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 주택정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_23.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 환경과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_23.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_24.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 기후에너지과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_24.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_25.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시재생과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_25.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_26.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 교통정책과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_26.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_27.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 대중교통과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_27.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_28.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도로관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_28.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_29.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 건강증진과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_30.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 감염병관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_30.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_31.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_31.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_32.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정보건소",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_32.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_33.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 자원순환과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_33.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_34.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원조성과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_34.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_35.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 공원관리과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_35.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_36.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 도시농업과",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_36.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_37.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 원미구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_37.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_38.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 소사구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_38.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6_39.pdf",
+          "설명": "Ⅰ. 세입세출 예산 > 오정구청",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/6_39.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_1.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 1. 공유재산관리(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_2.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 2. 공유재산관리(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_3.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 3. 의료급여기금(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_4.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 4. 의료급여기금(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_5.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 5. 장기미집행도시계획시설대지보상임시(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_5.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_6.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 6. 장기미집행도시계획시설대지보상임시(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_6.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_7.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 7. 교통사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_7.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_8.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 8. 교통사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_9.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 9. 철도건설사업(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_9.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_10.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 10. 철도건설사업(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_11.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 11. 폐기물처리시설(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_12.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 12. 도시개발(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7_13.pdf",
+          "설명": "Ⅱ. 기타특별회계 예산서 > 13. 도시개발(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/7_13.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_1.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 1. 상수도사업특별회계(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/8_1.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_2.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 2. 상수도사업특별회계(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/8_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_3.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 3. 하수도사업특별회계(세입)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/8_3.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8_4.pdf",
+          "설명": "Ⅲ. 공기업특별회계 예산서 > 4. 하수도사업특별회계(세출)",
+          "다운로드URL": "https://budget.bucheon.go.kr/docs/budget/depth1_1/2024/2024depth2/8_4.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시 사이트 '예산현황' 연도별 콘텐츠 페이지(게시물 등록일 없음) (파일 62개)"
+    }
+  ],
+  "비고": "예산서는 시 본 홈페이지가 아닌 재정공시 서브사이트(budget.bucheon.go.kr)의 연도별·회차별 콘텐츠 페이지로 공개(등록일 없음). 2026년은 본예산·제1회 추경까지 메뉴 존재(제2회 이후 미게시, 2026-10-05 기준). 2025년은 제3회 추경까지, 2024년은 제2회 추경까지 메뉴 존재. 2024·2025년 파일 크기 미확인(null)."
+}

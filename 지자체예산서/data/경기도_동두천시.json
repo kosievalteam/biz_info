@@ -1,0 +1,1807 @@
+{
+  "시도": "경기도",
+  "지자체": "동두천시",
+  "홈페이지": "https://www.ddc.go.kr",
+  "게시판": [
+    {
+      "이름": "재정공개(예산) 2026년",
+      "URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328"
+    },
+    {
+      "이름": "재정공개(예산) 2025년",
+      "URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257"
+    },
+    {
+      "이름": "재정공개(예산) 2024년",
+      "URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 일반 및 특별회계 본예산 세입세출 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2328_01.pdf",
+          "설명": "2026년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/file2328_01.pdf",
+          "크기": 16985209,
+          "저장경로": "files/2026/경기도_동두천시/file2328_01.pdf"
+        },
+        {
+          "파일명": "file2328_02.pdf",
+          "설명": "2026년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/file2328_02.pdf",
+          "크기": 93046581,
+          "저장경로": "files/2026/경기도_동두천시/file2328_02.pdf"
+        },
+        {
+          "파일명": "1.예산총칙.pdf",
+          "설명": "예산 총칙",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/1.%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": 234371,
+          "저장경로": "files/2026/경기도_동두천시/1.예산총칙.pdf"
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "설명": "회계별 예산규모",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2.%ED%9A%8C%EA%B3%84%EB%B3%84%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": 208823,
+          "저장경로": "files/2026/경기도_동두천시/2.회계별예산규모.pdf"
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "설명": "세입 총괄(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3.%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C.pdf",
+          "크기": 673082,
+          "저장경로": "files/2026/경기도_동두천시/3.세입총괄표.pdf"
+        },
+        {
+          "파일명": "3-1.세입일반.pdf",
+          "설명": "세입 총괄(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3-1.%EC%84%B8%EC%9E%85%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 637712,
+          "저장경로": "files/2026/경기도_동두천시/3-1.세입일반.pdf"
+        },
+        {
+          "파일명": "3-2.세입공기업.pdf",
+          "설명": "세입 총괄(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3-2.%EC%84%B8%EC%9E%85%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": 376584,
+          "저장경로": "files/2026/경기도_동두천시/3-2.세입공기업.pdf"
+        },
+        {
+          "파일명": "3-3.세입기타.pdf",
+          "설명": "세입 총괄(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3-3.%EC%84%B8%EC%9E%85%EA%B8%B0%ED%83%80.pdf",
+          "크기": 310208,
+          "저장경로": "files/2026/경기도_동두천시/3-3.세입기타.pdf"
+        },
+        {
+          "파일명": "4.기능별세출총괄.pdf",
+          "설명": "기능별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4.%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": 788781,
+          "저장경로": "files/2026/경기도_동두천시/4.기능별세출총괄.pdf"
+        },
+        {
+          "파일명": "4-1.기능별일반.pdf",
+          "설명": "기능별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-1.%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 776892,
+          "저장경로": "files/2026/경기도_동두천시/4-1.기능별일반.pdf"
+        },
+        {
+          "파일명": "4-2.기능별공기업.pdf",
+          "설명": "기능별세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-2.%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": 123080,
+          "저장경로": "files/2026/경기도_동두천시/4-2.기능별공기업.pdf"
+        },
+        {
+          "파일명": "4-3.기능별기타.pdf",
+          "설명": "기능별세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-3.%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": 219810,
+          "저장경로": "files/2026/경기도_동두천시/4-3.기능별기타.pdf"
+        },
+        {
+          "파일명": "5.조직별세출총괄.pdf",
+          "설명": "조직별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5.%EC%A1%B0%EC%A7%81%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": 42994,
+          "저장경로": "files/2026/경기도_동두천시/5.조직별세출총괄.pdf"
+        },
+        {
+          "파일명": "5-1.조직별일반.pdf",
+          "설명": "조직별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-1.%EC%A1%B0%EC%A7%81%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 42610,
+          "저장경로": "files/2026/경기도_동두천시/5-1.조직별일반.pdf"
+        },
+        {
+          "파일명": "5-2.조직별공기업.pdf",
+          "설명": "조직별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-2.%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": 87300,
+          "저장경로": "files/2026/경기도_동두천시/5-2.조직별공기업.pdf"
+        },
+        {
+          "파일명": "5-3.조직별기타.pdf",
+          "설명": "조직별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-3.%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": 139833,
+          "저장경로": "files/2026/경기도_동두천시/5-3.조직별기타.pdf"
+        },
+        {
+          "파일명": "6.성질별세출총괄.pdf",
+          "설명": "성질별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6.%EC%84%B1%EC%A7%88%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": 1939427,
+          "저장경로": "files/2026/경기도_동두천시/6.성질별세출총괄.pdf"
+        },
+        {
+          "파일명": "6-1.성질별일반.pdf",
+          "설명": "성질별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-1.%EC%84%B1%EC%A7%88%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 1893971,
+          "저장경로": "files/2026/경기도_동두천시/6-1.성질별일반.pdf"
+        },
+        {
+          "파일명": "6-2.성질별공기업.pdf",
+          "설명": "성질별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-2.%EC%84%B1%EC%A7%88%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": 758738,
+          "저장경로": "files/2026/경기도_동두천시/6-2.성질별공기업.pdf"
+        },
+        {
+          "파일명": "6-3.성질별기타.pdf",
+          "설명": "성질별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-3.%EC%84%B1%EC%A7%88%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": 507138,
+          "저장경로": "files/2026/경기도_동두천시/6-3.성질별기타.pdf"
+        },
+        {
+          "파일명": "7.세입예산서일반.pdf",
+          "설명": "세입예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7.%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 509974,
+          "저장경로": "files/2026/경기도_동두천시/7.세입예산서일반.pdf"
+        },
+        {
+          "파일명": "8.세출예산서일반.pdf",
+          "설명": "세출예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/8.%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": 7175877,
+          "저장경로": "files/2026/경기도_동두천시/8.세출예산서일반.pdf"
+        },
+        {
+          "파일명": "1.일반회계세입.pdf",
+          "설명": "세입 > 일반",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/1.%EC%9D%BC%EB%B0%98%ED%9A%8C%EA%B3%84%EC%84%B8%EC%9E%85.pdf",
+          "크기": 14101120,
+          "저장경로": "files/2026/경기도_동두천시/1.일반회계세입.pdf"
+        },
+        {
+          "파일명": "2-1.세입(의료급여).pdf",
+          "설명": "세입 > 의료급여",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2-1.%EC%84%B8%EC%9E%85%28%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%29.pdf",
+          "크기": 408040,
+          "저장경로": "files/2026/경기도_동두천시/2-1.세입(의료급여).pdf"
+        },
+        {
+          "파일명": "2-2.세입(주차장).pdf",
+          "설명": "세입 > 주차장",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2-2.%EC%84%B8%EC%9E%85%28%EC%A3%BC%EC%B0%A8%EC%9E%A5%29.pdf",
+          "크기": 246969,
+          "저장경로": "files/2026/경기도_동두천시/2-2.세입(주차장).pdf"
+        },
+        {
+          "파일명": "2-3.세입(도시재생).pdf",
+          "설명": "세입 > 도시재생",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2-3.%EC%84%B8%EC%9E%85%28%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%29.pdf",
+          "크기": 161264,
+          "저장경로": "files/2026/경기도_동두천시/2-3.세입(도시재생).pdf"
+        },
+        {
+          "파일명": "2-4.세입(토지구획).pdf",
+          "설명": "세입 > 토지구획",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2-4.%EC%84%B8%EC%9E%85%28%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D%29.pdf",
+          "크기": 87166,
+          "저장경로": "files/2026/경기도_동두천시/2-4.세입(토지구획).pdf"
+        },
+        {
+          "파일명": "2-5.세입(발전소).pdf",
+          "설명": "세입 > 발전소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2-5.%EC%84%B8%EC%9E%85%28%EB%B0%9C%EC%A0%84%EC%86%8C%29.pdf",
+          "크기": 235608,
+          "저장경로": "files/2026/경기도_동두천시/2-5.세입(발전소).pdf"
+        },
+        {
+          "파일명": "3-1.기획감사담당관.pdf",
+          "설명": "세출 (본청) > 기획감사담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3-1.%EA%B8%B0%ED%9A%8D%EA%B0%90%EC%82%AC%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": 2294499,
+          "저장경로": "files/2026/경기도_동두천시/3-1.기획감사담당관.pdf"
+        },
+        {
+          "파일명": "3-2.홍보미래담당관.pdf",
+          "설명": "세출 (본청) > 홍보미래담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/3-2.%ED%99%8D%EB%B3%B4%EB%AF%B8%EB%9E%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": 2408473,
+          "저장경로": "files/2026/경기도_동두천시/3-2.홍보미래담당관.pdf"
+        },
+        {
+          "파일명": "4-1.자치행정과.pdf",
+          "설명": "세출 (본청) > 자치행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-1.%EC%9E%90%EC%B9%98%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": 6913611,
+          "저장경로": "files/2026/경기도_동두천시/4-1.자치행정과.pdf"
+        },
+        {
+          "파일명": "4-2.세무과.pdf",
+          "설명": "세출 (본청) > 세무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-2.%EC%84%B8%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": 1152787,
+          "저장경로": "files/2026/경기도_동두천시/4-2.세무과.pdf"
+        },
+        {
+          "파일명": "4-3.회계과.pdf",
+          "설명": "세출 (본청) > 회계과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-3.%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": 3719118,
+          "저장경로": "files/2026/경기도_동두천시/4-3.회계과.pdf"
+        },
+        {
+          "파일명": "4-4.민원봉사과.pdf",
+          "설명": "세출 (본청) > 민원봉사과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-4.%EB%AF%BC%EC%9B%90%EB%B4%89%EC%82%AC%EA%B3%BC.pdf",
+          "크기": 2264877,
+          "저장경로": "files/2026/경기도_동두천시/4-4.민원봉사과.pdf"
+        },
+        {
+          "파일명": "4-5.정보통신과.pdf",
+          "설명": "세출 (본청) > 정보통신과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/4-5.%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": 2102287,
+          "저장경로": "files/2026/경기도_동두천시/4-5.정보통신과.pdf"
+        },
+        {
+          "파일명": "5-1-1.복지정책과.pdf",
+          "설명": "세출 (본청) > 복지정책과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-1-1.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": 7803543,
+          "저장경로": "files/2026/경기도_동두천시/5-1-1.복지정책과.pdf"
+        },
+        {
+          "파일명": "5-1-2.복지정책과_특별.pdf",
+          "설명": "세출 (본청) > 복지정책과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-1-2.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": 598250,
+          "저장경로": "files/2026/경기도_동두천시/5-1-2.복지정책과_특별.pdf"
+        },
+        {
+          "파일명": "5-2.사회복지과.pdf",
+          "설명": "세출 (본청) > 사회복지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-2.%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": 13898105,
+          "저장경로": "files/2026/경기도_동두천시/5-2.사회복지과.pdf"
+        },
+        {
+          "파일명": "5-3.가족지원과.pdf",
+          "설명": "세출 (본청) > 가족지원과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-3.%EA%B0%80%EC%A1%B1%EC%A7%80%EC%9B%90%EA%B3%BC.pdf",
+          "크기": 9806178,
+          "저장경로": "files/2026/경기도_동두천시/5-3.가족지원과.pdf"
+        },
+        {
+          "파일명": "5-4.문화예술과.pdf",
+          "설명": "세출 (본청) > 문화예술과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-4.%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EA%B3%BC.pdf",
+          "크기": 4878602,
+          "저장경로": "files/2026/경기도_동두천시/5-4.문화예술과.pdf"
+        },
+        {
+          "파일명": "5-5.체육관광과.pdf",
+          "설명": "세출 (본청) > 체육관광과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/5-5.%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": 5037211,
+          "저장경로": "files/2026/경기도_동두천시/5-5.체육관광과.pdf"
+        },
+        {
+          "파일명": "6-1.일자리경제과.pdf",
+          "설명": "세출 (본청) > 일자리경제과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-1.%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": 3604677,
+          "저장경로": "files/2026/경기도_동두천시/6-1.일자리경제과.pdf"
+        },
+        {
+          "파일명": "6-2.환경보호과.pdf",
+          "설명": "세출 (본청) > 환경보호과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-2.%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8%EA%B3%BC.pdf",
+          "크기": 5565415,
+          "저장경로": "files/2026/경기도_동두천시/6-2.환경보호과.pdf"
+        },
+        {
+          "파일명": "6-3.농업축산위생과.pdf",
+          "설명": "세출 (본청) > 농업축산위생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-3.%EB%86%8D%EC%97%85%EC%B6%95%EC%82%B0%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": 8650067,
+          "저장경로": "files/2026/경기도_동두천시/6-3.농업축산위생과.pdf"
+        },
+        {
+          "파일명": "6-4.공원녹지과.pdf",
+          "설명": "세출 (본청) > 공원녹지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/6-4.%EA%B3%B5%EC%9B%90%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": 5230478,
+          "저장경로": "files/2026/경기도_동두천시/6-4.공원녹지과.pdf"
+        },
+        {
+          "파일명": "7-1.안전총괄과.pdf",
+          "설명": "세출 (본청) > 안전총괄과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-1.%EC%95%88%EC%A0%84%EC%B4%9D%EA%B4%84%EA%B3%BC.pdf",
+          "크기": 3477360,
+          "저장경로": "files/2026/경기도_동두천시/7-1.안전총괄과.pdf"
+        },
+        {
+          "파일명": "7-2-1.교통행정과.pdf",
+          "설명": "세출 (본청) > 교통행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-2-1.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": 3361160,
+          "저장경로": "files/2026/경기도_동두천시/7-2-1.교통행정과.pdf"
+        },
+        {
+          "파일명": "7-2-2.교통행정과_특별.pdf",
+          "설명": "세출 (본청) > 교통행정과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-2-2.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": 961817,
+          "저장경로": "files/2026/경기도_동두천시/7-2-2.교통행정과_특별.pdf"
+        },
+        {
+          "파일명": "7-3.도로과.pdf",
+          "설명": "세출 (본청) > 도로과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-3.%EB%8F%84%EB%A1%9C%EA%B3%BC.pdf",
+          "크기": 2150196,
+          "저장경로": "files/2026/경기도_동두천시/7-3.도로과.pdf"
+        },
+        {
+          "파일명": "7-4-1.도시재생과.pdf",
+          "설명": "세출 (본청) > 도시재생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-4-1.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC.pdf",
+          "크기": 2160038,
+          "저장경로": "files/2026/경기도_동두천시/7-4-1.도시재생과.pdf"
+        },
+        {
+          "파일명": "7-4-2.도시재생과_도시재생.pdf",
+          "설명": "세출 (본청) > 도시재생과_도시재생",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-4-2.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D.pdf",
+          "크기": 164238,
+          "저장경로": "files/2026/경기도_동두천시/7-4-2.도시재생과_도시재생.pdf"
+        },
+        {
+          "파일명": "7-4-3.도시재생과_토지구획.pdf",
+          "설명": "세출 (본청) > 도시재생과_토지구획",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-4-3.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D.pdf",
+          "크기": 113310,
+          "저장경로": "files/2026/경기도_동두천시/7-4-3.도시재생과_토지구획.pdf"
+        },
+        {
+          "파일명": "7-5.건축과.pdf",
+          "설명": "세출 (본청) > 건축과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-5.%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": 1130060,
+          "저장경로": "files/2026/경기도_동두천시/7-5.건축과.pdf"
+        },
+        {
+          "파일명": "7-6-1.공공사업과.pdf",
+          "설명": "세출 (본청) > 공공사업과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-6-1.%EA%B3%B5%EA%B3%B5%EC%82%AC%EC%97%85%EA%B3%BC.pdf",
+          "크기": 747329,
+          "저장경로": "files/2026/경기도_동두천시/7-6-1.공공사업과.pdf"
+        },
+        {
+          "파일명": "7-6-2.공공사업과_특별.pdf",
+          "설명": "세출 (본청) > 공공사업과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/7-6-2.%EA%B3%B5%EA%B3%B5%EC%82%AC%EC%97%85%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": 602650,
+          "저장경로": "files/2026/경기도_동두천시/7-6-2.공공사업과_특별.pdf"
+        },
+        {
+          "파일명": "8-1.보건행정과.pdf",
+          "설명": "세출 (본청) > 세출 (직속기관) > 보건행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/8-1.%EB%B3%B4%EA%B1%B4%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": 4051680,
+          "저장경로": "files/2026/경기도_동두천시/8-1.보건행정과.pdf"
+        },
+        {
+          "파일명": "8-2.건강증진과.pdf",
+          "설명": "세출 (본청) > 세출 (직속기관) > 건강증진과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/8-2.%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": 6480381,
+          "저장경로": "files/2026/경기도_동두천시/8-2.건강증진과.pdf"
+        },
+        {
+          "파일명": "상수도사업특별회계.zip",
+          "설명": "세출 (본청) > 세출 (사업소) > 상수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/%EC%83%81%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": 2560176,
+          "저장경로": "files/2026/경기도_동두천시/상수도사업특별회계.zip"
+        },
+        {
+          "파일명": "하수도사업특별회계.zip",
+          "설명": "세출 (본청) > 세출 (사업소) > 하수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/%ED%95%98%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": 2285992,
+          "저장경로": "files/2026/경기도_동두천시/하수도사업특별회계.zip"
+        },
+        {
+          "파일명": "9-1.시설사업소.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 시설사업소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/9-1.%EC%8B%9C%EC%84%A4%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": 1282998,
+          "저장경로": "files/2026/경기도_동두천시/9-1.시설사업소.pdf"
+        },
+        {
+          "파일명": "9-2.도서문화사업소.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 도서문화사업소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/9-2.%EB%8F%84%EC%84%9C%EB%AC%B8%ED%99%94%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": 3453471,
+          "저장경로": "files/2026/경기도_동두천시/9-2.도서문화사업소.pdf"
+        },
+        {
+          "파일명": "9-3.미래교육진흥원.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 미래교육진흥원",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/9-3.%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EC%A7%84%ED%9D%A5%EC%9B%90.pdf",
+          "크기": 3406175,
+          "저장경로": "files/2026/경기도_동두천시/9-3.미래교육진흥원.pdf"
+        },
+        {
+          "파일명": "10-1.생연1동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 생연1동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-1.%EC%83%9D%EC%97%B01%EB%8F%99.pdf",
+          "크기": 813949,
+          "저장경로": "files/2026/경기도_동두천시/10-1.생연1동.pdf"
+        },
+        {
+          "파일명": "10-2.생연2동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 생연2동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-2.%EC%83%9D%EC%97%B02%EB%8F%99.pdf",
+          "크기": 853790,
+          "저장경로": "files/2026/경기도_동두천시/10-2.생연2동.pdf"
+        },
+        {
+          "파일명": "10-3.중앙동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 중앙동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-3.%EC%A4%91%EC%95%99%EB%8F%99.pdf",
+          "크기": 778797,
+          "저장경로": "files/2026/경기도_동두천시/10-3.중앙동.pdf"
+        },
+        {
+          "파일명": "10-4.보산동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 보산동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-4.%EB%B3%B4%EC%82%B0%EB%8F%99.pdf",
+          "크기": 738626,
+          "저장경로": "files/2026/경기도_동두천시/10-4.보산동.pdf"
+        },
+        {
+          "파일명": "10-5.불현동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 불현동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-5.%EB%B6%88%ED%98%84%EB%8F%99.pdf",
+          "크기": 1054499,
+          "저장경로": "files/2026/경기도_동두천시/10-5.불현동.pdf"
+        },
+        {
+          "파일명": "10-6.송내동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 송내동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-6.%EC%86%A1%EB%82%B4%EB%8F%99.pdf",
+          "크기": 815078,
+          "저장경로": "files/2026/경기도_동두천시/10-6.송내동.pdf"
+        },
+        {
+          "파일명": "10-7.소요동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 소요동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-7.%EC%86%8C%EC%9A%94%EB%8F%99.pdf",
+          "크기": 810019,
+          "저장경로": "files/2026/경기도_동두천시/10-7.소요동.pdf"
+        },
+        {
+          "파일명": "10-8.상패동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 상패동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/10-8.%EC%83%81%ED%8C%A8%EB%8F%99.pdf",
+          "크기": 819466,
+          "저장경로": "files/2026/경기도_동두천시/10-8.상패동.pdf"
+        },
+        {
+          "파일명": "11.의회사무과.pdf",
+          "설명": "세출 (본청) > 의회 > 의회사무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/11.%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": 1593788,
+          "저장경로": "files/2026/경기도_동두천시/11.의회사무과.pdf"
+        }
+      ],
+      "비고": "총괄 1·2권 + 본예산 현황(총칙·총괄표) 및 세입세출예산서 부서별 분할본 포함 71개 파일; 상·하수도사업특별회계는 zip(미압축 상태로 저장); 기금운용계획은 같은 페이지에 별도 파일로 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획서.pdf",
+          "설명": "2026년도 기금운용계획서",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2026%EB%85%84%EB%8F%84%20%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%EC%84%9C.pdf",
+          "크기": 2556410,
+          "저장경로": "files/2026/경기도_동두천시/2026년도 기금운용계획서.pdf"
+        }
+      ],
+      "비고": "재정공개(예산) 페이지 '예산 현황' 항목에 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 일반 및 특별회계 세입세출 제1회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2026_01_01.pdf",
+          "설명": "2026년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/1st/file2026_01_01.pdf",
+          "크기": 17790140,
+          "저장경로": "files/2026/경기도_동두천시/file2026_01_01.pdf"
+        },
+        {
+          "파일명": "file2026_01_02.pdf",
+          "설명": "2026년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/1st/file2026_01_02.pdf",
+          "크기": 39636417,
+          "저장경로": "files/2026/경기도_동두천시/file2026_01_02.pdf"
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 일반 및 특별회계 세입세출 제2회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2328",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2026_02_01.pdf",
+          "설명": "2026년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2nd/file2026_02_01.pdf",
+          "크기": 7415736,
+          "저장경로": "files/2026/경기도_동두천시/file2026_02_01.pdf"
+        },
+        {
+          "파일명": "file2026_02_02.pdf",
+          "설명": "2026년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2026/2nd/file2026_02_02.pdf",
+          "크기": 33520562,
+          "저장경로": "files/2026/경기도_동두천시/file2026_02_02.pdf"
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반 및 특별회계 본예산 세입세출 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2257_01.pdf",
+          "설명": "2025년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/file2257_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2257_02.pdf",
+          "설명": "2025년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/file2257_02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1.예산총칙.pdf",
+          "설명": "예산 총칙",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/1.%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "설명": "회계별 예산규모",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2.%ED%9A%8C%EA%B3%84%EB%B3%84%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "설명": "세입 총괄(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3.%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-1.세입일반.pdf",
+          "설명": "세입 총괄(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3-1.%EC%84%B8%EC%9E%85%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-2.세입공기업.pdf",
+          "설명": "세입 총괄(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3-2.%EC%84%B8%EC%9E%85%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-3.세입기타.pdf",
+          "설명": "세입 총괄(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3-3.%EC%84%B8%EC%9E%85%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.기능별세출총괄.pdf",
+          "설명": "기능별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4.%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-1.기능별일반.pdf",
+          "설명": "기능별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-1.%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-2.기능별공기업.pdf",
+          "설명": "기능별세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-2.%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-3.기능별기타.pdf",
+          "설명": "기능별세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-3.%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.조직별세출총괄.pdf",
+          "설명": "조직별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5.%EC%A1%B0%EC%A7%81%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-1.조직별일반.pdf",
+          "설명": "조직별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-1.%EC%A1%B0%EC%A7%81%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-2.조직별공기업.pdf",
+          "설명": "조직별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-2.%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-3.조직별기타.pdf",
+          "설명": "조직별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-3.%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.성질별세출총괄.pdf",
+          "설명": "성질별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6.%EC%84%B1%EC%A7%88%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-1.성질별일반.pdf",
+          "설명": "성질별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-1.%EC%84%B1%EC%A7%88%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-2.성질별공기업.pdf",
+          "설명": "성질별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-2.%EC%84%B1%EC%A7%88%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-3.성질별기타.pdf",
+          "설명": "성질별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-3.%EC%84%B1%EC%A7%88%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산서일반.pdf",
+          "설명": "세입예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7.%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산서일반.pdf",
+          "설명": "세출예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/8.%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1.일반회계세입.pdf",
+          "설명": "세입 > 일반",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/1.%EC%9D%BC%EB%B0%98%ED%9A%8C%EA%B3%84%EC%84%B8%EC%9E%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-1.세입(의료급여).pdf",
+          "설명": "세입 > 의료급여",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2-1.%EC%84%B8%EC%9E%85%28%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-2.세입(주차장).pdf",
+          "설명": "세입 > 주차장",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2-2.%EC%84%B8%EC%9E%85%28%EC%A3%BC%EC%B0%A8%EC%9E%A5%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-3.세입(도시재생).pdf",
+          "설명": "세입 > 도시재생",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2-3.%EC%84%B8%EC%9E%85%28%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-4.세입(토지구획).pdf",
+          "설명": "세입 > 토지구획",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2-4.%EC%84%B8%EC%9E%85%28%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-5.세입(발전소).pdf",
+          "설명": "세입 > 발전소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2-5.%EC%84%B8%EC%9E%85%28%EB%B0%9C%EC%A0%84%EC%86%8C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-1.기획감사담당관.pdf",
+          "설명": "세출 (본청) > 기획감사담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3-1.%EA%B8%B0%ED%9A%8D%EA%B0%90%EC%82%AC%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-2.홍보미래담당관.pdf",
+          "설명": "세출 (본청) > 홍보미래담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3-2.%ED%99%8D%EB%B3%B4%EB%AF%B8%EB%9E%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-1.자치행정과.pdf",
+          "설명": "세출 (본청) > 자치행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-1.%EC%9E%90%EC%B9%98%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-2.세무과.pdf",
+          "설명": "세출 (본청) > 세무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-2.%EC%84%B8%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-3.회계과.pdf",
+          "설명": "세출 (본청) > 회계과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-3.%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-4.민원봉사과.pdf",
+          "설명": "세출 (본청) > 민원봉사과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-4.%EB%AF%BC%EC%9B%90%EB%B4%89%EC%82%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-5.정보통신과.pdf",
+          "설명": "세출 (본청) > 정보통신과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/4-5.%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-1-1.복지정책과.pdf",
+          "설명": "세출 (본청) > 복지정책과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-1-1.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-1-2.복지정책과_특별.pdf",
+          "설명": "세출 (본청) > 복지정책과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-1-2.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-2.사회복지과.pdf",
+          "설명": "세출 (본청) > 사회복지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-2.%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-3.가족지원과.pdf",
+          "설명": "세출 (본청) > 가족지원과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-3.%EA%B0%80%EC%A1%B1%EC%A7%80%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-4.문화예술과.pdf",
+          "설명": "세출 (본청) > 문화예술과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-4.%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-5.체육관광과.pdf",
+          "설명": "세출 (본청) > 체육관광과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/5-5.%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-1.일자리경제과.pdf",
+          "설명": "세출 (본청) > 일자리경제과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-1.%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-2.환경보호과.pdf",
+          "설명": "세출 (본청) > 환경보호과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-2.%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-3.농업축산위생과.pdf",
+          "설명": "세출 (본청) > 농업축산위생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-3.%EB%86%8D%EC%97%85%EC%B6%95%EC%82%B0%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-4.공원녹지과.pdf",
+          "설명": "세출 (본청) > 공원녹지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/6-4.%EA%B3%B5%EC%9B%90%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-1.안전총괄과.pdf",
+          "설명": "세출 (본청) > 안전총괄과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-1.%EC%95%88%EC%A0%84%EC%B4%9D%EA%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-2-1.교통행정과.pdf",
+          "설명": "세출 (본청) > 교통행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-2-1.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-2-2.교통행정과_특별.pdf",
+          "설명": "세출 (본청) > 교통행정과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-2-2.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-3.도로과.pdf",
+          "설명": "세출 (본청) > 도로과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-3.%EB%8F%84%EB%A1%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-4-1.도시재생과.pdf",
+          "설명": "세출 (본청) > 도시재생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-4-1.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-4-2.도시재생과_도시재생.pdf",
+          "설명": "세출 (본청) > 도시재생과_도시재생",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-4-2.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-4-3.도시재생과_토지구획.pdf",
+          "설명": "세출 (본청) > 도시재생과_토지구획",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-4-3.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-5.건축과.pdf",
+          "설명": "세출 (본청) > 건축과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-5.%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-6-1.공공사업과.pdf",
+          "설명": "세출 (본청) > 공공사업과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-6-1.%EA%B3%B5%EA%B3%B5%EC%82%AC%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-6-2.공공사업과_특별.pdf",
+          "설명": "세출 (본청) > 공공사업과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/7-6-2.%EA%B3%B5%EA%B3%B5%EC%82%AC%EC%97%85%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8-1.보건행정과.pdf",
+          "설명": "세출 (본청) > 세출 (직속기관) > 보건행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/8-1.%EB%B3%B4%EA%B1%B4%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8-2.건강증진과.pdf",
+          "설명": "세출 (본청) > 세출 (직속기관) > 건강증진과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/8-2.%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업특별회계.zip",
+          "설명": "세출 (본청) > 세출 (사업소) > 상수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/%EC%83%81%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업특별회계.zip",
+          "설명": "세출 (본청) > 세출 (사업소) > 하수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/%ED%95%98%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9-1.시설사업소.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 시설사업소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/9-1.%EC%8B%9C%EC%84%A4%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9-2.도서문화사업소.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 도서문화사업소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/9-2.%EB%8F%84%EC%84%9C%EB%AC%B8%ED%99%94%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9-3.미래교육진흥원.pdf",
+          "설명": "세출 (본청) > 세출 (사업소) > 미래교육진흥원",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/9-3.%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EC%A7%84%ED%9D%A5%EC%9B%90.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-1.생연1동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 생연1동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-1.%EC%83%9D%EC%97%B01%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-2.생연2동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 생연2동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-2.%EC%83%9D%EC%97%B02%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-3.중앙동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 중앙동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-3.%EC%A4%91%EC%95%99%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-4.보산동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 보산동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-4.%EB%B3%B4%EC%82%B0%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-5.불현동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 불현동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-5.%EB%B6%88%ED%98%84%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-6.송내동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 송내동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-6.%EC%86%A1%EB%82%B4%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-7.소요동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 소요동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-7.%EC%86%8C%EC%9A%94%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-8.상패동.pdf",
+          "설명": "세출 (본청) > 세출 (동행정복지센터) > 상패동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/10-8.%EC%83%81%ED%8C%A8%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11.의회사무과.pdf",
+          "설명": "세출 (본청) > 의회 > 의회사무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/11.%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1·2권 + 본예산 현황(총칙·총괄표) 및 세입세출예산서 부서별 분할본 포함 71개 파일; 상·하수도사업특별회계는 zip(미압축 상태로 저장); 기금운용계획은 같은 페이지에 별도 파일로 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도_기금운용계획서.pdf",
+          "설명": "2025년도 기금운용계획서",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2025%EB%85%84%EB%8F%84_%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공개(예산) 페이지 '예산 현황' 항목에 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제1회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2025_01_01.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/1st/file2025_01_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2025_01_02.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/1st/file2025_01_02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제2회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2025_02_01.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2nd/file2025_02_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2025_02_02.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/2nd/file2025_02_02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제3회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2257",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2025_03_01.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제3회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3rd/file2025_03_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2025_03_02.pdf",
+          "설명": "2025년도 일반 및 특별회계 세입세출 제3회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2025/3rd/file2025_03_02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 본예산 세입세출 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2104_01.pdf",
+          "설명": "2024년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/file2104_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2104_02.pdf",
+          "설명": "2024년도 일반 및 특별회계 본예산 세입세출 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/file2104_02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1.예산총칙.pdf",
+          "설명": "예산 총칙",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/1.%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2.회계별예산규모.pdf",
+          "설명": "회계별 예산규모",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2.%ED%9A%8C%EA%B3%84%EB%B3%84%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3.세입총괄표.pdf",
+          "설명": "세입 총괄(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3.%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-1세입일반.pdf",
+          "설명": "세입 총괄(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3-1%EC%84%B8%EC%9E%85%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-2세입공기업.pdf",
+          "설명": "세입 총괄(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3-2%EC%84%B8%EC%9E%85%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-3세입기타.pdf",
+          "설명": "세입 총괄(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3-3%EC%84%B8%EC%9E%85%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4.기능별세출총괄.pdf",
+          "설명": "기능별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/4.%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-1기능별일반.pdf",
+          "설명": "기능별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/4-1%EA%B8%B0%EB%8A%A5%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-2기능별공기업.pdf",
+          "설명": "기능별세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/4-2%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-3기능별기타.pdf",
+          "설명": "기능별세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/4-3%EA%B8%B0%EB%8A%A5%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5.조직별세출총괄.pdf",
+          "설명": "조직별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5.%EC%A1%B0%EC%A7%81%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-1조직별일반.pdf",
+          "설명": "조직별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-1%EC%A1%B0%EC%A7%81%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-2조직별공기업.pdf",
+          "설명": "조직별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-2%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-3조직별기타.pdf",
+          "설명": "조직별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-3%EC%A1%B0%EC%A7%81%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6.성질별세출총괄.pdf",
+          "설명": "성질별 세출(전체)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6.%EC%84%B1%EC%A7%88%EB%B3%84%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-1성질별일반.pdf",
+          "설명": "성질별 세출(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-1%EC%84%B1%EC%A7%88%EB%B3%84%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-2성질별공기업.pdf",
+          "설명": "성질별 세출(공기업)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-2%EC%84%B1%EC%A7%88%EB%B3%84%EA%B3%B5%EA%B8%B0%EC%97%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-3성질별기타.pdf",
+          "설명": "성질별 세출(기타)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-3%EC%84%B1%EC%A7%88%EB%B3%84%EA%B8%B0%ED%83%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7.세입예산서일반.pdf",
+          "설명": "세입예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7.%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8.세출예산서일반.pdf",
+          "설명": "세출예산서(일반)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/8.%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%EC%9D%BC%EB%B0%98.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1.일반회계세입.pdf",
+          "설명": "세입 > 일반",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/1.%EC%9D%BC%EB%B0%98%ED%9A%8C%EA%B3%84%EC%84%B8%EC%9E%85.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-1세입(의료급여).pdf",
+          "설명": "세입 > 의료급여",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2-1%EC%84%B8%EC%9E%85%28%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-2세입(주차장).pdf",
+          "설명": "세입 > 주차장",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2-2%EC%84%B8%EC%9E%85%28%EC%A3%BC%EC%B0%A8%EC%9E%A5%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-3세입(도시재생).pdf",
+          "설명": "세입 > 도시재생",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2-3%EC%84%B8%EC%9E%85%28%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-4세입(토지구획).pdf",
+          "설명": "세입 > 토지구획",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2-4%EC%84%B8%EC%9E%85%28%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2-5세입(발전소).pdf",
+          "설명": "세입 > 발전소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2-5%EC%84%B8%EC%9E%85%28%EB%B0%9C%EC%A0%84%EC%86%8C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3-1.기획감사담당관.pdf",
+          "설명": "세출 > 본청 > 기획감사담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3-1.%EA%B8%B0%ED%9A%8D%EA%B0%90%EC%82%AC%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4-1.홍보미래전략담당관.pdf",
+          "설명": "세출 > 본청 > 홍보미래전략담당관",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/4-1.%ED%99%8D%EB%B3%B4%EB%AF%B8%EB%9E%98%EC%A0%84%EB%9E%B5%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-1.자치행정과.pdf",
+          "설명": "세출 > 본청 > 자치행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-1.%EC%9E%90%EC%B9%98%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-2-1.복지정책과.pdf",
+          "설명": "세출 > 본청 > 복지정책과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-2-1.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-2-2.복지정책과_특별.pdf",
+          "설명": "세출 > 본청 > 복지정책과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-2-2.%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-3.사회복지과.pdf",
+          "설명": "세출 > 본청 > 사회복지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-3.%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-4.여성청소년과.pdf",
+          "설명": "세출 > 본청 > 여성청소년과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-4.%EC%97%AC%EC%84%B1%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-5.세무과.pdf",
+          "설명": "세출 > 본청 > 세무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-5.%EC%84%B8%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-6.회계과.pdf",
+          "설명": "세출 > 본청 > 회계과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-6.%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5-7.민원봉사과.pdf",
+          "설명": "세출 > 본청 > 민원봉사과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/5-7.%EB%AF%BC%EC%9B%90%EB%B4%89%EC%82%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-1.일자리경제과.pdf",
+          "설명": "세출 > 본청 > 일자리경제과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-1.%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-2.문화체육과.pdf",
+          "설명": "세출 > 본청 > 문화체육과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-2.%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-3.관광휴양과.pdf",
+          "설명": "세출 > 본청 > 관광휴양과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-3.%EA%B4%80%EA%B4%91%ED%9C%B4%EC%96%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-4.환경보호과.pdf",
+          "설명": "세출 > 본청 > 환경보호과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-4.%ED%99%98%EA%B2%BD%EB%B3%B4%ED%98%B8%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-5.정보통신과.pdf",
+          "설명": "세출 > 본청 > 정보통신과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-5.%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6-6.농업축산위생과.pdf",
+          "설명": "세출 > 본청 > 농업축산위생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/6-6.%EB%86%8D%EC%97%85%EC%B6%95%EC%82%B0%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-1.안전총괄과.pdf",
+          "설명": "세출 > 본청 > 안전총괄과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-1.%EC%95%88%EC%A0%84%EC%B4%9D%EA%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-2-1.교통행정과.pdf",
+          "설명": "세출 > 본청 > 교통행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-2-1.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-2-2.교통행정과_특별.pdf",
+          "설명": "세출 > 본청 > 교통행정과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-2-2.%EA%B5%90%ED%86%B5%ED%96%89%EC%A0%95%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-3.공원녹지과.pdf",
+          "설명": "세출 > 본청 > 공원녹지과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-3.%EA%B3%B5%EC%9B%90%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-4.도로과.pdf",
+          "설명": "세출 > 본청 > 도로과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-4.%EB%8F%84%EB%A1%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-5-1.도시재생과.pdf",
+          "설명": "세출 > 본청 > 도시재생과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-5-1.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-5-2.도시재생과_도시재생.pdf",
+          "설명": "세출 > 본청 > 도시재생(특별)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-5-2.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-5-3.도시재생과_토지구획.pdf",
+          "설명": "세출 > 본청 > 토지구획(특별)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-5-3.%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%EA%B3%BC_%ED%86%A0%EC%A7%80%EA%B5%AC%ED%9A%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-6.건축과.pdf",
+          "설명": "세출 > 본청 > 건축과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-6.%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-7-1.투자개발과.pdf",
+          "설명": "세출 > 본청 > 투자개발과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-7-1.%ED%88%AC%EC%9E%90%EA%B0%9C%EB%B0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7-7-2.투자개발과_특별.pdf",
+          "설명": "세출 > 본청 > 투자개발과_특별",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/7-7-2.%ED%88%AC%EC%9E%90%EA%B0%9C%EB%B0%9C%EA%B3%BC_%ED%8A%B9%EB%B3%84.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8-1.보건행정과.pdf",
+          "설명": "세출 > 직속기관 > 보건행정과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/8-1.%EB%B3%B4%EA%B1%B4%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "8-2.건강증진과.pdf",
+          "설명": "세출 > 직속기관 > 건강증진과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/8-2.%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "상수도사업특별회계.zip",
+          "설명": "세출 > 사업소 > 상수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/%EC%83%81%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "하수도사업특별회계.zip",
+          "설명": "세출 > 사업소 > 하수도사업특별회계",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/%ED%95%98%EC%88%98%EB%8F%84%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.zip",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9-1.시설사업소.pdf",
+          "설명": "세출 > 사업소 > 시설사업소",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/9-1.%EC%8B%9C%EC%84%A4%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "9-2.평생교육원.pdf",
+          "설명": "세출 > 사업소 > 평생교육원",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/9-2.%ED%8F%89%EC%83%9D%EA%B5%90%EC%9C%A1%EC%9B%90.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-1.생연1동.pdf",
+          "설명": "세출 > 동행정복지센터 > 생연1동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-1.%EC%83%9D%EC%97%B01%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-2.생연2동.pdf",
+          "설명": "세출 > 동행정복지센터 > 생연2동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-2.%EC%83%9D%EC%97%B02%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-3.중앙동.pdf",
+          "설명": "세출 > 동행정복지센터 > 중앙동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-3.%EC%A4%91%EC%95%99%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-4.보산동.pdf",
+          "설명": "세출 > 동행정복지센터 > 보산동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-4.%EB%B3%B4%EC%82%B0%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-5.불현동.pdf",
+          "설명": "세출 > 동행정복지센터 > 불현동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-5.%EB%B6%88%ED%98%84%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-6.송내동.pdf",
+          "설명": "세출 > 동행정복지센터 > 송내동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-6.%EC%86%A1%EB%82%B4%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-7.소요동.pdf",
+          "설명": "세출 > 동행정복지센터 > 소요동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-7.%EC%86%8C%EC%9A%94%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "10-8.상패동.pdf",
+          "설명": "세출 > 동행정복지센터 > 상패동",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/10-8.%EC%83%81%ED%8C%A8%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "11-1.의회사무과.pdf",
+          "설명": "세출 > 의회 > 의회사무과",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/11-1.%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1·2권 + 본예산 현황(총칙·총괄표) 및 세입세출예산서 부서별 분할본 포함 70개 파일; 상·하수도사업특별회계는 zip(미압축 상태로 저장); 기금운용계획은 같은 페이지에 별도 파일로 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도_기금운용계획서.pdf",
+          "설명": "2024년도 기금운용계획서",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2024%EB%85%84%EB%8F%84_%EA%B8%B0%EA%B8%88%EC%9A%B4%EC%9A%A9%EA%B3%84%ED%9A%8D%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공개(예산) 페이지 '예산 현황' 항목에 게시 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제1회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2024_01_01n.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/1st/file2024_01_01n.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2024_01_02n.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제1회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/1st/file2024_01_02n.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제2회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2024_02_01.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2nd/file2024_02_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2024_02_02.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제2회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/2nd/file2024_02_02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제3회 추경 예산서",
+      "게시판URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "게시물URL": "https://www.ddc.go.kr/ddc/contents.do?key=2104",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "file2024_03_01.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제3회 추경 예산서(총괄 1권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3rd/file2024_03_01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "file2024_03_02.pdf",
+          "설명": "2024년도 일반 및 특별회계 세입세출 제3회 추경 예산서(총괄 2권)",
+          "다운로드URL": "https://www.ddc.go.kr/site/ddc/download/file_2024/3rd/file2024_03_02.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "총괄 1권·2권 분할 (연도별 콘텐츠 페이지, 등록일 표시 없음)"
+    }
+  ],
+  "비고": "연도별 '재정공개(예산)' 콘텐츠 페이지에 본예산·기금운용계획·회차별 추경을 함께 게시(게시물 단위 URL·등록일 없음). 2026년 추경은 제2회까지 게시(2026-10-05 기준). 성인지예산서·성과계획서·중기지방재정계획도 같은 페이지에 있으나 수집 대상 외라 제외. 2024·2025년 파일 크기 미확인(null)."
+}
