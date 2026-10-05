@@ -76,5 +76,5 @@
       "비고": "미확인 - www.yeoju.go.kr 접속 불가(연결 리셋/egress 프록시 upstream 실패, curl·python·Chromium·WebFetch 모두 실패)로 게시물 확인 못 함"
     }
   ],
-  "비고": "작업 시점(2026-10-05) 내내 www.yeoju.go.kr, m.yeoju.go.kr, 여주시의회(www.yeojucouncil.go.kr) 모두 TLS 단계에서 연결이 끊김(프록시 status: ws_closed_mid_exchange / 'upstream request failed'). WebFetch는 EGRESS_BLOCKED. 따라서 2024~2026 본예산·기금운용계획·추경 게시물 모두 미확인, 2026 파일 다운로드 못 함. 게시판 위치(예산서공개 yaesan_list.jsp)는 웹검색 결과로만 확인. 언론 보도상 2026년 제2회 추경안이 2026-08 말 의회 제출됨(제1회 추경도 존재) — 게시물 자체는 미확인. 지방재정365 지자체 페이지(pb.lofin365.go.kr/YEOJU)는 접속되나 주민참여예산 전용으로 예산서 없음. 네트워크 복구 후 재수집 필요."
+  "비고": "작업 시점(2026-10-05) 내내 www.yeoju.go.kr, m.yeoju.go.kr, 여주시의회(www.yeojucouncil.go.kr) 모두 TLS 단계에서 연결이 끊김(프록시 status: ws_closed_mid_exchange / 'upstream request failed'). WebFetch는 EGRESS_BLOCKED. 따라서 2024~2026 본예산·기금운용계획·추경 게시물 모두 미확인, 2026 파일 다운로드 못 함. 게시판 위치(예산서공개 yaesan_list.jsp)는 웹검색 결과로만 확인. 언론 보도상 2026년 제2회 추경안이 2026-08 말 의회 제출됨(제1회 추경도 존재) — 게시물 자체는 미확인. 지방재정365 지자체 페이지(pb.lofin365.go.kr/YEOJU)는 접속되나 주민참여예산 전용으로 예산서 없음. 네트워크 복구 후 재수집 필요. [재시도 2026-10-05 15:28·15:34·15:35·15:38·15:40 UTC] www.yeoju.go.kr 5회 모두 curl (35) Connection reset by peer — 여전히 접속 불가, 변경 없음."
 }

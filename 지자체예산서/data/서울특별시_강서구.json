@@ -4,8 +4,12 @@
   "홈페이지": "https://www.gangseo.seoul.kr",
   "게시판": [
     {
-      "이름": "재정정보 > 예산총괄 (웹검색으로만 확인, 미접속)",
-      "URL": "https://www.gangseo.seoul.kr/gs030012"
+      "이름": "행정정보 > 재정정보 > 재정공시방",
+      "URL": "https://www.gangseo.seoul.kr/gs030409"
+    },
+    {
+      "이름": "행정정보 > 재정정보 > 예산총괄(연도별 페이지, 2026년)",
+      "URL": "https://www.gangseo.seoul.kr/gs030424"
     }
   ],
   "게시물": [
@@ -13,101 +17,193 @@
       "연도": 2026,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": "https://www.gangseo.seoul.kr/gs030012",
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 웹검색 결과상 \"2026년 - 예산총괄 - 재정정보 - 행정정보\"(https://www.gangseo.seoul.kr/gs030012) 페이지에 세입·세출예산서 PDF 다운로드 링크가 있다고 나오나 직접 확인 못함."
+      "제목": "2026년도 사업예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/316862",
+      "등록일": "2026-01-21",
+      "첨부파일": [
+        {
+          "파일명": "★★ 2026년도 사업예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=jmPjQc0qZwDMJn8N6nsi4g%3d%3d&fileTy=ATTACH&fileNo=COx0I9e1tbTdWURuBNtCvg%3d%3d",
+          "크기": 5088920,
+          "저장경로": "files/2026/서울특별시_강서구/★★ 2026년도 사업예산서.pdf"
+        }
+      ],
+      "비고": "재정공시방 게시물. 명칭은 '사업예산서'이나 제1권 세입·세출예산서 포함(본예산서). 기금운용계획은 별도 게시물. 같은 PDF가 '재정정보>예산총괄>2026년'(https://www.gangseo.seoul.kr/gs030424) 페이지의 '세입·세출예산서 PDF 다운' 링크로도 제공(등록일 표시 없음). 예산총괄 페이지 PDF와 MD5 동일(서버 파일명 '★★ 2026년도 세입·세출예산서.pdf') — 1개만 저장. 777쪽."
     },
     {
       "연도": 2026,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가."
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/316904",
+      "등록일": "2026-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 기금운용계획서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=JEZyB2QV9G4TZQj*FH0Nog%3d%3d&fileTy=ATTACH&fileNo=gy1Ws39P5KC6zCSEOqUxvQ%3d%3d",
+          "크기": 1345744,
+          "저장경로": "files/2026/서울특별시_강서구/2026년도 기금운용계획서.pdf"
+        }
+      ],
+      "비고": "167쪽."
     },
     {
       "연도": 2026,
       "구분": "추경",
-      "회차": null,
+      "회차": 1,
       "제목": null,
-      "게시판URL": null,
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
       "게시물URL": null,
       "등록일": null,
       "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 회차 수도 확인 불가."
+      "비고": "미확인 — 언론보도상 2026년도 제1회 세입·세출 추가경정예산안이 구의회 예결위에서 심사·확정됨(세입 1조6,080억원 규모, 예: https://www.nspna.com/country/?mode=view&newsid=829657). 그러나 2026-10-05 기준 홈페이지 재정공시방(최신 게시물 2026-02-27)과 예산총괄 페이지에 2026년 추경예산서 게시 없음, 사이트 통합검색 결과 0건, 구의회 의안검색에서도 확인 못함. 다운로드 못함."
     },
     {
       "연도": 2025,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 웹검색 결과상 재정정보 > 예산총괄 메뉴에 연도별 예산서가 있는 것으로 보이나 직접 확인 못함."
+      "제목": "2025년도 사업예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/306525",
+      "등록일": "2025-01-13",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년 세입세출예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=6wYAeXX8lS%5eYj2WyBxyZiA%3d%3d&fileTy=ATTACH&fileNo=BqgmH6cucR1FVHRQpAvqhA%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시방 게시물. 명칭은 '사업예산서'이나 제1권 세입·세출예산서 포함(본예산서). 기금운용계획은 별도 게시물. 같은 PDF가 '재정정보>예산총괄>2025년'(https://www.gangseo.seoul.kr/gs030422) 페이지의 '세입·세출예산서 PDF 다운' 링크로도 제공(등록일 표시 없음).  첨부 크기 게시판 표시 4 MB(바이트 미확인)."
     },
     {
       "연도": 2025,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가."
+      "제목": "2025년도 기금운용계획",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/306522",
+      "등록일": "2025-01-13",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=5bdtv*z3Qe54l5HGdjVpQw%3d%3d&fileTy=ATTACH&fileNo=gSAxJBcukMIdyCIAQ0vcKw%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "첨부 크기 게시판 표시 1 MB(바이트 미확인)."
     },
     {
       "연도": 2025,
       "구분": "추경",
-      "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 회차 수도 확인 불가."
+      "회차": 1,
+      "제목": "2025년도 제1회 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/309169",
+      "등록일": "2025-04-24",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=iUuXNtvo9HoHbUZVXM95kw%3d%3d&fileTy=ATTACH&fileNo=06R8HP1DXzaoUPFUuDUn2g%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "첨부 크기 게시판 표시 849 KB(바이트 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/311055",
+      "등록일": "2025-07-03",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제2회 세입세출추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=*ZTxtFuOkC59PFOAnRAFrg%3d%3d&fileTy=ATTACH&fileNo=Eo1OSwrN8pMtWsIUP5NBmA%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "첨부 크기 게시판 표시 2 MB(바이트 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 세입·세출 추가경정예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/313325",
+      "등록일": "2025-09-25",
+      "첨부파일": [
+        {
+          "파일명": "◈ 2025년도 제3회 추경예산서_공시.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=pRya0JdsYALbJod%5e2ddeVg%3d%3d&fileTy=ATTACH&fileNo=H2QTN7xwZ1fwoirnZ22ekg%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "첨부 크기 게시판 표시 1 MB(바이트 미확인)."
     },
     {
       "연도": 2024,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 웹검색 결과상 재정정보 > 예산총괄 메뉴에 연도별 예산서가 있는 것으로 보이나 직접 확인 못함."
+      "제목": "2024년도 사업예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/296124",
+      "등록일": "2024-01-11",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=9Eh3bzlHbPEg*URIbWHkYw%3d%3d&fileTy=ATTACH&fileNo=9ULKs*zW%5erpkT2nFD1x%5eww%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "재정공시방 게시물. 명칭은 '사업예산서'이나 제1권 세입·세출예산서 포함(본예산서). 기금운용계획은 별도 게시물. 같은 PDF가 '재정정보>예산총괄>2024년'(https://www.gangseo.seoul.kr/gs030421) 페이지의 '세입·세출예산서 PDF 다운' 링크로도 제공(등록일 표시 없음).  첨부 크기 게시판 표시 4 MB(바이트 미확인)."
     },
     {
       "연도": 2024,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가."
+      "제목": "2024년도 기금운용계획",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/296123",
+      "등록일": "2024-01-11",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 기금운용계획.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=02BDApg%5eYSt5jm5ea6VTpA%3d%3d&fileTy=ATTACH&fileNo=ntFcllxwlyHGrT1%5e3dy2AQ%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "첨부 크기 게시판 표시 697 KB(바이트 미확인)."
     },
     {
       "연도": 2024,
       "구분": "추경",
-      "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인 — www.gangseo.seoul.kr 접속이 이 환경의 egress 프록시 정책으로 차단됨(CONNECT 403, WebFetch도 EGRESS_BLOCKED). gangseo.go.kr 도메인은 연결 거부. 게시물·첨부 확인 및 다운로드 불가. 회차 수도 확인 불가."
+      "회차": 1,
+      "제목": "2024년도 제1회 세입·세출 추가경졍예산서",
+      "게시판URL": "https://www.gangseo.seoul.kr/gs030409",
+      "게시물URL": "https://www.gangseo.seoul.kr/gs030409/301172",
+      "등록일": "2024-07-10",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.gangseo.seoul.kr/comm/getFile?srvcId=BBSTY1&upperNo=mweRAJaZgbm7aiK0P5UreQ%3d%3d&fileTy=ATTACH&fileNo=d9W4WRPuJU9YNEKHP0*8yg%3d%3d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "제목 원문 오타('추가경졍') 그대로. 재정공시방에 2024년 제2회 이후 추경 게시물 없음(미확인). 첨부 크기 게시판 표시 1 MB(바이트 미확인)."
     }
   ],
-  "비고": "강서구 홈페이지는 .seoul.kr 도메인이라 이 환경의 네트워크 정책(*.go.kr만 허용)에 막혀 전 항목 미확인. 서울재정포털(openfinance.seoul.go.kr/gangseo)은 세입세출 현황 데이터만 제공하고 예산서 파일은 없는 것으로 보임. 접속 가능한 환경에서 재수집 필요."
+  "비고": "2026-10-05 www.gangseo.seoul.kr 접속 가능 확인(이전 프록시 차단) 후 재수집. 예산서·기금운용계획·추경은 재정공시방 게시판에 게시. 첨부 다운로드URL(/comm/getFile?...upperNo=...&fileNo=...)은 페이지 렌더링마다 암호화 토큰이 바뀌는 형태로, 고정 링크가 아닐 수 있음(게시물URL에서 재취득 권장). 연결이 간헐적으로 Connection reset 되어 재시도 필요. 2026년 추경은 홈페이지 미게시로 미확인."
 }

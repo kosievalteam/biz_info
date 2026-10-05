@@ -2,107 +2,251 @@
   "시도": "서울특별시",
   "지자체": "노원구",
   "홈페이지": "https://www.nowon.kr",
-  "게시판": [],
+  "게시판": [
+    {
+      "이름": "열린행정 > 예산/결산 > 노원구예산현황",
+      "URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp"
+    },
+    {
+      "이름": "노원구 e-book 자료홍보관 > 업무용책자 > 노원예산",
+      "URL": "https://ebook.nowon.kr/home/list.php?code=1216"
+    }
+  ],
   "게시물": [
     {
       "연도": 2026,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2026년 예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20260113_144342/",
+      "등록일": "2026-01-13",
+      "첨부파일": [
+        {
+          "파일명": "1.2026년 예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1656&resrceVer=1&fileSn=1",
+          "크기": 6777148,
+          "저장경로": "files/2026/서울특별시_노원구/1.2026년 예산서.pdf"
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일. 906쪽. 기금운용계획은 별도 문서(기금운용계획안)로 게시."
     },
     {
       "연도": 2026,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2026년 기금운용계획안",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20260113_173549/",
+      "등록일": "2026-01-13",
+      "첨부파일": [
+        {
+          "파일명": "3.2026년 기금운용계획안.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1654&resrceVer=1&fileSn=1",
+          "크기": 1956101,
+          "저장경로": "files/2026/서울특별시_노원구/3.2026년 기금운용계획안.pdf"
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일. 홈페이지 표기는 '기금운용계획안'(e-book 제목은 '2026년 기금운용계획서'). 다운로드 PDF 177쪽."
     },
     {
       "연도": 2026,
       "구분": "추경",
-      "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "회차": 1,
+      "제목": "2026년 제1회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20260331_092347/",
+      "등록일": "2026-03-31",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1714&resrceVer=1&fileSn=1",
+          "크기": 24753483,
+          "저장경로": "files/2026/서울특별시_노원구/2026년 제1회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20260617_151906/",
+      "등록일": "2026-06-17",
+      "첨부파일": [
+        {
+          "파일명": "(최종)2026년 제2회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1740&resrceVer=1&fileSn=1",
+          "크기": 986123,
+          "저장경로": "files/2026/서울특별시_노원구/(최종)2026년 제2회 추가경정 예산서.pdf"
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 제3회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20260909_131731/",
+      "등록일": "2026-09-09",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1772&resrceVer=1&fileSn=1",
+          "크기": 4763079,
+          "저장경로": "files/2026/서울특별시_노원구/2026년 제3회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
     },
     {
       "연도": 2025,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2025년 노원구 사업예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20250103_131840/",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "3_2025년 노원구 사업예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1488&resrceVer=1&fileSn=1",
+          "크기": 7677545,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일. 2025년은 '예산서' 명칭 문서가 없고 '노원구 사업예산서'(e-book 880쪽)가 본예산서 역할로 게시됨. 기금운용계획서는 별도 게시."
     },
     {
       "연도": 2025,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2025년 기금운용계획서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20250106_163126/",
+      "등록일": "2025-01-06",
+      "첨부파일": [
+        {
+          "파일명": "5_2025년 기금운용계획서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1490&resrceVer=1&fileSn=1",
+          "크기": 782501,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
     },
     {
       "연도": 2025,
       "구분": "추경",
-      "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20250429_163436/",
+      "등록일": "2025-04-29",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 추가경정예산서_웹용.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1542&resrceVer=1&fileSn=1",
+          "크기": 31906681,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20250909_134340/",
+      "등록일": "2025-09-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년 2회 추가경정예산서(홈페이지).pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1618&resrceVer=1&fileSn=1",
+          "크기": 45670009,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
     },
     {
       "연도": 2024,
       "구분": "본예산",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2024년 노원구 사업예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20240118_095027/",
+      "등록일": "2024-01-18",
+      "첨부파일": [
+        {
+          "파일명": "2024년 노원구 사업예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1324&resrceVer=1&fileSn=1",
+          "크기": 5751534,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일. 2024년도 '사업예산서' 명칭으로 게시(본예산서 역할). 기금운용계획서는 별도 게시."
     },
     {
       "연도": 2024,
       "구분": "기금운용계획",
       "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "제목": "2024년 기금운용계획서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20240118_105751/",
+      "등록일": "2024-01-18",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1323&resrceVer=1&fileSn=1",
+          "크기": 786574,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
     },
     {
       "연도": 2024,
       "구분": "추경",
-      "회차": null,
-      "제목": null,
-      "게시판URL": null,
-      "게시물URL": null,
-      "등록일": null,
-      "첨부파일": [],
-      "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가."
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20240510_145241/",
+      "등록일": "2024-05-10",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정 예산서 24.5.7.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1387&resrceVer=1&fileSn=1",
+          "크기": 977025,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추경예산서",
+      "게시판URL": "https://www.nowon.kr/www/administ/administ5/administ5_01.jsp",
+      "게시물URL": "https://ebook.nowon.kr/20250409_152252/",
+      "등록일": "2025-04-09",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추경예산서.pdf",
+          "다운로드URL": "https://www.nowon.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1540&resrceVer=1&fileSn=1",
+          "크기": 1618744,
+          "저장경로": null
+        }
+      ],
+      "비고": "홈페이지 '노원구예산현황' 페이지(게시판형 아님, 개별 게시물 상세 없음)의 PDF 다운로드 링크. 게시물URL은 해당 문서의 e-book 주소, 등록일은 노원구 e-book 자료홍보관(업무용책자>노원예산) 목록의 등록일. e-book 등록일이 2025-04-09로 늦게 게시됨(e-book 제목 '2024년 제2회 추경예산서')."
     }
   ],
-  "비고": "미확인: www.nowon.kr(및 ebook.nowon.kr) 접속이 이 환경의 egress 프록시에서 차단됨(CONNECT 403, 조직 정책). www.nowon.go.kr은 인증서 불일치로 TLS 검증 실패. 내용 확인·다운로드 불가. 참고(미검증 후보): 웹검색 결과 '열린행정 > 예산/결산 > 노원구예산현황' https://www.nowon.kr/www/administ/administ5/administ5_01.jsp, 서울시 재정포털(openfinance.seoul.go.kr)의 노원구 재정공시 링크 https://www.nowon.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1018, e-book 'https://ebook.nowon.kr/home/list.php?code=1216'(업무용책자 > 노원예산). 접속 허용 후 재수집 필요."
+  "비고": "2026-10-05 www.nowon.kr·ebook.nowon.kr 정상 접속 확인 후 재수집(이전 프록시 차단 자리표시자 대체). 노원구예산현황 페이지에 연도별 문서별 e-book/PDF 다운로드 링크가 정적으로 나열됨(등록일 표시 없음) → 등록일은 e-book 목록 기준. 2026년 본예산·기금운용계획안·제1~3회 추경 PDF 5개 다운로드 완료. 2024·2025년 본예산은 '노원구 사업예산서' 명칭. 성인지예산서·성과계획서·중기지방재정계획서도 같은 페이지에 있으나 대상 외라 미기록."
 }
