@@ -1,0 +1,342 @@
+{
+  "시도": "경기도",
+  "지자체": "양주시",
+  "홈페이지": "https://www.yangju.go.kr",
+  "게시판": [
+    {
+      "이름": "연도별예산서 (열린시정 > 재정정보 > 연도별예산서)",
+      "URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254"
+    },
+    {
+      "이름": "기금운용계획 (열린시정 > 재정정보 > 기금운용계획)",
+      "URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산서 게시",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=201222",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "★2026년 본예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=191965",
+          "크기": 7630611,
+          "저장경로": "files/2026/경기도_양주시/★2026년 본예산서.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=201211",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "★2026년 기금운용계획.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=191956",
+          "크기": 1019606,
+          "저장경로": "files/2026/경기도_양주시/★2026년 기금운용계획.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=203885",
+      "등록일": "2026-04-13",
+      "첨부파일": [
+        {
+          "파일명": "★2026년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=196530",
+          "크기": 3739226,
+          "저장경로": "files/2026/경기도_양주시/★2026년도 제1회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 기금운용계획 변경 2차",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=203886",
+      "등록일": "2026-04-13",
+      "첨부파일": [
+        {
+          "파일명": "★2026년 제2차 기금운용계획변경.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=196531",
+          "크기": 607281,
+          "저장경로": "files/2026/경기도_양주시/★2026년 제2차 기금운용계획변경.pdf"
+        }
+      ],
+      "비고": "기금운용계획 변경 2차; 같은 날 등록된 제1회 추경에 대응"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=204569",
+      "등록일": "2026-05-11",
+      "첨부파일": [
+        {
+          "파일명": "★2026년도 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=197707",
+          "크기": 830591,
+          "저장경로": "files/2026/경기도_양주시/★2026년도 제2회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산서 게시",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=187197",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 본예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=171543",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=187217",
+      "등록일": "2024-12-31",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 기금운용계획.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=171569",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=191638",
+      "등록일": "2025-06-09",
+      "첨부파일": [
+        {
+          "파일명": "★2025년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=179792",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 기금운용계획 변경 2차",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=191640",
+      "등록일": "2025-06-09",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 제2차 기금운용계획변경.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=179794",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경 2차; 같은 날 등록된 제1회 추경에 대응"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=199108",
+      "등록일": "2025-11-04",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년도 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=188631",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 기금운용계획 변경 4차",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=199120",
+      "등록일": "2025-11-04",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년 제4차 기금운용계획변경.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=188648",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경 4차; 같은 날 등록된 제2회 추경에 대응"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=201201",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년도 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=191946",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 기금운용계획 변경 5차",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=201210",
+      "등록일": "2025-12-30",
+      "첨부파일": [
+        {
+          "파일명": "★2025년 제5차 기금운용계획변경.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=191955",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경 5차; 같은 날 등록된 제3회 추경에 대응"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산서 게시",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=175358",
+      "등록일": "2023-12-26",
+      "첨부파일": [
+        {
+          "파일명": "2024년 본예산서(양주시).pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=146277",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=177274",
+      "등록일": "2024-02-22",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 기금운용계획.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=150159",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": null,
+      "제목": "2024년 기금운용계획 변경 1차",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=38&key=255",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=255&bbsNo=38&nttNo=180973",
+      "등록일": "2024-06-12",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 기금운용계획 변경1차.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=255&bbsNo=38&atchmnflNo=159868",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획 변경 1차; 대응 추경 회차는 같은 등록일 게시물이 없어 미확인"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=180400",
+      "등록일": "2024-05-28",
+      "첨부파일": [
+        {
+          "파일명": "★2024년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=158734",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정예산서",
+      "게시판URL": "https://www.yangju.go.kr/www/selectBbsNttList.do?bbsNo=37&key=254",
+      "게시물URL": "https://www.yangju.go.kr/www/selectBbsNttView.do?key=254&bbsNo=37&nttNo=186044",
+      "등록일": "2024-12-05",
+      "첨부파일": [
+        {
+          "파일명": "★2024년도 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.yangju.go.kr/www/downloadBbsFile.do?key=254&bbsNo=37&atchmnflNo=169725",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    }
+  ],
+  "비고": "기금운용계획은 별도 게시판. 기금운용계획 변경(차수) 게시물은 지침대로 구분 '추경'으로 기록하고, 같은 날 등록된 추경 회차를 회차로 기입(차수와 추경 회차는 다름). 2024년 제3회 추경, 2025·2024 일부 기금 변경 차수(예: 2025 변경 1·3차)는 게시판에서 확인되지 않음. 게시판에 첨부 크기 표시 없음(2024·2025 크기 null)."
+}

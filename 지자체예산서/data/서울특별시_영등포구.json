@@ -1,0 +1,215 @@
+{
+  "시도": "서울특별시",
+  "지자체": "영등포구",
+  "홈페이지": "https://www.ydp.go.kr",
+  "게시판": [
+    {
+      "이름": "예산공개 > 예산서",
+      "URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191"
+    },
+    {
+      "이름": "기금운용계획",
+      "URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=575&key=2802"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 영등포 예산 현황",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=409283&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도 사업 예산서.PDF",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=TTA5J5PYHFOMF6G5CNGWRAJLWVU4RDPA4OFVNTBFNCHSXBGWCJYA_AILO",
+          "크기": 5653902,
+          "저장경로": "files/2026/서울특별시_영등포구/2026년도 사업 예산서.PDF"
+        }
+      ],
+      "비고": "첨부: 2026년도 사업 예산서. 기금운용계획은 별도 게시판. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026 기금운용계획",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=575&key=2802",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=575&nttNo=409343&key=2802",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026 기금운용계획.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=575&atchmnflStr=DR74XVJ2ADVEJZGFUX7NBTBBX6H2JL7XWONLXMAALP5LH2M5ZQUQ_AILO",
+          "크기": 14998670,
+          "저장경로": "files/2026/서울특별시_영등포구/2026 기금운용계획.pdf"
+        }
+      ],
+      "비고": "게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": null,
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=409283&key=4191",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인 — 2026년 예산 현황 게시물에 추경 첨부 없음(2026-10-05 확인). 영등포구는 추경서를 해당 연도 예산 현황 게시물에 추가 첨부하는 방식."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 영등포 예산현황",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=394128&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 사업 예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=PB24NR46HGA2AZ2U7MTNCTLADAFB2AVW3LMFWUHOLR6JTZYUDNVQ_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025 기금운용계획",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=575&key=2802",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=575&nttNo=394160&key=2802",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년 기금운용계획.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=575&atchmnflStr=ZYMZ6SMIFT6G774EPYJ765MHCFU4RDPA4OFVNTBFNCHSXBGWCJYA_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=394128&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=KNIW5NERYNJQ5LYEWFWGW56RNXFXVWFJZEPWQSFPXN6CYVZECXPQ_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "\"2025년 영등포 예산현황\" 게시물의 첨부파일. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정예산서",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=394128&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=4B3O6ES4FL6QVBSVDBZLLSR4NZU4RDPA4OFVNTBFNCHSXBGWCJYA_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "\"2025년 영등포 예산현황\" 게시물의 첨부파일. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 추가경정예산서",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=394128&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=TODJ553DJ3R3CUPO5NHEKOQ7ZHFXVWFJZEPWQSFPXN6CYVZECXPQ_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "\"2025년 영등포 예산현황\" 게시물의 첨부파일. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 영등포 예산 현황",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=380636&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년도 사업 예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=IZYLDSXJEXSXQSWWXOWXF7ZO7JOF4NFVXV755JGTA3TIO56D2VPQ_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024 기금운용계획",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=575&key=2802",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=575&nttNo=380851&key=2802",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024 기금운용계획.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=575&atchmnflStr=BP4I2Y3FADWUI63ZWU7PQR4GDD47WROCZMW22GCUKGE7CMVYIUNA_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": null,
+      "제목": "2024년 추가경정예산서",
+      "게시판URL": "https://www.ydp.go.kr/www/selectBbsNttList.do?bbsNo=349&key=4191",
+      "게시물URL": "https://www.ydp.go.kr/www/selectBbsNttView.do?bbsNo=349&nttNo=380636&key=4191",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2024년 추가경정예산서.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=349&atchmnflStr=DZQEZ46T5VSTOPZEK3BHBOL4BAFB2AVW3LMFWUHOLR6JTZYUDNVQ_AILO",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기금운용계획 변경.pdf",
+          "다운로드URL": "https://www.ydp.go.kr/www/downloadBbsFileStr.do?bbsNo=575&atchmnflStr=37XCK6V6RYFGIHABKJEXDZMXCJU4RDPA4OFVNTBFNCHSXBGWCJYA_AILO",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "회차 표기 없음(파일명 \"2024년 추가경정예산서\", 1건만 게시). \"기금운용계획 변경.pdf\"는 기금운용계획 게시판 \"2024 기금운용계획\" 게시물에 첨부된 추경 시 변경안으로 여기에 함께 기록. 게시물 목록·상세에 등록일 표시 없음. 다운로드URL의 atchmnflStr 값은 요청마다 바뀌는 세션성 토큰."
+    }
+  ],
+  "비고": "연도별 \"영등포 예산 현황\" 게시물 하나에 사업 예산서와 추경서를 함께 첨부. 기금운용계획은 별도 게시판. 등록일은 게시판에 표시되지 않아 전부 null. 2024·2025 첨부 크기 미확인."
+}
