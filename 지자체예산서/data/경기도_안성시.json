@@ -1,0 +1,305 @@
+{
+  "시도": "경기도",
+  "지자체": "안성시",
+  "홈페이지": "https://www.anseong.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서",
+      "URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000"
+    },
+    {
+      "이름": "기금/성인지예산",
+      "URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 본예산 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_0.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 83개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024 기금운용계획",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": null,
+          "다운로드URL": "https://www.anseong.go.kr/cmm/fms/FileDown.do?atchFileId=8fdeca690450d4c82ddc0dd25779cd17b7c19701f2b2030a49302000ccb52546&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 139,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금/성인지예산 페이지의 연도별 표(게시판 아님)로 등록일 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 1회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_1.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 24개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 2회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_2.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 76개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 3회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_3.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 72개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년 4회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_4.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "4001_명시이월조서.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=4001_%EB%AA%85%EC%8B%9C%EC%9D%B4%EC%9B%94%EC%A1%B0%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4002_계속비이월조서.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=4002_%EA%B3%84%EC%86%8D%EB%B9%84%EC%9D%B4%EC%9B%94%EC%A1%B0%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 73개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_0.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 85개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025 기금운용계획",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": null,
+          "다운로드URL": "https://www.anseong.go.kr/cmm/fms/FileDown.do?atchFileId=2d636d6a407b4a90e1c77fb260ad617ba9ba2aa9dfce6837832146d3db0044de&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 139,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금/성인지예산 페이지의 연도별 표(게시판 아님)로 등록일 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 1회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_1.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 61개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 2회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_2.jsp",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 70개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 3회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_3.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "4001_명시이월조서.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=4001_%EB%AA%85%EC%8B%9C%EC%9D%B4%EC%9B%94%EC%A1%B0%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4002_계속비사업조서.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=4002_%EA%B3%84%EC%86%8D%EB%B9%84%EC%82%AC%EC%97%85%EC%A1%B0%EC%84%9C.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 73개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2026_0.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_합본.zip",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=2026_%ED%95%A9%EB%B3%B8.zip",
+          "크기": 10438526,
+          "저장경로": "files/2026/경기도_안성시/2026_합본.zip"
+        },
+        {
+          "파일명": "4005_공영개발(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=4005_%EA%B3%B5%EC%98%81%EA%B0%9C%EB%B0%9C%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": 42048,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_4005_공영개발(세입).pdf"
+        },
+        {
+          "파일명": "4006_공영개발(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=4006_%EA%B3%B5%EC%98%81%EA%B0%9C%EB%B0%9C%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": 110110,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_4006_공영개발(세출).pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 88개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026 기금운용계획",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403090000",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026년도+기금운용계획(최종).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/cmm/fms/FileDown.do?atchFileId=8e260cf214db9e5939e0a464a14e585b6370f3be25d012374ce5ec2d2f06e06e&fileSn=f9a1967c526603d17ab488b9d2747cda",
+          "크기": 5451618,
+          "저장경로": "files/2026/경기도_안성시/2026년도+기금운용계획(최종).pdf"
+        }
+      ],
+      "비고": "기금/성인지예산 페이지의 연도별 표(게시판 아님)로 등록일 없음"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 1회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2026_1.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_01_합본.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_1&file=2026_01_%ED%95%A9%EB%B3%B8.pdf",
+          "크기": 8369720,
+          "저장경로": "files/2026/경기도_안성시/2026_01_합본.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 59개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 2회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2026_2.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_02_합본.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_2&file=2026_02_%ED%95%A9%EB%B3%B8.pdf",
+          "크기": 2799445,
+          "저장경로": "files/2026/경기도_안성시/2026_02_합본.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 14개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 3회추경 예산서",
+      "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
+      "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2026_3.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_03_합본.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_3&file=2026_03_%ED%95%A9%EB%B3%B8.pdf",
+          "크기": 4912643,
+          "저장경로": "files/2026/경기도_안성시/2026_03_합본.pdf"
+        },
+        {
+          "파일명": "4001_상수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_3&file=4001_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": 41969,
+          "저장경로": "files/2026/경기도_안성시/2026_3회추경_4001_상수도공기업특별회계(세입).pdf"
+        },
+        {
+          "파일명": "4001_상수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_3&file=4001_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": 114310,
+          "저장경로": "files/2026/경기도_안성시/2026_3회추경_4001_상수도공기업특별회계(세출).pdf"
+        },
+        {
+          "파일명": "4002_하수도공기업특별회계.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_3&file=4002_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.pdf",
+          "크기": 415291,
+          "저장경로": "files/2026/경기도_안성시/2026_3회추경_4002_하수도공기업특별회계.pdf"
+        },
+        {
+          "파일명": "4003_공영개발공기업특별회계.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_3&file=4003_%EA%B3%B5%EC%98%81%EA%B0%9C%EB%B0%9C%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84.pdf",
+          "크기": 3240338,
+          "저장경로": "files/2026/경기도_안성시/2026_3회추경_4003_공영개발공기업특별회계.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 79개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+    }
+  ],
+  "비고": "예산서는 연도·회차 선택형 페이지(/portal/contents/04/03_01/{연도}_{회차}.jsp)로 제공되어 등록일 확인 불가. 2026년은 3회추경까지 게시(확인일 2026-10-05). 2026 본예산 합본은 zip(압축 해제 안 함)."
+}

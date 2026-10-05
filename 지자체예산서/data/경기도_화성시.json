@@ -1,0 +1,459 @@
+{
+  "시도": "경기도",
+  "지자체": "화성시",
+  "홈페이지": "https://www.hscity.go.kr",
+  "게시판": [
+    {
+      "이름": "화성시 예산·재정정보 > 재정정보 > 예산서 공개",
+      "URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 본예산 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=14676&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=14676&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=14676&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        },
+        {
+          "파일명": "공기업특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=14676&gubun=4-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공기업특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인). 기금운용계획은 같은 페이지 하단 표(성인지예산서/기금운용계획)에 별도 제공."
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/SungDown.jsp (POST mseq=14537&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산서 공개 페이지 하단 성인지예산서/기금운용계획 표. 등록일 표시 없음. 첨부파일명은 표 항목명."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 1회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15167&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15167&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15167&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 2회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15190&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15190&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15190&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 3회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15234&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15234&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15234&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15231&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15231&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15231&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        },
+        {
+          "파일명": "공기업특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15231&gubun=4-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공기업특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인). 기금운용계획은 같은 페이지 하단 표(성인지예산서/기금운용계획)에 별도 제공."
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/SungDown.jsp (POST mseq=15233&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "예산서 공개 페이지 하단 성인지예산서/기금운용계획 표. 등록일 표시 없음. 첨부파일명은 표 항목명."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 1회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15387&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15387&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15387&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 2회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15410&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15410&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15410&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 3회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산규모",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15423&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "일반회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15423&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "기타특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15423&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계"
+        },
+        {
+          "파일명": "공기업특별회계",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15423&gubun=4-1, money_search_csrf 세션토큰 필요)",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공기업특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 첨부파일명은 표의 항목명(서버 파일명 미확인)."
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15426&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15426&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15426&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "기타특별회계"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15426&gubun=4-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "공기업특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 서버 파일명이 코드형(W_SIZE… 등)이라 저장 시 \"2026_{구분}_{항목}_\" 접두어를 붙임. 기금운용계획은 같은 페이지 하단 표(성인지예산서/기금운용계획)에 별도 제공."
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_기금운용계획_U_ACT260326134756021.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/SungDown.jsp (POST mseq=15424&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": 1922633,
+          "저장경로": "files/2026/경기도_화성시/2026_기금운용계획_U_ACT260326134756021.pdf"
+        }
+      ],
+      "비고": "예산서 공개 페이지 하단 성인지예산서/기금운용계획 표. 등록일 표시 없음."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 1회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15431&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15431&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "일반회계"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15431&gubun=3-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "기타특별회계"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15431&gubun=4-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "공기업특별회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 서버 파일명이 코드형(W_SIZE… 등)이라 저장 시 \"2026_{구분}_{항목}_\" 접두어를 붙임."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 2회추경 예산서",
+      "게시판URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "게시물URL": "https://money.hscity.go.kr/Money/finfo/budOpen.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15497&gubun=1-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "예산규모"
+        },
+        {
+          "파일명": "2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "다운로드URL": "https://money.hscity.go.kr/Money/finfo/YeDown.jsp (POST mseq=15497&gubun=2-1, money_search_csrf 세션토큰 필요)",
+          "크기": 48458,
+          "저장경로": "files/2026/경기도_화성시/2026_본예산_예산규모_W_SIZE260123091831011.pdf",
+          "항목": "일반회계"
+        }
+      ],
+      "비고": "예산·재정정보 홈페이지 예산서 공개 표(게시판 아님)로 등록일 표시 없음. 다운로드는 POST 방식. 서버 파일명이 코드형(W_SIZE… 등)이라 저장 시 \"2026_{구분}_{항목}_\" 접두어를 붙임."
+    }
+  ],
+  "비고": "예산서는 시청 대표홈페이지가 아닌 화성시 예산·재정정보 홈페이지(money.hscity.go.kr)에서 제공. 연도별 표 형식이라 등록일 확인 불가. 회차마다 예산규모·일반회계·기타특별회계·공기업특별회계로 분할 제공. 2026년은 2회추경까지 게시(확인일 2026-10-05; 2회추경은 예산규모·일반회계만 있음)."
+}
