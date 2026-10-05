@@ -1,0 +1,498 @@
+{
+  "시도": "경기도",
+  "지자체": "의정부시",
+  "홈페이지": "https://www.ui4u.go.kr",
+  "게시판": [
+    {
+      "이름": "(미확인) 시 홈페이지 예산서 게시판 - 일반 및 기타특별회계(검색결과로만 확인, 접속 불가)",
+      "URL": "https://www.ui4u.go.kr/portal/bbs/list.do?ptIdx=64&mId=0107010100"
+    },
+    {
+      "이름": "의정부시의회 의안정보(대체 출처)",
+      "URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 예산안 (의안 2025-204)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28365&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2025-11-21",
+      "첨부파일": [
+        {
+          "파일명": "[2025-204]2026년도 예산안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217985",
+          "크기": 32768,
+          "저장경로": "files/2026/경기도_의정부시/[2025-204]2026년도 예산안.hwp"
+        },
+        {
+          "파일명": "심사보고서(2026년도 예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217986",
+          "크기": 119296,
+          "저장경로": "files/2026/경기도_의정부시/심사보고서(2026년도 예산안).hwp"
+        },
+        {
+          "파일명": "[2025-204]2026년도 예산에 대한 수정안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217987",
+          "크기": 69120,
+          "저장경로": "files/2026/경기도_의정부시/[2025-204]2026년도 예산에 대한 수정안.hwp"
+        },
+        {
+          "파일명": "2026년도 본예산 계수조정 내역.xlsx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217988",
+          "크기": 17191,
+          "저장경로": "files/2026/경기도_의정부시/2026년도 본예산 계수조정 내역.xlsx"
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획안 (의안 2025-205)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28364&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2025-11-21",
+      "첨부파일": [
+        {
+          "파일명": "[2025-205]2026년도 기금운용계획안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217983",
+          "크기": 32768,
+          "저장경로": "files/2026/경기도_의정부시/[2025-205]2026년도 기금운용계획안.hwp"
+        },
+        {
+          "파일명": "심사보고서(2026년도 기금운용계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217984",
+          "크기": 56832,
+          "저장경로": "files/2026/경기도_의정부시/심사보고서(2026년도 기금운용계획안).hwp"
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정예산안 (의안 2026-22)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28523&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2026-02-27",
+      "첨부파일": [
+        {
+          "파일명": "[2026-22]2026년도 제1회 추가경정예산(안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218229",
+          "크기": 32768,
+          "저장경로": "files/2026/경기도_의정부시/[2026-22]2026년도 제1회 추가경정예산(안).hwp"
+        },
+        {
+          "파일명": "[2026-22]심사보고서(2026년도 제1회 추가경정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218231",
+          "크기": 121344,
+          "저장경로": "files/2026/경기도_의정부시/[2026-22]심사보고서(2026년도 제1회 추가경정예산안).hwp"
+        },
+        {
+          "파일명": "2026년도 기금운용변경안 및 제1회 추가경정예산안 검토보고서.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218309",
+          "크기": 487424,
+          "저장경로": "files/2026/경기도_의정부시/2026년도 기금운용변경안 및 제1회 추가경정예산안 검토보고서.hwp"
+        },
+        {
+          "파일명": "[2026-23]2026년도 기금운용변경계획(안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218232",
+          "크기": 32256,
+          "저장경로": "files/2026/경기도_의정부시/[2026-23]2026년도 기금운용변경계획(안).hwp"
+        },
+        {
+          "파일명": "[2026-23]심사보고서(2026년도 기금운용변경계획안) (1).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218234",
+          "크기": 50688,
+          "저장경로": "files/2026/경기도_의정부시/[2026-23]심사보고서(2026년도 기금운용변경계획안) (1).hwp"
+        },
+        {
+          "파일명": "2026년도 기금운용변경안 및 제1회 추가경정예산안 검토보고서.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218308",
+          "크기": 487424,
+          "저장경로": "files/2026/경기도_의정부시/2026년도 기금운용변경안 및 제1회 추가경정예산안 검토보고서.hwp"
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2026-23 2026년도 기금운용변경계획안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28524&bbsMnuCd=MNU007300000440400000454); 같은 회기 기금운용변경계획안 포함"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정예산안 (의안 2026-70)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28614&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2026-05-13",
+      "첨부파일": [
+        {
+          "파일명": "[2026-70] 2026년도 제2회 추가경정예산(안).hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218391",
+          "크기": 20437,
+          "저장경로": "files/2026/경기도_의정부시/[2026-70] 2026년도 제2회 추가경정예산(안).hwpx"
+        },
+        {
+          "파일명": "[2026-70] 검토보고서(2026년도 제2회 추가경정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218392",
+          "크기": 385024,
+          "저장경로": "files/2026/경기도_의정부시/[2026-70] 검토보고서(2026년도 제2회 추가경정예산안).hwp"
+        },
+        {
+          "파일명": "[2026-70] 심사보고서(2026년도 제2회 추가경정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=218393",
+          "크기": 64000,
+          "저장경로": "files/2026/경기도_의정부시/[2026-70] 심사보고서(2026년도 제2회 추가경정예산안).hwp"
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 예산안 (의안 2024-207)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27475&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2024-11-21",
+      "첨부파일": [
+        {
+          "파일명": "[2024-207] 2025년도 예산안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216620",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2025년도 예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216621",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획안 (의안 2024-208)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27476&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2024-11-21",
+      "첨부파일": [
+        {
+          "파일명": "[2024-208] 2025년도 기금운용계획안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216622",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2025년도 기금운용계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216623",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 제1회 추가경정예산안 (의안 2025-28)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27669&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2025-03-04",
+      "첨부파일": [
+        {
+          "파일명": "[2025-28]2025년도 제1회 추가경정예산안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216925",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-28](예산결산특별위원회)심사보고서.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216926",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-28]2025년도 제1회 추가경정예산안에 대한 수정안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216927",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-28]2025년 제1회 추가경정예산안 계수조정내역.pdf",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216947",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-28](예산결산특별위원회)검토보고서.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216948",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 제2회 추가경정예산안 (의안 2025-120)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27988&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2025-08-18",
+      "첨부파일": [
+        {
+          "파일명": "[2025-120]2025년도 제2회 추가경정예산안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217402",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(예결위) 2025년도 기금운용변경안 및 제2회 추가경정예산안 검토보고.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217403",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-120]2025년도 제2회 추가경정예산안(심사보고서).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217404",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-120]2025년도 제2회 추가경정예산안에 대한 수정안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217405",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-120]2025년도 제2회 추가경정예산안 계수조정내역.pdf",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217407",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-121]2025년도 기금운용변경계획안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217408",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "(예결위) 2025년도 기금운용변경안 및 제2회 추가경정예산안 검토보고.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217409",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-121]2025년도 기금운용변경계획안(심사보고서).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217410",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2025-121 2025년도 기금운용변경계획안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27990&bbsMnuCd=MNU007300000440400000454); 같은 회기 기금운용변경계획안 포함"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 추가경정예산안 및 제1차 수정예산안 (의안 2025-200)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28313&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2025-11-24",
+      "첨부파일": [
+        {
+          "파일명": "[2025-200-1]2025년도 제3회 추가경정예산 제1차 수정예산안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217880",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2. 심사보고서(2025년도 제3회 추가경정예산안 및 제1차 수정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217881",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2025-201]2025년도 제2차 기금운용변경계획안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217878",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1. 심사보고서(2025년도 제2차 기금운용변경계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=217879",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2025-201 2025년도 제2차 기금운용변경계획안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=28312&bbsMnuCd=MNU007300000440400000454); 같은 회기 기금운용변경계획안 포함"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 예산안 (의안 2023-206)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=26671&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2023-11-20",
+      "첨부파일": [
+        {
+          "파일명": "[2023-206]2024년도 예산안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215165",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1. [2023-248]2024년도 예산안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215272",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215303",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2023-248 2024년도 예산안에 대한 수정안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=26736&bbsMnuCd=MNU007300000440400000454)"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획안 (의안 2023-207)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=26672&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2023-11-20",
+      "첨부파일": [
+        {
+          "파일명": "[2023-207]2024년도 기금운용계획안.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215166",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 기금운용계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215304",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정예산안 (의안 2024-25)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=26888&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2024-02-28",
+      "첨부파일": [
+        {
+          "파일명": "[2024-25] 2024년도 제1회 추가경정예산(안).hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215711",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 제1회 추가경정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215712",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 1회추경 검토보고서.hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=215777",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정예산안 (의안 2024-120)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27217&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2024-08-19",
+      "첨부파일": [
+        {
+          "파일명": "[2024-120] 2024년도 제2회 추가경정예산(안).hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216109",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 제2회 추가경정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216153",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2024-121] 2024년도 기금운용변경계획(안).hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216110",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 기금운용변경계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216154",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2024-121 2024년도 기금운용변경계획안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27218&bbsMnuCd=MNU007300000440400000454); 같은 회기 기금운용변경계획안 포함"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 추가경정예산안 및 제1차 수정예산안 (의안 2024-205)",
+      "게시판URL": "https://www.ujbcl.go.kr/svc/bls/BillList.do?bbsMnuCd=MNU007300000440400000454",
+      "게시물URL": "https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27473&bbsMnuCd=MNU007300000440400000454",
+      "등록일": "2024-11-21",
+      "첨부파일": [
+        {
+          "파일명": "[2024-205-1] 2024년도 제3회 추가경정예산 제1차 수정예산안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216615",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 제3회 추가경정예산안 및 제1차 수정예산안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216619",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "[2024-206] 2024년도 기금운용변경계획안.hwpx",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216617",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "심사보고서(2024년도 기금운용변경계획안).hwp",
+          "다운로드URL": "https://www.ujbcl.go.kr/bbs/FileDownLoadProc.do?flSn=216618",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 의정부시의회 의안정보(시 홈페이지 www.ui4u.go.kr 접속 불가로 대체). 첨부는 의안서(예산안 요지)·심사/검토보고서·수정안 등이며 확정 세입세출예산서 본문 아님; 예산안; 등록일은 의안 제안(발의)일; 함께 묶은 의안: 2024-206 2024년도 기금운용변경계획안 (https://www.ujbcl.go.kr/svc/bls/BillView.do?billSn=27474&bbsMnuCd=MNU007300000440400000454); 같은 회기 기금운용변경계획안 포함"
+    }
+  ],
+  "비고": "www.ui4u.go.kr(및 ui4u.go.kr, m.ui4u.go.kr)은 이 환경의 egress 프록시에서 TLS 연결이 계속 끊겨(약 25분간 20초 간격 재시도 모두 실패, WebFetch도 EGRESS_BLOCKED) 시 홈페이지 예산서 게시판을 열람·다운로드하지 못함 → 시 홈페이지 본예산서·추경예산서·기금운용계획서 미확인. 대신 의회(www.ujbcl.go.kr) 의안정보의 예산안·추경안·기금운용(변경)계획안 의안 첨부를 기록하고 2026년분을 내려받음(예산서 본문 아님). 2026년 추경은 의회 기준 제2회까지 확인. 2024·2025년 첨부 크기 미확인(null)."
+}

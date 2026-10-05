@@ -21,8 +21,507 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_0.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 83개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2003_감사법무담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2003_%EA%B0%90%EC%82%AC%EB%B2%95%EB%AC%B4%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_가족여성과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2023_%EA%B0%80%EC%A1%B1%EC%97%AC%EC%84%B1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_교육청소년과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2024_%EA%B5%90%EC%9C%A1%EC%B2%AD%EC%86%8C%EB%85%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2031_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_문화체육관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2032_%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2033_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_도시개발과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2034_%EB%8F%84%EC%8B%9C%EA%B0%9C%EB%B0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2035_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2036_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2037_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_지역보건과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2053_%EC%A7%80%EC%97%AD%EB%B3%B4%EA%B1%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농촌사회과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2063_%EB%86%8D%EC%B4%8C%EC%82%AC%ED%9A%8C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2064_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_친환경기술과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2065_%EC%B9%9C%ED%99%98%EA%B2%BD%EA%B8%B0%EC%88%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2150_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2150_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2170_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2170_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2180_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2180_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2190_일죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2190_%EC%9D%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2220_고삼면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2220_%EA%B3%A0%EC%82%BC%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3223_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3224_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3225_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3225_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3226_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3226_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3227_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3228_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3228_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_수질개선특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3229_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_수질개선특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3230_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_산업단지비용부담특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3231_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3232_산업단지비용부담특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3232_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3233_폐기물처리시설특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3233_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3234_폐기물처리시설특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3234_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_하수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3229_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_하수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3230_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_상수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3231_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_상수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_0&file=3231_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 83개 전부 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
     },
     {
       "연도": 2024,
@@ -34,9 +533,9 @@
       "등록일": null,
       "첨부파일": [
         {
-          "파일명": null,
+          "파일명": "(최종)2024+안성시+기금운용계획.pdf",
           "다운로드URL": "https://www.anseong.go.kr/cmm/fms/FileDown.do?atchFileId=8fdeca690450d4c82ddc0dd25779cd17b7c19701f2b2030a49302000ccb52546&fileSn=f9a1967c526603d17ab488b9d2747cda",
-          "크기": 139,
+          "크기": 4845366,
           "저장경로": null
         }
       ],
@@ -50,8 +549,153 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_1.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 24개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_1&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 24개 전부 기록."
     },
     {
       "연도": 2024,
@@ -61,8 +705,465 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_2.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 76개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별+예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%2B%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2150_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2150_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2170_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2170_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2180_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2180_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2190_일죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2190_%EC%9D%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2220_고삼면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2220_%EA%B3%A0%EC%82%BC%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3223_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3224_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3225_발전소주변지역지원사업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3225_%EB%B0%9C%EC%A0%84%EC%86%8C%EC%A3%BC%EB%B3%80%EC%A7%80%EC%97%AD%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3226_발전소주변지역지원사업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3226_%EB%B0%9C%EC%A0%84%EC%86%8C%EC%A3%BC%EB%B3%80%EC%A7%80%EC%97%AD%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3227_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3228_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3228_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_하수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3229_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_하수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3230_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_상수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3231_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_상수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_2&file=3231_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 76개 전부 기록."
     },
     {
       "연도": 2024,
@@ -72,8 +1173,441 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_3.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 72개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별+예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%2B%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2150_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2150_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2180_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2180_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2190_일죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2190_%EC%9D%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3221_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3222_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3223_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3224_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3225_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3225_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3226_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3226_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_수질개선특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3227_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3228_수질개선특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3228_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_산업단지비용부담특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3229_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_산업단지비용부담특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_3&file=3230_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 72개 전부 기록."
     },
     {
       "연도": 2024,
@@ -84,6 +1618,432 @@
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2024_4.jsp",
       "등록일": null,
       "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2150_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2150_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2170_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2170_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2180_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2180_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3223_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3224_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3225_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3225_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3226_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3226_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_산업단지비용부담특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3227_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_수질개선특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3229_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_수질개선특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3230_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_폐기물처리시설특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3231_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3232_폐기물처리시설특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=3232_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
         {
           "파일명": "4001_명시이월조서.pdf",
           "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2024_4&file=4001_%EB%AA%85%EC%8B%9C%EC%9D%B4%EC%9B%94%EC%A1%B0%EC%84%9C.pdf",
@@ -97,7 +2057,7 @@
           "저장경로": null
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 73개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 73개 전부 기록."
     },
     {
       "연도": 2025,
@@ -107,8 +2067,519 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_0.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 85개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2000_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2000_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2003_감사법무담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2003_%EA%B0%90%EC%82%AC%EB%B2%95%EB%AC%B4%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2150_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2150_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2170_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2170_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2180_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2180_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2190_일죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2190_%EC%9D%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2220_고삼면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2220_%EA%B3%A0%EC%82%BC%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3223_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3224_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3227_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3228_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3228_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3229_발전소주변지역지원사업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3229_%EB%B0%9C%EC%A0%84%EC%86%8C%EC%A3%BC%EB%B3%80%EC%A7%80%EC%97%AD%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3230_발전소주변지역지원사업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3230_%EB%B0%9C%EC%A0%84%EC%86%8C%EC%A3%BC%EB%B3%80%EC%A7%80%EC%97%AD%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3231_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3232_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3232_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3233_산업단지비용부담특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3233_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3234_산업단지비용부담특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3234_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3235_수질개선특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3235_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3236_수질개선특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3236_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3237_폐기물처리시설특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3237_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3238_폐기물처리시설특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3238_%ED%8F%90%EA%B8%B0%EB%AC%BC%EC%B2%98%EB%A6%AC%EC%8B%9C%EC%84%A4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3239_상수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3239_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3240_상수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3240_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3241_하수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3241_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3242_하수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_0&file=3242_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 85개 전부 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시."
     },
     {
       "연도": 2025,
@@ -120,9 +2591,9 @@
       "등록일": null,
       "첨부파일": [
         {
-          "파일명": null,
+          "파일명": "2025년도+기금운용계획.pdf",
           "다운로드URL": "https://www.anseong.go.kr/cmm/fms/FileDown.do?atchFileId=2d636d6a407b4a90e1c77fb260ad617ba9ba2aa9dfce6837832146d3db0044de&fileSn=f9a1967c526603d17ab488b9d2747cda",
-          "크기": 139,
+          "크기": 1462038,
           "저장경로": null
         }
       ],
@@ -136,8 +2607,375 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_1.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 61개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2081_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2160_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2160_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3223_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3224_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3227_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3227_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3228_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3228_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_주차장특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3231_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3232_주차장특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_1&file=3232_%EC%A3%BC%EC%B0%A8%EC%9E%A5%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 61개 전부 기록."
     },
     {
       "연도": 2025,
@@ -147,8 +2985,429 @@
       "게시판URL": "https://www.anseong.go.kr/portal/contents.do?mId=0403010000",
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_2.jsp",
       "등록일": null,
-      "첨부파일": [],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 70개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2001_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2002_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2003_감사법무담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2003_%EA%B0%90%EC%82%AC%EB%B2%95%EB%AC%B4%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2047_하수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2047_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_기술보급과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2065_%EA%B8%B0%EC%88%A0%EB%B3%B4%EA%B8%89%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2071_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2110_공도읍.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2110_%EA%B3%B5%EB%8F%84%EC%9D%8D.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2120_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2120_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2130_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2130_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2140_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2140_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2170_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2170_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2200_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2200_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2210_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2210_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2220_고삼면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2220_%EA%B3%A0%EC%82%BC%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2230_안성1동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2230_%EC%95%88%EC%84%B11%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2240_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2240_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2250_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=2250_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3221_공유재산관리특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3221_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3222_공유재산관리특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3222_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%EA%B4%80%EB%A6%AC%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3223_의료급여기금특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3223_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3224_의료급여기금특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3224_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3225_도시재생특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3225_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3226_도시재생특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3226_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3231_수질개선특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3231_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3232_수질개선특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3232_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3233_산업단지비용부담특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3233_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3234_산업단지비용부담특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_2&file=3234_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 70개 전부 기록."
     },
     {
       "연도": 2025,
@@ -159,6 +3418,432 @@
       "게시물URL": "https://www.anseong.go.kr/portal/contents/04/03_01/2025_3.jsp",
       "등록일": null,
       "첨부파일": [
+        {
+          "파일명": "1001_예산총칙.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1001_%EC%98%88%EC%82%B0%EC%B4%9D%EC%B9%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1002_회계별 예산규모.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1002_%ED%9A%8C%EA%B3%84%EB%B3%84%20%EC%98%88%EC%82%B0%EA%B7%9C%EB%AA%A8.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1003_세입총괄표(일반+기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1003_%EC%84%B8%EC%9E%85%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1004_세출총괄표(일반+기타_기능별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1004_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EA%B8%B0%EB%8A%A5%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1005_세출총괄표(일반+기타_조직별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1005_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%A1%B0%EC%A7%81%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1006_세출총괄표(일반+기타_성질별).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1006_%EC%84%B8%EC%B6%9C%EC%B4%9D%EA%B4%84%ED%91%9C%28%EC%9D%BC%EB%B0%98%2B%EA%B8%B0%ED%83%80_%EC%84%B1%EC%A7%88%EB%B3%84%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1007_세입예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1007_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1008_세입예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1008_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1009_세출예산서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1009_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1010_세출예산서(기타).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1010_%EC%84%B8%EC%B6%9C%EC%98%88%EC%82%B0%EC%84%9C%28%EA%B8%B0%ED%83%80%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "1011_세입예산사업명세서(일반).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=1011_%EC%84%B8%EC%9E%85%EC%98%88%EC%82%B0%EC%82%AC%EC%97%85%EB%AA%85%EC%84%B8%EC%84%9C%28%EC%9D%BC%EB%B0%98%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2001_의회사무과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2001_%EC%9D%98%ED%9A%8C%EC%82%AC%EB%AC%B4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2002_전략기획담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2002_%EC%A0%84%EB%9E%B5%EA%B8%B0%ED%9A%8D%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2003_소통협치담당관.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2003_%EC%86%8C%ED%86%B5%ED%98%91%EC%B9%98%EB%8B%B4%EB%8B%B9%EA%B4%80.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2011_행정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2011_%ED%96%89%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2012_시민안전과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2012_%EC%8B%9C%EB%AF%BC%EC%95%88%EC%A0%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2013_세정과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2013_%EC%84%B8%EC%A0%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2014_징수과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2014_%EC%A7%95%EC%88%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2015_회계과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2015_%ED%9A%8C%EA%B3%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2016_정보통신과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2016_%EC%A0%95%EB%B3%B4%ED%86%B5%EC%8B%A0%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2017_토지민원과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2017_%ED%86%A0%EC%A7%80%EB%AF%BC%EC%9B%90%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2021_복지정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2021_%EB%B3%B5%EC%A7%80%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2022_사회복지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2022_%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2023_미래교육과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2023_%EB%AF%B8%EB%9E%98%EA%B5%90%EC%9C%A1%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024_체육평생학습과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2024_%EC%B2%B4%EC%9C%A1%ED%8F%89%EC%83%9D%ED%95%99%EC%8A%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025_도서관과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2025_%EB%8F%84%EC%84%9C%EA%B4%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2031_도시정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2031_%EB%8F%84%EC%8B%9C%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2032_첨단산업과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2032_%EC%B2%A8%EB%8B%A8%EC%82%B0%EC%97%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2033_일자리경제과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2033_%EC%9D%BC%EC%9E%90%EB%A6%AC%EA%B2%BD%EC%A0%9C%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2034_문화관광과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2034_%EB%AC%B8%ED%99%94%EA%B4%80%EA%B4%91%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2035_교통정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2035_%EA%B5%90%ED%86%B5%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2036_건설관리과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2036_%EA%B1%B4%EC%84%A4%EA%B4%80%EB%A6%AC%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2037_도로시설과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2037_%EB%8F%84%EB%A1%9C%EC%8B%9C%EC%84%A4%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2041_건축과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2041_%EA%B1%B4%EC%B6%95%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2042_주택과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2042_%EC%A3%BC%ED%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2043_환경과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2043_%ED%99%98%EA%B2%BD%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2044_자원순환과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2044_%EC%9E%90%EC%9B%90%EC%88%9C%ED%99%98%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2045_산림녹지과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2045_%EC%82%B0%EB%A6%BC%EB%85%B9%EC%A7%80%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2046_상수도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2046_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2051_보건위생과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2051_%EB%B3%B4%EA%B1%B4%EC%9C%84%EC%83%9D%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2052_건강증진과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2052_%EA%B1%B4%EA%B0%95%EC%A6%9D%EC%A7%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2053_노인돌봄과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2053_%EB%85%B8%EC%9D%B8%EB%8F%8C%EB%B4%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2061_농업정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2061_%EB%86%8D%EC%97%85%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2062_축산정책과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2062_%EC%B6%95%EC%82%B0%EC%A0%95%EC%B1%85%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2063_농축산유통과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2063_%EB%86%8D%EC%B6%95%EC%82%B0%EC%9C%A0%ED%86%B5%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2064_농업지도과.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2064_%EB%86%8D%EC%97%85%EC%A7%80%EB%8F%84%EA%B3%BC.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2065_문화예술사업소.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2065_%EB%AC%B8%ED%99%94%EC%98%88%EC%88%A0%EC%82%AC%EC%97%85%EC%86%8C.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2071_보개면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2071_%EB%B3%B4%EA%B0%9C%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2072_금광면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2072_%EA%B8%88%EA%B4%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2073_서운면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2073_%EC%84%9C%EC%9A%B4%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2074_미양면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2074_%EB%AF%B8%EC%96%91%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2075_대덕면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2075_%EB%8C%80%EB%8D%95%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2076_양성면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2076_%EC%96%91%EC%84%B1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2077_원곡면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2077_%EC%9B%90%EA%B3%A1%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2078_일죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2078_%EC%9D%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2079_죽산면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2079_%EC%A3%BD%EC%82%B0%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2080_삼죽면.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2080_%EC%82%BC%EC%A3%BD%EB%A9%B4.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2081_안성2동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2081_%EC%95%88%EC%84%B12%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2082_안성3동.pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=2082_%EC%95%88%EC%84%B13%EB%8F%99.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3001_공유재산(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3001_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3002_공유재산(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3002_%EA%B3%B5%EC%9C%A0%EC%9E%AC%EC%82%B0%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3003_의료급여기금(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3003_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3004_의료급여기금(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3004_%EC%9D%98%EB%A3%8C%EA%B8%89%EC%97%AC%EA%B8%B0%EA%B8%88%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3005_도시재생(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3005_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3006_도시재생(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3006_%EB%8F%84%EC%8B%9C%EC%9E%AC%EC%83%9D%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3007_주차장(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3007_%EC%A3%BC%EC%B0%A8%EC%9E%A5%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3008_주차장(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3008_%EC%A3%BC%EC%B0%A8%EC%9E%A5%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3009_산업단지비용부담(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3009_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3010_산업단지비용부담(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3010_%EC%82%B0%EC%97%85%EB%8B%A8%EC%A7%80%EB%B9%84%EC%9A%A9%EB%B6%80%EB%8B%B4%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3011_수질개선(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3011_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3012_수질개선(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=3012_%EC%88%98%EC%A7%88%EA%B0%9C%EC%84%A0%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": null,
+          "저장경로": null
+        },
         {
           "파일명": "4001_명시이월조서.pdf",
           "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2025_3&file=4001_%EB%AA%85%EC%8B%9C%EC%9D%B4%EC%9B%94%EC%A1%B0%EC%84%9C.pdf",
@@ -172,7 +3857,7 @@
           "저장경로": null
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 73개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 합본 없이 장·부서·특별회계별 분할 파일 73개 전부 기록."
     },
     {
       "연도": 2026,
@@ -190,6 +3875,30 @@
           "저장경로": "files/2026/경기도_안성시/2026_합본.zip"
         },
         {
+          "파일명": "3239_상수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=3239_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": 84101,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_3239_상수도공기업특별회계(세입).pdf"
+        },
+        {
+          "파일명": "3240_상수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=3240_%EC%83%81%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": 288778,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_3240_상수도공기업특별회계(세출).pdf"
+        },
+        {
+          "파일명": "3241_하수도공기업특별회계(세입).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=3241_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%9E%85%29.pdf",
+          "크기": 60080,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_3241_하수도공기업특별회계(세입).pdf"
+        },
+        {
+          "파일명": "3242_하수도공기업특별회계(세출).pdf",
+          "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=3242_%ED%95%98%EC%88%98%EB%8F%84%EA%B3%B5%EA%B8%B0%EC%97%85%ED%8A%B9%EB%B3%84%ED%9A%8C%EA%B3%84%28%EC%84%B8%EC%B6%9C%29.pdf",
+          "크기": 211045,
+          "저장경로": "files/2026/경기도_안성시/2026_본예산_3242_하수도공기업특별회계(세출).pdf"
+        },
+        {
           "파일명": "4005_공영개발(세입).pdf",
           "다운로드URL": "https://www.anseong.go.kr/FileDown_direct2.do?path=/portal/0403010100/2026_0&file=4005_%EA%B3%B5%EC%98%81%EA%B0%9C%EB%B0%9C%28%EC%84%B8%EC%9E%85%29.pdf",
           "크기": 42048,
@@ -202,7 +3911,7 @@
           "저장경로": "files/2026/경기도_안성시/2026_본예산_4006_공영개발(세출).pdf"
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 88개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 기금운용계획은 별도 페이지(기금/성인지예산)에 게시. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 합본과 분할 파일 88개(장·부서·특별회계별)가 있어 합본과 공기업특별회계(공영개발 포함) 파일만 기록·다운로드(분할 파일은 합본과 중복). 기금운용계획은 별도 페이지(기금/성인지예산)에 게시. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
     },
     {
       "연도": 2026,
@@ -238,7 +3947,7 @@
           "저장경로": "files/2026/경기도_안성시/2026_01_합본.pdf"
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 59개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 합본과 분할 파일 59개(장·부서·특별회계별)가 있어 합본과 공기업특별회계(공영개발 포함) 파일만 기록·다운로드(분할 파일은 합본과 중복). 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
     },
     {
       "연도": 2026,
@@ -256,7 +3965,7 @@
           "저장경로": "files/2026/경기도_안성시/2026_02_합본.pdf"
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 14개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 합본과 분할 파일 14개(장·부서·특별회계별)가 있어 합본과 공기업특별회계(공영개발 포함) 파일만 기록·다운로드(분할 파일은 합본과 중복). 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
     },
     {
       "연도": 2026,
@@ -298,7 +4007,7 @@
           "저장경로": "files/2026/경기도_안성시/2026_3회추경_4003_공영개발공기업특별회계.pdf"
         }
       ],
-      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 분할 파일 79개(장·부서·특별회계별)가 있으나 합본과 공기업특별회계 파일만 기록. 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
+      "비고": "게시판이 아닌 연도·회차 선택형 정적 페이지라 등록일 표시 없음. 페이지에 합본과 분할 파일 79개(장·부서·특별회계별)가 있어 합본과 공기업특별회계(공영개발 포함) 파일만 기록·다운로드(분할 파일은 합본과 중복). 저장 파일명에 연도/회차가 없으면 \"2026_{회차}_\" 접두어를 붙임."
     }
   ],
   "비고": "예산서는 연도·회차 선택형 페이지(/portal/contents/04/03_01/{연도}_{회차}.jsp)로 제공되어 등록일 확인 불가. 2026년은 3회추경까지 게시(확인일 2026-10-05). 2026 본예산 합본은 zip(압축 해제 안 함)."
