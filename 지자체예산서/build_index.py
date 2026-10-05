@@ -29,12 +29,15 @@ for sido, sgg in ORDER:
     for y in (2024, 2025, 2026):
         for k in ("본예산", "기금운용계획", "추경"):
             ps = [x for x in posts if x.get("연도") == y and x.get("구분") == k]
+            def mark(x):
+                found = x.get("게시물URL") or any(f.get("다운로드URL") for f in x.get("첨부파일") or [])
+                return x.get("등록일") or ("날짜표기없음" if found else "미확인")
             if k == "추경":
-                cell.append(", ".join(f"{x.get('회차') or '?'}회 {x.get('등록일') or '?'}" for x in ps))
+                cell.append("\n".join(f"{x.get('회차') or '-'}회 {mark(x)}" for x in ps))
             else:
-                cell.append(", ".join(x.get("등록일") or "날짜미확인" for x in ps))
+                cell.append("\n".join(mark(x) for x in ps))
     boards = "\n".join(f"{b.get('이름','')}: {b.get('URL','')}" for b in d.get("게시판", []))
-    summary.append([sido, sgg, d.get("홈페이지", ""), boards, d.get("비고", "")] + cell)
+    summary.append([sido, sgg, d.get("홈페이지", ""), boards, d.get("비고", "")] + [c or "없음" for c in cell])
 
 H_ROWS = ["시도", "지자체", "연도", "구분", "회차", "게시물 제목", "등록일", "게시판 URL", "게시물 URL", "첨부파일명", "다운로드 저장경로(2026)", "비고"]
 H_SUM = ["시도", "지자체", "홈페이지", "예산 게시판", "비고"] + [f"{y} {k}" for y in (2024, 2025, 2026) for k in ("본예산", "기금운용계획", "추경")]

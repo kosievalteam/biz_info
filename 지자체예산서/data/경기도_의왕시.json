@@ -1,0 +1,1891 @@
+{
+  "시도": "경기도",
+  "지자체": "의왕시",
+  "홈페이지": "https://www.uiwang.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서(2026년도)",
+      "URL": "https://www.uiwang.go.kr/UWKOROPEN0221"
+    },
+    {
+      "이름": "예산서(2025년도)",
+      "URL": "https://www.uiwang.go.kr/UWKOROPEN0220"
+    },
+    {
+      "이름": "예산서(2024년 이전)",
+      "URL": "https://www.uiwang.go.kr/UWKOROPEN020101"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6983955/",
+      "등록일": "2024-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2024년 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6983955&fileTy=ATTACH&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "별도 기금운용계획 게시물 없음(게시판 목록에서 미확인); 합본 여부 미확인"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6986132/",
+      "등록일": "2024-05-22",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추가경정 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6986132&fileTy=ATTACH&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6987159/",
+      "등록일": "2024-07-30",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6987159&fileTy=ATTACH&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 추가경정 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6988187/",
+      "등록일": "2024-09-25",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제3회 추가경정 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6988187&fileTy=ATTACH&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2024년도 제4회 추가경정 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6995011/",
+      "등록일": "2025-09-05",
+      "첨부파일": [
+        {
+          "파일명": "24년 4회 추경 예산서-최종.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6995011&fileTy=ATTACH&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반회계 및 기타특별회계 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN020101",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN020101/6989917/",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "1. 2025년도 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=8",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2. 세출예산사업명세서(직속기관).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=9",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "3. 세출예산사업명세서(자치행정국).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=10",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "4. 세출예산사업명세서(복지문화국).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=11",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "5. 세출예산사업명세서(도시안전국).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=12",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "6. 세출예산사업명세서(경제환경국).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=13",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "7. 세출예산사업명세서(보건소, 평생교육원, 6개동, 의회).pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=BBSTY1&upperNo=6989917&fileTy=ATTACH&fileNo=14",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "별도 기금운용계획 게시물 없음(게시판 목록에서 미확인); 합본 여부 미확인"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2699&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기금운용계획서"
+        }
+      ],
+      "비고": "예산서 페이지(본예산 탭)의 기금운용계획서 파일. 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "기금운용계획서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2479&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년도 예산 탭 페이지(본예산)의 기금운용계획서 파일. 첨부파일명은 표시 항목명. 등록일 표시 없음"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 1회 추경 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "일반회계 및 기타특별회계 사업 예산서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2657&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "일반회계 세입 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2658&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "홍보담당관",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2659&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "홍보담당관"
+        },
+        {
+          "파일명": "의회",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2660&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "의회"
+        },
+        {
+          "파일명": "총무과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2661&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "총무과"
+        },
+        {
+          "파일명": "기획예산과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2666&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기획예산과"
+        },
+        {
+          "파일명": "자치행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2662&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자치행정과"
+        },
+        {
+          "파일명": "세정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2667&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "세정과"
+        },
+        {
+          "파일명": "회계과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2663&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "회계과"
+        },
+        {
+          "파일명": "징수과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2668&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "징수과"
+        },
+        {
+          "파일명": "민원지적과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2664&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "민원지적과"
+        },
+        {
+          "파일명": "기업일자리과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2669&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기업일자리과"
+        },
+        {
+          "파일명": "정보통신과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2665&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "정보통신과"
+        },
+        {
+          "파일명": "지역경제위생과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2670&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "지역경제위생과"
+        },
+        {
+          "파일명": "도시농업과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2671&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시농업과"
+        },
+        {
+          "파일명": "복지정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2672&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "도시정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2677&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정책과"
+        },
+        {
+          "파일명": "노인장애인과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2673&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "노인장애인과"
+        },
+        {
+          "파일명": "도시개발과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2678&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시개발과"
+        },
+        {
+          "파일명": "가족아동과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2674&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "도시정비과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2679&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정비과"
+        },
+        {
+          "파일명": "문화관광과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2675&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "문화관광과"
+        },
+        {
+          "파일명": "건축과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2680&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건축과"
+        },
+        {
+          "파일명": "체육청소년과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2676&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "체육청소년과"
+        },
+        {
+          "파일명": "도로건설과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2681&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도로건설과"
+        },
+        {
+          "파일명": "안전총괄과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2682&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "보건행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2688&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "보건행정과"
+        },
+        {
+          "파일명": "공원녹지과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2683&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공원녹지과"
+        },
+        {
+          "파일명": "건강증진과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2689&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건강증진과"
+        },
+        {
+          "파일명": "환경과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2684&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "환경과"
+        },
+        {
+          "파일명": "평생교육과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2690&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "평생교육과"
+        },
+        {
+          "파일명": "자원관리과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2685&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자원관리과"
+        },
+        {
+          "파일명": "도서관정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2691&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관정책과"
+        },
+        {
+          "파일명": "교통정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2686&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "교통정책과"
+        },
+        {
+          "파일명": "도서관운영과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2692&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관운영과"
+        },
+        {
+          "파일명": "대중교통과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2687&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "대중교통과"
+        },
+        {
+          "파일명": "고천동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2693&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "고천동"
+        },
+        {
+          "파일명": "부곡동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2694&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "부곡동"
+        },
+        {
+          "파일명": "오전동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2695&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "오전동"
+        },
+        {
+          "파일명": "내손1동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2696&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "내손1동"
+        },
+        {
+          "파일명": "청계동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2697&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "청계동"
+        },
+        {
+          "파일명": "기타특별회계 세입 세출 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2698&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "공영개발사업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2700&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공영개발사업특별회계"
+        },
+        {
+          "파일명": "상수도직영기업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2701&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "상수도직영기업특별회계"
+        },
+        {
+          "파일명": "하수도사업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2702&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "하수도사업특별회계"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 2025년 추경 첨부파일명은 페이지 표시 항목명(실제 파일명 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 2회 추경 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "일반회계 및 기타특별회계 사업 예산서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2922&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "일반회계 세입 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2923&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "홍보담당관",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2924&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "홍보담당관"
+        },
+        {
+          "파일명": "의회",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2925&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "의회"
+        },
+        {
+          "파일명": "총무과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2926&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "총무과"
+        },
+        {
+          "파일명": "기획예산과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2931&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기획예산과"
+        },
+        {
+          "파일명": "자치행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2927&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자치행정과"
+        },
+        {
+          "파일명": "세정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2932&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "세정과"
+        },
+        {
+          "파일명": "회계과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2928&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "회계과"
+        },
+        {
+          "파일명": "징수과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2933&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "징수과"
+        },
+        {
+          "파일명": "민원지적과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2929&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "민원지적과"
+        },
+        {
+          "파일명": "기업일자리과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2934&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기업일자리과"
+        },
+        {
+          "파일명": "정보통신과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2930&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "정보통신과"
+        },
+        {
+          "파일명": "지역경제위생과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2935&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "지역경제위생과"
+        },
+        {
+          "파일명": "도시농업과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2936&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시농업과"
+        },
+        {
+          "파일명": "복지정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2937&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "도시정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2942&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정책과"
+        },
+        {
+          "파일명": "노인장애인과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2938&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "노인장애인과"
+        },
+        {
+          "파일명": "도시개발과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2943&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시개발과"
+        },
+        {
+          "파일명": "가족아동과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2939&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "도시정비과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2944&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정비과"
+        },
+        {
+          "파일명": "문화관광과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2940&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "문화관광과"
+        },
+        {
+          "파일명": "건축과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2945&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건축과"
+        },
+        {
+          "파일명": "체육청소년과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2941&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "체육청소년과"
+        },
+        {
+          "파일명": "도로건설과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2946&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도로건설과"
+        },
+        {
+          "파일명": "안전총괄과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2947&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "보건행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2953&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "보건행정과"
+        },
+        {
+          "파일명": "공원녹지과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2948&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공원녹지과"
+        },
+        {
+          "파일명": "건강증진과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2954&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건강증진과"
+        },
+        {
+          "파일명": "환경과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2949&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "환경과"
+        },
+        {
+          "파일명": "평생교육과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2955&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "평생교육과"
+        },
+        {
+          "파일명": "자원관리과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2950&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자원관리과"
+        },
+        {
+          "파일명": "도서관정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2956&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관정책과"
+        },
+        {
+          "파일명": "교통정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2951&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "교통정책과"
+        },
+        {
+          "파일명": "도서관운영과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2957&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관운영과"
+        },
+        {
+          "파일명": "대중교통과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2952&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "대중교통과"
+        },
+        {
+          "파일명": "부곡동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2958&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "부곡동"
+        },
+        {
+          "파일명": "오전동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2959&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "오전동"
+        },
+        {
+          "파일명": "내손1동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2960&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "내손1동"
+        },
+        {
+          "파일명": "내손2동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2961&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "내손2동"
+        },
+        {
+          "파일명": "청계동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2962&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "청계동"
+        },
+        {
+          "파일명": "기타특별회계 세입 세출 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2963&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "기타특별회계 세입 세출 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3081&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "공영개발사업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2965&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공영개발사업특별회계"
+        },
+        {
+          "파일명": "상수도직영기업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2966&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "상수도직영기업특별회계"
+        },
+        {
+          "파일명": "하수도사업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=2967&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "하수도사업특별회계"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 2025년 추경 첨부파일명은 페이지 표시 항목명(실제 파일명 미확인)."
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 3회 추경 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0220",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "일반회계 및 기타특별회계 사업 예산서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3116&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "일반회계 세입 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3117&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "홍보담당관",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3118&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "홍보담당관"
+        },
+        {
+          "파일명": "총무과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3119&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "총무과"
+        },
+        {
+          "파일명": "기획예산과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3124&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기획예산과"
+        },
+        {
+          "파일명": "자치행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3120&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자치행정과"
+        },
+        {
+          "파일명": "징수과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3125&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "징수과"
+        },
+        {
+          "파일명": "회계과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3121&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "회계과"
+        },
+        {
+          "파일명": "지역경제위생과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3126&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "지역경제위생과"
+        },
+        {
+          "파일명": "민원지적과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3122&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "민원지적과"
+        },
+        {
+          "파일명": "도시농업과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3127&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시농업과"
+        },
+        {
+          "파일명": "정보통신과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3123&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "정보통신과"
+        },
+        {
+          "파일명": "복지정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3128&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "도시정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3133&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정책과"
+        },
+        {
+          "파일명": "노인장애인과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3129&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "노인장애인과"
+        },
+        {
+          "파일명": "도시정비과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3134&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도시정비과"
+        },
+        {
+          "파일명": "가족아동과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3130&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "건축과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3135&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건축과"
+        },
+        {
+          "파일명": "문화관광과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3131&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "문화관광과"
+        },
+        {
+          "파일명": "도로건설과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3136&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도로건설과"
+        },
+        {
+          "파일명": "체육청소년과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3132&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "체육청소년과"
+        },
+        {
+          "파일명": "안전총괄과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3137&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "보건행정과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3143&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "보건행정과"
+        },
+        {
+          "파일명": "공원녹지과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3138&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "공원녹지과"
+        },
+        {
+          "파일명": "건강증진과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3144&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "건강증진과"
+        },
+        {
+          "파일명": "환경과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3139&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "환경과"
+        },
+        {
+          "파일명": "평생교육과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3145&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "평생교육과"
+        },
+        {
+          "파일명": "자원관리과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3140&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "자원관리과"
+        },
+        {
+          "파일명": "도서관정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3146&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관정책과"
+        },
+        {
+          "파일명": "교통정책과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3141&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "교통정책과"
+        },
+        {
+          "파일명": "도서관운영과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3147&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "도서관운영과"
+        },
+        {
+          "파일명": "대중교통과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3142&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "대중교통과"
+        },
+        {
+          "파일명": "오전동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3148&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "오전동"
+        },
+        {
+          "파일명": "내손1동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3149&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "내손1동"
+        },
+        {
+          "파일명": "내손2동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3150&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "내손2동"
+        },
+        {
+          "파일명": "청계동",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3151&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "청계동"
+        },
+        {
+          "파일명": "기타특별회계 세입 세출 사업명세서",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3152&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "상수도직영기업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3153&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "상수도직영기업특별회계"
+        },
+        {
+          "파일명": "하수도사업특별회계",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3154&fileTy=MEDIA&fileNo=1",
+          "크기": null,
+          "저장경로": null,
+          "항목": "하수도사업특별회계"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 2025년 추경 첨부파일명은 페이지 표시 항목명(실제 파일명 미확인)."
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "0. 2026년도 일반회계 및 기타특별회계 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3175&fileTy=MEDIA&fileNo=1",
+          "크기": 4367455,
+          "저장경로": "files/2026/경기도_의왕시/0. 2026년도 일반회계 및 기타특별회계 예산서.pdf",
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "2026_본예산_0-1. 일반회계 세입 사업명세서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3176&fileTy=MEDIA&fileNo=1",
+          "크기": 519794,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_0-1. 일반회계 세입 사업명세서.pdf",
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "2026_본예산_1. 감사담당관.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3178&fileTy=MEDIA&fileNo=1",
+          "크기": 203660,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_1. 감사담당관.pdf",
+          "항목": "감사담당관"
+        },
+        {
+          "파일명": "2026_본예산_2. 홍보담당관.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3179&fileTy=MEDIA&fileNo=1",
+          "크기": 224134,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_2. 홍보담당관.pdf",
+          "항목": "홍보담당관"
+        },
+        {
+          "파일명": "2026_본예산_3. 의회사무과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3218&fileTy=MEDIA&fileNo=1",
+          "크기": 229702,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_3. 의회사무과.pdf",
+          "항목": "의회"
+        },
+        {
+          "파일명": "2026_본예산_4. 총무과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3180&fileTy=MEDIA&fileNo=1",
+          "크기": 331861,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_4. 총무과.pdf",
+          "항목": "총무과"
+        },
+        {
+          "파일명": "2026_본예산_9. 기획예산과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3185&fileTy=MEDIA&fileNo=1",
+          "크기": 239283,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_9. 기획예산과.pdf",
+          "항목": "기획예산과"
+        },
+        {
+          "파일명": "2026_본예산_5. 자치행정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3181&fileTy=MEDIA&fileNo=1",
+          "크기": 352682,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_5. 자치행정과.pdf",
+          "항목": "자치행정과"
+        },
+        {
+          "파일명": "2026_본예산_10. 세정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3186&fileTy=MEDIA&fileNo=1",
+          "크기": 220321,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_10. 세정과.pdf",
+          "항목": "세정과"
+        },
+        {
+          "파일명": "2026_본예산_6. 회계과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3182&fileTy=MEDIA&fileNo=1",
+          "크기": 234340,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_6. 회계과.pdf",
+          "항목": "회계과"
+        },
+        {
+          "파일명": "2026_본예산_11. 징수과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3187&fileTy=MEDIA&fileNo=1",
+          "크기": 208204,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_11. 징수과.pdf",
+          "항목": "징수과"
+        },
+        {
+          "파일명": "2026_본예산_7. 민원지적과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3183&fileTy=MEDIA&fileNo=1",
+          "크기": 255974,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_7. 민원지적과.pdf",
+          "항목": "민원지적과"
+        },
+        {
+          "파일명": "2026_본예산_12. 기업일자리과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3188&fileTy=MEDIA&fileNo=1",
+          "크기": 343861,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_12. 기업일자리과.pdf",
+          "항목": "기업일자리과"
+        },
+        {
+          "파일명": "2026_본예산_8. 정보통신과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3184&fileTy=MEDIA&fileNo=1",
+          "크기": 260534,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_8. 정보통신과.pdf",
+          "항목": "정보통신과"
+        },
+        {
+          "파일명": "2026_본예산_13. 지역경제위생과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3189&fileTy=MEDIA&fileNo=1",
+          "크기": 248323,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_13. 지역경제위생과.pdf",
+          "항목": "지역경제위생과"
+        },
+        {
+          "파일명": "2026_본예산_14. 도시농업과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3190&fileTy=MEDIA&fileNo=1",
+          "크기": 465219,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_14. 도시농업과.pdf",
+          "항목": "도시농업과"
+        },
+        {
+          "파일명": "2026_본예산_15. 복지정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3191&fileTy=MEDIA&fileNo=1",
+          "크기": 365261,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_15. 복지정책과.pdf",
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "2026_본예산_20. 도시정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3196&fileTy=MEDIA&fileNo=1",
+          "크기": 211237,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_20. 도시정책과.pdf",
+          "항목": "도시정책과"
+        },
+        {
+          "파일명": "2026_본예산_16. 노인장애인과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3192&fileTy=MEDIA&fileNo=1",
+          "크기": 498990,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_16. 노인장애인과.pdf",
+          "항목": "노인장애인과"
+        },
+        {
+          "파일명": "2026_본예산_21. 도시개발과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3197&fileTy=MEDIA&fileNo=1",
+          "크기": 186842,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_21. 도시개발과.pdf",
+          "항목": "도시개발과"
+        },
+        {
+          "파일명": "2026_본예산_17. 가족아동과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3193&fileTy=MEDIA&fileNo=1",
+          "크기": 636144,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_17. 가족아동과.pdf",
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "2026_본예산_22. 도시정비과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3198&fileTy=MEDIA&fileNo=1",
+          "크기": 213366,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_22. 도시정비과.pdf",
+          "항목": "도시정비과"
+        },
+        {
+          "파일명": "2026_본예산_18. 문화관광과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3194&fileTy=MEDIA&fileNo=1",
+          "크기": 319967,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_18. 문화관광과.pdf",
+          "항목": "문화관광과"
+        },
+        {
+          "파일명": "2026_본예산_23. 건축과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3199&fileTy=MEDIA&fileNo=1",
+          "크기": 230138,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_23. 건축과.pdf",
+          "항목": "건축과"
+        },
+        {
+          "파일명": "2026_본예산_19. 체육청소년과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3195&fileTy=MEDIA&fileNo=1",
+          "크기": 316739,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_19. 체육청소년과.pdf",
+          "항목": "체육청소년과"
+        },
+        {
+          "파일명": "2026_본예산_24. 도로건설과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3200&fileTy=MEDIA&fileNo=1",
+          "크기": 268804,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_24. 도로건설과.pdf",
+          "항목": "도로건설과"
+        },
+        {
+          "파일명": "2026_본예산_25. 안전총괄과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3201&fileTy=MEDIA&fileNo=1",
+          "크기": 275644,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_25. 안전총괄과.pdf",
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "2026_본예산_31. 보건행정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3207&fileTy=MEDIA&fileNo=1",
+          "크기": 323933,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_31. 보건행정과.pdf",
+          "항목": "보건행정과"
+        },
+        {
+          "파일명": "2026_본예산_26. 공원녹지과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3202&fileTy=MEDIA&fileNo=1",
+          "크기": 266009,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_26. 공원녹지과.pdf",
+          "항목": "공원녹지과"
+        },
+        {
+          "파일명": "2026_본예산_32. 건강증진과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3208&fileTy=MEDIA&fileNo=1",
+          "크기": 443750,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_32. 건강증진과.pdf",
+          "항목": "건강증진과"
+        },
+        {
+          "파일명": "2026_본예산_27. 환경과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3203&fileTy=MEDIA&fileNo=1",
+          "크기": 344187,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_27. 환경과.pdf",
+          "항목": "환경과"
+        },
+        {
+          "파일명": "2026_본예산_33. 평생교육과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3209&fileTy=MEDIA&fileNo=1",
+          "크기": 308465,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_33. 평생교육과.pdf",
+          "항목": "평생교육과"
+        },
+        {
+          "파일명": "2026_본예산_28. 자원관리과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3204&fileTy=MEDIA&fileNo=1",
+          "크기": 260641,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_28. 자원관리과.pdf",
+          "항목": "자원관리과"
+        },
+        {
+          "파일명": "2026_본예산_34. 도서관정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3210&fileTy=MEDIA&fileNo=1",
+          "크기": 311886,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_34. 도서관정책과.pdf",
+          "항목": "도서관정책과"
+        },
+        {
+          "파일명": "2026_본예산_29. 교통정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3205&fileTy=MEDIA&fileNo=1",
+          "크기": 217934,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_29. 교통정책과.pdf",
+          "항목": "교통정책과"
+        },
+        {
+          "파일명": "2026_본예산_35. 도서관운영과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3211&fileTy=MEDIA&fileNo=1",
+          "크기": 260658,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_35. 도서관운영과.pdf",
+          "항목": "도서관운영과"
+        },
+        {
+          "파일명": "2026_본예산_30. 대중교통과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3206&fileTy=MEDIA&fileNo=1",
+          "크기": 253983,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_30. 대중교통과.pdf",
+          "항목": "대중교통과"
+        },
+        {
+          "파일명": "2026_본예산_36. 고천동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3212&fileTy=MEDIA&fileNo=1",
+          "크기": 212409,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_36. 고천동.pdf",
+          "항목": "고천동"
+        },
+        {
+          "파일명": "2026_본예산_37. 부곡동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3213&fileTy=MEDIA&fileNo=1",
+          "크기": 212958,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_37. 부곡동.pdf",
+          "항목": "부곡동"
+        },
+        {
+          "파일명": "2026_본예산_38. 오전동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3214&fileTy=MEDIA&fileNo=1",
+          "크기": 215187,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_38. 오전동.pdf",
+          "항목": "오전동"
+        },
+        {
+          "파일명": "2026_본예산_39. 내손1동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3215&fileTy=MEDIA&fileNo=1",
+          "크기": 216229,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_39. 내손1동.pdf",
+          "항목": "내손1동"
+        },
+        {
+          "파일명": "2026_본예산_40. 내손2동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3216&fileTy=MEDIA&fileNo=1",
+          "크기": 209552,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_40. 내손2동.pdf",
+          "항목": "내손2동"
+        },
+        {
+          "파일명": "2026_본예산_41. 청계동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3217&fileTy=MEDIA&fileNo=1",
+          "크기": 212128,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_41. 청계동.pdf",
+          "항목": "청계동"
+        },
+        {
+          "파일명": "2026_본예산_42. 기타특별회계 사업명세서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3219&fileTy=MEDIA&fileNo=1",
+          "크기": 328792,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_42. 기타특별회계 사업명세서.pdf",
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "2026_본예산_46. 공영개발사업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3223&fileTy=MEDIA&fileNo=1",
+          "크기": 284437,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_46. 공영개발사업특별회계.pdf",
+          "항목": "공영개발사업특별회계"
+        },
+        {
+          "파일명": "2026_본예산_47. 상수도직영기업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3224&fileTy=MEDIA&fileNo=1",
+          "크기": 908820,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_47. 상수도직영기업특별회계.pdf",
+          "항목": "상수도직영기업특별회계"
+        },
+        {
+          "파일명": "2026_본예산_48. 하수도사업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3226&fileTy=MEDIA&fileNo=1",
+          "크기": 874388,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_48. 하수도사업특별회계.pdf",
+          "항목": "하수도사업특별회계"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 저장 시 파일명 충돌 방지를 위해 연도/회차 없는 원래 파일명 앞에 \"2026_{회차}_\" 접두어를 붙임. 기금운용계획서는 같은 페이지에 별도 파일로 제공(기금운용계획 항목 참조). 성과계획서·성인지예산서는 제외."
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "2026_본예산_45. 기금운용계획서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3222&fileTy=MEDIA&fileNo=1",
+          "크기": 1328833,
+          "저장경로": "files/2026/경기도_의왕시/2026_본예산_45. 기금운용계획서.pdf",
+          "항목": "기금운용계획서"
+        }
+      ],
+      "비고": "예산서 페이지(본예산 탭)의 기금운용계획서 파일. 등록일 표시 없음"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 1회 추경 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "0. 2026년도 제1회 추경 일반회계 및 기타특별회계 사업 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3456&fileTy=MEDIA&fileNo=1",
+          "크기": 3470161,
+          "저장경로": "files/2026/경기도_의왕시/0. 2026년도 제1회 추경 일반회계 및 기타특별회계 사업 예산서.pdf",
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "2026_1회추경_0-1. 일반회계 세입 사업명세서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3457&fileTy=MEDIA&fileNo=1",
+          "크기": 255613,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_0-1. 일반회계 세입 사업명세서.pdf",
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "2026_1회추경_1. 감사담당관.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3458&fileTy=MEDIA&fileNo=1",
+          "크기": 176097,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_1. 감사담당관.pdf",
+          "항목": "감사담당관"
+        },
+        {
+          "파일명": "2026_1회추경_1-2. 홍보담당관.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3459&fileTy=MEDIA&fileNo=1",
+          "크기": 176575,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_1-2. 홍보담당관.pdf",
+          "항목": "홍보담당관"
+        },
+        {
+          "파일명": "2026_1회추경_1-3. 의회사무과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3460&fileTy=MEDIA&fileNo=1",
+          "크기": 177998,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_1-3. 의회사무과.pdf",
+          "항목": "의회"
+        },
+        {
+          "파일명": "2026_1회추경_2. 총무과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3461&fileTy=MEDIA&fileNo=1",
+          "크기": 184398,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_2. 총무과.pdf",
+          "항목": "총무과"
+        },
+        {
+          "파일명": "2026_1회추경_7. 기획예산과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3466&fileTy=MEDIA&fileNo=1",
+          "크기": 183469,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_7. 기획예산과.pdf",
+          "항목": "기획예산과"
+        },
+        {
+          "파일명": "2026_1회추경_3. 자치행정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3462&fileTy=MEDIA&fileNo=1",
+          "크기": 195393,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_3. 자치행정과.pdf",
+          "항목": "자치행정과"
+        },
+        {
+          "파일명": "2026_1회추경_8. 세정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3467&fileTy=MEDIA&fileNo=1",
+          "크기": 175571,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_8. 세정과.pdf",
+          "항목": "세정과"
+        },
+        {
+          "파일명": "회계과",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3463&fileTy=MEDIA&fileNo=1",
+          "크기": 0,
+          "저장경로": null,
+          "항목": "회계과",
+          "비고": "다운로드 실패: 서버가 반복적으로 빈 응답(Content-Length 0)을 반환해 받지 못함"
+        },
+        {
+          "파일명": "2026_1회추경_9. 징수과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3468&fileTy=MEDIA&fileNo=1",
+          "크기": 177699,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_9. 징수과.pdf",
+          "항목": "징수과"
+        },
+        {
+          "파일명": "2026_1회추경_5. 민원지적과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3464&fileTy=MEDIA&fileNo=1",
+          "크기": 183206,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_5. 민원지적과.pdf",
+          "항목": "민원지적과"
+        },
+        {
+          "파일명": "2026_1회추경_10. 기업일자리과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3469&fileTy=MEDIA&fileNo=1",
+          "크기": 217069,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_10. 기업일자리과.pdf",
+          "항목": "기업일자리과"
+        },
+        {
+          "파일명": "2026_1회추경_6. 정보통신과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3465&fileTy=MEDIA&fileNo=1",
+          "크기": 184697,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_6. 정보통신과.pdf",
+          "항목": "정보통신과"
+        },
+        {
+          "파일명": "2026_1회추경_11. 지역경제위생과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3470&fileTy=MEDIA&fileNo=1",
+          "크기": 192767,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_11. 지역경제위생과.pdf",
+          "항목": "지역경제위생과"
+        },
+        {
+          "파일명": "2026_1회추경_12. 도시농업과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3471&fileTy=MEDIA&fileNo=1",
+          "크기": 228052,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_12. 도시농업과.pdf",
+          "항목": "도시농업과"
+        },
+        {
+          "파일명": "2026_1회추경_13. 복지정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3472&fileTy=MEDIA&fileNo=1",
+          "크기": 219103,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_13. 복지정책과.pdf",
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "2026_1회추경_18. 도시정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3477&fileTy=MEDIA&fileNo=1",
+          "크기": 177719,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_18. 도시정책과.pdf",
+          "항목": "도시정책과"
+        },
+        {
+          "파일명": "2026_1회추경_14. 노인장애인과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3473&fileTy=MEDIA&fileNo=1",
+          "크기": 315727,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_14. 노인장애인과.pdf",
+          "항목": "노인장애인과"
+        },
+        {
+          "파일명": "2026_1회추경_19. 도시개발과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3478&fileTy=MEDIA&fileNo=1",
+          "크기": 175293,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_19. 도시개발과.pdf",
+          "항목": "도시개발과"
+        },
+        {
+          "파일명": "2026_1회추경_15. 가족아동과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3474&fileTy=MEDIA&fileNo=1",
+          "크기": 284405,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_15. 가족아동과.pdf",
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "2026_1회추경_20. 도시정비과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3479&fileTy=MEDIA&fileNo=1",
+          "크기": 181370,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_20. 도시정비과.pdf",
+          "항목": "도시정비과"
+        },
+        {
+          "파일명": "2026_1회추경_16. 문화관광과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3475&fileTy=MEDIA&fileNo=1",
+          "크기": 200087,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_16. 문화관광과.pdf",
+          "항목": "문화관광과"
+        },
+        {
+          "파일명": "2026_1회추경_21. 건축과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3480&fileTy=MEDIA&fileNo=1",
+          "크기": 188401,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_21. 건축과.pdf",
+          "항목": "건축과"
+        },
+        {
+          "파일명": "2026_1회추경_17. 체육청소년과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3476&fileTy=MEDIA&fileNo=1",
+          "크기": 218440,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_17. 체육청소년과.pdf",
+          "항목": "체육청소년과"
+        },
+        {
+          "파일명": "2026_1회추경_22. 도로건설과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3481&fileTy=MEDIA&fileNo=1",
+          "크기": 197511,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_22. 도로건설과.pdf",
+          "항목": "도로건설과"
+        },
+        {
+          "파일명": "2026_1회추경_23. 하수과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3482&fileTy=MEDIA&fileNo=1",
+          "크기": 182279,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_23. 하수과.pdf",
+          "항목": "하수과"
+        },
+        {
+          "파일명": "2026_1회추경_24. 안전총괄과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3483&fileTy=MEDIA&fileNo=1",
+          "크기": 196171,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_24. 안전총괄과.pdf",
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "2026_1회추경_30. 보건행정과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3489&fileTy=MEDIA&fileNo=1",
+          "크기": 194950,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_30. 보건행정과.pdf",
+          "항목": "보건행정과"
+        },
+        {
+          "파일명": "2026_1회추경_25. 공원녹지과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3484&fileTy=MEDIA&fileNo=1",
+          "크기": 194140,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_25. 공원녹지과.pdf",
+          "항목": "공원녹지과"
+        },
+        {
+          "파일명": "2026_1회추경_31. 건강증진과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3490&fileTy=MEDIA&fileNo=1",
+          "크기": 222877,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_31. 건강증진과.pdf",
+          "항목": "건강증진과"
+        },
+        {
+          "파일명": "2026_1회추경_26. 환경과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3485&fileTy=MEDIA&fileNo=1",
+          "크기": 202438,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_26. 환경과.pdf",
+          "항목": "환경과"
+        },
+        {
+          "파일명": "2026_1회추경_32. 평생교육과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3491&fileTy=MEDIA&fileNo=1",
+          "크기": 189862,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_32. 평생교육과.pdf",
+          "항목": "평생교육과"
+        },
+        {
+          "파일명": "2026_1회추경_27. 자원관리과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3486&fileTy=MEDIA&fileNo=1",
+          "크기": 184304,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_27. 자원관리과.pdf",
+          "항목": "자원관리과"
+        },
+        {
+          "파일명": "2026_1회추경_33. 도서관정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3492&fileTy=MEDIA&fileNo=1",
+          "크기": 193470,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_33. 도서관정책과.pdf",
+          "항목": "도서관정책과"
+        },
+        {
+          "파일명": "2026_1회추경_28. 교통정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3487&fileTy=MEDIA&fileNo=1",
+          "크기": 186929,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_28. 교통정책과.pdf",
+          "항목": "교통정책과"
+        },
+        {
+          "파일명": "2026_1회추경_34. 도서관운영과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3493&fileTy=MEDIA&fileNo=1",
+          "크기": 187730,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_34. 도서관운영과.pdf",
+          "항목": "도서관운영과"
+        },
+        {
+          "파일명": "2026_1회추경_29. 대중교통과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3488&fileTy=MEDIA&fileNo=1",
+          "크기": 199854,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_29. 대중교통과.pdf",
+          "항목": "대중교통과"
+        },
+        {
+          "파일명": "2026_1회추경_35. 고천동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3494&fileTy=MEDIA&fileNo=1",
+          "크기": 177127,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_35. 고천동.pdf",
+          "항목": "고천동"
+        },
+        {
+          "파일명": "2026_1회추경_36. 오전동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3495&fileTy=MEDIA&fileNo=1",
+          "크기": 175409,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_36. 오전동.pdf",
+          "항목": "오전동"
+        },
+        {
+          "파일명": "2026_1회추경_37. 청계동.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3496&fileTy=MEDIA&fileNo=1",
+          "크기": 175248,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_37. 청계동.pdf",
+          "항목": "청계동"
+        },
+        {
+          "파일명": "2026_1회추경_38. 기타특별회계 사업명세서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3497&fileTy=MEDIA&fileNo=1",
+          "크기": 211861,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_38. 기타특별회계 사업명세서.pdf",
+          "항목": "기타특별회계 세입 세출 사업명세서"
+        },
+        {
+          "파일명": "2026_1회추경_40. 공영개발사업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3499&fileTy=MEDIA&fileNo=1",
+          "크기": 247733,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_40. 공영개발사업특별회계.pdf",
+          "항목": "공영개발사업특별회계"
+        },
+        {
+          "파일명": "2026_1회추경_41. 상수도직영기업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3500&fileTy=MEDIA&fileNo=1",
+          "크기": 667147,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_41. 상수도직영기업특별회계.pdf",
+          "항목": "상수도직영기업특별회계"
+        },
+        {
+          "파일명": "2026_1회추경_42. 하수도사업특별회계.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3501&fileTy=MEDIA&fileNo=1",
+          "크기": 801857,
+          "저장경로": "files/2026/경기도_의왕시/2026_1회추경_42. 하수도사업특별회계.pdf",
+          "항목": "하수도사업특별회계"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 저장 시 파일명 충돌 방지를 위해 연도/회차 없는 원래 파일명 앞에 \"2026_{회차}_\" 접두어를 붙임."
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 2회 추경 예산서",
+      "게시판URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "게시물URL": "https://www.uiwang.go.kr/UWKOROPEN0221",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "0. 2026년도 제2회 추경 일반회계 및 기타특별회계 사업 예산서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3505&fileTy=MEDIA&fileNo=1",
+          "크기": 1075675,
+          "저장경로": "files/2026/경기도_의왕시/0. 2026년도 제2회 추경 일반회계 및 기타특별회계 사업 예산서.pdf",
+          "항목": "일반회계 및 기타특별회계 사업 예산서"
+        },
+        {
+          "파일명": "2026_2회추경_0-1. 일반회계 세입 사업명세서.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3506&fileTy=MEDIA&fileNo=1",
+          "크기": 159016,
+          "저장경로": "files/2026/경기도_의왕시/2026_2회추경_0-1. 일반회계 세입 사업명세서.pdf",
+          "항목": "일반회계 세입 사업명세서"
+        },
+        {
+          "파일명": "2026_2회추경_1. 복지정책과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3507&fileTy=MEDIA&fileNo=1",
+          "크기": 162857,
+          "저장경로": "files/2026/경기도_의왕시/2026_2회추경_1. 복지정책과.pdf",
+          "항목": "복지정책과"
+        },
+        {
+          "파일명": "2026_2회추경_3. 안전총괄과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3509&fileTy=MEDIA&fileNo=1",
+          "크기": 157637,
+          "저장경로": "files/2026/경기도_의왕시/2026_2회추경_3. 안전총괄과.pdf",
+          "항목": "안전총괄과"
+        },
+        {
+          "파일명": "2026_2회추경_2. 가족아동과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3508&fileTy=MEDIA&fileNo=1",
+          "크기": 158763,
+          "저장경로": "files/2026/경기도_의왕시/2026_2회추경_2. 가족아동과.pdf",
+          "항목": "가족아동과"
+        },
+        {
+          "파일명": "2026_2회추경_4. 대중교통과.pdf",
+          "다운로드URL": "https://www.uiwang.go.kr/comm/getFile?srvcId=MEDIA&upperNo=3510&fileTy=MEDIA&fileNo=1",
+          "크기": 158301,
+          "저장경로": "files/2026/경기도_의왕시/2026_2회추경_4. 대중교통과.pdf",
+          "항목": "대중교통과"
+        }
+      ],
+      "비고": "게시판이 아닌 연도별 탭 정적 페이지라 등록일 표시 없음. 부서별 분할 PDF 전부 수록. 저장 시 파일명 충돌 방지를 위해 연도/회차 없는 원래 파일명 앞에 \"2026_{회차}_\" 접두어를 붙임."
+    }
+  ],
+  "비고": "2025·2026년도는 탭형 정적 페이지(등록일 없음), 2024년 이전은 게시판. 2025년 본예산은 게시판 게시물(2025-01-03) 기준. 2024년 기금운용계획은 별도 게시물을 찾지 못함(미확인). 공기업특별회계(공영개발·상수도·하수도) 예산서는 2026년 본예산 첨부에 포함, 게시판의 공기업 단독 게시물은 제외. 2026년 추경은 2회까지 게시(확인일 2026-10-05). 2026년 1회추경 회계과 파일(upperNo=3463)은 서버가 빈 응답(0바이트)만 반환해 받지 못함."
+}
