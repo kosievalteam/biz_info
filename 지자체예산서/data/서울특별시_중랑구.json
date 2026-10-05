@@ -1,0 +1,205 @@
+{
+  "시도": "서울특별시",
+  "지자체": "중랑구",
+  "홈페이지": "https://www.jungnang.go.kr",
+  "게시판": [
+    {
+      "이름": "중랑구의회 의안검색",
+      "URL": "https://council.jungnang.go.kr/kr/bill.do"
+    },
+    {
+      "이름": "중랑구청 전자책자료관 > 구정업무 > 재정/예산",
+      "URL": "https://ecatalog.jungnang.go.kr/home/list.php?host=main&code=1014"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 일반·특별회계 세입·세출예산(안) 및 기금운용계획(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2227",
+      "등록일": "2025-11-18",
+      "첨부파일": [
+        {
+          "파일명": "1. 2026년도 세입세출예산(안).pdf",
+          "다운로드URL": "https://council.jungnang.go.kr/attach/bill/8f5d572a1d3915a253b506511d982cffd341554fff197e9c6682bef44412174a.pdf",
+          "크기": 799332,
+          "저장경로": "files/2026/서울특별시_중랑구/1. 2026년도 세입세출예산(안).pdf"
+        },
+        {
+          "파일명": "2. 2026년도 세입세출예산 사업명세서.pdf",
+          "다운로드URL": "https://council.jungnang.go.kr/attach/bill/990b8e645f826f6f5344053f6e27d5212ee19c335dfc58bbcaa4fdf0463f09d3.pdf",
+          "크기": 7194622,
+          "저장경로": "files/2026/서울특별시_중랑구/2. 2026년도 세입세출예산 사업명세서.pdf"
+        }
+      ],
+      "비고": "예산안; 구 홈페이지 접속 불가로 구의회 의안검색(의안번호 645) 첨부 사용. 의회 수정가결(2025-12-19)로 확정 예산과 차이 있음. 등록일은 의안 발의일. 첨부 1(세입세출예산안)·2(사업명세서)를 본예산으로 수록, 성과계획서·성인지·중기재정계획·예산안첨부서류는 미수록"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 일반·특별회계 세입·세출예산(안) 및 기금운용계획(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2227",
+      "등록일": "2025-11-18",
+      "첨부파일": [
+        {
+          "파일명": "3. 2026년도 기금운용계획(안).pdf",
+          "다운로드URL": "https://council.jungnang.go.kr/attach/bill/9f981b4f574037c78c31302a3797cbf3fc3dcd3c63db51e8403c2b3a74ecbbc0.pdf",
+          "크기": 1140939,
+          "저장경로": "files/2026/서울특별시_중랑구/3. 2026년도 기금운용계획(안).pdf"
+        }
+      ],
+      "비고": "예산안(기금운용계획안); 본예산안 의안에 별도 PDF로 첨부. 등록일은 의안 발의일"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 일반회계 세입·세출 추가경정예산안",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2218",
+      "등록일": "2026-04-30",
+      "첨부파일": [
+        {
+          "파일명": "(691)2026년 제1회 일반회계 세입세출 추가경정예산(안).pdf",
+          "다운로드URL": "https://council.jungnang.go.kr/attach/bill/9197c9af51c9bfae37bddf3000e86babc00252feb58cd4c4d8f72e074ff7bb15.pdf",
+          "크기": 88591,
+          "저장경로": "files/2026/서울특별시_중랑구/(691)2026년 제1회 일반회계 세입세출 추가경정예산(안).pdf"
+        }
+      ],
+      "비고": "예산안; 구의회 의안번호 691, 원안가결(2026-05-13). 등록일은 의안 발의일. 같은 이름 첨부 2건(내용 동일시 1건만 저장)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 일반‧특별회계 세입·세출 추가경정예산(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2261",
+      "등록일": "2026-08-13",
+      "첨부파일": [
+        {
+          "파일명": "1. 2026년 제2차 추가경정예산(안).pdf",
+          "다운로드URL": "https://council.jungnang.go.kr/attach/bill/5d187c06fb2f2433cb722abd49a19fc1f857f37b567f38036d887b48d6ab0fd1.pdf",
+          "크기": 736284,
+          "저장경로": "files/2026/서울특별시_중랑구/1. 2026년 제2차 추가경정예산(안).pdf"
+        }
+      ],
+      "비고": "예산안; 구의회 의안번호 20(제10대), 수정가결(2026-09-09). 등록일은 의안 발의일. 같은 이름 첨부 3건(내용 동일분 제외 저장)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 일반·특별회계 세입·세출예산(안) 및 기금운용계획(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=1997",
+      "등록일": "2024-11-18",
+      "첨부파일": [],
+      "비고": "미확인(예산서 원문): 구 홈페이지 접속 불가(egress 차단), 전자책자료관에도 2025년 예산서 없음. 구의회 의안 페이지만 확인(예산서 원문 미첨부, 예결위 심사보고서만 있음). 등록일은 의안 발의일; 기금운용계획안 동일 의안에 포함"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 일반·특별회계 세입·세출 추가경정예산(안) 및 기금운용계획(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2051",
+      "등록일": "2025-04-04",
+      "첨부파일": [],
+      "비고": "미확인(예산서 원문): 구 홈페이지 접속 불가(egress 차단), 전자책자료관에도 2025년 예산서 없음. 구의회 의안 페이지만 확인(예산서 원문 미첨부, 예결위 심사보고서만 있음). 등록일은 의안 발의일; 기금운용계획안 동일 의안에 포함"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 일반·특별회계 세입·세출 추가경정예산안 및 기금운용계획안",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=2117",
+      "등록일": "2025-08-18",
+      "첨부파일": [],
+      "비고": "미확인(예산서 원문): 구 홈페이지 접속 불가(egress 차단), 전자책자료관에도 2025년 예산서 없음. 구의회 의안 페이지만 확인(예산서 원문 미첨부, 예결위 심사보고서만 있음). 등록일은 의안 발의일; 기금운용계획안 동일 의안에 포함"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=1997",
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: 2025년 본예산안 의안에 기금운용계획안 포함되나 원문 첨부 없음"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 중랑구 일반특별회계 세입세출예산서",
+      "게시판URL": "https://ecatalog.jungnang.go.kr/home/list.php?host=main&code=1014",
+      "게시물URL": "https://ecatalog.jungnang.go.kr/home/view.php?host=main&site=20240119_093609",
+      "등록일": "2024-01-19",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 중랑구 일반특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://ecatalog.jungnang.go.kr/src/viewer/download.php?host=main&site=20240119_093609&no=1",
+          "크기": 5955263,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 중랑구청 전자책자료관(ecatalog) 재정/예산 분류"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 중랑구 기금운용계획",
+      "게시판URL": "https://ecatalog.jungnang.go.kr/home/list.php?host=main&code=1014",
+      "게시물URL": "https://ecatalog.jungnang.go.kr/home/view.php?host=main&site=20240119_101133",
+      "등록일": "2024-01-19",
+      "첨부파일": [
+        {
+          "파일명": "2. 2024년도 중랑구 기금운용계획.pdf",
+          "다운로드URL": "https://ecatalog.jungnang.go.kr/src/viewer/download.php?host=main&site=20240119_101133&no=1",
+          "크기": 1884918,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 중랑구청 전자책자료관(ecatalog) 재정/예산 분류"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 일반회계 세입·세출예산서",
+      "게시판URL": "https://ecatalog.jungnang.go.kr/home/list.php?host=main&code=1014",
+      "게시물URL": "https://ecatalog.jungnang.go.kr/home/view.php?host=main&site=20240531_110753",
+      "등록일": "2024-05-31",
+      "첨부파일": [
+        {
+          "파일명": "(중랑구)2024년 제1회 추경예산서.pdf",
+          "다운로드URL": "https://ecatalog.jungnang.go.kr/src/viewer/download.php?host=main&site=20240531_110753&no=1",
+          "크기": 56142961,
+          "저장경로": null
+        }
+      ],
+      "비고": "출처: 중랑구청 전자책자료관(ecatalog) 재정/예산 분류"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 일반·특별회계 세입·세출 추가경정예산(안) 및 기금운용계획(안)",
+      "게시판URL": "https://council.jungnang.go.kr/kr/bill.do",
+      "게시물URL": "https://council.jungnang.go.kr/kr/billview.do?uid=1998",
+      "등록일": "2024-08-16",
+      "첨부파일": [],
+      "비고": "미확인(예산서 원문): 구의회 의안 페이지만 확인(첨부 없음), 전자책자료관에도 없음. 등록일은 의안 발의일"
+    }
+  ],
+  "비고": "구 홈페이지(www.jungnang.go.kr)는 이 환경의 egress 프록시에서 접속 차단(터널 종료)되어 홈페이지 예산서 게시판을 확인하지 못함. 대체 출처로 2026년은 중랑구의회 의안 첨부(예산안·추경안, 의회 제출본)를, 2024년은 구청 전자책자료관(확정 예산서)을 사용. 2025년 예산서 원문은 두 곳 모두 없어 미확인. 2026년 파일은 의회 제출 '안'이며 수정가결된 건은 확정본과 다름."
+}

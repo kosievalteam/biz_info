@@ -1,0 +1,594 @@
+{
+  "시도": "경기도",
+  "지자체": "고양시",
+  "홈페이지": "https://www.goyang.go.kr",
+  "게시판": [
+    {
+      "이름": "예산정보 > 연도별예산서",
+      "URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045"
+    },
+    {
+      "이름": "예산정보 > 기금운용계획",
+      "URL": "https://www.goyang.go.kr/www/www04/www04_10/www04_10_2/www04_10_2_tab4.jsp"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20251219155626131",
+      "등록일": "2025-12-19",
+      "첨부파일": [
+        {
+          "파일명": "2026년 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=183623&q_fileId=844458e3-cb29-4240-985e-38d2fd9db0a7",
+          "크기": 15256033,
+          "저장경로": "files/2026/경기도_고양시/2026년 예산서.pdf"
+        },
+        {
+          "파일명": "2026년 상수도사업특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=183623&q_fileId=92b10fc2-f62b-42c9-bb1f-ba38978f924c",
+          "크기": 310272,
+          "저장경로": "files/2026/경기도_고양시/2026년 상수도사업특별회계 예산서.hwp"
+        },
+        {
+          "파일명": "2026년 하수도사업특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=183623&q_fileId=fba58758-c7b2-4e7a-a1c7-1252b486f53d",
+          "크기": 247296,
+          "저장경로": "files/2026/경기도_고양시/2026년 하수도사업특별회계 예산서.hwp"
+        }
+      ],
+      "비고": "확정본(2025.12.16 의결). 상·하수도 특별회계 예산서 별도 첨부. 기금운용계획은 별도 메뉴(예산정보 > 기금운용계획)"
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산(안) 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20251124175342726",
+      "등록일": "2025-11-24",
+      "첨부파일": [
+        {
+          "파일명": "2026년 본예산(안).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=182238&q_fileId=cd63a64d-1ad8-490e-a091-7ddba1e661e3",
+          "크기": 2658084,
+          "저장경로": "files/2026/경기도_고양시/2026년 본예산(안).pdf"
+        },
+        {
+          "파일명": "2026년 사업명세서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=182238&q_fileId=5f76f7c1-4966-4a08-ba87-a8f4a84c0c04",
+          "크기": 11784943,
+          "저장경로": "files/2026/경기도_고양시/2026년 사업명세서.pdf"
+        },
+        {
+          "파일명": "2026년 성인지예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=182238&q_fileId=d0a52844-b1b1-4b1c-a727-fb4e5d1165b2",
+          "크기": 2435153,
+          "저장경로": "files/2026/경기도_고양시/2026년 성인지예산서.pdf"
+        },
+        {
+          "파일명": "2026년 예산(안) 첨부서류.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=182238&q_fileId=ffd4771c-3367-4648-98d7-d8fa6a2617aa",
+          "크기": 825065,
+          "저장경로": "files/2026/경기도_고양시/2026년 예산(안) 첨부서류.pdf"
+        },
+        {
+          "파일명": "2026년 예산의 성과계획서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=182238&q_fileId=536f1f2a-a6c0-4a70-b7a4-ac62e6faa0a7",
+          "크기": 4102993,
+          "저장경로": "files/2026/경기도_고양시/2026년 예산의 성과계획서.pdf"
+        }
+      ],
+      "비고": "예산안 (성인지예산서·성과계획서·첨부서류 포함)"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획",
+      "게시판URL": "https://www.goyang.go.kr/www/www04/www04_10/www04_10_2/www04_10_2_tab4.jsp",
+      "게시물URL": "https://www.goyang.go.kr/www/www04/www04_10/www04_10_2/www04_10_2_tab4.jsp",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "1. 기금개요.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1236&resrceVer=1&fileSn=1",
+          "크기": 83339,
+          "저장경로": "files/2026/경기도_고양시/1. 기금개요.pdf"
+        },
+        {
+          "파일명": "2. 기금운용계획총괄표.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1237&resrceVer=1&fileSn=1",
+          "크기": 77046,
+          "저장경로": "files/2026/경기도_고양시/2. 기금운용계획총괄표.pdf"
+        },
+        {
+          "파일명": "3. 기금조성규모.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1238&resrceVer=1&fileSn=1",
+          "크기": 65869,
+          "저장경로": "files/2026/경기도_고양시/3. 기금조성규모.pdf"
+        },
+        {
+          "파일명": "4. 기금총조성규모.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1239&resrceVer=1&fileSn=1",
+          "크기": 64167,
+          "저장경로": "files/2026/경기도_고양시/4. 기금총조성규모.pdf"
+        },
+        {
+          "파일명": "5. 통합재정안정화기금(통합계정).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1240&resrceVer=1&fileSn=1",
+          "크기": 139387,
+          "저장경로": "files/2026/경기도_고양시/5. 통합재정안정화기금(통합계정).pdf"
+        },
+        {
+          "파일명": "6. 고향사랑기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1241&resrceVer=1&fileSn=1",
+          "크기": 125282,
+          "저장경로": "files/2026/경기도_고양시/6. 고향사랑기금.pdf"
+        },
+        {
+          "파일명": "7. 남북교류협력기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1242&resrceVer=1&fileSn=1",
+          "크기": 116626,
+          "저장경로": "files/2026/경기도_고양시/7. 남북교류협력기금.pdf"
+        },
+        {
+          "파일명": "8. 일자리기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1243&resrceVer=1&fileSn=1",
+          "크기": 128002,
+          "저장경로": "files/2026/경기도_고양시/8. 일자리기금.pdf"
+        },
+        {
+          "파일명": "9. 폐기물처리시설 주민지원기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1244&resrceVer=1&fileSn=1",
+          "크기": 113826,
+          "저장경로": "files/2026/경기도_고양시/9. 폐기물처리시설 주민지원기금.pdf"
+        },
+        {
+          "파일명": "10. 식품진흥기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1245&resrceVer=1&fileSn=1",
+          "크기": 135917,
+          "저장경로": "files/2026/경기도_고양시/10. 식품진흥기금.pdf"
+        },
+        {
+          "파일명": "11. 투자유치기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1246&resrceVer=1&fileSn=1",
+          "크기": 106863,
+          "저장경로": "files/2026/경기도_고양시/11. 투자유치기금.pdf"
+        },
+        {
+          "파일명": "12. 중소기업육성기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1247&resrceVer=1&fileSn=1",
+          "크기": 116933,
+          "저장경로": "files/2026/경기도_고양시/12. 중소기업육성기금.pdf"
+        },
+        {
+          "파일명": "13. 농업인육성기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1248&resrceVer=1&fileSn=1",
+          "크기": 120404,
+          "저장경로": "files/2026/경기도_고양시/13. 농업인육성기금.pdf"
+        },
+        {
+          "파일명": "14. 옥외광고발전기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1249&resrceVer=1&fileSn=1",
+          "크기": 125799,
+          "저장경로": "files/2026/경기도_고양시/14. 옥외광고발전기금.pdf"
+        },
+        {
+          "파일명": "15. 재난관리기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1250&resrceVer=1&fileSn=1",
+          "크기": 125991,
+          "저장경로": "files/2026/경기도_고양시/15. 재난관리기금.pdf"
+        },
+        {
+          "파일명": "16. 신청사건립기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1251&resrceVer=1&fileSn=1",
+          "크기": 113718,
+          "저장경로": "files/2026/경기도_고양시/16. 신청사건립기금.pdf"
+        },
+        {
+          "파일명": "17. 공동주택리모델링기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1252&resrceVer=1&fileSn=1",
+          "크기": 112437,
+          "저장경로": "files/2026/경기도_고양시/17. 공동주택리모델링기금.pdf"
+        },
+        {
+          "파일명": "18. 도시·주거환경정비기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1253&resrceVer=1&fileSn=1",
+          "크기": 116062,
+          "저장경로": "files/2026/경기도_고양시/18. 도시·주거환경정비기금.pdf"
+        },
+        {
+          "파일명": "19. 자활기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1254&resrceVer=1&fileSn=1",
+          "크기": 116100,
+          "저장경로": "files/2026/경기도_고양시/19. 자활기금.pdf"
+        },
+        {
+          "파일명": "20. 성평등기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1255&resrceVer=1&fileSn=1",
+          "크기": 127042,
+          "저장경로": "files/2026/경기도_고양시/20. 성평등기금.pdf"
+        },
+        {
+          "파일명": "21. 노인복지기금.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/resrce/file/ND_resrceFileDownload.do?resrceSn=1256&resrceVer=1&fileSn=1",
+          "크기": 118181,
+          "저장경로": "files/2026/경기도_고양시/21. 노인복지기금.pdf"
+        }
+      ],
+      "비고": "게시판이 아닌 콘텐츠 페이지(항목별 첨부 21개). 등록일 미표시(최종수정일 2026-01-02)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260324161212131",
+      "등록일": "2026-03-24",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=194003&q_fileId=20051ff4-51a5-4cde-997b-02d809ec5186",
+          "크기": 3848947,
+          "저장경로": "files/2026/경기도_고양시/2026년 제1회 추가경정예산서.pdf"
+        },
+        {
+          "파일명": "2026년 제1회 추경 하수도사업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=194003&q_fileId=a06b25a9-fa35-470e-b61b-a30aea1cd535",
+          "크기": 324380,
+          "저장경로": "files/2026/경기도_고양시/2026년 제1회 추경 하수도사업특별회계 예산서.pdf"
+        }
+      ],
+      "비고": "확정본"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추가경정예산(안)",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260303134328348",
+      "등록일": "2026-03-03",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제1회 추가경정예산(안).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=188511&q_fileId=3f252479-a198-4a85-aaf0-48a149509b56",
+          "크기": 2726533,
+          "저장경로": "files/2026/경기도_고양시/2026년 제1회 추가경정예산(안).pdf"
+        },
+        {
+          "파일명": "2026년 제1회 추가경정예산(안) 사업명세서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=188511&q_fileId=dd55a8fb-287b-4d94-ab48-05cdd94b55cb",
+          "크기": 4329247,
+          "저장경로": "files/2026/경기도_고양시/2026년 제1회 추가경정예산(안) 사업명세서.pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260517162535512",
+      "등록일": "2026-05-17",
+      "첨부파일": [
+        {
+          "파일명": "2026년 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=198256&q_fileId=d6c801ec-25c6-4484-9885-6880a9b2b7f4",
+          "크기": 1710982,
+          "저장경로": "files/2026/경기도_고양시/2026년 제2회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": "확정본"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추가경정예산(안) 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260507140040051",
+      "등록일": "2026-05-07",
+      "첨부파일": [
+        {
+          "파일명": "2026년 2회추경 예산(안).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=197581&q_fileId=1e28e5fb-4de7-46bb-807a-aa26576839a6",
+          "크기": 4318366,
+          "저장경로": "files/2026/경기도_고양시/2026년 2회추경 예산(안).pdf"
+        },
+        {
+          "파일명": "2026년 2회추경 사업명세서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=197581&q_fileId=a11c15e5-c89b-4959-97d5-ebdc17c0147d",
+          "크기": 556534,
+          "저장경로": "files/2026/경기도_고양시/2026년 2회추경 사업명세서.pdf"
+        }
+      ],
+      "비고": "예산안"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 제3회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260915212334629",
+      "등록일": "2026-09-15",
+      "첨부파일": [
+        {
+          "파일명": "2026년 3회추경 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=206593&q_fileId=6b8354d3-0f63-4223-95e7-318aa94a1df9",
+          "크기": 4938695,
+          "저장경로": "files/2026/경기도_고양시/2026년 3회추경 예산서.pdf"
+        },
+        {
+          "파일명": "2026년 제3회추경 상수도특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=206593&q_fileId=d54c55ef-ad55-41a0-8982-e76311a95ea2",
+          "크기": 524975,
+          "저장경로": "files/2026/경기도_고양시/2026년 제3회추경 상수도특별회계 예산서.pdf"
+        },
+        {
+          "파일명": "2026년 제3회 추경 하수도사업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=206593&q_fileId=178c053d-bc05-4255-8adb-ae6a3b0a812a",
+          "크기": 331863,
+          "저장경로": "files/2026/경기도_고양시/2026년 제3회 추경 하수도사업특별회계 예산서.pdf"
+        }
+      ],
+      "비고": "확정본"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년 제3회추가경정 예산(안) 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20260813214927539",
+      "등록일": "2026-08-13",
+      "첨부파일": [
+        {
+          "파일명": "2026년 3회추경 사업명세서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=204537&q_fileId=c3eadbba-1ee5-449c-bc5a-397032853d81",
+          "크기": 23041422,
+          "저장경로": "files/2026/경기도_고양시/2026년 3회추경 사업명세서.pdf"
+        },
+        {
+          "파일명": "2026년 3회추경 예산(안).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=204537&q_fileId=559b1aec-27fe-41bc-adb3-b66d36bf3553",
+          "크기": 1635406,
+          "저장경로": "files/2026/경기도_고양시/2026년 3회추경 예산(안).pdf"
+        },
+        {
+          "파일명": "2026년도 제3회 추가경정예산(안) 수정예산(안) 및 사업명세서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=204537&q_fileId=b87d8c59-fe32-4e03-a496-8682942ba95c",
+          "크기": 2679965,
+          "저장경로": "files/2026/경기도_고양시/2026년도 제3회 추가경정예산(안) 수정예산(안) 및 사업명세서.pdf"
+        }
+      ],
+      "비고": "예산안 (수정예산안 포함)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20250106143421681",
+      "등록일": "2025-01-06",
+      "첨부파일": [
+        {
+          "파일명": "2025년 본예산서(게시용).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=155858&q_fileId=9be2c1da-aa02-419d-b648-2e3ac7d8e2ef",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 상수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=155858&q_fileId=a0135bb6-f5e6-461f-a725-95e3cddfc0a1",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 하수도사업특별회계 세입세출예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=155858&q_fileId=acc782c0-f0ad-4bd5-ad47-d3ed726a290d",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "확정본; 별도 기금운용계획 게시물 없음(기금운용계획 메뉴는 당해연도만 제공); 2025년 본예산서(게시용).pdf 표시크기 15 MB; 2025년 상수도사업특별회계 세입세출예산서.pdf 표시크기 811 KB; 2025년 하수도사업특별회계 세입세출예산서.pdf 표시크기 589 KB"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20250415170742334",
+      "등록일": "2025-04-15",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제1회 추가경정예산서(게시용).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=161864&q_fileId=1a20c9b6-b077-47b2-8bde-fa5fee196840",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년 제1회 추가경정예산서(게시용).pdf 표시크기 8 MB"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20250923094034502",
+      "등록일": "2025-09-23",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=178263&q_fileId=62794427-abce-42c0-8d06-9e9bf3741c90",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 2회추경 상수도특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=178263&q_fileId=ad03ea77-ade0-40ef-b826-4f470777827b",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 2회추경 하수도특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=178263&q_fileId=509d965d-52a8-4752-b20e-201e02b3408a",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년 제2회 추가경정예산서.pdf 표시크기 7 MB; 2025년 2회추경 상수도특별회계 예산서.hwp 표시크기 111 KB; 2025년 2회추경 하수도특별회계 예산서.hwp 표시크기 107 KB"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20251226100919863",
+      "등록일": "2025-12-26",
+      "첨부파일": [
+        {
+          "파일명": "2025년 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=183908&q_fileId=b5100b8f-6858-4ea6-b463-3fec6f2263aa",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 제3회 추가경정예산 하수도사업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=183908&q_fileId=1760ad1c-b9fa-4750-98e6-20f9aec21761",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2025년 제3회 추가경정예산서.pdf 표시크기 5 MB; 2025년 제3회 추가경정예산 하수도사업특별회계 예산서.pdf 표시크기 344 KB"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 예산서",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20240116152233996",
+      "등록일": "2024-01-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=131416&q_fileId=b0c1ec12-206f-4d77-b190-a8808bcd1611",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 상수도사업특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=131416&q_fileId=73603026-0d41-480f-a75d-a1e1351d6142",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 하수도사업특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=131416&q_fileId=915c637c-fcfd-42f5-a911-b83f27438a2e",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "확정본; 별도 기금운용계획 게시물 없음; 2024년도 예산서.pdf 표시크기 14 MB; 2024년 상수도사업특별회계 세입세출 예산서.pdf 표시크기 792 KB; 2024년 하수도사업특별회계 세입세출 예산서.pdf 표시크기 499 KB"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산서",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20240513100200434",
+      "등록일": "2024-05-13",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=139096&q_fileId=e4c78871-9e93-4033-84a1-638e9013799d",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 1회추경 상수도특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=139096&q_fileId=820657b1-d193-4847-b839-d62fc7cdf941",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 제1회추가경정예산 하수도사업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=139096&q_fileId=bde4d1ae-555d-44c4-9150-c74f183ddcf2",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년 제1회 추가경정예산서.pdf 표시크기 9 MB; 2024년 1회추경 상수도특별회계 예산서.pdf 표시크기 522 KB; 2024년 제1회추가경정예산 하수도사업특별회계 예산서.pdf 표시크기 319 KB"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정예산서",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20241104110221188",
+      "등록일": "2024-11-04",
+      "첨부파일": [
+        {
+          "파일명": "2024년 제2회 추가경정예산서(게시용).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=152623&q_fileId=06f8553c-dcaa-4806-a2a5-fe738b7dfb3a",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 제2회 추가경정예산 상수도사업특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=152623&q_fileId=01b9e280-a718-49e6-aa27-13c409cdc246",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 제2회 추가경정예산 하수도사업특별회계 예산서.hwp",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=152623&q_fileId=ff44c5a1-56f6-403a-9fc2-7c74da4e5fcb",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년 제2회 추가경정예산서(게시용).pdf 표시크기 2 MB; 2024년 제2회 추가경정예산 상수도사업특별회계 예산서.hwp 표시크기 111 KB; 2024년 제2회 추가경정예산 하수도사업특별회계 예산서.hwp 표시크기 90 KB"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 3회 추가경정예산서 게시",
+      "게시판URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbsList.do?q_bbsCode=1045",
+      "게시물URL": "https://www.goyang.go.kr/www/user/bbs/BD_selectBbs.do?q_bbsCode=1045&q_bbscttSn=20250106143759520",
+      "등록일": "2025-01-06",
+      "첨부파일": [
+        {
+          "파일명": "2024년 3회 추가경정예산서(게시용).pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=155863&q_fileId=8082c8df-1551-4fe7-ad7d-c81cd0427a32",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년 제3회추가경정예산 하수도사업특별회계 예산서.pdf",
+          "다운로드URL": "https://www.goyang.go.kr/component/file/ND_fileDownload.do?q_fileSn=155863&q_fileId=a007b58c-2ba5-44d1-9f74-a98ea9f5e399",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "2024년 3회 추가경정예산서(게시용).pdf 표시크기 4 MB; 2024년 제3회추가경정예산 하수도사업특별회계 예산서.pdf 표시크기 359 KB"
+    }
+  ],
+  "비고": "고양특례시. 연도별예산서 게시판에 예산안·확정예산서 모두 게시. 기금운용계획 메뉴는 당해(2026)년도만 제공되어 2024·2025 기금운용계획 별도 게시물 미확인"
+}

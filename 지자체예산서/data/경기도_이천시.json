@@ -1,0 +1,288 @@
+{
+  "시도": "경기도",
+  "지자체": "이천시",
+  "홈페이지": "https://www.icheon.go.kr",
+  "게시판": [
+    {
+      "이름": "예산현황",
+      "URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000"
+    },
+    {
+      "이름": "기금운용계획",
+      "URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304050000"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 일반 및 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=256087",
+      "등록일": "2023-12-29",
+      "첨부파일": [
+        {
+          "파일명": "★2024년 일반 및 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=B135B31EE93EDE3E154E50A62AF993FDD684815344B8483280AC83843A873118&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년 기금운용계획",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304050000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=688&mid=0304050000&idx=256669",
+      "등록일": "2024-01-31",
+      "첨부파일": [
+        {
+          "파일명": "2024년 기금운용계획.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=B135B31EE93EDE3E154E50A62AF993FD498F3BF2BE514BD29EEEC3B0C0E580D9&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제1회 추가경정 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=302148",
+      "등록일": "2024-05-07",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 일반 및 특별회계 세입세출 제1회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=AF14434FE5C194387B3F8A3241ADC05E86872F91756CD351621BA63A48DE0E81&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제2회 추가경정 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=305422",
+      "등록일": "2024-09-20",
+      "첨부파일": [
+        {
+          "파일명": "2024년 일반 및 특별회계 세입세출 제2회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=AF14434FE5C194387B3F8A3241ADC05EF04017123CFD39EAED75FA43B760D22D&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 일반 및 특별회계 세입세출 제3회 추가경정 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=308023",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 일반 및 특별회계 세입세출 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=4663FF60AFA3E9E9803E337E874FCA8471F74C8455BE9EB05F8C232EF213A2AC&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 일반 및 특별회계 세입세출 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=308024",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 세입세출 예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=4663FF60AFA3E9E9803E337E874FCA8431D32310CAA0339E944AF7988F9F2891&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년 기금운용계획",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304050000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=688&mid=0304050000&idx=308027",
+      "등록일": "2025-01-03",
+      "첨부파일": [
+        {
+          "파일명": "2025년 기금운용계획.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=4663FF60AFA3E9E9803E337E874FCA84FCEC185F28D8DE6CE941E1E4EB805D7D&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제1회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=311093",
+      "등록일": "2025-05-14",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 세입세출 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=4663FF60AFA3E9E9803E337E874FCA84810085993A7ED6697A975FF5B7B169A5&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제2회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=313168",
+      "등록일": "2025-08-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 세입세출 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=4663FF60AFA3E9E9803E337E874FCA84C22AC6DAE7B8729C82F2ABC2D1F0AA93&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제3회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=313810",
+      "등록일": "2025-09-16",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 일반 및 특별회계 세입세출 제3회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C4104995333580D584F1CC9E3172210D18EC360FAAD0&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년도 일반 및 특별회계 세입세출 제4회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=316615",
+      "등록일": "2026-01-16",
+      "첨부파일": [
+        {
+          "파일명": "★ 2025년도 일반 및 특별회계 세입·세출 제4회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C410499533354573938EF06B6C10A5E713FC3D6654A6&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 일반 및 특별회계 세입·세출 예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=316335",
+      "등록일": "2025-12-31",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 일반 및 특별회계 세입·세출 예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C4104995333513561F1AF136C1D6710DBE483EE5162C&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": 5748474,
+          "저장경로": "files/2026/경기도_이천시/2026년도 일반 및 특별회계 세입·세출 예산서.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시판(기금운용계획)에 게시"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년 기금운용계획",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304050000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=688&mid=0304050000&idx=318470",
+      "등록일": "2026-04-21",
+      "첨부파일": [
+        {
+          "파일명": "★ 2026년 기금운용계획.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C4104995333576CDC07ED1DDB6C982564ECE6AAE9C84&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": 3537411,
+          "저장경로": "files/2026/경기도_이천시/★ 2026년 기금운용계획.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 일반 및 특별회계 세입세출 제1회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=318184",
+      "등록일": "2026-04-06",
+      "첨부파일": [
+        {
+          "파일명": "★2026년도 일반 및 특별회계 세입세출 제1회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C41049953335667AAED03CCBE67347F3B01B78FDB768&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": 4032214,
+          "저장경로": "files/2026/경기도_이천시/★2026년도 일반 및 특별회계 세입세출 제1회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": ""
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 일반 및 특별회계 세입세출 제2회 추가경정예산서",
+      "게시판URL": "https://www.icheon.go.kr/portal/contents.do?mid=0304010000",
+      "게시물URL": "https://www.icheon.go.kr/portal/board/post/view.do?bcIdx=685&mid=0304010000&idx=318970",
+      "등록일": "2026-05-19",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 일반 및 특별회계 세입·세출 제2회 추가경정예산서.pdf",
+          "다운로드URL": "https://www.icheon.go.kr/common/file/download.do?atchFileId=955825F0DF697C801BA5C4104995333556D4EA10F3481549C30F78D6C7A37A93&fileSn=125EB0AE64ED2AE7001CFD6CFA9E31E8",
+          "크기": 2878490,
+          "저장경로": "files/2026/경기도_이천시/2026년도 일반 및 특별회계 세입·세출 제2회 추가경정예산서.pdf"
+        }
+      ],
+      "비고": ""
+    }
+  ],
+  "비고": "일반 및 특별회계 기준. 같은 게시판의 상·하수도공기업특별회계 예산서와 간주예산서 게시물은 제외. 다운로드URL의 atchFileId/fileSn은 사이트가 암호화한 값. 2026년 추경은 제2회(2026-05-19 게시)까지 확인."
+}

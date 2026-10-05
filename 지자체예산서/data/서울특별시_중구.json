@@ -1,0 +1,113 @@
+{
+  "시도": "서울특별시",
+  "지자체": "중구",
+  "홈페이지": "https://www.junggu.seoul.kr",
+  "게시판": [
+    {
+      "이름": "예산현황 (웹검색으로 파악한 주소, 접속 미확인)",
+      "URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": null,
+      "제목": null,
+      "게시판URL": "https://www.junggu.seoul.kr/content.do?cmsid=14364",
+      "게시물URL": null,
+      "등록일": null,
+      "첨부파일": [],
+      "비고": "미확인: www.junggu.seoul.kr 접속이 egress 프록시 정책으로 차단(CONNECT 403, WebFetch도 EGRESS_BLOCKED)되어 게시물 확인·다운로드 불가"
+    }
+  ],
+  "비고": "서울 중구 홈페이지 도메인(junggu.seoul.kr)이 *.go.kr이 아니며 이 환경의 egress 정책에서 차단됨(curl: CONNECT tunnel failed 403, WebFetch: EGRESS_BLOCKED). 의회(council.junggu.seoul.kr)·전자책(ecatalog.junggu.seoul.kr)도 접속 불가. 서울재정포털(openfinance.seoul.go.kr)은 데이터 조회만 제공하고 예산서 PDF는 없음. 웹검색상 예산현황 페이지(cmsid=14364)에 2026년 사업예산서·제2회 추가경정사업예산서 등이 게시된 것으로 보이나 직접 확인하지 못해 전 항목 미확인. 차단 해제 후 재수집 필요."
+}

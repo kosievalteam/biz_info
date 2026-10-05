@@ -1,0 +1,1202 @@
+{
+  "시도": "경기도",
+  "지자체": "가평군",
+  "홈페이지": "https://www.gp.go.kr",
+  "게시판": [
+    {
+      "이름": "예산서 (행정정보 > 재정공개 > 예산서, 연도별 콘텐츠 페이지)",
+      "URL": "https://www.gp.go.kr/portal/contents.do?key=2562"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년 본예산 (2026년 본예산 세입세출 총괄표, 2026년 본예산 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/01.pdf",
+          "크기": 48030,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_01_예산총칙(일반+기타).pdf"
+        },
+        {
+          "파일명": "예산규모(일반/기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/02.pdf",
+          "크기": 43794,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_02_예산규모(일반_기타).pdf"
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/03.pdf",
+          "크기": 60322,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_03_세입총괄(일반+기타).pdf"
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/04.pdf",
+          "크기": 69650,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_04_기능별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/05.pdf",
+          "크기": 67628,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_05_조직별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/06.pdf",
+          "크기": 106378,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_06_성질별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/07.pdf",
+          "크기": 56326,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_07_세입예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/08.pdf",
+          "크기": 245485,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_08_세출예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/09.pdf",
+          "크기": 451409,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_09_일반회계세입.pdf"
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/10.pdf",
+          "크기": 5595574,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_10_일반회계세출.pdf"
+        },
+        {
+          "파일명": "기타특별세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/11.pdf",
+          "크기": 77096,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_11_기타특별세입.pdf"
+        },
+        {
+          "파일명": "기타특별세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/12.pdf",
+          "크기": 172415,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_12_기타특별세출.pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/16.pdf",
+          "크기": 53263,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_16_공기업특별회계수입(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/17.pdf",
+          "크기": 326513,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_17_공기업특별회계지출(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/18.pdf",
+          "크기": 76031,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_18_공기업특별회계수입(하수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026/19.pdf",
+          "크기": 363912,
+          "저장경로": "files/2026/경기도_가평군/2026_본예산_19_공기업특별회계지출(하수도사업소).pdf"
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2026.01.07); 기금운용계획 별도 게시물 없음(홈페이지에서 미확인)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년 제1회 추가경정예산 (2026년 제1회 추가경정 세입세출 총괄표, 2026년 제1회 추가경정 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2581",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/01.pdf",
+          "크기": 48146,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_01_예산총칙(일반+기타).pdf"
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/02.pdf",
+          "크기": 43926,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_02_예산규모(일반+기타).pdf"
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/03.pdf",
+          "크기": 62755,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_03_세입총괄(일반+기타).pdf"
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/04.pdf",
+          "크기": 70263,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_04_기능별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/05.pdf",
+          "크기": 67511,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_05_조직별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/06.pdf",
+          "크기": 106901,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_06_성질별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/07.pdf",
+          "크기": 58427,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_07_세입예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/08.pdf",
+          "크기": 251818,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_08_세출예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/09.pdf",
+          "크기": 268486,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_09_일반회계세입.pdf"
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/10.pdf",
+          "크기": 2084061,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_10_일반회계세출.pdf"
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/11.pdf",
+          "크기": 59253,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_11_기타특별회계세입.pdf"
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/12.pdf",
+          "크기": 103166,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_12_기타특별회계세출.pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/16.pdf",
+          "크기": 46540,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_16_공기업특별회계수입(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/17.pdf",
+          "크기": 126616,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_17_공기업특별회계지출(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/18.pdf",
+          "크기": 53682,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_18_공기업특별회계수입(하수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_01/19.pdf",
+          "크기": 180437,
+          "저장경로": "files/2026/경기도_가평군/2026_제1회추경_19_공기업특별회계지출(하수도사업소).pdf"
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2026.04.06)"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년 제2회 추가경정예산 (2026년 제2회 추가경정 세입세출 총괄표, 2026년 제2회 추가경정 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2590",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/01.pdf",
+          "크기": 48142,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_01_예산총칙(일반+기타).pdf"
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/02.pdf",
+          "크기": 43870,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_02_예산규모(일반+기타).pdf"
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/03.pdf",
+          "크기": 63761,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_03_세입총괄(일반+기타).pdf"
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/04.pdf",
+          "크기": 69135,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_04_기능별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/05.pdf",
+          "크기": 66716,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_05_조직별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/06.pdf",
+          "크기": 107098,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_06_성질별 세출총괄표(일반+기타).pdf"
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/07.pdf",
+          "크기": 59397,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_07_세입예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/08.pdf",
+          "크기": 262838,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_08_세출예산서(일반+기타).pdf"
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/09.pdf",
+          "크기": 296883,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_09_일반회계세입.pdf"
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/10.pdf",
+          "크기": 2324169,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_10_일반회계세출.pdf"
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/11.pdf",
+          "크기": 76130,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_11_기타특별회계세입.pdf"
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/12.pdf",
+          "크기": 128712,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_12_기타특별회계세출.pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/16.pdf",
+          "크기": 56778,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_16_공기업특별회계수입(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/17.pdf",
+          "크기": 145856,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_17_공기업특별회계지출(상수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/18.pdf",
+          "크기": 130859,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_18_공기업특별회계수입(하수도사업소).pdf"
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2026_02/19.pdf",
+          "크기": 164936,
+          "저장경로": "files/2026/경기도_가평군/2026_제2회추경_19_공기업특별회계지출(하수도사업소).pdf"
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2026.10.02)"
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년 본예산 (2025년 본예산 세입세출 총괄표, 2025년 본예산 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2469",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반/기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (20.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/20.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025/18.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2025.09.30); 기금운용계획 별도 게시물 없음(홈페이지에서 미확인)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정예산 (2025년 제1회 추가경정 세입세출 총괄표, 2025년 제1회 추가경정 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2507",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_02_2/19.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2026.01.16)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정예산 (2025년 제2회 추가경정 세입세출 총괄표, 2025년 제2회 추가경정 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2537",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09_2.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/09_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10_2.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/10_2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (14.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (15.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_03/15.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2025.10.15)"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년 제3회 추가경정예산 (2025년 제3회 추가경정 세입세출 총괄표, 2025년 제3회 추가경정 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2560",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/18.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2025_04/19.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2026.01.07)"
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년 본예산 (2024년 세입세출 총괄표, 2024년 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2415",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반/기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07-2.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/07-2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08-2.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/08-2.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (15.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/15.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (18.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024/18.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2024.12.18); 기금운용계획 별도 게시물 없음(홈페이지에서 미확인)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년 제1회 추가경정예산 (2024년 세입세출 총괄표, 2024년 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2429",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (16.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/16.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (17.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/17.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (14.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/14.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (15.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_02/15.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2025.01.06)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년 제2회 추가경정예산 (2024년 세입세출 총괄표, 2024년 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2458",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (21.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (22.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계 수입(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계 지출(하수도사업소) (20.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_03/20.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2025.01.06)"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년 제3회 추가경정예산 (2024년 세입세출 총괄표, 2024년 세입세출 예산 사업명세서)",
+      "게시판URL": "https://www.gp.go.kr/portal/contents.do?key=2562",
+      "게시물URL": "https://www.gp.go.kr/portal/contents.do?key=2467",
+      "등록일": null,
+      "첨부파일": [
+        {
+          "파일명": "예산총칙(일반+기타) (01.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/01.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "예산규모(일반+기타) (02.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/02.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입총괄(일반+기타) (03.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/03.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기능별 세출총괄표(일반+기타) (04.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/04.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "조직별 세출총괄표(일반+기타) (05.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/05.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "성질별 세출총괄표(일반+기타) (06.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/06.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세입예산서(일반+기타) (07.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/07.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "세출예산서(일반+기타) (08.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/08.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세입 (09.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/09.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "일반회계세출 (10.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/10.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세입 (11.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/11.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "기타특별회계세출 (12.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/12.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(상수도사업소) (21.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/21.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(상수도사업소) (22.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/22.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계수입(하수도사업소) (19.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/19.pdf",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "공기업특별회계지출(하수도사업소) (20.pdf)",
+          "다운로드URL": "https://www.gp.go.kr/upload/attach_file/home/sub02/budget/2024_04/20.pdf",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "게시판형이 아닌 연도별 콘텐츠 페이지(탭)에 분할 PDF로 게시; 등록일 미확인(페이지 '수정일' 2025.01.06)"
+    }
+  ],
+  "비고": "가평군은 게시판이 아니라 연도별(2026 key=2562, 2025 key=2469, 2024 key=2415) 콘텐츠 페이지의 본예산/N회 추경 탭에 예산총칙·총괄표·세입세출예산서·사업명세서 등을 분할 PDF(일부 hwp)로 게시. 원 파일명이 01.pdf 형태라 저장 시 '연도_구분_번호_항목명'으로 변경(파일명 필드에 '항목명 (원파일명)' 기록). 페이지 HTML 주석 처리된 링크(상·하수도 예산총괄표 등)는 제외. 등록일은 게시판 형식이 아니라 확인 불가(null), 비고에 페이지 수정일 기재. 기금운용계획서는 홈페이지·재정정보공개시스템(finance.gp.go.kr)에서 확인되지 않음(미확인). 2024·2025 첨부 크기 미표시(null)."
+}

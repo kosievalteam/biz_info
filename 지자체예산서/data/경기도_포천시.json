@@ -1,0 +1,324 @@
+{
+  "시도": "경기도",
+  "지자체": "포천시",
+  "홈페이지": "https://www.pocheon.go.kr",
+  "게시판": [
+    {
+      "이름": "예산현황 > 2021년 이후 예산 (정보공개 > 예산회계정보)",
+      "URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565"
+    },
+    {
+      "이름": "기금운용현황",
+      "URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=479&key=3683"
+    }
+  ],
+  "게시물": [
+    {
+      "연도": 2026,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2026년도 본예산 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=530469",
+      "등록일": "2025-12-18",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=264042",
+          "크기": 5642321,
+          "저장경로": "files/2026/경기도_포천시/2026년도 예산서.pdf"
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2026,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2026년도 기금운용계획서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=479&key=3683",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3683&bbsNo=479&nttNo=539008",
+      "등록일": "2026-01-23",
+      "첨부파일": [
+        {
+          "파일명": "2026년 기금운용계획서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=270202",
+          "크기": 2263293,
+          "저장경로": "files/2026/경기도_포천시/2026년 기금운용계획서.pdf"
+        },
+        {
+          "파일명": "2024년 포천시 기금운용 성과분석 보고서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=270201",
+          "크기": 704725,
+          "저장경로": "files/2026/경기도_포천시/2024년 포천시 기금운용 성과분석 보고서.pdf"
+        }
+      ],
+      "비고": "기금운용 성과분석 보고서가 같은 게시물에 함께 첨부됨"
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2026년도 제1회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=558210",
+      "등록일": "2026-04-03",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제1회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=284522",
+          "크기": 2533981,
+          "저장경로": "files/2026/경기도_포천시/2026년도 제1회 추가경정 예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2026년도 제2회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=563109",
+      "등록일": "2026-04-22",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제2회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=288141",
+          "크기": 925016,
+          "저장경로": "files/2026/경기도_포천시/2026년도 제2회 추가경정 예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2026,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2026년도 제3회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=803137",
+      "등록일": "2026-09-02",
+      "첨부파일": [
+        {
+          "파일명": "2026년도 제3회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=5184122",
+          "크기": 2714007,
+          "저장경로": "files/2026/경기도_포천시/2026년도 제3회 추가경정 예산서.pdf"
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2025년도 본예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=429910",
+      "등록일": "2024-12-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=193463",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2025,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2025년도 기금운용계획서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=479&key=3683",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3683&bbsNo=479&nttNo=435508",
+      "등록일": "2025-01-15",
+      "첨부파일": [
+        {
+          "파일명": "2023년 기금 성과분석 보고서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=206211",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2025년 기금운영계획서(최종).pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=206210",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용 성과분석 보고서가 같은 게시물에 함께 첨부됨"
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2025년 제1회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=446222",
+      "등록일": "2025-03-04",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제1회 추가경정 예산서 .pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=205405",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2025년 제2회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=453949",
+      "등록일": "2025-04-07",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제2회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=211321",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2025년도 제3회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=501088",
+      "등록일": "2025-09-09",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제3회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=245221",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2025,
+      "구분": "추경",
+      "회차": 4,
+      "제목": "2025년도 제4회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=530468",
+      "등록일": "2025-12-18",
+      "첨부파일": [
+        {
+          "파일명": "2025년도 제4회 추경경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=264041",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "본예산",
+      "회차": null,
+      "제목": "2024년도 본예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=404713",
+      "등록일": "2023-12-26",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=173886",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용계획은 별도 게시물"
+    },
+    {
+      "연도": 2024,
+      "구분": "기금운용계획",
+      "회차": null,
+      "제목": "2024년도 기금운용계획서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=479&key=3683",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3683&bbsNo=479&nttNo=404973",
+      "등록일": "2024-01-02",
+      "첨부파일": [
+        {
+          "파일명": "2022회계연도 기금성과분석 보고서(포천시).pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=174258",
+          "크기": null,
+          "저장경로": null
+        },
+        {
+          "파일명": "2024년도 포천시 기금운용계획서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=174134",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": "기금운용 성과분석 보고서가 같은 게시물에 함께 첨부됨"
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 1,
+      "제목": "2024년도 제1회 추가경정예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=409426",
+      "등록일": "2024-05-16",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제1회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=178390",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 2,
+      "제목": "2024년도 제2회 추가경정예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=414814",
+      "등록일": "2024-09-10",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제2회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=183125",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    },
+    {
+      "연도": 2024,
+      "구분": "추경",
+      "회차": 3,
+      "제목": "2024년도 제3회 추가경정 예산서",
+      "게시판URL": "https://www.pocheon.go.kr/www/selectBbsNttList.do?bbsNo=1451&key=3565",
+      "게시물URL": "https://www.pocheon.go.kr/www/selectBbsNttView.do?key=3565&bbsNo=1451&nttNo=429909",
+      "등록일": "2024-12-18",
+      "첨부파일": [
+        {
+          "파일명": "2024년도 제3회 추가경정 예산서.pdf",
+          "다운로드URL": "https://www.pocheon.go.kr/www/downloadBbsFile.do?atchmnflNo=193462",
+          "크기": null,
+          "저장경로": null
+        }
+      ],
+      "비고": null
+    }
+  ],
+  "비고": "본예산·추경은 '2021년 이후 예산' 게시판, 기금운용계획서는 '기금운용현황' 별도 게시판. 기금운용계획 변경(추경 시) 게시물은 확인되지 않음. 게시판에 첨부 크기 표시 없음(2024·2025 크기 null)."
+}
