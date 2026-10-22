@@ -416,8 +416,9 @@
         · 사업별 상세정보 및 예산서는 중앙부처는 <b>열린재정</b>의 재정사업별 상세설명자료,
         지자체는 <b>지방재정365</b>의 지자체별 예산서 및 세부사업별 세출현황을 토대로 합니다.<br>
         · 예산 단위는 <b>백만원</b>이며, 빈칸은 자료가 없다는 뜻입니다(0이 아닙니다).<br>
-        · 예산서 원문(📄)은 <b>중앙부처 2024~2026년</b>만 내려받을 수 있습니다.
-        지자체 예산서와 공고문 원문은 용량이 커 서버에 올리지 않았습니다 —
+        · <b>📄</b>를 누르면 원문 파일을 바로 받습니다(2023~2026년) — 세부사업 탭은 <b>예산서</b>(중앙부처),
+        공고정보 탭은 <b>공고문</b>, 전부처 탭은 <b>사업설명서</b>입니다.
+        지자체 예산서는 통본이라 올려 두지 않았습니다.
         공고명의 🔗 링크는 기업마당(인터넷)으로 바로 연결됩니다.<br>
         · 내려받기는 하루 한도가 있습니다(엑셀 내보내기·예산서). 한도는 자정(한국 시각)에 다시 찹니다.
       </div>
@@ -435,8 +436,8 @@
 const CFG = window.SUPA || {};
 
 //  예산서 원문을 올려 둔 연도. **upload_storage.py 의 YEARS 와 같아야** 합니다 —
-//  올리지 않은 해에 📄 를 그리면 눌러도 열리지 않습니다(2023년은 올리지 않기로 했습니다).
-const STORAGE_YEARS = ["2024", "2025", "2026"];
+//  올리지 않은 해에 📄 를 그리면 눌러도 열리지 않습니다.
+const STORAGE_YEARS = ["2023", "2024", "2025", "2026"];
 const STORAGE_BUCKET = "docs";
 //  한 번에 내보낼 수 있는 최대 행수. 이보다 많으면 앞에서부터 잘라 내보내고 알려 줍니다.
 const EXPORT_MAX = 20000;
@@ -501,11 +502,12 @@ async function rpc(fn, args, retry){
 }
 
 // ===================== 열 정의 (탭별) =====================
-//  오프라인 앱(template.html) 의 COLS 를 이식하되, 문서·파일 다운로드 관련 열은 뺐습니다
-//  (예산서·공고문 원문이 이 화면에는 없습니다 — 기업마당 공고 링크만 예외).
+//  오프라인 앱(template.html) 의 COLS 를 이식했습니다. 원문 파일은 Storage 에 올려 두고
+//  이름 옆 📄 로 받습니다(세부사업=예산서 · 공고정보=공고문 · 전부처=사업설명서).
 //  opt:true = '항목 추가' 칩으로 켜고 끕니다. grp 없음/"policy" → 정책디렉토리, "budget" → 예산,
 //  "perf" → 성과평가. local/central 은 그 구분(지자체/중앙부처)에서만 칩을 보여줍니다.
 //  private 버킷이라 링크를 미리 걸 수 없습니다. 누르는 순간 짧게 유효한 주소를 받아 내려받습니다.
+//  세 가지 파일이 한 버킷(docs) 안에 앞머리로 나뉘어 있습니다: budget/ · gonggo/ · allbiz/
 async function budgetDocUrl(key, filename){
   const token = await freshToken();
   //  키는 DB 의 '예산서키' 열에 있습니다(ASCII). Storage 는 한글 키를 받지 않아
@@ -517,7 +519,7 @@ async function budgetDocUrl(key, filename){
     body: JSON.stringify({expiresIn: 60}),
   });
   const j = await r.json().catch(() => null);
-  if(!r.ok || !j || !j.signedURL) throw new Error((j && (j.message || j.error)) || "예산서 주소를 받지 못했습니다.");
+  if(!r.ok || !j || !j.signedURL) throw new Error((j && (j.message || j.error)) || "파일 주소를 받지 못했습니다.");
   //  받은 값은 /storage/v1 아래의 경로입니다. download 를 붙이면 원래 파일명으로 저장됩니다.
   return CFG.url + "/storage/v1" + j.signedURL + "&download=" + encodeURIComponent(filename);
 }
@@ -528,7 +530,7 @@ async function onDocClick(ev, key, filename){
   try{
     const q = await rpc("dl_take", {p_kind: "doc", p_n: 1});
     if(!q || !q.allowed){
-      alert("예산서 내려받기 한도에 걸렸습니다.\n" +
+      alert("원문 내려받기 한도에 걸렸습니다.\n" +
             ((q && q.reason) || "") + (q && q.limit ? "\n오늘 한도 " + q.limit + "개" : ""));
       refreshQuota();
       return;
@@ -539,18 +541,39 @@ async function onDocClick(ev, key, filename){
     document.body.appendChild(a); a.click(); a.remove();
     refreshQuota();
   }catch(e){
-    alert("예산서를 받지 못했습니다 — " + e.message);
+    alert("파일을 받지 못했습니다 — " + e.message);
   }
 }
 
 //  세부사업명 옆 📄 — 중앙부처이고, 파일명이 있고, **올려 둔 연도**일 때만 그립니다.
-function docIcon(r){
-  const fn = r["예산서"], key = r["예산서키"];
-  if(!fn || !key || r.gubun !== "중앙부처" || STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
-  return " <a class='doc' href='#' title=\"예산서 내려받기: " + esc(fn) + "\"" +
+//  파일 📄 공통 - 키가 있고 **올려 둔 연도**일 때만 그립니다.
+//  key 는 DB 의 키 열(ASCII), name 은 원래 이름입니다. 공고는 이름 앞에 날짜 폴더가 붙어 있어
+//  마지막 조각만 떼어 내려받는 이름으로 씁니다.
+function fileIcon(key, name, tip){
+  if(!key || !name) return "";
+  const base = String(name).split("/").pop();
+  return " <a class='doc' href='#' title=\"" + esc(tip) + ": " + esc(base) + "\"" +
          " onclick=\"onDocClick(event,this.dataset.k,this.dataset.f)\"" +
-         " data-k=\"" + esc(key) + "\" data-f=\"" + esc(fn) + "\"" +
+         " data-k=\"" + esc(key) + "\" data-f=\"" + esc(base) + "\"" +
          "><span class='ico'>\ud83d\udcc4</span></a>";
+}
+
+//  세부사업 탭 - 중앙부처 예산서
+function docIcon(r){
+  if(r.gubun !== "중앙부처" || STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
+  return fileIcon(r["예산서키"], r["예산서"], "예산서 내려받기");
+}
+
+//  공고정보 탭 - 기업마당 공고 본문
+function gonggoDocIcon(r){
+  if(STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
+  return fileIcon(r["공고문키"], r["공고문"], "공고문 내려받기");
+}
+
+//  전부처 탭 - 재정사업 사업설명서
+function allDocIcon(r){
+  if(STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
+  return fileIcon(r["예산서키"], r["예산서"], "사업설명서 내려받기");
 }
 
 function tagCell(v, cls){ return v ? "<span class='tag" + (cls?" "+cls:"") + "'>" + esc(v) + "</span>" : ""; }
@@ -568,7 +591,7 @@ function gonggoNameCell(r){
   const label = esc(nm) + est;
   return "<td class='name'>" + (url
     ? "<a class='doc' href=\"" + esc(url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + tip + "\">🔗 " + label + "</a>"
-    : label) + "</td>";
+    : label) + gonggoDocIcon(r) + "</td>";
 }
 
 const COLS = {
@@ -654,7 +677,8 @@ const COLS = {
     {key:"부문", label:"부문", opt:true},
     {key:"프로그램", label:"프로그램", opt:true},
     {key:"단위사업", label:"단위사업", opt:true},
-    {key:"세부사업명", label:"세부사업명", cls:"name"},
+    {key:"세부사업명", label:"세부사업명", cls:"name",
+     cell:r=>"<td class='name'>"+esc(r["세부사업명"])+allDocIcon(r)+"</td>"},
     {key:"전전년결산", label:"전전년 결산", opt:true, grp:"budget", num:true, chip:"전전년 결산"},
     {key:"전년본예산", label:"전년 본예산", opt:true, grp:"budget", num:true, chip:"전년 본예산"},
     {key:"전년추경", label:"전년 추경", opt:true, grp:"budget", num:true, chip:"전년 추경"},
@@ -664,6 +688,9 @@ const COLS = {
 };
 
 const DEFAULT_SORT = {세부:"세부예산", 내역:"내역예산", 공고:"공고명", 전부처:"예산"};
+//  검색 대상 기본값. 공고정보 탭은 **공고명**으로 찾는 일이 많아 그것을 기본으로 둡니다.
+//  초기화도 이 함수를 써야 합니다 - 선언과 되돌리기가 어긋나면 초기화가 반쪽이 됩니다.
+const DEFAULT_SEARCH_FIELDS = () => ({기본: new Set(["name"]), 공고: new Set(["gonggomyeong"])});
 const DEFAULT_EXTRA = () => ({세부:new Set(["세부분야"]), 내역:new Set(["세부분야","내역분야"]), 공고:new Set(), 전부처:new Set()});
 const SEARCH_FIELDS = {
   기본: [["name","사업명"], ["mokjeok","사업목적·내용"], ["suhye","사업수혜대상"]],
@@ -678,7 +705,7 @@ const state = {
   sector: new Set(), naeSector: new Set(),
   somewonA: new Set(), sectorA: new Set(),
   q: "",
-  searchFields: {기본: new Set(["name"]), 공고: new Set(["name"])},
+  searchFields: DEFAULT_SEARCH_FIELDS(),
   sort: "세부예산", desc: true,
   page: 1, size: 20,
   extraCols: DEFAULT_EXTRA(),
@@ -1110,8 +1137,9 @@ $("#reset").addEventListener("click", () => {
   state.somewonA.clear(); state.sectorA.clear();
   state.q = ""; $("#q").value = "";
   state.extraCols = DEFAULT_EXTRA();
+  state.searchFields = DEFAULT_SEARCH_FIELDS();
   state.sort = DEFAULT_SORT[state.mode]; state.desc = true; state.page = 1;
-  buildFilterPanel(); buildAllChipGroups(); search(true);
+  buildFilterPanel(); buildAllChipGroups(); buildSearchFieldChips(); search(true);
 });
 
 // ===================== 로그인 이후 시작 =====================
