@@ -257,6 +257,9 @@
   tbody td.name{white-space:normal;font-weight:700}
   tbody td.num{text-align:right;font-weight:700;font-variant-numeric:tabular-nums}
   tbody td.sub{color:var(--muted);font-size:12.5px;white-space:normal}
+  /* 공고문 내려받기 칸 - 아이콘 하나뿐이라 가운데로 모읍니다 */
+  tbody td.file{text-align:center;white-space:nowrap}
+  tbody td.file a.doc{margin-left:0}
   tbody tr:hover{background:var(--soft)}
   .tag{background:var(--chip);color:var(--chipink);border-radius:999px;padding:2px 8px;font-size:11.5px;font-weight:700}
   .tag.g{background:#e8f7ee;color:#1e7d3c}
@@ -591,7 +594,7 @@ function gonggoNameCell(r){
   const label = esc(nm) + est;
   return "<td class='name'>" + (url
     ? "<a class='doc' href=\"" + esc(url) + "\" target=\"_blank\" rel=\"noopener\" title=\"" + tip + "\">🔗 " + label + "</a>"
-    : label) + gonggoDocIcon(r) + "</td>";
+    : label) + "</td>";
 }
 
 const COLS = {
@@ -662,6 +665,11 @@ const COLS = {
      cell:r=>"<td class='name'>"+(r["세부사업명"]?esc(r["세부사업명"]):"<span class='tag'>사업 미연결</span>")+"</td>"},
     {key:"내역사업명", label:"내역사업명", cls:"name"},
     {key:"공고명", label:"공고명", cls:"name", cell:gonggoNameCell},
+    //  공고문 원문 내려받기. 화면에는 📄 하나만, 내보내기(CSV)에는 파일 이름이 들어갑니다.
+    //  파일이 없는 행은 빈칸입니다 - 아이콘이 보이면 반드시 열립니다.
+    {key:"공고문", label:"공고문", nosort:true,
+     val:r=>(r["공고문"] || "").split("/").pop(),
+     cell:r=>"<td class='file'>"+gonggoDocIcon(r).trim()+"</td>"},
     {key:"관리사업", label:"관리사업", opt:true, inline:true},
     {key:"지원내용", label:"지원내용", opt:true, nosort:true, cls:"sub"},
     {key:"공고일", label:"공고일", opt:true},
