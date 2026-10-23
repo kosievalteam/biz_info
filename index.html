@@ -570,6 +570,32 @@ function docIcon(r){
   return fileIcon(r["예산서키"], r["예산서"], "예산서 내려받기");
 }
 
+//  지자체 세부사업명은 지방재정365 '세부사업별 세출현황 > 세부사업 프로필' 로 연결합니다.
+//  값 모양: '자치단체코드|세부사업코드|회계연도|조회일자' (조회일자는 수집 시점)
+//  오프라인 앱(template.html) 의 LOFIN_URL 과 같은 규칙입니다 - 한쪽만 고치면 어긋납니다.
+const LOFIN_URL = v => {
+  const p = String(v || "").split("|");
+  return (p.length === 4 && p[0] && p[1])
+    ? "https://www.lofin365.go.kr/portal/LF3120204.do?dbizCd=" + encodeURIComponent(p[1])
+      + "&lafCd=" + encodeURIComponent(p[0]) + "&fyr=" + encodeURIComponent(p[2])
+      + "&inqYmd=" + encodeURIComponent(p[3])
+    : "";
+};
+
+//  세부사업명 칸 - 지자체는 지방재정365 로 연결(🔗), 중앙부처는 예산서 내려받기(📄).
+//  세부사업 탭과 내역사업 탭이 같이 씁니다.
+function sebuNameCell(r){
+  const nm = esc(r["세부사업명"]);
+  if(r.gubun === "지자체"){
+    const u = LOFIN_URL(r["지방재정365"]);
+    return "<td class='name'>" + (u
+      ? "<a class='doc' href=\"" + esc(u) + "\" target=\"_blank\" rel=\"noopener\""
+        + " title=\"지방재정365에서 세부사업 프로필 보기 (인터넷 필요)\">🔗 " + nm + "</a>"
+      : nm) + "</td>";
+  }
+  return "<td class='name'>" + nm + docIcon(r) + "</td>";
+}
+
 //  공고정보 탭 - 기업마당 공고 본문
 function gonggoDocIcon(r){
   if(STORAGE_YEARS.indexOf(String(r.year)) === -1) return "";
@@ -607,7 +633,7 @@ const COLS = {
     {key:"소관", label:"소관"},
     {key:"세부분야", label:"분야(세부)", opt:true, inline:true, cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
     {key:"세부사업명", label:"세부사업명", cls:"name",
-     cell:r=>"<td class='name'>"+esc(r["세부사업명"])+docIcon(r)+"</td>"},
+     cell:sebuNameCell},
     {key:"회계명", label:"회계", opt:true},
     {key:"기능", label:"기능", opt:true, local:true},
     {key:"프로그램", label:"정책사업", opt:true},
@@ -638,7 +664,7 @@ const COLS = {
     {key:"세부분야", label:"분야(세부)", opt:true, inline:true, local:true, cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
     {key:"내역분야", label:"분야(내역)", opt:true, inline:true, cell:r=>"<td>"+tagCell(r["내역분야"])+"</td>"},
     {key:"세부사업명", label:"세부사업명", cls:"name",
-     cell:r=>"<td class='name'>"+esc(r["세부사업명"])+docIcon(r)+"</td>"},
+     cell:sebuNameCell},
     {key:"내역사업명", label:"내역사업명", cls:"name"},
     {key:"세부목적", label:"사업목적·내용", opt:true, nosort:true, cls:"sub",
      cell:r=>{
