@@ -263,6 +263,9 @@
   tbody tr:hover{background:var(--soft)}
   .tag{background:var(--chip);color:var(--chipink);border-radius:999px;padding:2px 8px;font-size:11.5px;font-weight:700}
   .tag.g{background:#e8f7ee;color:#1e7d3c}
+  /* 확정 전 자료(2027 정부안, 자동 매핑 공고)에 다는 꼬리표.
+     오프라인 앱의 .tag.est 와 같은 모양 - 점선 테두리로 "확정 아님"을 알립니다. */
+  .tag.est{background:var(--dim-bg);color:var(--muted);border:1px dashed var(--line)}
   .doc{color:var(--teal);text-decoration:none;border-bottom:1px dotted var(--teal)}
   .doc:hover{color:var(--teal-d);border-bottom-style:solid}
   .empty{padding:28px;text-align:center;color:var(--muted);font-size:13px}
@@ -440,7 +443,7 @@ const CFG = window.SUPA || {};
 
 //  예산서 원문을 올려 둔 연도. **upload_storage.py 의 YEARS 와 같아야** 합니다 —
 //  올리지 않은 해에 📄 를 그리면 눌러도 열리지 않습니다.
-const STORAGE_YEARS = ["2023", "2024", "2025", "2026"];
+const STORAGE_YEARS = ["2023", "2024", "2025", "2026", "2027"];
 const STORAGE_BUCKET = "docs";
 //  한 번에 내보낼 수 있는 최대 행수. 이보다 많으면 앞에서부터 잘라 내보내고 알려 줍니다.
 const EXPORT_MAX = 20000;
@@ -634,7 +637,8 @@ const COLS = {
     {key:"소관", label:"소관"},
     {key:"세부분야", label:"분야(세부)", opt:true, inline:true, local:true, cell:r=>"<td>"+tagCell(r["세부분야"])+"</td>"},
     {key:"내역분야", label:"분야(내역)", opt:true, inline:true, cell:r=>"<td>"+tagCell(r["내역분야"])+"</td>"},
-    {key:"세부사업명", label:"세부사업명", cls:"name"},
+    {key:"세부사업명", label:"세부사업명", cls:"name",
+     cell:r=>"<td class='name'>"+esc(r["세부사업명"])+docIcon(r)+"</td>"},
     {key:"내역사업명", label:"내역사업명", cls:"name"},
     {key:"세부목적", label:"사업목적·내용", opt:true, nosort:true, cls:"sub",
      cell:r=>{
@@ -678,7 +682,9 @@ const COLS = {
     {key:"매핑출처", label:"매핑출처", opt:true, nosort:true, cls:"sub"},
   ],
   전부처: [
-    {key:"year", label:"연도"},
+    //  2027년은 확정 전 **정부안** 입니다. 숫자만 보여 주면 확정된 것처럼 읽히므로 꼬리표를 답니다.
+    {key:"year", label:"연도",
+     cell:r=>"<td>"+esc(r.year)+(String(r.year)==="2027" ? " <span class='tag est' title=\"확정 전 정부안입니다. 국회 심의에서 바뀔 수 있습니다.\">정부안</span>" : "")+"</td>"},
     {key:"소관", label:"소관"},
     {key:"분야", label:"분야"},
     {key:"회계", label:"회계", opt:true},
