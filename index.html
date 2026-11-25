@@ -300,9 +300,9 @@
 
   <form class="loginbox" id="signupForm" style="display:none">
     <h1>회원가입</h1>
-    <div class="sub">@kosi.re.kr 이메일만 가입할 수 있습니다</div>
+    <div class="sub">@kosi.re.kr · @korea.kr 이메일만 가입할 수 있습니다</div>
     <label for="suEmail">이메일</label>
-    <input type="email" id="suEmail" autocomplete="username" placeholder="이름@kosi.re.kr" required>
+    <input type="email" id="suEmail" autocomplete="username" placeholder="이름@kosi.re.kr 또는 이름@korea.kr" required>
     <label for="suPw">비밀번호</label>
     <input type="password" id="suPw" autocomplete="new-password" minlength="6" required>
     <label for="suPw2">비밀번호 확인</label>
@@ -1223,9 +1223,9 @@ $("#loginForm").addEventListener("submit", async e => {
 });
 
 // ===================== 회원가입 =====================
-//  @kosi.re.kr 만 가입할 수 있게 합니다. 여기서 거르는 건 사용자 경험용이고,
+//  @kosi.re.kr · @korea.kr 만 가입할 수 있게 합니다. 여기서 거르는 건 사용자 경험용이고,
 //  실제 방어선은 setup.sql 의 restrict_signup_domain 트리거입니다(API 를 직접 두드리면 이 검사는 건너뜁니다).
-const KOSI_EMAIL_RE = /^[^@\s]+@kosi\.re\.kr$/i;
+const KOSI_EMAIL_RE = /^[^@\s]+@(kosi\.re\.kr|korea\.kr)$/i;
 
 $("#toSignup").addEventListener("click", () => {
   $("#loginForm").style.display = "none";
@@ -1247,7 +1247,7 @@ $("#signupForm").addEventListener("submit", async e => {
   const pw2 = $("#suPw2").value;
 
   if(!KOSI_EMAIL_RE.test(email)){
-    $("#signupErr").textContent = "@kosi.re.kr 이메일만 가입할 수 있습니다.";
+    $("#signupErr").textContent = "@kosi.re.kr 또는 @korea.kr 이메일만 가입할 수 있습니다.";
     return;
   }
   if(pw.length < 6){
